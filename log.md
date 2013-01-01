@@ -14915,3 +14915,4 @@
 | 2013-01-01 11:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | test: add unit tests for payment service |
 | 2013-01-01 12:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | security: update SSL certificates config |
 | 2013-01-01 12:47 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | refactor: adopt repository pattern |
+| 2013-01-01 13:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | feat: add export to CSV/Excel |
