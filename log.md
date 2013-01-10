@@ -14932,3 +14932,4 @@
 | 2013-01-10 07:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | refactor: adopt repository pattern |
 | 2013-01-10 09:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: add user authentication endpoint |
 | 2013-01-10 16:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | style: format code according to style guide |
+| 2013-01-10 18:06 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | test: add performance benchmark tests |
