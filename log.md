@@ -14954,3 +14954,4 @@
 | 2013-01-15 20:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | chore: update dependencies |
 | 2013-01-15 23:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2013-01-16 09:00 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2013-01-16 10:50 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | security: update SSL certificates config |
