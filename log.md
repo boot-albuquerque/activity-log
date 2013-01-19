@@ -14964,3 +14964,4 @@
 | 2013-01-18 12:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2013-01-18 15:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | feat: implement rate limiting middleware |
 | 2013-01-19 08:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | feat: add search with filters |
+| 2013-01-19 14:21 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | fix: correct null check in user service |
