@@ -14971,3 +14971,4 @@
 | 2013-01-21 11:07 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
 | 2013-01-21 13:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | chore: add pre-commit hooks |
 | 2013-01-21 16:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | test: add unit tests for payment service |
+| 2013-01-22 00:12 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | db: add composite index |
