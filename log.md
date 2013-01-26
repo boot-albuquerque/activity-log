@@ -14991,3 +14991,4 @@
 | 2013-01-25 14:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | fix: resolve CORS configuration |
 | 2013-01-25 22:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | docs: document environment variables |
 | 2013-01-26 13:17 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: add file upload support |
+| 2013-01-26 18:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
