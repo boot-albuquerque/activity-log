@@ -14996,3 +14996,4 @@
 | 2013-01-28 11:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | fix: handle edge case in date parsing |
 | 2013-01-28 14:23 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: implement soft delete pattern |
 | 2013-01-28 20:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: add audit log trail |
+| 2013-01-29 17:31 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
