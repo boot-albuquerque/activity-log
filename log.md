@@ -15000,3 +15000,4 @@
 | 2013-01-30 10:18 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | feat: create background job processor |
 | 2013-01-30 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | feat: add audit log trail |
 | 2013-01-30 12:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | db: add migration for new schema |
+| 2013-01-30 12:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: resolve deadlock in transaction |
