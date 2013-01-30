@@ -15002,3 +15002,4 @@
 | 2013-01-30 12:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | db: add migration for new schema |
 | 2013-01-30 12:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: resolve deadlock in transaction |
 | 2013-01-30 13:18 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | fix: correct validation error messages |
+| 2013-01-30 14:21 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add email notification on status change |
