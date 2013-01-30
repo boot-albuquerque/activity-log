@@ -15001,3 +15001,4 @@
 | 2013-01-30 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | feat: add audit log trail |
 | 2013-01-30 12:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | db: add migration for new schema |
 | 2013-01-30 12:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: resolve deadlock in transaction |
+| 2013-01-30 13:18 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | fix: correct validation error messages |
