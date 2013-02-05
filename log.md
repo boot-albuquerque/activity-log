@@ -15028,3 +15028,4 @@
 | 2013-02-04 22:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | docs: add README setup instructions |
 | 2013-02-05 08:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | test: cover edge cases in validator |
 | 2013-02-05 10:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | infra: update Terraform modules |
+| 2013-02-05 14:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | docs: add README setup instructions |
