@@ -15042,3 +15042,4 @@
 | 2013-02-08 14:58 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: create health check endpoint |
 | 2013-02-08 14:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: add real-time notifications |
 | 2013-02-08 20:50 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | refactor: move constants to config module |
+| 2013-02-08 20:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: add OpenAPI documentation |
