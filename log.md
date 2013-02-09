@@ -15044,3 +15044,4 @@
 | 2013-02-08 20:50 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2013-02-08 20:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: add OpenAPI documentation |
 | 2013-02-09 00:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | feat: implement soft delete pattern |
+| 2013-02-09 09:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | perf: add database indexes |
