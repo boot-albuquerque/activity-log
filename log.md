@@ -15050,3 +15050,4 @@
 | 2013-02-11 11:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2013-02-11 13:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2013-02-11 15:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | docs: add README setup instructions |
+| 2013-02-11 17:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | db: add composite index |
