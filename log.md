@@ -15046,3 +15046,4 @@
 | 2013-02-09 00:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2013-02-09 09:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | perf: add database indexes |
 | 2013-02-10 16:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: consolidate error handling |
+| 2013-02-11 10:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | fix: resolve race condition in queue worker |
