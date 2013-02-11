@@ -15049,3 +15049,4 @@
 | 2013-02-11 10:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2013-02-11 11:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2013-02-11 13:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2013-02-11 15:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | docs: add README setup instructions |
