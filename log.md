@@ -15053,3 +15053,4 @@
 | 2013-02-11 17:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | db: add composite index |
 | 2013-02-11 22:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: implement soft delete pattern |
 | 2013-02-12 09:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | security: fix SQL injection vulnerability |
+| 2013-02-12 09:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | chore: add Docker Compose for local dev |
