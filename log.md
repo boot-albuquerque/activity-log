@@ -15052,3 +15052,4 @@
 | 2013-02-11 15:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2013-02-11 17:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | db: add composite index |
 | 2013-02-11 22:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: implement soft delete pattern |
+| 2013-02-12 09:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | security: fix SQL injection vulnerability |
