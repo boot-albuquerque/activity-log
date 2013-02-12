@@ -15056,3 +15056,4 @@
 | 2013-02-12 09:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | chore: add Docker Compose for local dev |
 | 2013-02-12 11:14 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2013-02-12 11:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | fix: resolve race condition in queue worker |
+| 2013-02-12 18:35 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | docs: add README setup instructions |
