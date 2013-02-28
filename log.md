@@ -15099,3 +15099,4 @@
 | 2013-02-28 13:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve race condition in queue worker |
 | 2013-02-28 16:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2013-02-28 17:15 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | infra: configure auto-scaling policies |
+| 2013-02-28 20:41 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: add email notification on status change |
