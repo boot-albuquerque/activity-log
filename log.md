@@ -15101,3 +15101,4 @@
 | 2013-02-28 17:15 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2013-02-28 20:41 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: add email notification on status change |
 | 2013-03-03 11:17 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: format code according to style guide |
+| 2013-03-03 12:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: create dashboard metrics endpoint |
