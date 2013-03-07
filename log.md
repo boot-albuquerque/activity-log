@@ -15111,3 +15111,4 @@
 | 2013-03-06 15:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | test: cover edge cases in validator |
 | 2013-03-06 19:20 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2013-03-06 19:47 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: add pagination to list endpoint |
+| 2013-03-06 21:03 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | feat: add email notification on status change |
