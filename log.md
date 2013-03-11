@@ -15124,3 +15124,4 @@
 | 2013-03-11 07:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | infra: configure auto-scaling policies |
 | 2013-03-11 12:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | fix: correct decimal precision in billing |
 | 2013-03-11 12:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: handle empty response from external API |
+| 2013-03-11 12:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: resolve memory leak in connection pool |
