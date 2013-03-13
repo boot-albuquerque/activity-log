@@ -15133,3 +15133,4 @@
 | 2013-03-11 20:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2013-03-11 23:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: correct validation error messages |
 | 2013-03-12 11:55 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | style: fix indentation and whitespace |
+| 2013-03-13 08:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | db: optimize slow queries |
