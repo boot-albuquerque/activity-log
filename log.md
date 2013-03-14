@@ -15139,3 +15139,4 @@
 | 2013-03-13 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | test: mock external dependencies in tests |
 | 2013-03-14 07:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2013-03-14 10:57 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | fix: resolve deadlock in transaction |
+| 2013-03-14 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | feat: implement rate limiting middleware |
