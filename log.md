@@ -15137,3 +15137,4 @@
 | 2013-03-13 13:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | chore: add pre-commit hooks |
 | 2013-03-13 14:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | docs: add README setup instructions |
 | 2013-03-13 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | test: mock external dependencies in tests |
+| 2013-03-14 07:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | perf: reduce bundle size |
