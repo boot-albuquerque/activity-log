@@ -15148,3 +15148,4 @@
 | 2013-03-14 23:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | style: format code according to style guide |
 | 2013-03-15 08:09 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add audit log trail |
 | 2013-03-15 08:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add real-time notifications |
+| 2013-03-15 11:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: create admin management interface |
