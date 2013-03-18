@@ -15154,3 +15154,4 @@
 | 2013-03-17 20:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | perf: reduce bundle size |
 | 2013-03-18 12:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | feat: create background job processor |
 | 2013-03-18 13:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | chore: add pre-commit hooks |
+| 2013-03-18 19:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | docs: document environment variables |
