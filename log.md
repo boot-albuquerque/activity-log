@@ -15157,3 +15157,4 @@
 | 2013-03-18 19:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | docs: document environment variables |
 | 2013-03-18 22:01 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | fix: handle malformed JSON input |
 | 2013-03-20 11:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct validation error messages |
+| 2013-03-20 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | test: add performance benchmark tests |
