@@ -15170,3 +15170,4 @@
 | 2013-03-21 14:36 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2013-03-21 15:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | feat: add bulk operations support |
 | 2013-03-21 16:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add pagination to list endpoint |
+| 2013-03-21 17:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | docs: update API documentation |
