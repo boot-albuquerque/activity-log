@@ -15162,3 +15162,4 @@
 | 2013-03-20 15:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | style: format code according to style guide |
 | 2013-03-20 16:00 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | refactor: move constants to config module |
 | 2013-03-20 17:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: add OpenAPI documentation |
+| 2013-03-21 09:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | infra: add Kubernetes manifests |
