@@ -15184,3 +15184,4 @@
 | 2013-03-25 19:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: add real-time notifications |
 | 2013-03-25 21:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | feat: add pagination to list endpoint |
 | 2013-03-26 10:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | feat: add pagination to list endpoint |
+| 2013-03-28 12:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: implement JWT refresh token |
