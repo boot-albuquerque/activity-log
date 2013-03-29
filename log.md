@@ -15191,3 +15191,4 @@
 | 2013-03-29 10:39 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | fix: handle timeout in async operation |
 | 2013-03-29 11:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2013-03-29 12:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | docs: update API documentation |
+| 2013-03-29 14:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | test: add e2e tests for checkout flow |
