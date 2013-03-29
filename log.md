@@ -15186,3 +15186,4 @@
 | 2013-03-26 10:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | feat: add pagination to list endpoint |
 | 2013-03-28 12:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: implement JWT refresh token |
 | 2013-03-28 21:37 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
+| 2013-03-29 00:54 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | fix: resolve race condition in queue worker |
