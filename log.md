@@ -15197,3 +15197,4 @@
 | 2013-03-30 19:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | fix: correct null check in user service |
 | 2013-03-31 16:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | feat: add search with filters |
 | 2013-03-31 23:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | fix: resolve deadlock in transaction |
+| 2013-04-01 13:10 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | chore: add Docker Compose for local dev |
