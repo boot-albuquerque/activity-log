@@ -15220,3 +15220,4 @@
 | 2013-04-04 12:49 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | test: add unit tests for payment service |
 | 2013-04-04 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: create health check endpoint |
 | 2013-04-04 17:28 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | db: add migration for new schema |
+| 2013-04-04 17:56 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | chore: add pre-commit hooks |
