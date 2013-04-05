@@ -15227,3 +15227,4 @@
 | 2013-04-04 22:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/pagination` | refactor: simplify authentication flow |
 | 2013-04-04 22:39 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | db: add migration for new schema |
 | 2013-04-05 09:33 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: create dashboard metrics endpoint |
+| 2013-04-05 10:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | docs: add README setup instructions |
