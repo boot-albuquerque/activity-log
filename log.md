@@ -15233,3 +15233,4 @@
 | 2013-04-06 13:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | style: format code according to style guide |
 | 2013-04-06 21:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: correct null check in user service |
 | 2013-04-07 10:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | chore: add pre-commit hooks |
+| 2013-04-07 10:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct null check in user service |
