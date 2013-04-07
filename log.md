@@ -15231,3 +15231,4 @@
 | 2013-04-05 17:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2013-04-05 20:23 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | perf: reduce bundle size |
 | 2013-04-06 13:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | style: format code according to style guide |
+| 2013-04-06 21:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: correct null check in user service |
