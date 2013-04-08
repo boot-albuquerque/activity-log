@@ -15235,3 +15235,4 @@
 | 2013-04-07 10:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | chore: add pre-commit hooks |
 | 2013-04-07 10:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct null check in user service |
 | 2013-04-08 13:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | refactor: move constants to config module |
+| 2013-04-08 16:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | refactor: replace raw SQL with query builder |
