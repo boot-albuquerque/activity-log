@@ -15258,3 +15258,4 @@
 | 2013-04-12 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
 | 2013-04-12 15:18 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2013-04-12 16:20 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | docs: document environment variables |
+| 2013-04-12 18:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: correct decimal precision in billing |
