@@ -15259,3 +15259,4 @@
 | 2013-04-12 15:18 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2013-04-12 16:20 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | docs: document environment variables |
 | 2013-04-12 18:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: correct decimal precision in billing |
+| 2013-04-12 21:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | infra: add Kubernetes manifests |
