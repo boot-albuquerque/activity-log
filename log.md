@@ -15261,3 +15261,4 @@
 | 2013-04-12 18:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: correct decimal precision in billing |
 | 2013-04-12 21:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | infra: add Kubernetes manifests |
 | 2013-04-12 23:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | feat: add export to CSV/Excel |
+| 2013-04-13 12:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
