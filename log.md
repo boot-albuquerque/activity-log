@@ -15283,3 +15283,4 @@
 | 2013-04-23 12:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2013-04-24 09:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | feat: add search with filters |
 | 2013-04-24 10:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
+| 2013-04-24 11:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: extract business logic to service layer |
