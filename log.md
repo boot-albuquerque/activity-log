@@ -15287,3 +15287,4 @@
 | 2013-04-24 15:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | perf: implement response compression |
 | 2013-04-24 17:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | test: cover edge cases in validator |
 | 2013-04-24 17:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | feat: implement rate limiting middleware |
+| 2013-04-24 21:46 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: add search with filters |
