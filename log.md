@@ -15291,3 +15291,4 @@
 | 2013-04-25 09:36 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
 | 2013-04-25 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2013-04-25 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | refactor: move constants to config module |
+| 2013-04-26 09:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: handle missing environment variable |
