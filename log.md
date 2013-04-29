@@ -15302,3 +15302,4 @@
 | 2013-04-29 12:40 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | security: fix SQL injection vulnerability |
 | 2013-04-29 14:29 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | db: add composite index |
 | 2013-04-29 16:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add migration for new schema |
+| 2013-04-29 17:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | perf: add database indexes |
