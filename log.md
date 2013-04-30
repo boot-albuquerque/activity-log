@@ -15304,3 +15304,4 @@
 | 2013-04-29 16:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add migration for new schema |
 | 2013-04-29 17:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | perf: add database indexes |
 | 2013-04-29 21:39 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | chore: update dependencies |
+| 2013-04-30 10:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | ci: configure staging environment |
