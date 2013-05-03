@@ -15315,3 +15315,4 @@
 | 2013-05-02 17:29 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | test: cover edge cases in validator |
 | 2013-05-02 19:21 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | test: add unit tests for payment service |
 | 2013-05-02 20:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | feat: add audit log trail |
+| 2013-05-02 21:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | chore: add Docker Compose for local dev |
