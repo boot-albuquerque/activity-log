@@ -15330,3 +15330,4 @@
 | 2013-05-06 19:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | test: add integration tests for API endpoints |
 | 2013-05-06 21:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v1.0` | docs: document environment variables |
 | 2013-05-07 11:57 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | db: add migration for new schema |
+| 2013-05-07 16:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | fix: correct cache invalidation logic |
