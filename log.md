@@ -15355,3 +15355,4 @@
 | 2013-05-12 08:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | fix: correct decimal precision in billing |
 | 2013-05-12 11:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | perf: reduce bundle size |
 | 2013-05-13 09:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | feat: add audit log trail |
+| 2013-05-13 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: update dependencies |
