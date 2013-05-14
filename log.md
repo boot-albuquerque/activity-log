@@ -15356,3 +15356,4 @@
 | 2013-05-12 11:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | perf: reduce bundle size |
 | 2013-05-13 09:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | feat: add audit log trail |
 | 2013-05-13 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: update dependencies |
+| 2013-05-14 10:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | docs: add README setup instructions |
