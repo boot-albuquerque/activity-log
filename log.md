@@ -15358,3 +15358,4 @@
 | 2013-05-13 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: update dependencies |
 | 2013-05-14 10:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | docs: add README setup instructions |
 | 2013-05-14 14:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | db: add migration for new schema |
+| 2013-05-15 09:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | chore: add pre-commit hooks |
