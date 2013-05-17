@@ -15377,3 +15377,4 @@
 | 2013-05-17 14:05 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2013-05-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | feat: add search with filters |
 | 2013-05-17 20:38 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | perf: implement response compression |
+| 2013-05-17 20:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | feat: implement soft delete pattern |
