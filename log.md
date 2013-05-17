@@ -15374,3 +15374,4 @@
 | 2013-05-17 10:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: create background job processor |
 | 2013-05-17 12:34 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | fix: handle edge case in date parsing |
 | 2013-05-17 13:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add email notification on status change |
+| 2013-05-17 14:05 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
