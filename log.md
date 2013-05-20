@@ -15382,3 +15382,4 @@
 | 2013-05-19 16:03 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2013-05-20 09:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | ci: configure staging environment |
 | 2013-05-20 11:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | feat: create health check endpoint |
+| 2013-05-20 13:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | feat: implement soft delete pattern |
