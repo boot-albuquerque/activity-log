@@ -15394,3 +15394,4 @@
 | 2013-05-24 13:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2013-05-24 13:40 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add integration tests for API endpoints |
 | 2013-05-24 14:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle empty response from external API |
+| 2013-05-25 10:13 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | security: fix SQL injection vulnerability |
