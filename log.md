@@ -15397,3 +15397,4 @@
 | 2013-05-25 10:13 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2013-05-27 00:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | fix: correct validation error messages |
 | 2013-05-27 10:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: handle edge case in date parsing |
+| 2013-05-27 11:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | fix: correct validation error messages |
