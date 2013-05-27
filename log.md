@@ -15396,3 +15396,4 @@
 | 2013-05-24 14:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle empty response from external API |
 | 2013-05-25 10:13 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2013-05-27 00:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | fix: correct validation error messages |
+| 2013-05-27 10:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: handle edge case in date parsing |
