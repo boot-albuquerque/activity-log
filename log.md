@@ -15405,3 +15405,4 @@
 | 2013-05-27 21:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | refactor: consolidate error handling |
 | 2013-05-27 22:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2013-05-28 00:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | chore: add Docker Compose for local dev |
+| 2013-05-28 09:23 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | security: update SSL certificates config |
