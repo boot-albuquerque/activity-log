@@ -15409,3 +15409,4 @@
 | 2013-05-29 07:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | docs: add README setup instructions |
 | 2013-05-29 14:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: resolve race condition in queue worker |
 | 2013-05-29 15:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | perf: optimize database queries |
+| 2013-05-29 15:30 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | test: add integration tests for API endpoints |
