@@ -15423,3 +15423,4 @@
 | 2013-05-31 12:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | style: format code according to style guide |
 | 2013-05-31 16:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add file upload support |
 | 2013-05-31 16:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | chore: update dependencies |
+| 2013-05-31 18:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | refactor: simplify authentication flow |
