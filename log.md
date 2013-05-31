@@ -15419,3 +15419,4 @@
 | 2013-05-30 17:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | db: optimize slow queries |
 | 2013-05-30 18:15 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2013-05-30 19:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | feat: create admin management interface |
+| 2013-05-31 09:36 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | refactor: move constants to config module |
