@@ -15425,3 +15425,4 @@
 | 2013-05-31 16:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | chore: update dependencies |
 | 2013-05-31 18:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | refactor: simplify authentication flow |
 | 2013-05-31 20:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
+| 2013-05-31 21:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | fix: correct pagination offset calculation |
