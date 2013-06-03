@@ -15430,3 +15430,4 @@
 | 2013-06-03 09:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2013-06-03 09:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle malformed JSON input |
 | 2013-06-03 12:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | db: optimize slow queries |
+| 2013-06-03 13:37 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: add export to CSV/Excel |
