@@ -15427,3 +15427,4 @@
 | 2013-05-31 20:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
 | 2013-05-31 21:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | fix: correct pagination offset calculation |
 | 2013-06-02 17:12 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | chore: configure GitHub Actions CI |
+| 2013-06-03 09:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | feat: add export to CSV/Excel |
