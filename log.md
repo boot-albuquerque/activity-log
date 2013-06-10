@@ -15454,3 +15454,4 @@
 | 2013-06-10 16:24 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | db: add migration for new schema |
 | 2013-06-10 16:31 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: improve code readability |
 | 2013-06-10 17:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | feat: add user authentication endpoint |
+| 2013-06-10 20:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | db: add composite index |
