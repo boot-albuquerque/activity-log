@@ -15476,3 +15476,4 @@
 | 2013-06-14 14:30 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2013-06-14 16:09 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: create health check endpoint |
 | 2013-06-14 17:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: create health check endpoint |
+| 2013-06-14 18:00 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | perf: add database indexes |
