@@ -15477,3 +15477,4 @@
 | 2013-06-14 16:09 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: create health check endpoint |
 | 2013-06-14 17:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: create health check endpoint |
 | 2013-06-14 18:00 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | perf: add database indexes |
+| 2013-06-14 23:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | db: add composite index |
