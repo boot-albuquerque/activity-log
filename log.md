@@ -15481,3 +15481,4 @@
 | 2013-06-14 23:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | docs: document environment variables |
 | 2013-06-15 12:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2013-06-16 12:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | ci: add automated deployment pipeline |
+| 2013-06-17 09:53 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | fix: correct validation error messages |
