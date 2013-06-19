@@ -15496,3 +15496,4 @@
 | 2013-06-19 09:46 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: create health check endpoint |
 | 2013-06-19 10:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2013-06-19 12:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2013-06-19 13:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | db: add migration for new schema |
