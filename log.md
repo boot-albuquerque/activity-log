@@ -15508,3 +15508,4 @@
 | 2013-06-21 11:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: implement webhook receiver |
 | 2013-06-21 12:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: create admin management interface |
 | 2013-06-21 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | feat: create dashboard metrics endpoint |
+| 2013-06-21 13:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | refactor: simplify authentication flow |
