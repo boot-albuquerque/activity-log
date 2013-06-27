@@ -15520,3 +15520,4 @@
 | 2013-06-26 14:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2013-06-26 20:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | infra: update Terraform modules |
 | 2013-06-26 20:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | refactor: move constants to config module |
+| 2013-06-27 09:00 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | fix: correct pagination offset calculation |
