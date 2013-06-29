@@ -15529,3 +15529,4 @@
 | 2013-06-28 11:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
 | 2013-06-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: adopt repository pattern |
 | 2013-06-28 15:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | fix: handle empty response from external API |
+| 2013-06-28 22:00 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | fix: handle malformed JSON input |
