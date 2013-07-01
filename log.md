@@ -15534,3 +15534,4 @@
 | 2013-06-29 19:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2013-06-30 10:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | refactor: clean up unused imports |
 | 2013-07-01 00:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | refactor: simplify authentication flow |
+| 2013-07-01 08:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: upgrade to latest Node.js LTS |
