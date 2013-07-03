@@ -15547,3 +15547,4 @@
 | 2013-07-03 11:30 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | test: add integration tests for API endpoints |
 | 2013-07-03 12:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
 | 2013-07-03 13:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2013-07-03 13:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: add OpenAPI documentation |
