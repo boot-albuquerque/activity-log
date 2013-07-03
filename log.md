@@ -15548,3 +15548,4 @@
 | 2013-07-03 12:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
 | 2013-07-03 13:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2013-07-03 13:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: add OpenAPI documentation |
+| 2013-07-03 13:47 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | security: add input sanitization |
