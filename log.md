@@ -15552,3 +15552,4 @@
 | 2013-07-03 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | db: add composite index |
 | 2013-07-03 17:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2013-07-03 23:45 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | feat: add export to CSV/Excel |
+| 2013-07-04 09:34 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/race-condition` | infra: add Kubernetes manifests |
