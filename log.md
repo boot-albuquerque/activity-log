@@ -15557,3 +15557,4 @@
 | 2013-07-04 15:09 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2013-07-05 09:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2013-07-05 10:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | perf: add database indexes |
+| 2013-07-05 12:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
