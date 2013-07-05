@@ -15558,3 +15558,4 @@
 | 2013-07-05 09:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2013-07-05 10:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | perf: add database indexes |
 | 2013-07-05 12:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2013-07-05 16:07 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
