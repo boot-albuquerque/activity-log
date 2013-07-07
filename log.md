@@ -15560,3 +15560,4 @@
 | 2013-07-05 12:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2013-07-05 16:07 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2013-07-07 11:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | feat: implement JWT refresh token |
+| 2013-07-07 15:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | chore: add pre-commit hooks |
