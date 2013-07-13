@@ -15581,3 +15581,4 @@
 | 2013-07-12 20:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2013-07-12 23:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | security: fix SQL injection vulnerability |
 | 2013-07-13 07:00 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | docs: document environment variables |
+| 2013-07-13 15:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | chore: add Docker Compose for local dev |
