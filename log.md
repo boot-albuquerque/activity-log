@@ -15583,3 +15583,4 @@
 | 2013-07-13 07:00 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | docs: document environment variables |
 | 2013-07-13 15:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2013-07-14 10:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: create health check endpoint |
+| 2013-07-14 20:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | feat: implement soft delete pattern |
