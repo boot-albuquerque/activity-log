@@ -15611,3 +15611,4 @@
 | 2013-07-24 12:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2013-07-24 14:21 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2013-07-24 14:38 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
+| 2013-07-24 18:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: create admin management interface |
