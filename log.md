@@ -15618,3 +15618,4 @@
 | 2013-07-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2013-07-25 15:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | refactor: move constants to config module |
 | 2013-07-25 17:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | fix: handle empty response from external API |
+| 2013-07-25 20:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: resolve CORS configuration |
