@@ -15613,3 +15613,4 @@
 | 2013-07-24 14:38 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
 | 2013-07-24 18:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: create admin management interface |
 | 2013-07-25 10:51 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2013-07-25 11:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | refactor: simplify authentication flow |
