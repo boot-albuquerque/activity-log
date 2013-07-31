@@ -15634,3 +15634,4 @@
 | 2013-07-30 12:39 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | fix: correct cache invalidation logic |
 | 2013-07-30 14:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | feat: implement caching layer |
 | 2013-07-30 15:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | style: format code according to style guide |
+| 2013-07-31 08:54 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | perf: add database indexes |
