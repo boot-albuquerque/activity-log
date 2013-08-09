@@ -15662,3 +15662,4 @@
 | 2013-08-09 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
 | 2013-08-09 13:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | chore: configure ESLint and Prettier |
 | 2013-08-09 15:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2013-08-09 15:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: create admin management interface |
