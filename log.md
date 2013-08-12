@@ -15673,3 +15673,4 @@
 | 2013-08-12 08:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2013-08-12 12:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | test: mock external dependencies in tests |
 | 2013-08-12 13:36 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
+| 2013-08-12 15:17 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | test: add e2e tests for checkout flow |
