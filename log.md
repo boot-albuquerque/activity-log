@@ -15695,3 +15695,4 @@
 | 2013-08-16 17:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: split large controller into smaller ones |
 | 2013-08-16 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2013-08-17 14:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | style: fix indentation and whitespace |
+| 2013-08-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | test: add performance benchmark tests |
