@@ -15697,3 +15697,4 @@
 | 2013-08-17 14:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | style: fix indentation and whitespace |
 | 2013-08-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | test: add performance benchmark tests |
 | 2013-08-18 17:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | db: optimize slow queries |
+| 2013-08-18 23:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | db: add composite index |
