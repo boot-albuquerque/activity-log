@@ -15698,3 +15698,4 @@
 | 2013-08-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | test: add performance benchmark tests |
 | 2013-08-18 17:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | db: optimize slow queries |
 | 2013-08-18 23:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | db: add composite index |
+| 2013-08-19 12:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | feat: implement soft delete pattern |
