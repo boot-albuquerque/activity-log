@@ -15710,3 +15710,4 @@
 | 2013-08-22 08:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | db: add migration for new schema |
 | 2013-08-22 09:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2013-08-22 12:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add email notification on status change |
+| 2013-08-22 12:20 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
