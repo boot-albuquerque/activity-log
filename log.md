@@ -15708,3 +15708,4 @@
 | 2013-08-20 16:18 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | test: add e2e tests for checkout flow |
 | 2013-08-22 00:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2013-08-22 08:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | db: add migration for new schema |
+| 2013-08-22 09:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: simplify authentication flow |
