@@ -15729,3 +15729,4 @@
 | 2013-08-27 15:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | feat: create background job processor |
 | 2013-08-27 16:42 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2013-08-27 17:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | test: cover edge cases in validator |
+| 2013-08-27 17:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | perf: add database indexes |
