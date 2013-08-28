@@ -15735,3 +15735,4 @@
 | 2013-08-28 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | perf: optimize database queries |
 | 2013-08-28 12:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2013-08-28 12:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | fix: handle malformed JSON input |
+| 2013-08-28 13:07 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add search with filters |
