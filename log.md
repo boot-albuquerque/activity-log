@@ -15733,3 +15733,4 @@
 | 2013-08-27 18:56 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | test: add performance benchmark tests |
 | 2013-08-28 10:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | fix: resolve N+1 query problem |
 | 2013-08-28 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | perf: optimize database queries |
+| 2013-08-28 12:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | refactor: adopt repository pattern |
