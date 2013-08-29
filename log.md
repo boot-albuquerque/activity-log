@@ -15737,3 +15737,4 @@
 | 2013-08-28 12:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | fix: handle malformed JSON input |
 | 2013-08-28 13:07 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add search with filters |
 | 2013-08-28 17:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
+| 2013-08-29 08:02 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | feat: add export to CSV/Excel |
