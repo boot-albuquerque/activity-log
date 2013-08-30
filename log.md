@@ -15745,3 +15745,4 @@
 | 2013-08-29 16:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | feat: add user authentication endpoint |
 | 2013-08-29 16:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | perf: optimize database queries |
 | 2013-08-30 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement JWT refresh token |
+| 2013-08-30 12:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | docs: add README setup instructions |
