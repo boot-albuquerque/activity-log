@@ -15776,3 +15776,4 @@
 | 2013-09-11 15:19 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2013-09-12 00:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/pagination` | fix: handle missing environment variable |
 | 2013-09-12 00:29 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
+| 2013-09-12 10:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | ci: configure staging environment |
