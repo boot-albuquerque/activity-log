@@ -15787,3 +15787,4 @@
 | 2013-09-16 07:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: create health check endpoint |
 | 2013-09-16 14:53 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | docs: document environment variables |
 | 2013-09-16 15:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | ci: configure staging environment |
+| 2013-09-16 16:12 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | chore: add Docker Compose for local dev |
