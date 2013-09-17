@@ -15795,3 +15795,4 @@
 | 2013-09-17 11:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2013-09-17 13:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: implement caching layer |
 | 2013-09-17 14:18 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | chore: add pre-commit hooks |
+| 2013-09-17 14:52 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: correct null check in user service |
