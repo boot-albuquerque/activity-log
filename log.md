@@ -15790,3 +15790,4 @@
 | 2013-09-16 16:12 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | chore: add Docker Compose for local dev |
 | 2013-09-16 18:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | security: update SSL certificates config |
 | 2013-09-17 00:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | chore: add pre-commit hooks |
+| 2013-09-17 10:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | test: add e2e tests for checkout flow |
