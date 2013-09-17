@@ -15793,3 +15793,4 @@
 | 2013-09-17 10:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2013-09-17 11:47 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: consolidate error handling |
 | 2013-09-17 11:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2013-09-17 13:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: implement caching layer |
