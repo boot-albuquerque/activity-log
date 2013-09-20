@@ -15801,3 +15801,4 @@
 | 2013-09-18 13:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | docs: document environment variables |
 | 2013-09-18 15:11 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | security: add input sanitization |
 | 2013-09-20 08:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: implement soft delete pattern |
+| 2013-09-20 10:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | docs: add README setup instructions |
