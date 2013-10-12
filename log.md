@@ -15880,3 +15880,4 @@
 | 2013-10-11 17:28 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2013-10-11 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: update dependencies |
 | 2013-10-11 22:41 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | infra: add Kubernetes manifests |
+| 2013-10-12 10:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | fix: resolve memory leak in connection pool |
