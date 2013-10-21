@@ -15905,3 +15905,4 @@
 | 2013-10-19 23:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2013-10-20 23:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | test: improve test coverage to 80% |
 | 2013-10-21 12:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | perf: implement response compression |
+| 2013-10-21 18:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | fix: resolve N+1 query problem |
