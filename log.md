@@ -15918,3 +15918,4 @@
 | 2013-10-23 08:17 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | feat: add audit log trail |
 | 2013-10-23 12:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2013-10-23 13:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | ci: configure staging environment |
+| 2013-10-23 14:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add pagination to list endpoint |
