@@ -15921,3 +15921,4 @@
 | 2013-10-23 14:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add pagination to list endpoint |
 | 2013-10-23 14:51 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: create admin management interface |
 | 2013-10-23 15:20 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | refactor: adopt repository pattern |
+| 2013-10-23 22:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
