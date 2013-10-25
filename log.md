@@ -15929,3 +15929,4 @@
 | 2013-10-24 21:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: create health check endpoint |
 | 2013-10-24 22:21 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2013-10-25 07:47 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2013-10-25 09:37 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add pagination to list endpoint |
