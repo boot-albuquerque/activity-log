@@ -15949,3 +15949,4 @@
 | 2013-10-31 10:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | perf: implement response compression |
 | 2013-10-31 10:55 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | security: update SSL certificates config |
 | 2013-10-31 11:55 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | perf: implement response compression |
+| 2013-10-31 13:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | docs: add README setup instructions |
