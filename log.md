@@ -15957,3 +15957,4 @@
 | 2013-11-01 11:06 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | ci: configure staging environment |
 | 2013-11-01 12:52 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | fix: handle empty response from external API |
 | 2013-11-01 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: create background job processor |
+| 2013-11-01 13:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: resolve N+1 query problem |
