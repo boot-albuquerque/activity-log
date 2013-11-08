@@ -15988,3 +15988,4 @@
 | 2013-11-08 08:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | feat: create admin management interface |
 | 2013-11-08 11:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct pagination offset calculation |
 | 2013-11-08 12:35 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: correct pagination offset calculation |
+| 2013-11-08 13:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: add pagination to list endpoint |
