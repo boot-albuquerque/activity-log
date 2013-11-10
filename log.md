@@ -15990,3 +15990,4 @@
 | 2013-11-08 12:35 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: correct pagination offset calculation |
 | 2013-11-08 13:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2013-11-10 16:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | fix: resolve race condition in queue worker |
+| 2013-11-10 19:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | feat: add OpenAPI documentation |
