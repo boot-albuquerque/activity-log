@@ -15992,3 +15992,4 @@
 | 2013-11-10 16:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2013-11-10 19:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2013-11-11 11:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2013-11-11 12:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | infra: update Terraform modules |
