@@ -15994,3 +15994,4 @@
 | 2013-11-11 11:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2013-11-11 12:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2013-11-11 13:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | chore: configure ESLint and Prettier |
+| 2013-11-11 14:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | refactor: simplify authentication flow |
