@@ -16005,3 +16005,4 @@
 | 2013-11-12 23:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | ci: configure staging environment |
 | 2013-11-13 11:01 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | fix: handle malformed JSON input |
 | 2013-11-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | db: add composite index |
+| 2013-11-13 14:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | perf: add database indexes |
