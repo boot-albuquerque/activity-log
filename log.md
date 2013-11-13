@@ -16007,3 +16007,4 @@
 | 2013-11-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | db: add composite index |
 | 2013-11-13 14:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | perf: add database indexes |
 | 2013-11-13 16:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | security: fix SQL injection vulnerability |
+| 2013-11-13 16:44 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | fix: handle empty response from external API |
