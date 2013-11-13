@@ -16006,3 +16006,4 @@
 | 2013-11-13 11:01 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | fix: handle malformed JSON input |
 | 2013-11-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | db: add composite index |
 | 2013-11-13 14:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | perf: add database indexes |
+| 2013-11-13 16:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | security: fix SQL injection vulnerability |
