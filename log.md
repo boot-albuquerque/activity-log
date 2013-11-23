@@ -16026,3 +16026,4 @@
 | 2013-11-20 12:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | docs: update API documentation |
 | 2013-11-20 17:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | refactor: clean up unused imports |
 | 2013-11-23 17:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | perf: optimize database queries |
+| 2013-11-23 19:00 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | chore: add pre-commit hooks |
