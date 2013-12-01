@@ -16037,3 +16037,4 @@
 | 2013-11-28 12:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | ci: configure staging environment |
 | 2013-11-29 07:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: add unit tests for payment service |
 | 2013-11-29 12:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | ci: add automated deployment pipeline |
+| 2013-12-01 18:15 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add OpenAPI documentation |
