@@ -16040,3 +16040,4 @@
 | 2013-12-01 18:15 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add OpenAPI documentation |
 | 2013-12-02 18:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: split large controller into smaller ones |
 | 2013-12-02 22:22 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add real-time notifications |
+| 2013-12-02 22:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | feat: add export to CSV/Excel |
