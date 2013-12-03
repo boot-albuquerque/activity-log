@@ -16042,3 +16042,4 @@
 | 2013-12-02 22:22 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add real-time notifications |
 | 2013-12-02 22:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2013-12-03 13:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: add audit log trail |
+| 2013-12-03 13:46 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add migration for new schema |
