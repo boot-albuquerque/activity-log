@@ -16045,3 +16045,4 @@
 | 2013-12-03 13:46 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add migration for new schema |
 | 2013-12-03 18:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | security: update SSL certificates config |
 | 2013-12-03 23:47 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | fix: handle missing environment variable |
+| 2013-12-04 11:59 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | feat: implement rate limiting middleware |
