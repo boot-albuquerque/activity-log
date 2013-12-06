@@ -16052,3 +16052,4 @@
 | 2013-12-06 09:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2013-12-06 11:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2013-12-06 12:38 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: correct cache invalidation logic |
+| 2013-12-06 13:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | db: add migration for new schema |
