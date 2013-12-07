@@ -16055,3 +16055,4 @@
 | 2013-12-06 13:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | db: add migration for new schema |
 | 2013-12-06 15:30 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2013-12-06 16:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | feat: add bulk operations support |
+| 2013-12-07 11:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | db: optimize slow queries |
