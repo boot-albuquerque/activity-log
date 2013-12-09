@@ -16063,3 +16063,4 @@
 | 2013-12-09 13:54 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | ci: add automated deployment pipeline |
 | 2013-12-09 15:22 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2013-12-09 15:26 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: update API documentation |
+| 2013-12-09 18:18 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: correct null check in user service |
