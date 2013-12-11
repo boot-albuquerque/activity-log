@@ -16067,3 +16067,4 @@
 | 2013-12-10 07:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2013-12-10 23:11 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | chore: update dependencies |
 | 2013-12-11 00:26 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | test: add integration tests for API endpoints |
+| 2013-12-11 13:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | security: fix SQL injection vulnerability |
