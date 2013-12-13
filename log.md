@@ -16070,3 +16070,4 @@
 | 2013-12-11 13:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2013-12-11 16:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
 | 2013-12-11 16:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
+| 2013-12-13 18:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | feat: add file upload support |
