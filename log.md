@@ -16072,3 +16072,4 @@
 | 2013-12-11 16:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
 | 2013-12-13 18:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | feat: add file upload support |
 | 2013-12-13 20:10 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | db: add migration for new schema |
+| 2013-12-13 23:58 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: handle missing environment variable |
