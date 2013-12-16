@@ -16081,3 +16081,4 @@
 | 2013-12-16 13:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2013-12-16 14:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: implement webhook receiver |
 | 2013-12-16 14:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | style: format code according to style guide |
+| 2013-12-16 18:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: resolve deadlock in transaction |
