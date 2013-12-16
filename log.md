@@ -16078,3 +16078,4 @@
 | 2013-12-15 14:04 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | feat: implement webhook receiver |
 | 2013-12-15 17:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2013-12-16 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | docs: document environment variables |
+| 2013-12-16 13:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add export to CSV/Excel |
