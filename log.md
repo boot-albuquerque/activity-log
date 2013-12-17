@@ -16084,3 +16084,4 @@
 | 2013-12-16 18:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: resolve deadlock in transaction |
 | 2013-12-16 20:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | chore: add Docker Compose for local dev |
 | 2013-12-16 21:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | fix: resolve deadlock in transaction |
+| 2013-12-17 10:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
