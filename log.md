@@ -16083,3 +16083,4 @@
 | 2013-12-16 14:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | style: format code according to style guide |
 | 2013-12-16 18:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: resolve deadlock in transaction |
 | 2013-12-16 20:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | chore: add Docker Compose for local dev |
+| 2013-12-16 21:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | fix: resolve deadlock in transaction |
