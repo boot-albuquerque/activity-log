@@ -16088,3 +16088,4 @@
 | 2013-12-17 10:18 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | db: optimize slow queries |
 | 2013-12-17 10:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | db: optimize slow queries |
 | 2013-12-17 12:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | test: cover edge cases in validator |
+| 2013-12-17 14:28 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | perf: implement response compression |
