@@ -16094,3 +16094,4 @@
 | 2013-12-18 10:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | feat: implement JWT refresh token |
 | 2013-12-18 13:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | perf: reduce bundle size |
 | 2013-12-18 13:59 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | fix: handle empty response from external API |
+| 2013-12-18 16:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | feat: add email notification on status change |
