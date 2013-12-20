@@ -16109,3 +16109,4 @@
 | 2013-12-20 14:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2013-12-20 15:03 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | perf: add database indexes |
 | 2013-12-20 16:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | refactor: consolidate error handling |
+| 2013-12-20 16:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | fix: handle missing environment variable |
