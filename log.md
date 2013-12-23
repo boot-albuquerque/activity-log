@@ -16116,3 +16116,4 @@
 | 2013-12-22 14:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | refactor: reduce cyclomatic complexity |
 | 2013-12-23 11:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | db: add migration for new schema |
 | 2013-12-23 11:32 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | refactor: split large controller into smaller ones |
+| 2013-12-23 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: mock external dependencies in tests |
