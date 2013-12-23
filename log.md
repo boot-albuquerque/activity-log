@@ -16114,3 +16114,4 @@
 | 2013-12-21 15:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | style: format code according to style guide |
 | 2013-12-22 07:57 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/pagination` | feat: add export to CSV/Excel |
 | 2013-12-22 14:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | refactor: reduce cyclomatic complexity |
+| 2013-12-23 11:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | db: add migration for new schema |
