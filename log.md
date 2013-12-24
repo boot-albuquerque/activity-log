@@ -16119,3 +16119,4 @@
 | 2013-12-23 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2013-12-23 19:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2013-12-24 11:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: move constants to config module |
+| 2013-12-24 16:10 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | test: add unit tests for payment service |
