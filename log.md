@@ -16121,3 +16121,4 @@
 | 2013-12-24 11:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: move constants to config module |
 | 2013-12-24 16:10 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | test: add unit tests for payment service |
 | 2013-12-24 17:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | refactor: improve code readability |
+| 2013-12-25 14:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | test: add unit tests for payment service |
