@@ -16135,3 +16135,4 @@
 | 2013-12-27 23:02 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2013-12-29 15:48 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2013-12-30 00:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | test: fix flaky test in async handler |
+| 2013-12-30 11:45 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | style: format code according to style guide |
