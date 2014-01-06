@@ -16162,3 +16162,4 @@
 | 2014-01-05 13:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | refactor: move constants to config module |
 | 2014-01-05 15:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | chore: configure ESLint and Prettier |
 | 2014-01-05 19:23 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | refactor: consolidate error handling |
+| 2014-01-06 08:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | docs: add README setup instructions |
