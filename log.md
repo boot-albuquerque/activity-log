@@ -16169,3 +16169,4 @@
 | 2014-01-07 08:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | feat: add file upload support |
 | 2014-01-07 08:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
 | 2014-01-07 10:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
+| 2014-01-07 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | feat: add user authentication endpoint |
