@@ -16168,3 +16168,4 @@
 | 2014-01-06 21:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | chore: update dependencies |
 | 2014-01-07 08:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | feat: add file upload support |
 | 2014-01-07 08:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
+| 2014-01-07 10:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
