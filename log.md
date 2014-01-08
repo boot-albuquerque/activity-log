@@ -16176,3 +16176,4 @@
 | 2014-01-07 18:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2014-01-07 20:26 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | db: add migration for new schema |
 | 2014-01-07 23:09 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: handle timeout in async operation |
+| 2014-01-08 15:51 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | feat: implement soft delete pattern |
