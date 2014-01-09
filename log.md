@@ -16181,3 +16181,4 @@
 | 2014-01-09 11:42 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | feat: add search with filters |
 | 2014-01-09 13:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | fix: correct pagination offset calculation |
 | 2014-01-09 18:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add email notification on status change |
+| 2014-01-09 18:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: correct null check in user service |
