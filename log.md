@@ -16189,3 +16189,4 @@
 | 2014-01-10 14:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | refactor: move constants to config module |
 | 2014-01-10 15:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2014-01-10 17:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
+| 2014-01-10 17:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
