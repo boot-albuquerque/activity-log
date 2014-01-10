@@ -16186,3 +16186,4 @@
 | 2014-01-10 13:55 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add export to CSV/Excel |
 | 2014-01-10 13:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | feat: add audit log trail |
 | 2014-01-10 14:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
+| 2014-01-10 14:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | refactor: move constants to config module |
