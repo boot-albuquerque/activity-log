@@ -16202,3 +16202,4 @@
 | 2014-01-15 00:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | docs: document environment variables |
 | 2014-01-16 13:10 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2014-01-16 20:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | feat: implement webhook receiver |
+| 2014-01-17 10:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/pagination` | perf: reduce bundle size |
