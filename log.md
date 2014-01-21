@@ -16215,3 +16215,4 @@
 | 2014-01-20 16:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: implement JWT refresh token |
 | 2014-01-20 20:27 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | style: format code according to style guide |
 | 2014-01-20 20:46 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | style: fix indentation and whitespace |
+| 2014-01-21 09:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | feat: implement soft delete pattern |
