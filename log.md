@@ -16227,3 +16227,4 @@
 | 2014-01-22 20:45 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | refactor: extract business logic to service layer |
 | 2014-01-23 14:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2014-01-23 17:40 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | test: add performance benchmark tests |
+| 2014-01-24 12:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
