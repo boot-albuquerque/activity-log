@@ -16246,3 +16246,4 @@
 | 2014-01-27 21:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2014-01-28 13:22 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | fix: handle missing environment variable |
 | 2014-01-28 14:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2014-01-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | perf: optimize database queries |
