@@ -16248,3 +16248,4 @@
 | 2014-01-28 14:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | db: optimize slow queries |
 | 2014-01-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | perf: optimize database queries |
 | 2014-01-29 14:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | chore: add Docker Compose for local dev |
+| 2014-01-29 18:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | chore: configure ESLint and Prettier |
