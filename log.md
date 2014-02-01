@@ -16254,3 +16254,4 @@
 | 2014-01-30 17:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | refactor: extract business logic to service layer |
 | 2014-01-30 21:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | feat: create order processing service |
 | 2014-01-31 18:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2014-02-01 12:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | ci: configure staging environment |
