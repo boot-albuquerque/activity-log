@@ -16256,3 +16256,4 @@
 | 2014-01-31 18:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2014-02-01 12:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | ci: configure staging environment |
 | 2014-02-01 13:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | refactor: improve code readability |
+| 2014-02-02 16:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | fix: correct null check in user service |
