@@ -16257,3 +16257,4 @@
 | 2014-02-01 12:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | ci: configure staging environment |
 | 2014-02-01 13:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | refactor: improve code readability |
 | 2014-02-02 16:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | fix: correct null check in user service |
+| 2014-02-02 21:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | fix: handle missing environment variable |
