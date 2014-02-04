@@ -16261,3 +16261,4 @@
 | 2014-02-03 00:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | feat: create order processing service |
 | 2014-02-04 10:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/null-pointer` | fix: handle edge case in date parsing |
 | 2014-02-04 13:06 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | fix: correct cache invalidation logic |
+| 2014-02-04 17:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: correct pagination offset calculation |
