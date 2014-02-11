@@ -16272,3 +16272,4 @@
 | 2014-02-10 15:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | refactor: clean up unused imports |
 | 2014-02-10 15:57 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | db: add composite index |
 | 2014-02-10 21:58 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | feat: add export to CSV/Excel |
+| 2014-02-11 14:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | infra: add Kubernetes manifests |
