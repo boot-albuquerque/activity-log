@@ -16273,3 +16273,4 @@
 | 2014-02-10 15:57 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | db: add composite index |
 | 2014-02-10 21:58 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2014-02-11 14:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2014-02-12 09:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | fix: handle empty response from external API |
