@@ -16274,3 +16274,4 @@
 | 2014-02-10 21:58 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2014-02-11 14:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2014-02-12 09:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | fix: handle empty response from external API |
+| 2014-02-12 11:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | feat: implement caching layer |
