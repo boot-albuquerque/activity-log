@@ -16307,3 +16307,4 @@
 | 2014-02-19 15:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: add Kubernetes manifests |
 | 2014-02-19 17:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: add audit log trail |
 | 2014-02-19 18:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | test: fix flaky test in async handler |
+| 2014-02-19 19:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
