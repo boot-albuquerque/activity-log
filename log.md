@@ -16324,3 +16324,4 @@
 | 2014-02-25 10:33 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2014-02-25 11:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | perf: implement response compression |
 | 2014-02-25 12:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2014-02-25 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | fix: correct validation error messages |
