@@ -16325,3 +16325,4 @@
 | 2014-02-25 11:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | perf: implement response compression |
 | 2014-02-25 12:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2014-02-25 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | fix: correct validation error messages |
+| 2014-02-25 13:20 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | fix: handle edge case in date parsing |
