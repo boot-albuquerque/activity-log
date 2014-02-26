@@ -16327,3 +16327,4 @@
 | 2014-02-25 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | fix: correct validation error messages |
 | 2014-02-25 13:20 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | fix: handle edge case in date parsing |
 | 2014-02-25 22:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | infra: update Terraform modules |
+| 2014-02-25 23:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add performance benchmark tests |
