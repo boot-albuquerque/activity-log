@@ -16343,3 +16343,4 @@
 | 2014-02-27 16:11 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | test: add unit tests for payment service |
 | 2014-02-27 16:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add pagination to list endpoint |
 | 2014-02-27 17:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | chore: update dependencies |
+| 2014-02-28 00:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | refactor: move constants to config module |
