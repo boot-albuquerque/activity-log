@@ -16346,3 +16346,4 @@
 | 2014-02-28 00:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2014-02-28 11:17 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2014-02-28 14:57 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: handle malformed JSON input |
+| 2014-03-01 17:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | feat: implement JWT refresh token |
