@@ -16351,3 +16351,4 @@
 | 2014-03-02 12:12 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2014-03-02 13:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | fix: resolve deadlock in transaction |
 | 2014-03-02 17:21 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | style: format code according to style guide |
+| 2014-03-03 12:05 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle edge case in date parsing |
