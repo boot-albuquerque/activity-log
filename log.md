@@ -16365,3 +16365,4 @@
 | 2014-03-07 13:33 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2014-03-07 14:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add composite index |
 | 2014-03-07 14:46 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2014-03-07 20:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | refactor: simplify authentication flow |
