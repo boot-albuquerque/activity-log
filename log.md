@@ -16362,3 +16362,4 @@
 | 2014-03-07 07:50 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2014-03-07 11:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement webhook receiver |
 | 2014-03-07 11:45 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: split large controller into smaller ones |
+| 2014-03-07 13:33 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: correct null check in user service |
