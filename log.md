@@ -16367,3 +16367,4 @@
 | 2014-03-07 14:46 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2014-03-07 20:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2014-03-08 11:16 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | perf: reduce bundle size |
+| 2014-03-09 07:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | fix: correct null check in user service |
