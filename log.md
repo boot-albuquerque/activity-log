@@ -16380,3 +16380,4 @@
 | 2014-03-12 10:11 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | docs: add README setup instructions |
 | 2014-03-12 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
 | 2014-03-13 11:31 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | test: add unit tests for payment service |
+| 2014-03-13 11:31 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | refactor: split large controller into smaller ones |
