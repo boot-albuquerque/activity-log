@@ -16389,3 +16389,4 @@
 | 2014-03-14 14:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | refactor: adopt repository pattern |
 | 2014-03-14 14:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | feat: add OpenAPI documentation |
 | 2014-03-14 15:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | db: add migration for new schema |
+| 2014-03-14 16:38 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | db: add composite index |
