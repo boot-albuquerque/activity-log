@@ -16407,3 +16407,4 @@
 | 2014-03-20 00:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: add file upload support |
 | 2014-03-20 11:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement soft delete pattern |
 | 2014-03-20 15:23 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | fix: resolve CORS configuration |
+| 2014-03-20 16:20 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | test: cover edge cases in validator |
