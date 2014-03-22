@@ -16414,3 +16414,4 @@
 | 2014-03-21 09:26 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2014-03-21 17:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | fix: resolve deadlock in transaction |
 | 2014-03-22 08:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | perf: optimize database queries |
+| 2014-03-22 11:03 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
