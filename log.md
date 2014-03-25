@@ -16421,3 +16421,4 @@
 | 2014-03-23 15:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | db: optimize slow queries |
 | 2014-03-24 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | security: add input sanitization |
 | 2014-03-24 13:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: handle empty response from external API |
+| 2014-03-24 21:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
