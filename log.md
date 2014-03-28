@@ -16426,3 +16426,4 @@
 | 2014-03-25 14:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: add audit log trail |
 | 2014-03-26 08:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: resolve N+1 query problem |
 | 2014-03-26 11:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/pagination` | test: cover edge cases in validator |
+| 2014-03-28 11:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | feat: implement soft delete pattern |
