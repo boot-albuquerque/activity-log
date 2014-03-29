@@ -16433,3 +16433,4 @@
 | 2014-03-28 14:41 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | infra: update Terraform modules |
 | 2014-03-28 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: add search with filters |
 | 2014-03-28 19:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | fix: resolve race condition in queue worker |
+| 2014-03-28 23:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | test: add integration tests for API endpoints |
