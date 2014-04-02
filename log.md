@@ -16446,3 +16446,4 @@
 | 2014-04-01 17:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: create admin management interface |
 | 2014-04-01 18:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2014-04-01 19:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | ci: configure staging environment |
+| 2014-04-01 20:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | test: add integration tests for API endpoints |
