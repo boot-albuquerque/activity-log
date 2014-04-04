@@ -16456,3 +16456,4 @@
 | 2014-04-02 19:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | feat: implement caching layer |
 | 2014-04-04 00:34 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | refactor: adopt repository pattern |
 | 2014-04-04 00:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | refactor: split large controller into smaller ones |
+| 2014-04-04 09:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
