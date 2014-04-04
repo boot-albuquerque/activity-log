@@ -16457,3 +16457,4 @@
 | 2014-04-04 00:34 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | refactor: adopt repository pattern |
 | 2014-04-04 00:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | refactor: split large controller into smaller ones |
 | 2014-04-04 09:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
+| 2014-04-04 15:16 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | test: mock external dependencies in tests |
