@@ -16466,3 +16466,4 @@
 | 2014-04-07 10:04 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2014-04-07 11:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: add export to CSV/Excel |
 | 2014-04-07 12:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | db: add composite index |
+| 2014-04-07 13:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | style: format code according to style guide |
