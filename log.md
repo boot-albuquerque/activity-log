@@ -16468,3 +16468,4 @@
 | 2014-04-07 12:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | db: add composite index |
 | 2014-04-07 13:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | style: format code according to style guide |
 | 2014-04-07 15:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: add email notification on status change |
+| 2014-04-07 16:37 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | feat: create admin management interface |
