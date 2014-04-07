@@ -16465,3 +16465,4 @@
 | 2014-04-07 09:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | fix: correct cache invalidation logic |
 | 2014-04-07 10:04 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2014-04-07 11:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: add export to CSV/Excel |
+| 2014-04-07 12:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | db: add composite index |
