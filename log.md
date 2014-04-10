@@ -16481,3 +16481,4 @@
 | 2014-04-08 23:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: handle empty response from external API |
 | 2014-04-09 14:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2014-04-09 19:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | fix: handle timeout in async operation |
+| 2014-04-10 13:43 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | chore: add Docker Compose for local dev |
