@@ -16506,3 +16506,4 @@
 | 2014-04-16 13:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: add input sanitization |
 | 2014-04-16 14:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | db: add migration for new schema |
 | 2014-04-16 19:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: reduce cyclomatic complexity |
+| 2014-04-16 19:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | style: format code according to style guide |
