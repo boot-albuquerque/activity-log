@@ -16509,3 +16509,4 @@
 | 2014-04-16 19:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | style: format code according to style guide |
 | 2014-04-17 00:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | refactor: clean up unused imports |
 | 2014-04-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | refactor: adopt repository pattern |
+| 2014-04-17 12:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | test: fix flaky test in async handler |
