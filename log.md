@@ -16511,3 +16511,4 @@
 | 2014-04-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | refactor: adopt repository pattern |
 | 2014-04-17 12:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | test: fix flaky test in async handler |
 | 2014-04-17 21:38 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
+| 2014-04-18 10:46 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | test: mock external dependencies in tests |
