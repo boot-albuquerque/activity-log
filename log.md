@@ -16527,3 +16527,4 @@
 | 2014-04-22 23:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | refactor: extract business logic to service layer |
 | 2014-04-24 10:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2014-04-24 12:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | feat: create admin management interface |
+| 2014-04-24 16:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: update SSL certificates config |
