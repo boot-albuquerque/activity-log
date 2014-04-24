@@ -16525,3 +16525,4 @@
 | 2014-04-21 14:24 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: add export to CSV/Excel |
 | 2014-04-22 08:42 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: reduce cyclomatic complexity |
 | 2014-04-22 23:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | refactor: extract business logic to service layer |
+| 2014-04-24 10:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | security: update SSL certificates config |
