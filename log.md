@@ -16530,3 +16530,4 @@
 | 2014-04-24 16:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: update SSL certificates config |
 | 2014-04-24 19:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | feat: create health check endpoint |
 | 2014-04-24 23:22 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | test: fix flaky test in async handler |
+| 2014-04-25 09:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | fix: handle malformed JSON input |
