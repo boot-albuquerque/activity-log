@@ -16532,3 +16532,4 @@
 | 2014-04-24 23:22 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | test: fix flaky test in async handler |
 | 2014-04-25 09:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | fix: handle malformed JSON input |
 | 2014-04-25 11:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | style: format code according to style guide |
+| 2014-04-25 13:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
