@@ -16554,3 +16554,4 @@
 | 2014-04-30 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | feat: add search with filters |
 | 2014-04-30 12:58 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: add OpenAPI documentation |
 | 2014-04-30 14:10 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | test: add integration tests for API endpoints |
+| 2014-04-30 15:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | docs: update API documentation |
