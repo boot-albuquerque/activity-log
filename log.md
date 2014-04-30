@@ -16551,3 +16551,4 @@
 | 2014-04-30 10:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: handle malformed JSON input |
 | 2014-04-30 11:05 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | perf: optimize database queries |
 | 2014-04-30 11:51 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | test: mock external dependencies in tests |
+| 2014-04-30 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | feat: add search with filters |
