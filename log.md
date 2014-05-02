@@ -16564,3 +16564,4 @@
 | 2014-05-01 22:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | feat: add OpenAPI documentation |
 | 2014-05-02 11:49 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | feat: implement caching layer |
 | 2014-05-02 12:12 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | test: mock external dependencies in tests |
+| 2014-05-02 13:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: add pagination to list endpoint |
