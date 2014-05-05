@@ -16570,3 +16570,4 @@
 | 2014-05-05 08:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | refactor: adopt repository pattern |
 | 2014-05-05 09:18 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | perf: optimize database queries |
 | 2014-05-05 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
+| 2014-05-05 14:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | infra: configure auto-scaling policies |
