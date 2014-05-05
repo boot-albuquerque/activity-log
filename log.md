@@ -16567,3 +16567,4 @@
 | 2014-05-02 13:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: add pagination to list endpoint |
 | 2014-05-02 19:13 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2014-05-02 20:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | docs: update API documentation |
+| 2014-05-05 08:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | refactor: adopt repository pattern |
