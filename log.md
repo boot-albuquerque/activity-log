@@ -16572,3 +16572,4 @@
 | 2014-05-05 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
 | 2014-05-05 14:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | infra: configure auto-scaling policies |
 | 2014-05-05 18:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: create order processing service |
+| 2014-05-05 22:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | perf: implement response compression |
