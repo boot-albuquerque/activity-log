@@ -16575,3 +16575,4 @@
 | 2014-05-05 22:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | perf: implement response compression |
 | 2014-05-05 23:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | chore: configure GitHub Actions CI |
 | 2014-05-06 08:33 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: add email notification on status change |
+| 2014-05-06 13:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | infra: add Kubernetes manifests |
