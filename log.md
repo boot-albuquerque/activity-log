@@ -16582,3 +16582,4 @@
 | 2014-05-08 10:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: add file upload support |
 | 2014-05-08 11:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: resolve deadlock in transaction |
 | 2014-05-08 16:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | feat: add file upload support |
+| 2014-05-08 18:40 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
