@@ -16599,3 +16599,4 @@
 | 2014-05-12 23:03 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2014-05-12 23:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | fix: resolve memory leak in connection pool |
 | 2014-05-13 13:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: implement JWT refresh token |
+| 2014-05-13 21:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
