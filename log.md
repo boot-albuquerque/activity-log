@@ -16605,3 +16605,4 @@
 | 2014-05-14 14:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | feat: add user authentication endpoint |
 | 2014-05-14 17:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2014-05-14 17:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2014-05-16 12:18 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | fix: resolve deadlock in transaction |
