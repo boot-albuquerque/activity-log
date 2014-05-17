@@ -16608,3 +16608,4 @@
 | 2014-05-16 12:18 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2014-05-16 20:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | perf: add database indexes |
 | 2014-05-17 08:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | chore: configure GitHub Actions CI |
+| 2014-05-17 09:38 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | refactor: move constants to config module |
