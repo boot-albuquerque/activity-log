@@ -16610,3 +16610,4 @@
 | 2014-05-17 08:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2014-05-17 09:38 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2014-05-20 09:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | db: optimize slow queries |
+| 2014-05-20 09:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | docs: document environment variables |
