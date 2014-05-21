@@ -16619,3 +16619,4 @@
 | 2014-05-21 08:53 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | fix: correct cache invalidation logic |
 | 2014-05-21 10:12 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
 | 2014-05-21 13:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | feat: implement rate limiting middleware |
+| 2014-05-21 14:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | perf: add database indexes |
