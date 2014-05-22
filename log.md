@@ -16622,3 +16622,4 @@
 | 2014-05-21 14:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | perf: add database indexes |
 | 2014-05-21 17:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | refactor: extract business logic to service layer |
 | 2014-05-21 17:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | fix: correct pagination offset calculation |
+| 2014-05-22 14:49 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/rate-limiting` | security: update SSL certificates config |
