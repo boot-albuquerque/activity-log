@@ -16642,3 +16642,4 @@
 | 2014-05-25 10:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | fix: correct null check in user service |
 | 2014-05-26 09:09 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | chore: configure GitHub Actions CI |
 | 2014-05-26 12:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | perf: optimize database queries |
+| 2014-05-26 13:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | ci: add automated deployment pipeline |
