@@ -16652,3 +16652,4 @@
 | 2014-05-28 08:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2014-05-28 20:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | docs: document environment variables |
 | 2014-05-29 00:47 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | feat: add bulk operations support |
+| 2014-05-29 07:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | security: fix SQL injection vulnerability |
