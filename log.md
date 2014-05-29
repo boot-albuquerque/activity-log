@@ -16655,3 +16655,4 @@
 | 2014-05-29 07:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | security: fix SQL injection vulnerability |
 | 2014-05-29 08:12 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: add audit log trail |
 | 2014-05-29 15:29 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | docs: add README setup instructions |
+| 2014-05-29 16:12 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
