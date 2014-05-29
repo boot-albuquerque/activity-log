@@ -16657,3 +16657,4 @@
 | 2014-05-29 15:29 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | docs: add README setup instructions |
 | 2014-05-29 16:12 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2014-05-29 17:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | refactor: reduce cyclomatic complexity |
+| 2014-05-29 19:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: add email notification on status change |
