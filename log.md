@@ -16661,3 +16661,4 @@
 | 2014-05-31 19:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
 | 2014-06-02 09:19 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: create admin management interface |
 | 2014-06-02 12:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | perf: reduce bundle size |
+| 2014-06-02 13:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | feat: add export to CSV/Excel |
