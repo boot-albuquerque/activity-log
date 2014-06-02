@@ -16659,3 +16659,4 @@
 | 2014-05-29 17:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2014-05-29 19:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: add email notification on status change |
 | 2014-05-31 19:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
+| 2014-06-02 09:19 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: create admin management interface |
