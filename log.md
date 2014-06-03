@@ -16664,3 +16664,4 @@
 | 2014-06-02 13:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | feat: add export to CSV/Excel |
 | 2014-06-02 20:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add export to CSV/Excel |
 | 2014-06-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | refactor: adopt repository pattern |
+| 2014-06-02 23:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: correct pagination offset calculation |
