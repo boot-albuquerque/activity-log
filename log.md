@@ -16666,3 +16666,4 @@
 | 2014-06-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | refactor: adopt repository pattern |
 | 2014-06-02 23:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: correct pagination offset calculation |
 | 2014-06-05 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: add export to CSV/Excel |
+| 2014-06-05 12:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: implement soft delete pattern |
