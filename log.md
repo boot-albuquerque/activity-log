@@ -16667,3 +16667,4 @@
 | 2014-06-02 23:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: correct pagination offset calculation |
 | 2014-06-05 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: add export to CSV/Excel |
 | 2014-06-05 12:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: implement soft delete pattern |
+| 2014-06-05 15:37 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | docs: add README setup instructions |
