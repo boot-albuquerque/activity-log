@@ -16672,3 +16672,4 @@
 | 2014-06-05 20:35 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | fix: resolve deadlock in transaction |
 | 2014-06-05 22:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | infra: configure auto-scaling policies |
 | 2014-06-05 22:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2014-06-06 13:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | feat: add OpenAPI documentation |
