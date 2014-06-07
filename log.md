@@ -16674,3 +16674,4 @@
 | 2014-06-05 22:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2014-06-06 13:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | feat: add OpenAPI documentation |
 | 2014-06-06 16:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | perf: add database indexes |
+| 2014-06-07 11:26 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | fix: resolve CORS configuration |
