@@ -16681,3 +16681,4 @@
 | 2014-06-09 07:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | db: optimize slow queries |
 | 2014-06-09 18:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2014-06-09 18:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | feat: implement rate limiting middleware |
+| 2014-06-10 11:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | test: mock external dependencies in tests |
