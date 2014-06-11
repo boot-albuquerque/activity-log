@@ -16684,3 +16684,4 @@
 | 2014-06-10 11:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | test: mock external dependencies in tests |
 | 2014-06-11 10:13 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2014-06-11 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: create health check endpoint |
+| 2014-06-11 20:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | refactor: split large controller into smaller ones |
