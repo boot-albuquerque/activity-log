@@ -16689,3 +16689,4 @@
 | 2014-06-12 11:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
 | 2014-06-12 14:12 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: add pre-commit hooks |
 | 2014-06-12 14:17 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/pagination` | fix: correct validation error messages |
+| 2014-06-13 07:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | test: add integration tests for API endpoints |
