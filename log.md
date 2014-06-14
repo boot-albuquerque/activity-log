@@ -16698,3 +16698,4 @@
 | 2014-06-13 14:56 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2014-06-13 16:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | db: add migration for new schema |
 | 2014-06-13 20:24 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
+| 2014-06-14 00:20 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | refactor: move constants to config module |
