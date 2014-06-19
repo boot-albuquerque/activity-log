@@ -16718,3 +16718,4 @@
 | 2014-06-19 11:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | fix: correct validation error messages |
 | 2014-06-19 14:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2014-06-19 18:46 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | chore: configure ESLint and Prettier |
+| 2014-06-19 20:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | feat: add file upload support |
