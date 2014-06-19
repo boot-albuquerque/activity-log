@@ -16714,3 +16714,4 @@
 | 2014-06-18 15:42 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | chore: configure GitHub Actions CI |
 | 2014-06-18 19:56 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2014-06-18 23:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2014-06-19 00:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: add email notification on status change |
