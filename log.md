@@ -16738,3 +16738,4 @@
 | 2014-06-23 19:14 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | feat: create order processing service |
 | 2014-06-24 09:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | test: add unit tests for payment service |
 | 2014-06-24 09:12 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | feat: add audit log trail |
+| 2014-06-24 09:40 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
