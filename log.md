@@ -16743,3 +16743,4 @@
 | 2014-06-25 10:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | perf: implement response compression |
 | 2014-06-25 16:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: create background job processor |
 | 2014-06-26 07:16 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | infra: update Terraform modules |
+| 2014-06-26 11:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: fix flaky test in async handler |
