@@ -16750,3 +16750,4 @@
 | 2014-06-26 14:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | db: add migration for new schema |
 | 2014-06-27 10:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2014-06-27 12:38 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | feat: add user authentication endpoint |
+| 2014-06-27 13:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
