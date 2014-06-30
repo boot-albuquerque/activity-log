@@ -16755,3 +16755,4 @@
 | 2014-06-27 16:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2014-06-27 23:55 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
 | 2014-06-30 13:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | test: add performance benchmark tests |
+| 2014-06-30 13:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
