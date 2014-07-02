@@ -16761,3 +16761,4 @@
 | 2014-07-01 18:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: add e2e tests for checkout flow |
 | 2014-07-01 21:48 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
 | 2014-07-02 10:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
+| 2014-07-02 19:46 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add pagination to list endpoint |
