@@ -16773,3 +16773,4 @@
 | 2014-07-04 17:21 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | docs: update API documentation |
 | 2014-07-04 20:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | ci: configure staging environment |
 | 2014-07-05 08:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | refactor: split large controller into smaller ones |
+| 2014-07-05 16:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | test: fix flaky test in async handler |
