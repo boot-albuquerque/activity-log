@@ -16783,3 +16783,4 @@
 | 2014-07-08 16:21 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | security: update SSL certificates config |
 | 2014-07-08 16:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | feat: implement caching layer |
 | 2014-07-09 09:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | fix: correct null check in user service |
+| 2014-07-09 13:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/cleanup` | security: add input sanitization |
