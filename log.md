@@ -16798,3 +16798,4 @@
 | 2014-07-11 12:02 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
 | 2014-07-11 12:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
 | 2014-07-11 14:06 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | docs: document environment variables |
+| 2014-07-11 14:35 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | infra: add Kubernetes manifests |
