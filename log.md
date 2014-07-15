@@ -16805,3 +16805,4 @@
 | 2014-07-14 11:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2014-07-14 15:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2014-07-14 17:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | test: add performance benchmark tests |
+| 2014-07-15 18:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | refactor: replace raw SQL with query builder |
