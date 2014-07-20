@@ -16820,3 +16820,4 @@
 | 2014-07-19 20:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: create health check endpoint |
 | 2014-07-19 22:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | infra: update Terraform modules |
 | 2014-07-20 13:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: handle malformed JSON input |
+| 2014-07-20 16:21 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | test: improve test coverage to 80% |
