@@ -16821,3 +16821,4 @@
 | 2014-07-19 22:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | infra: update Terraform modules |
 | 2014-07-20 13:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2014-07-20 16:21 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | test: improve test coverage to 80% |
+| 2014-07-21 15:22 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | feat: add export to CSV/Excel |
