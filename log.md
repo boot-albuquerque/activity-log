@@ -16825,3 +16825,4 @@
 | 2014-07-21 23:13 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | feat: add real-time notifications |
 | 2014-07-23 12:12 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2014-07-23 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | perf: add database indexes |
+| 2014-07-23 15:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | test: mock external dependencies in tests |
