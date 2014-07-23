@@ -16827,3 +16827,4 @@
 | 2014-07-23 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | perf: add database indexes |
 | 2014-07-23 15:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2014-07-23 19:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create dashboard metrics endpoint |
+| 2014-07-23 20:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | test: add e2e tests for checkout flow |
