@@ -16835,3 +16835,4 @@
 | 2014-07-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2014-07-25 13:11 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | style: format code according to style guide |
 | 2014-07-25 16:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | docs: add README setup instructions |
+| 2014-07-25 17:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: correct null check in user service |
