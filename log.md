@@ -16834,3 +16834,4 @@
 | 2014-07-25 11:17 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | security: fix SQL injection vulnerability |
 | 2014-07-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2014-07-25 13:11 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | style: format code according to style guide |
+| 2014-07-25 16:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | docs: add README setup instructions |
