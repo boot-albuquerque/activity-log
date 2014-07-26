@@ -16837,3 +16837,4 @@
 | 2014-07-25 16:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | docs: add README setup instructions |
 | 2014-07-25 17:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: correct null check in user service |
 | 2014-07-25 21:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | security: add input sanitization |
+| 2014-07-25 21:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | fix: resolve deadlock in transaction |
