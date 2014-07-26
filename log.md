@@ -16839,3 +16839,4 @@
 | 2014-07-25 21:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | security: add input sanitization |
 | 2014-07-25 21:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2014-07-25 21:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | perf: reduce bundle size |
+| 2014-07-25 22:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
