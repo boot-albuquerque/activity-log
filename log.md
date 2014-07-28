@@ -16846,3 +16846,4 @@
 | 2014-07-27 14:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2014-07-28 09:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2014-07-28 10:31 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: add export to CSV/Excel |
+| 2014-07-28 11:32 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | refactor: simplify authentication flow |
