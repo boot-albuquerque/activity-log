@@ -16849,3 +16849,4 @@
 | 2014-07-28 11:32 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | refactor: simplify authentication flow |
 | 2014-07-28 12:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
 | 2014-07-28 13:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: correct cache invalidation logic |
+| 2014-07-28 13:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | test: mock external dependencies in tests |
