@@ -16844,3 +16844,4 @@
 | 2014-07-26 14:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2014-07-27 09:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | feat: add bulk operations support |
 | 2014-07-27 14:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | feat: add user authentication endpoint |
+| 2014-07-28 09:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
