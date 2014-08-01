@@ -16867,3 +16867,4 @@
 | 2014-08-01 09:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2014-08-01 11:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | security: add input sanitization |
 | 2014-08-01 13:00 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | ci: configure staging environment |
+| 2014-08-01 15:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: correct null check in user service |
