@@ -16883,3 +16883,4 @@
 | 2014-08-07 20:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | test: cover edge cases in validator |
 | 2014-08-08 11:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2014-08-08 12:11 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | test: mock external dependencies in tests |
+| 2014-08-08 13:52 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
