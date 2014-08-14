@@ -16912,3 +16912,4 @@
 | 2014-08-14 00:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | security: update SSL certificates config |
 | 2014-08-14 00:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | perf: optimize database queries |
 | 2014-08-14 14:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | security: update SSL certificates config |
+| 2014-08-14 15:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: upgrade to latest Node.js LTS |
