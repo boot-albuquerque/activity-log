@@ -16926,3 +16926,4 @@
 | 2014-08-19 15:51 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | style: format code according to style guide |
 | 2014-08-19 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2014-08-19 18:12 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | feat: create order processing service |
+| 2014-08-19 18:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | docs: add README setup instructions |
