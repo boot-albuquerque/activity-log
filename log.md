@@ -16924,3 +16924,4 @@
 | 2014-08-19 10:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | feat: implement JWT refresh token |
 | 2014-08-19 10:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: handle missing environment variable |
 | 2014-08-19 15:51 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | style: format code according to style guide |
+| 2014-08-19 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | infra: add Kubernetes manifests |
