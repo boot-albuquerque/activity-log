@@ -16921,3 +16921,4 @@
 | 2014-08-17 12:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | style: format code according to style guide |
 | 2014-08-18 10:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
 | 2014-08-18 14:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add user authentication endpoint |
+| 2014-08-19 10:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | feat: implement JWT refresh token |
