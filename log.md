@@ -16930,3 +16930,4 @@
 | 2014-08-19 22:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | feat: create admin management interface |
 | 2014-08-20 17:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | docs: update API documentation |
 | 2014-08-21 13:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2014-08-21 13:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: implement soft delete pattern |
