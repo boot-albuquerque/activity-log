@@ -16936,3 +16936,4 @@
 | 2014-08-22 17:12 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: split large controller into smaller ones |
 | 2014-08-22 21:45 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | feat: create background job processor |
 | 2014-08-24 15:36 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | fix: resolve memory leak in connection pool |
+| 2014-08-25 00:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
