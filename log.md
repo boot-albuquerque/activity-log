@@ -16946,3 +16946,4 @@
 | 2014-08-25 22:20 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | db: add migration for new schema |
 | 2014-08-26 10:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: create order processing service |
 | 2014-08-26 11:04 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | feat: add export to CSV/Excel |
+| 2014-08-26 11:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | test: mock external dependencies in tests |
