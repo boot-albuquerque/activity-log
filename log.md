@@ -16953,3 +16953,4 @@
 | 2014-08-27 13:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
 | 2014-08-27 15:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | db: add migration for new schema |
 | 2014-08-27 16:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2014-08-27 16:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: add file upload support |
