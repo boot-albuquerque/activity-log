@@ -16967,3 +16967,4 @@
 | 2014-08-29 08:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: handle edge case in date parsing |
 | 2014-08-29 10:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2014-08-29 10:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: implement soft delete pattern |
+| 2014-08-29 16:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: simplify authentication flow |
