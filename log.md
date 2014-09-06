@@ -16980,3 +16980,4 @@
 | 2014-09-04 12:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: resolve deadlock in transaction |
 | 2014-09-05 08:30 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2014-09-05 14:23 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
+| 2014-09-05 23:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | feat: create dashboard metrics endpoint |
