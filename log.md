@@ -16987,3 +16987,4 @@
 | 2014-09-08 00:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | chore: upgrade to latest Node.js LTS |
 | 2014-09-08 08:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | fix: handle missing environment variable |
 | 2014-09-08 11:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2014-09-08 13:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | docs: update API documentation |
