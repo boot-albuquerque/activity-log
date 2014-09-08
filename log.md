@@ -16990,3 +16990,4 @@
 | 2014-09-08 13:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | docs: update API documentation |
 | 2014-09-08 16:23 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: add audit log trail |
 | 2014-09-08 16:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
+| 2014-09-08 20:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | perf: add database indexes |
