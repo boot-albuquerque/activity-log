@@ -17004,3 +17004,4 @@
 | 2014-09-11 08:07 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2014-09-11 13:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2014-09-11 14:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | db: add composite index |
+| 2014-09-11 16:10 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | feat: add file upload support |
