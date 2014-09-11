@@ -17003,3 +17003,4 @@
 | 2014-09-10 20:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | style: fix indentation and whitespace |
 | 2014-09-11 08:07 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2014-09-11 13:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | feat: add export to CSV/Excel |
+| 2014-09-11 14:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | db: add composite index |
