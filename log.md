@@ -17018,3 +17018,4 @@
 | 2014-09-15 23:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add migration for new schema |
 | 2014-09-16 12:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | feat: add audit log trail |
 | 2014-09-16 18:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2014-09-16 19:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: resolve deadlock in transaction |
