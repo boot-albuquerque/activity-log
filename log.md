@@ -17021,3 +17021,4 @@
 | 2014-09-16 19:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2014-09-17 08:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | feat: add bulk operations support |
 | 2014-09-17 09:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | security: update SSL certificates config |
+| 2014-09-17 10:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
