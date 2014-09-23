@@ -17040,3 +17040,4 @@
 | 2014-09-22 16:14 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | refactor: adopt repository pattern |
 | 2014-09-22 17:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | test: add unit tests for payment service |
 | 2014-09-23 09:59 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | fix: handle missing environment variable |
+| 2014-09-23 11:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | security: update SSL certificates config |
