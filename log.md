@@ -17043,3 +17043,4 @@
 | 2014-09-23 11:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2014-09-23 17:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | fix: handle malformed JSON input |
 | 2014-09-24 09:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | chore: configure ESLint and Prettier |
+| 2014-09-24 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | test: mock external dependencies in tests |
