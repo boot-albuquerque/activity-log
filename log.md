@@ -17052,3 +17052,4 @@
 | 2014-09-25 00:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | security: fix SQL injection vulnerability |
 | 2014-09-26 16:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | test: fix flaky test in async handler |
 | 2014-09-26 18:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: correct pagination offset calculation |
+| 2014-09-28 00:02 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | feat: add pagination to list endpoint |
