@@ -17054,3 +17054,4 @@
 | 2014-09-26 18:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: correct pagination offset calculation |
 | 2014-09-28 00:02 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | feat: add pagination to list endpoint |
 | 2014-09-28 13:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: extract business logic to service layer |
+| 2014-09-29 10:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: resolve race condition in queue worker |
