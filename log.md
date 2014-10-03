@@ -17074,3 +17074,4 @@
 | 2014-10-03 11:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2014-10-03 11:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | feat: add search with filters |
 | 2014-10-03 15:16 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: resolve deadlock in transaction |
+| 2014-10-03 16:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | refactor: move constants to config module |
