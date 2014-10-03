@@ -17069,3 +17069,4 @@
 | 2014-10-02 17:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | docs: add README setup instructions |
 | 2014-10-02 17:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | feat: create dashboard metrics endpoint |
 | 2014-10-02 17:55 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | ci: add automated deployment pipeline |
+| 2014-10-03 00:41 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | refactor: extract business logic to service layer |
