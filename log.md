@@ -17091,3 +17091,4 @@
 | 2014-10-09 09:58 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | test: fix flaky test in async handler |
 | 2014-10-09 12:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2014-10-09 14:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | feat: implement webhook receiver |
+| 2014-10-09 15:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add audit log trail |
