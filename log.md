@@ -17095,3 +17095,4 @@
 | 2014-10-09 16:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct validation error messages |
 | 2014-10-10 15:14 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2014-10-11 13:37 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
+| 2014-10-11 21:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/new-endpoint` | perf: add database indexes |
