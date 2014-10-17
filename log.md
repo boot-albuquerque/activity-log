@@ -17107,3 +17107,4 @@
 | 2014-10-16 19:15 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | feat: implement JWT refresh token |
 | 2014-10-16 19:39 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2014-10-17 00:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: implement soft delete pattern |
+| 2014-10-17 12:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | test: mock external dependencies in tests |
