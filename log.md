@@ -17152,3 +17152,4 @@
 | 2014-10-28 15:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
 | 2014-10-28 19:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | refactor: consolidate error handling |
 | 2014-10-29 00:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: correct pagination offset calculation |
+| 2014-10-29 13:32 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: add export to CSV/Excel |
