@@ -17156,3 +17156,4 @@
 | 2014-10-29 14:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2014-10-29 17:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | feat: create admin management interface |
 | 2014-10-29 18:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | db: add composite index |
+| 2014-10-29 23:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: configure ESLint and Prettier |
