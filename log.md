@@ -17181,3 +17181,4 @@
 | 2014-11-04 08:21 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | test: add performance benchmark tests |
 | 2014-11-04 14:37 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2014-11-04 14:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
+| 2014-11-04 16:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | test: cover edge cases in validator |
