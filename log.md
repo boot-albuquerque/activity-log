@@ -17190,3 +17190,4 @@
 | 2014-11-05 21:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2014-11-06 13:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2014-11-06 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | infra: update Terraform modules |
+| 2014-11-06 13:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | feat: implement JWT refresh token |
