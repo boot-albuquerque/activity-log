@@ -17204,3 +17204,4 @@
 | 2014-11-10 17:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2014-11-10 21:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2014-11-10 21:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | fix: resolve race condition in queue worker |
+| 2014-11-12 00:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | db: optimize slow queries |
