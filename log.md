@@ -17211,3 +17211,4 @@
 | 2014-11-12 23:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | refactor: simplify authentication flow |
 | 2014-11-13 00:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | test: fix flaky test in async handler |
 | 2014-11-13 00:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | db: add migration for new schema |
+| 2014-11-13 09:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
