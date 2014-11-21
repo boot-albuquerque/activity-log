@@ -17230,3 +17230,4 @@
 | 2014-11-19 12:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | infra: update Terraform modules |
 | 2014-11-19 14:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
 | 2014-11-21 09:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | test: mock external dependencies in tests |
+| 2014-11-21 13:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: resolve CORS configuration |
