@@ -17233,3 +17233,4 @@
 | 2014-11-21 13:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: resolve CORS configuration |
 | 2014-11-24 09:29 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2014-11-24 10:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
+| 2014-11-24 14:22 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | fix: resolve memory leak in connection pool |
