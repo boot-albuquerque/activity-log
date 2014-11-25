@@ -17240,3 +17240,4 @@
 | 2014-11-25 11:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | security: add input sanitization |
 | 2014-11-25 13:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | feat: add file upload support |
 | 2014-11-25 14:49 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | security: add input sanitization |
+| 2014-11-25 17:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/prod-issue` | db: optimize slow queries |
