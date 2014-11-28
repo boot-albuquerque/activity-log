@@ -17260,3 +17260,4 @@
 | 2014-11-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2014-11-28 14:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: resolve deadlock in transaction |
 | 2014-11-28 14:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | ci: configure staging environment |
+| 2014-11-28 16:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | feat: add file upload support |
