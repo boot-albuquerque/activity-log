@@ -17258,3 +17258,4 @@
 | 2014-11-27 23:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
 | 2014-11-28 13:50 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | db: optimize slow queries |
 | 2014-11-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2014-11-28 14:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: resolve deadlock in transaction |
