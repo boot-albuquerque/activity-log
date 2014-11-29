@@ -17262,3 +17262,4 @@
 | 2014-11-28 14:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | ci: configure staging environment |
 | 2014-11-28 16:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | feat: add file upload support |
 | 2014-11-28 17:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/memory-leak` | test: mock external dependencies in tests |
+| 2014-11-28 23:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: update Terraform modules |
