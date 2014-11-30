@@ -17265,3 +17265,4 @@
 | 2014-11-28 23:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: update Terraform modules |
 | 2014-11-29 09:55 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | infra: configure auto-scaling policies |
 | 2014-11-29 14:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | test: mock external dependencies in tests |
+| 2014-11-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | perf: add database indexes |
