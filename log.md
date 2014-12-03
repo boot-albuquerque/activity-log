@@ -17279,3 +17279,4 @@
 | 2014-12-02 19:42 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | db: add migration for new schema |
 | 2014-12-02 23:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2014-12-03 00:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | test: add integration tests for API endpoints |
+| 2014-12-03 11:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | test: add integration tests for API endpoints |
