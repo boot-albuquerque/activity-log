@@ -17291,3 +17291,4 @@
 | 2014-12-05 09:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | db: add composite index |
 | 2014-12-05 12:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | fix: correct pagination offset calculation |
 | 2014-12-05 13:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: simplify authentication flow |
+| 2014-12-05 14:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | fix: resolve deadlock in transaction |
