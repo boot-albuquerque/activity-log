@@ -17289,3 +17289,4 @@
 | 2014-12-04 13:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add OpenAPI documentation |
 | 2014-12-04 23:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
 | 2014-12-05 09:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | db: add composite index |
+| 2014-12-05 12:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | fix: correct pagination offset calculation |
