@@ -17288,3 +17288,4 @@
 | 2014-12-04 13:30 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: configure ESLint and Prettier |
 | 2014-12-04 13:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add OpenAPI documentation |
 | 2014-12-04 23:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
+| 2014-12-05 09:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | db: add composite index |
