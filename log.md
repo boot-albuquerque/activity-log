@@ -17314,3 +17314,4 @@
 | 2014-12-10 13:42 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: create admin management interface |
 | 2014-12-10 18:04 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | feat: add email notification on status change |
 | 2014-12-11 00:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: resolve memory leak in connection pool |
+| 2014-12-11 11:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
