@@ -17318,3 +17318,4 @@
 | 2014-12-11 11:46 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | security: update SSL certificates config |
 | 2014-12-11 13:09 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/prod-issue` | security: add input sanitization |
 | 2014-12-11 15:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | feat: add user authentication endpoint |
+| 2014-12-11 19:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | docs: add README setup instructions |
