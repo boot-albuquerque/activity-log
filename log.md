@@ -17322,3 +17322,4 @@
 | 2014-12-12 00:30 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | test: improve test coverage to 80% |
 | 2014-12-12 14:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | feat: implement JWT refresh token |
 | 2014-12-12 15:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: create background job processor |
+| 2014-12-12 17:53 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | test: add unit tests for payment service |
