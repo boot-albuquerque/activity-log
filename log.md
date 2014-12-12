@@ -17320,3 +17320,4 @@
 | 2014-12-11 15:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2014-12-11 19:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | docs: add README setup instructions |
 | 2014-12-12 00:30 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | test: improve test coverage to 80% |
+| 2014-12-12 14:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | feat: implement JWT refresh token |
