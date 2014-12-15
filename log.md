@@ -17328,3 +17328,4 @@
 | 2014-12-12 22:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | feat: create admin management interface |
 | 2014-12-13 00:31 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | docs: document environment variables |
 | 2014-12-13 23:48 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
+| 2014-12-15 00:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | perf: add database indexes |
