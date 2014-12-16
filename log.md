@@ -17334,3 +17334,4 @@
 | 2014-12-16 11:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | style: format code according to style guide |
 | 2014-12-16 12:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | fix: resolve CORS configuration |
 | 2014-12-16 13:42 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | refactor: improve code readability |
+| 2014-12-16 13:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | refactor: move constants to config module |
