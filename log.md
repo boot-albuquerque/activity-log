@@ -17343,3 +17343,4 @@
 | 2014-12-17 15:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2014-12-17 17:24 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | fix: handle malformed JSON input |
 | 2014-12-17 18:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | feat: create admin management interface |
+| 2014-12-17 19:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | test: improve test coverage to 80% |
