@@ -17351,3 +17351,4 @@
 | 2014-12-18 13:35 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | infra: update Terraform modules |
 | 2014-12-18 14:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | fix: resolve N+1 query problem |
 | 2014-12-18 19:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
+| 2014-12-18 20:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: correct decimal precision in billing |
