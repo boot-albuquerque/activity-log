@@ -17353,3 +17353,4 @@
 | 2014-12-18 19:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2014-12-18 20:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: correct decimal precision in billing |
 | 2014-12-21 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: add e2e tests for checkout flow |
+| 2014-12-22 11:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | db: add composite index |
