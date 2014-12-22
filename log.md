@@ -17356,3 +17356,4 @@
 | 2014-12-22 11:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | db: add composite index |
 | 2014-12-22 11:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create order processing service |
 | 2014-12-22 13:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | style: format code according to style guide |
+| 2014-12-22 17:01 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | fix: handle malformed JSON input |
