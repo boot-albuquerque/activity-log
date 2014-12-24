@@ -17370,3 +17370,4 @@
 | 2014-12-24 10:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: correct validation error messages |
 | 2014-12-24 13:03 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | fix: resolve CORS configuration |
 | 2014-12-24 13:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | security: update SSL certificates config |
+| 2014-12-24 16:46 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
