@@ -17377,3 +17377,4 @@
 | 2014-12-26 18:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | db: add migration for new schema |
 | 2014-12-26 18:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2014-12-26 19:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
+| 2014-12-28 11:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | feat: add OpenAPI documentation |
