@@ -17394,3 +17394,4 @@
 | 2014-12-31 18:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | test: fix flaky test in async handler |
 | 2014-12-31 21:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement caching layer |
 | 2014-12-31 23:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
+| 2015-01-01 12:18 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | test: mock external dependencies in tests |
