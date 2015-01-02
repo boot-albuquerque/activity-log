@@ -17399,3 +17399,4 @@
 | 2015-01-01 13:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | refactor: improve code readability |
 | 2015-01-02 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | feat: create dashboard metrics endpoint |
 | 2015-01-02 13:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | ci: add automated deployment pipeline |
+| 2015-01-02 14:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | feat: add search with filters |
