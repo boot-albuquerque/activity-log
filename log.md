@@ -17397,3 +17397,4 @@
 | 2015-01-01 12:18 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | test: mock external dependencies in tests |
 | 2015-01-01 12:42 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | feat: create order processing service |
 | 2015-01-01 13:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | refactor: improve code readability |
+| 2015-01-02 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | feat: create dashboard metrics endpoint |
