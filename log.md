@@ -17402,3 +17402,4 @@
 | 2015-01-02 14:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | feat: add search with filters |
 | 2015-01-02 18:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | infra: configure auto-scaling policies |
 | 2015-01-02 21:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
+| 2015-01-03 13:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | fix: correct null check in user service |
