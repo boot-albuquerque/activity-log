@@ -17405,3 +17405,4 @@
 | 2015-01-03 13:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | fix: correct null check in user service |
 | 2015-01-04 11:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | refactor: adopt repository pattern |
 | 2015-01-04 16:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: implement soft delete pattern |
+| 2015-01-05 07:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | chore: add Docker Compose for local dev |
