@@ -17410,3 +17410,4 @@
 | 2015-01-05 14:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | security: update SSL certificates config |
 | 2015-01-05 17:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | refactor: improve code readability |
 | 2015-01-06 09:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | ci: configure staging environment |
+| 2015-01-06 11:45 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | feat: add file upload support |
