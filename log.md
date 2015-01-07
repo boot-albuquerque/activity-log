@@ -17417,3 +17417,4 @@
 | 2015-01-06 20:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add integration tests for API endpoints |
 | 2015-01-07 09:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | docs: add README setup instructions |
 | 2015-01-07 16:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | refactor: reduce cyclomatic complexity |
+| 2015-01-07 16:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: correct pagination offset calculation |
