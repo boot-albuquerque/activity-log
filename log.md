@@ -17421,3 +17421,4 @@
 | 2015-01-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
 | 2015-01-07 20:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2015-01-07 22:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2015-01-07 23:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: correct cache invalidation logic |
