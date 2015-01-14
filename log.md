@@ -17434,3 +17434,4 @@
 | 2015-01-13 10:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add audit log trail |
 | 2015-01-13 12:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | test: improve test coverage to 80% |
 | 2015-01-14 00:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | security: update SSL certificates config |
+| 2015-01-14 07:29 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | perf: optimize database queries |
