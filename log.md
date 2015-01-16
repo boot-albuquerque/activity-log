@@ -17449,3 +17449,4 @@
 | 2015-01-15 14:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: create background job processor |
 | 2015-01-15 23:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2015-01-16 08:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | db: add migration for new schema |
+| 2015-01-16 11:46 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | fix: correct null check in user service |
