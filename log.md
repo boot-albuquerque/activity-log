@@ -17460,3 +17460,4 @@
 | 2015-01-20 15:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | feat: implement caching layer |
 | 2015-01-21 14:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2015-01-21 16:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: add real-time notifications |
+| 2015-01-21 16:46 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: add real-time notifications |
