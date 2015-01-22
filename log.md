@@ -17467,3 +17467,4 @@
 | 2015-01-21 20:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | security: update SSL certificates config |
 | 2015-01-22 09:55 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2015-01-22 10:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: add pagination to list endpoint |
+| 2015-01-22 12:13 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | fix: resolve memory leak in connection pool |
