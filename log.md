@@ -17473,3 +17473,4 @@
 | 2015-01-22 15:33 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | ci: configure staging environment |
 | 2015-01-23 13:34 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: add user authentication endpoint |
 | 2015-01-24 12:56 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add user authentication endpoint |
+| 2015-01-24 13:02 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | fix: correct null check in user service |
