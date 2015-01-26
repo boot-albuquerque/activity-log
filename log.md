@@ -17475,3 +17475,4 @@
 | 2015-01-24 12:56 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add user authentication endpoint |
 | 2015-01-24 13:02 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2015-01-26 09:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | fix: handle edge case in date parsing |
+| 2015-01-26 10:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | fix: correct validation error messages |
