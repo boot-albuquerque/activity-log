@@ -17488,3 +17488,4 @@
 | 2015-01-29 13:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | perf: optimize database queries |
 | 2015-01-29 13:57 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: add unit tests for payment service |
 | 2015-01-29 18:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | db: optimize slow queries |
+| 2015-01-29 19:39 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | fix: handle missing environment variable |
