@@ -17485,3 +17485,4 @@
 | 2015-01-28 10:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2015-01-28 13:11 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: add pagination to list endpoint |
 | 2015-01-29 07:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2015-01-29 13:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | perf: optimize database queries |
