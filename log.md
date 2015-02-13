@@ -17522,3 +17522,4 @@
 | 2015-02-13 08:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: improve test coverage to 80% |
 | 2015-02-13 08:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2015-02-13 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | refactor: clean up unused imports |
+| 2015-02-13 13:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | chore: configure ESLint and Prettier |
