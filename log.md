@@ -17520,3 +17520,4 @@
 | 2015-02-12 20:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create health check endpoint |
 | 2015-02-13 00:35 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
 | 2015-02-13 08:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: improve test coverage to 80% |
+| 2015-02-13 08:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: add OpenAPI documentation |
