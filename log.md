@@ -17541,3 +17541,4 @@
 | 2015-02-18 16:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | security: fix SQL injection vulnerability |
 | 2015-02-18 23:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
 | 2015-02-19 09:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | db: optimize slow queries |
+| 2015-02-19 14:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | db: add migration for new schema |
