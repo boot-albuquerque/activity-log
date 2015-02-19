@@ -17543,3 +17543,4 @@
 | 2015-02-19 09:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | db: optimize slow queries |
 | 2015-02-19 14:17 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | db: add migration for new schema |
 | 2015-02-19 19:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | fix: resolve deadlock in transaction |
+| 2015-02-19 19:40 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: correct validation error messages |
