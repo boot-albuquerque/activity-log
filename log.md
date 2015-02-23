@@ -17550,3 +17550,4 @@
 | 2015-02-22 20:33 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | feat: add file upload support |
 | 2015-02-23 11:18 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | infra: update Terraform modules |
 | 2015-02-23 11:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: add unit tests for payment service |
+| 2015-02-23 11:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | docs: document environment variables |
