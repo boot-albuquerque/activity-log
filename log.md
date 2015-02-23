@@ -17552,3 +17552,4 @@
 | 2015-02-23 11:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: add unit tests for payment service |
 | 2015-02-23 11:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | docs: document environment variables |
 | 2015-02-23 13:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | refactor: extract business logic to service layer |
+| 2015-02-23 13:53 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | style: fix indentation and whitespace |
