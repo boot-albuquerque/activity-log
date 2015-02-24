@@ -17559,3 +17559,4 @@
 | 2015-02-24 12:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
 | 2015-02-24 16:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2015-02-24 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: add bulk operations support |
+| 2015-02-24 17:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | test: fix flaky test in async handler |
