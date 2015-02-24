@@ -17556,3 +17556,4 @@
 | 2015-02-23 20:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | docs: document environment variables |
 | 2015-02-23 23:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | test: improve test coverage to 80% |
 | 2015-02-24 11:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | db: add migration for new schema |
+| 2015-02-24 12:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
