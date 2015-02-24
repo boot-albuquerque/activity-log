@@ -17558,3 +17558,4 @@
 | 2015-02-24 11:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | db: add migration for new schema |
 | 2015-02-24 12:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
 | 2015-02-24 16:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
+| 2015-02-24 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: add bulk operations support |
