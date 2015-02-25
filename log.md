@@ -17565,3 +17565,4 @@
 | 2015-02-25 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: add audit log trail |
 | 2015-02-25 16:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add search with filters |
 | 2015-02-25 16:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: implement webhook receiver |
+| 2015-02-25 16:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | db: optimize slow queries |
