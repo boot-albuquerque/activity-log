@@ -17562,3 +17562,4 @@
 | 2015-02-24 17:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2015-02-24 22:40 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2015-02-24 23:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
+| 2015-02-25 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: add audit log trail |
