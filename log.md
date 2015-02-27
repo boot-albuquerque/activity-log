@@ -17576,3 +17576,4 @@
 | 2015-02-26 18:40 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | feat: implement soft delete pattern |
 | 2015-02-26 19:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | db: add migration for new schema |
 | 2015-02-26 20:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | refactor: improve code readability |
+| 2015-02-26 22:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
