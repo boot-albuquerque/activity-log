@@ -17577,3 +17577,4 @@
 | 2015-02-26 19:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | db: add migration for new schema |
 | 2015-02-26 20:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | refactor: improve code readability |
 | 2015-02-26 22:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
+| 2015-02-26 23:51 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | fix: correct validation error messages |
