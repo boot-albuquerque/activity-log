@@ -17584,3 +17584,4 @@
 | 2015-02-28 10:15 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2015-03-01 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
 | 2015-03-01 10:55 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | feat: create dashboard metrics endpoint |
+| 2015-03-02 11:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: resolve N+1 query problem |
