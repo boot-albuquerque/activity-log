@@ -17605,3 +17605,4 @@
 | 2015-03-06 12:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | chore: add pre-commit hooks |
 | 2015-03-06 12:31 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | refactor: improve code readability |
 | 2015-03-06 14:25 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | feat: add audit log trail |
+| 2015-03-06 14:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | fix: resolve CORS configuration |
