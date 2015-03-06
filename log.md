@@ -17609,3 +17609,4 @@
 | 2015-03-06 14:59 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | refactor: adopt repository pattern |
 | 2015-03-06 15:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | chore: add pre-commit hooks |
 | 2015-03-06 15:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | feat: create health check endpoint |
+| 2015-03-06 16:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | fix: handle empty response from external API |
