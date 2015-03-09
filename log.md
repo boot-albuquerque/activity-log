@@ -17614,3 +17614,4 @@
 | 2015-03-08 11:13 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | fix: correct validation error messages |
 | 2015-03-08 20:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | chore: add Docker Compose for local dev |
 | 2015-03-09 17:22 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | chore: configure GitHub Actions CI |
+| 2015-03-09 18:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | feat: add export to CSV/Excel |
