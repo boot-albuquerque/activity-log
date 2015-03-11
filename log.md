@@ -17619,3 +17619,4 @@
 | 2015-03-10 16:07 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | ci: configure staging environment |
 | 2015-03-11 09:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | fix: resolve N+1 query problem |
 | 2015-03-11 10:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | test: add integration tests for API endpoints |
+| 2015-03-11 14:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | infra: add Kubernetes manifests |
