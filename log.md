@@ -17630,3 +17630,4 @@
 | 2015-03-12 11:00 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2015-03-12 11:06 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | feat: add email notification on status change |
 | 2015-03-12 11:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2015-03-12 15:29 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | test: mock external dependencies in tests |
