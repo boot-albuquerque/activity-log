@@ -17625,3 +17625,4 @@
 | 2015-03-11 19:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: add real-time notifications |
 | 2015-03-11 22:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: extract business logic to service layer |
 | 2015-03-12 00:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | test: improve test coverage to 80% |
+| 2015-03-12 08:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | docs: add README setup instructions |
