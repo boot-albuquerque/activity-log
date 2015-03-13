@@ -17633,3 +17633,4 @@
 | 2015-03-12 15:29 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | test: mock external dependencies in tests |
 | 2015-03-13 00:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: add email notification on status change |
 | 2015-03-13 08:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
+| 2015-03-13 08:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: implement soft delete pattern |
