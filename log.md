@@ -17658,3 +17658,4 @@
 | 2015-03-18 15:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | chore: add pre-commit hooks |
 | 2015-03-20 00:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | perf: reduce bundle size |
 | 2015-03-20 09:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | fix: handle empty response from external API |
+| 2015-03-20 12:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add OpenAPI documentation |
