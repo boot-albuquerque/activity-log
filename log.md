@@ -17686,3 +17686,4 @@
 | 2015-03-24 23:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2015-03-24 23:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | ci: configure staging environment |
 | 2015-03-25 22:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | refactor: simplify authentication flow |
+| 2015-03-25 23:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: mock external dependencies in tests |
