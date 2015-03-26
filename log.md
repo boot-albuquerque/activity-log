@@ -17691,3 +17691,4 @@
 | 2015-03-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2015-03-26 10:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2015-03-26 10:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: create dashboard metrics endpoint |
+| 2015-03-26 14:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | fix: handle edge case in date parsing |
