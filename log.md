@@ -17689,3 +17689,4 @@
 | 2015-03-25 23:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: mock external dependencies in tests |
 | 2015-03-26 00:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2015-03-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2015-03-26 10:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | test: mock external dependencies in tests |
