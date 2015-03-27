@@ -17697,3 +17697,4 @@
 | 2015-03-26 16:12 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add OpenAPI documentation |
 | 2015-03-26 17:04 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | perf: implement response compression |
 | 2015-03-27 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create admin management interface |
+| 2015-03-27 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve deadlock in transaction |
