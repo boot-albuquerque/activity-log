@@ -17705,3 +17705,4 @@
 | 2015-03-29 13:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | fix: correct validation error messages |
 | 2015-03-29 13:01 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | style: format code according to style guide |
 | 2015-03-30 20:16 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: add bulk operations support |
+| 2015-04-01 00:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | feat: add bulk operations support |
