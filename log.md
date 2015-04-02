@@ -17715,3 +17715,4 @@
 | 2015-04-01 21:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | refactor: improve code readability |
 | 2015-04-01 21:26 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: correct validation error messages |
 | 2015-04-01 23:50 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | refactor: move constants to config module |
+| 2015-04-02 13:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | db: add migration for new schema |
