@@ -17726,3 +17726,4 @@
 | 2015-04-04 15:37 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | test: add performance benchmark tests |
 | 2015-04-05 13:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | feat: create admin management interface |
 | 2015-04-05 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: move constants to config module |
+| 2015-04-07 08:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | infra: add Kubernetes manifests |
