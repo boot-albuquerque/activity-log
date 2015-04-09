@@ -17739,3 +17739,4 @@
 | 2015-04-08 18:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2015-04-08 20:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: resolve memory leak in connection pool |
 | 2015-04-08 20:48 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
+| 2015-04-08 21:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: add user authentication endpoint |
