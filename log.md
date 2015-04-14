@@ -17758,3 +17758,4 @@
 | 2015-04-14 09:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: implement JWT refresh token |
 | 2015-04-14 11:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | feat: implement rate limiting middleware |
 | 2015-04-14 12:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add integration tests for API endpoints |
+| 2015-04-14 15:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | docs: add README setup instructions |
