@@ -17761,3 +17761,4 @@
 | 2015-04-14 15:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | docs: add README setup instructions |
 | 2015-04-14 15:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2015-04-14 17:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | refactor: replace raw SQL with query builder |
+| 2015-04-14 22:10 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: handle missing environment variable |
