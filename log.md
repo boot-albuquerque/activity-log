@@ -17766,3 +17766,4 @@
 | 2015-04-15 11:35 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2015-04-15 11:55 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: create health check endpoint |
 | 2015-04-15 21:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | fix: handle missing environment variable |
+| 2015-04-16 10:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
