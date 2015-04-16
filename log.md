@@ -17767,3 +17767,4 @@
 | 2015-04-15 11:55 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: create health check endpoint |
 | 2015-04-15 21:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | fix: handle missing environment variable |
 | 2015-04-16 10:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
+| 2015-04-16 10:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | refactor: replace raw SQL with query builder |
