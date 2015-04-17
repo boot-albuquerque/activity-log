@@ -17774,3 +17774,4 @@
 | 2015-04-16 19:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | docs: update API documentation |
 | 2015-04-16 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | test: add unit tests for payment service |
 | 2015-04-17 09:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | test: add e2e tests for checkout flow |
+| 2015-04-17 11:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | docs: document environment variables |
