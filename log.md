@@ -17776,3 +17776,4 @@
 | 2015-04-17 09:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | test: add e2e tests for checkout flow |
 | 2015-04-17 11:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | docs: document environment variables |
 | 2015-04-18 09:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct pagination offset calculation |
+| 2015-04-18 14:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: implement webhook receiver |
