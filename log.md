@@ -17781,3 +17781,4 @@
 | 2015-04-19 13:10 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
 | 2015-04-19 20:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | test: add performance benchmark tests |
 | 2015-04-20 00:57 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | feat: implement caching layer |
+| 2015-04-20 07:41 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | feat: add OpenAPI documentation |
