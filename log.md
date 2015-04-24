@@ -17803,3 +17803,4 @@
 | 2015-04-23 12:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct validation error messages |
 | 2015-04-23 15:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | fix: correct pagination offset calculation |
 | 2015-04-23 16:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | test: fix flaky test in async handler |
+| 2015-04-24 00:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: handle malformed JSON input |
