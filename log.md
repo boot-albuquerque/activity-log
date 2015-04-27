@@ -17814,3 +17814,4 @@
 | 2015-04-27 10:22 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: correct null check in user service |
 | 2015-04-27 14:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | test: add e2e tests for checkout flow |
 | 2015-04-27 15:36 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/null-pointer` | feat: add search with filters |
+| 2015-04-27 15:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | infra: update Terraform modules |
