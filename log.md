@@ -17812,3 +17812,4 @@
 | 2015-04-27 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: correct null check in user service |
 | 2015-04-27 10:17 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: correct pagination offset calculation |
 | 2015-04-27 10:22 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: correct null check in user service |
+| 2015-04-27 14:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | test: add e2e tests for checkout flow |
