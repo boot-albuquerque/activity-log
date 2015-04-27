@@ -17809,3 +17809,4 @@
 | 2015-04-25 14:56 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2015-04-26 12:12 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | fix: correct pagination offset calculation |
 | 2015-04-26 22:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: improve test coverage to 80% |
+| 2015-04-27 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: correct null check in user service |
