@@ -17829,3 +17829,4 @@
 | 2015-04-30 16:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | feat: add email notification on status change |
 | 2015-04-30 16:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | db: optimize slow queries |
 | 2015-04-30 21:15 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
+| 2015-04-30 22:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: correct validation error messages |
