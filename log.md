@@ -17831,3 +17831,4 @@
 | 2015-04-30 21:15 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
 | 2015-04-30 22:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: correct validation error messages |
 | 2015-05-01 10:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: handle malformed JSON input |
+| 2015-05-01 11:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | feat: create admin management interface |
