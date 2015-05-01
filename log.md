@@ -17834,3 +17834,4 @@
 | 2015-05-01 11:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | feat: create admin management interface |
 | 2015-05-01 13:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | feat: create dashboard metrics endpoint |
 | 2015-05-01 13:47 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | refactor: adopt repository pattern |
+| 2015-05-01 16:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | test: mock external dependencies in tests |
