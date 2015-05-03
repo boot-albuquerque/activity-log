@@ -17837,3 +17837,4 @@
 | 2015-05-01 16:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2015-05-02 12:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2015-05-02 23:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | chore: add pre-commit hooks |
+| 2015-05-03 09:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | fix: handle malformed JSON input |
