@@ -17840,3 +17840,4 @@
 | 2015-05-03 09:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | fix: handle malformed JSON input |
 | 2015-05-03 12:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | infra: update Terraform modules |
 | 2015-05-04 09:14 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | chore: upgrade to latest Node.js LTS |
+| 2015-05-04 11:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | fix: correct decimal precision in billing |
