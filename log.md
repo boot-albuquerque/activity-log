@@ -17847,3 +17847,4 @@
 | 2015-05-04 16:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: resolve race condition in queue worker |
 | 2015-05-04 23:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | feat: implement soft delete pattern |
 | 2015-05-05 09:44 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | feat: implement soft delete pattern |
+| 2015-05-05 11:49 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | feat: add search with filters |
