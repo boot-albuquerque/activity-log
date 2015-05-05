@@ -17845,3 +17845,4 @@
 | 2015-05-04 13:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2015-05-04 13:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | feat: implement caching layer |
 | 2015-05-04 16:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: resolve race condition in queue worker |
+| 2015-05-04 23:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | feat: implement soft delete pattern |
