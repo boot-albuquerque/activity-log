@@ -17849,3 +17849,4 @@
 | 2015-05-05 09:44 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | feat: implement soft delete pattern |
 | 2015-05-05 11:49 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | feat: add search with filters |
 | 2015-05-05 13:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | style: format code according to style guide |
+| 2015-05-06 12:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | fix: correct cache invalidation logic |
