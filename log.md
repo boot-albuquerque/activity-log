@@ -17852,3 +17852,4 @@
 | 2015-05-06 12:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | fix: correct cache invalidation logic |
 | 2015-05-06 22:29 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: create background job processor |
 | 2015-05-08 00:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | style: fix indentation and whitespace |
+| 2015-05-08 12:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | db: add migration for new schema |
