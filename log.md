@@ -17854,3 +17854,4 @@
 | 2015-05-08 00:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2015-05-08 12:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | db: add migration for new schema |
 | 2015-05-08 16:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | fix: resolve CORS configuration |
+| 2015-05-08 17:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | db: add composite index |
