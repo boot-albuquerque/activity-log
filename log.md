@@ -17856,3 +17856,4 @@
 | 2015-05-08 16:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | fix: resolve CORS configuration |
 | 2015-05-08 17:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | db: add composite index |
 | 2015-05-08 18:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
+| 2015-05-10 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | docs: update API documentation |
