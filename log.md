@@ -17864,3 +17864,4 @@
 | 2015-05-11 16:50 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | test: add performance benchmark tests |
 | 2015-05-11 18:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | refactor: consolidate error handling |
 | 2015-05-11 18:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | infra: add Kubernetes manifests |
+| 2015-05-11 18:33 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | db: add composite index |
