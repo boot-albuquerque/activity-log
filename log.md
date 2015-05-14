@@ -17878,3 +17878,4 @@
 | 2015-05-13 22:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | feat: create admin management interface |
 | 2015-05-14 00:59 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2015-05-14 09:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | chore: update dependencies |
+| 2015-05-14 14:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | docs: add README setup instructions |
