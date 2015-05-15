@@ -17880,3 +17880,4 @@
 | 2015-05-14 09:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | chore: update dependencies |
 | 2015-05-14 14:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | docs: add README setup instructions |
 | 2015-05-14 20:44 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | test: mock external dependencies in tests |
+| 2015-05-15 00:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: add export to CSV/Excel |
