@@ -17893,3 +17893,4 @@
 | 2015-05-17 07:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | infra: update Terraform modules |
 | 2015-05-17 13:21 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: consolidate error handling |
 | 2015-05-18 10:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: handle malformed JSON input |
+| 2015-05-18 10:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | feat: implement JWT refresh token |
