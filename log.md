@@ -17903,3 +17903,4 @@
 | 2015-05-18 18:24 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: add email notification on status change |
 | 2015-05-18 19:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | fix: handle timeout in async operation |
 | 2015-05-19 08:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | docs: update API documentation |
+| 2015-05-19 12:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | test: add e2e tests for checkout flow |
