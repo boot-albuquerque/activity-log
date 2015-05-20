@@ -17911,3 +17911,4 @@
 | 2015-05-19 20:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | db: add migration for new schema |
 | 2015-05-20 07:15 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: add email notification on status change |
 | 2015-05-20 07:33 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: correct decimal precision in billing |
+| 2015-05-20 08:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
