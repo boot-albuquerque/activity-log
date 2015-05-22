@@ -17924,3 +17924,4 @@
 | 2015-05-21 15:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | infra: configure auto-scaling policies |
 | 2015-05-21 16:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: implement webhook receiver |
 | 2015-05-21 17:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | chore: add Docker Compose for local dev |
+| 2015-05-21 22:41 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | test: mock external dependencies in tests |
