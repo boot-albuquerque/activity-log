@@ -17926,3 +17926,4 @@
 | 2015-05-21 17:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2015-05-21 22:41 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | test: mock external dependencies in tests |
 | 2015-05-22 11:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | security: update SSL certificates config |
+| 2015-05-22 13:10 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | infra: update Terraform modules |
