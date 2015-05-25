@@ -17929,3 +17929,4 @@
 | 2015-05-22 13:10 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | infra: update Terraform modules |
 | 2015-05-22 14:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2015-05-25 14:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add user authentication endpoint |
+| 2015-05-25 17:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | refactor: move constants to config module |
