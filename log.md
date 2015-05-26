@@ -17941,3 +17941,4 @@
 | 2015-05-26 13:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | perf: add database indexes |
 | 2015-05-26 14:24 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | feat: add user authentication endpoint |
 | 2015-05-26 14:34 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | feat: implement rate limiting middleware |
+| 2015-05-26 14:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | feat: add search with filters |
