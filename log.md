@@ -17952,3 +17952,4 @@
 | 2015-05-27 16:26 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: implement JWT refresh token |
 | 2015-05-27 17:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | perf: reduce bundle size |
 | 2015-05-27 17:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve CORS configuration |
+| 2015-05-27 20:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | chore: add pre-commit hooks |
