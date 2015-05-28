@@ -17956,3 +17956,4 @@
 | 2015-05-27 23:11 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2015-05-28 00:26 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2015-05-28 12:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle edge case in date parsing |
+| 2015-05-28 16:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | refactor: replace raw SQL with query builder |
