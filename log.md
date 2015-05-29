@@ -17957,3 +17957,4 @@
 | 2015-05-28 00:26 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2015-05-28 12:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle edge case in date parsing |
 | 2015-05-28 16:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | refactor: replace raw SQL with query builder |
+| 2015-05-29 11:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | test: improve test coverage to 80% |
