@@ -17962,3 +17962,4 @@
 | 2015-05-29 13:00 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: replace raw SQL with query builder |
 | 2015-05-29 15:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | refactor: improve code readability |
 | 2015-05-29 20:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | refactor: move constants to config module |
+| 2015-05-29 23:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | test: add unit tests for payment service |
