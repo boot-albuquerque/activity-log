@@ -17965,3 +17965,4 @@
 | 2015-05-29 23:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2015-05-30 11:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2015-05-30 15:05 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: handle missing environment variable |
+| 2015-05-31 20:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | infra: update Terraform modules |
