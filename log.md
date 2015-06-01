@@ -17968,3 +17968,4 @@
 | 2015-05-31 20:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | infra: update Terraform modules |
 | 2015-05-31 21:52 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: handle missing environment variable |
 | 2015-06-01 14:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | test: improve test coverage to 80% |
+| 2015-06-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | security: add input sanitization |
