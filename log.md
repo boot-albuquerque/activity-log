@@ -17970,3 +17970,4 @@
 | 2015-06-01 14:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | test: improve test coverage to 80% |
 | 2015-06-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | security: add input sanitization |
 | 2015-06-02 00:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | refactor: clean up unused imports |
+| 2015-06-02 00:59 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | db: add composite index |
