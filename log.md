@@ -17976,3 +17976,4 @@
 | 2015-06-02 15:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | infra: add Kubernetes manifests |
 | 2015-06-02 16:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2015-06-02 16:24 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | docs: document environment variables |
+| 2015-06-02 19:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | infra: configure auto-scaling policies |
