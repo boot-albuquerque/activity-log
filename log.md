@@ -17997,3 +17997,4 @@
 | 2015-06-06 13:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2015-06-07 00:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | refactor: move constants to config module |
 | 2015-06-07 09:33 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | style: format code according to style guide |
+| 2015-06-08 11:04 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | feat: add search with filters |
