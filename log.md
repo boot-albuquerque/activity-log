@@ -18007,3 +18007,4 @@
 | 2015-06-10 14:48 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | security: add input sanitization |
 | 2015-06-10 16:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add email notification on status change |
 | 2015-06-10 18:51 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | test: add unit tests for payment service |
+| 2015-06-10 19:31 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | fix: resolve CORS configuration |
