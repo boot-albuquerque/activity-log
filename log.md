@@ -18025,3 +18025,4 @@
 | 2015-06-13 17:45 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | docs: update API documentation |
 | 2015-06-13 18:08 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2015-06-13 21:46 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | feat: add search with filters |
+| 2015-06-15 08:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | fix: resolve memory leak in connection pool |
