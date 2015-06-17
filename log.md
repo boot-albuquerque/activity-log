@@ -18032,3 +18032,4 @@
 | 2015-06-16 21:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | infra: configure auto-scaling policies |
 | 2015-06-17 08:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | fix: correct null check in user service |
 | 2015-06-17 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: improve code readability |
+| 2015-06-17 16:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | docs: add README setup instructions |
