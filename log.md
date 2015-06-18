@@ -18034,3 +18034,4 @@
 | 2015-06-17 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: improve code readability |
 | 2015-06-17 16:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | docs: add README setup instructions |
 | 2015-06-18 13:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | db: add migration for new schema |
+| 2015-06-18 14:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | fix: handle missing environment variable |
