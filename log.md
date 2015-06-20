@@ -18039,3 +18039,4 @@
 | 2015-06-18 18:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2015-06-18 22:57 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | test: fix flaky test in async handler |
 | 2015-06-19 11:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: add e2e tests for checkout flow |
+| 2015-06-19 23:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | ci: add automated deployment pipeline |
