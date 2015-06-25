@@ -18058,3 +18058,4 @@
 | 2015-06-24 18:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | style: fix indentation and whitespace |
 | 2015-06-24 21:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | feat: add search with filters |
 | 2015-06-24 23:02 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | test: fix flaky test in async handler |
+| 2015-06-24 23:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: resolve CORS configuration |
