@@ -18062,3 +18062,4 @@
 | 2015-06-26 00:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | feat: create admin management interface |
 | 2015-06-26 00:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2015-06-26 08:00 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: add search with filters |
+| 2015-06-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
