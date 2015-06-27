@@ -18064,3 +18064,4 @@
 | 2015-06-26 08:00 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: add search with filters |
 | 2015-06-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
 | 2015-06-26 15:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | test: add integration tests for API endpoints |
+| 2015-06-26 20:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | fix: correct cache invalidation logic |
