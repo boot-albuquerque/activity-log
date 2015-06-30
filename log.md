@@ -18081,3 +18081,4 @@
 | 2015-06-30 15:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | feat: implement caching layer |
 | 2015-06-30 17:38 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2015-06-30 19:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | chore: add pre-commit hooks |
+| 2015-06-30 20:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | db: add composite index |
