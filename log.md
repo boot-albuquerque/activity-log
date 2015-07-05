@@ -18093,3 +18093,4 @@
 | 2015-07-02 13:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | feat: add file upload support |
 | 2015-07-04 07:53 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | feat: create background job processor |
 | 2015-07-04 11:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | chore: configure ESLint and Prettier |
+| 2015-07-05 00:46 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | fix: correct validation error messages |
