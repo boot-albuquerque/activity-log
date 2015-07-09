@@ -18116,3 +18116,4 @@
 | 2015-07-09 16:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | db: add composite index |
 | 2015-07-09 16:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v1.0` | refactor: consolidate error handling |
 | 2015-07-09 17:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle edge case in date parsing |
+| 2015-07-09 20:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | fix: correct null check in user service |
