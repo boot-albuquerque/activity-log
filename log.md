@@ -18112,3 +18112,4 @@
 | 2015-07-09 00:16 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2015-07-09 09:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: implement webhook receiver |
 | 2015-07-09 10:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | chore: configure GitHub Actions CI |
+| 2015-07-09 12:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: correct null check in user service |
