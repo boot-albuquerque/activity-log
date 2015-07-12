@@ -18118,3 +18118,4 @@
 | 2015-07-09 17:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle edge case in date parsing |
 | 2015-07-09 20:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2015-07-12 09:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2015-07-12 13:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | ci: configure staging environment |
