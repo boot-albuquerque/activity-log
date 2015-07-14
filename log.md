@@ -18121,3 +18121,4 @@
 | 2015-07-12 13:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | ci: configure staging environment |
 | 2015-07-13 17:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | perf: implement response compression |
 | 2015-07-14 08:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | chore: add Docker Compose for local dev |
+| 2015-07-14 13:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | test: mock external dependencies in tests |
