@@ -18123,3 +18123,4 @@
 | 2015-07-14 08:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | chore: add Docker Compose for local dev |
 | 2015-07-14 13:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2015-07-14 13:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add search with filters |
+| 2015-07-14 15:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
