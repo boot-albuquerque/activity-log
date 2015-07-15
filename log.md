@@ -18126,3 +18126,4 @@
 | 2015-07-14 15:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2015-07-14 15:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | chore: update dependencies |
 | 2015-07-14 17:16 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | test: add performance benchmark tests |
+| 2015-07-14 21:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: add export to CSV/Excel |
