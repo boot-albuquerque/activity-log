@@ -18153,3 +18153,4 @@
 | 2015-07-22 00:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | security: update SSL certificates config |
 | 2015-07-22 08:06 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: move constants to config module |
 | 2015-07-22 13:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
+| 2015-07-22 14:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | perf: implement response compression |
