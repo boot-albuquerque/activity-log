@@ -18159,3 +18159,4 @@
 | 2015-07-23 20:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | chore: update dependencies |
 | 2015-07-24 10:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | docs: document environment variables |
 | 2015-07-24 10:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2015-07-24 18:23 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | fix: resolve race condition in queue worker |
