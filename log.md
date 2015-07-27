@@ -18170,3 +18170,4 @@
 | 2015-07-27 12:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | db: add composite index |
 | 2015-07-27 14:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | ci: configure staging environment |
 | 2015-07-27 14:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: implement rate limiting middleware |
+| 2015-07-27 16:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: correct validation error messages |
