@@ -18178,3 +18178,4 @@
 | 2015-07-28 00:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | fix: correct pagination offset calculation |
 | 2015-07-28 09:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | security: add input sanitization |
 | 2015-07-28 10:52 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | refactor: adopt repository pattern |
+| 2015-07-28 12:32 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | infra: add Kubernetes manifests |
