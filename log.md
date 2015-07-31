@@ -18183,3 +18183,4 @@
 | 2015-07-28 15:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | ci: configure staging environment |
 | 2015-07-30 15:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | feat: implement caching layer |
 | 2015-07-31 07:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | style: format code according to style guide |
+| 2015-07-31 11:49 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | perf: add database indexes |
