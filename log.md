@@ -18193,3 +18193,4 @@
 | 2015-08-02 09:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | refactor: improve code readability |
 | 2015-08-02 19:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | feat: add email notification on status change |
 | 2015-08-03 09:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | fix: correct decimal precision in billing |
+| 2015-08-03 12:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: add search with filters |
