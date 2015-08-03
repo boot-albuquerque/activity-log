@@ -18192,3 +18192,4 @@
 | 2015-07-31 23:15 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2015-08-02 09:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | refactor: improve code readability |
 | 2015-08-02 19:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | feat: add email notification on status change |
+| 2015-08-03 09:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | fix: correct decimal precision in billing |
