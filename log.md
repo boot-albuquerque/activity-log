@@ -18198,3 +18198,4 @@
 | 2015-08-03 13:41 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | refactor: split large controller into smaller ones |
 | 2015-08-03 15:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | test: mock external dependencies in tests |
 | 2015-08-03 16:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | ci: add automated deployment pipeline |
+| 2015-08-05 08:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: add unit tests for payment service |
