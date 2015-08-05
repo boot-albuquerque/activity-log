@@ -18200,3 +18200,4 @@
 | 2015-08-03 16:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | ci: add automated deployment pipeline |
 | 2015-08-05 08:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: add unit tests for payment service |
 | 2015-08-05 09:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | test: cover edge cases in validator |
+| 2015-08-05 11:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | fix: correct null check in user service |
