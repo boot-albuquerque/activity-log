@@ -18211,3 +18211,4 @@
 | 2015-08-06 08:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | db: add migration for new schema |
 | 2015-08-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | refactor: simplify authentication flow |
 | 2015-08-06 11:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: format code according to style guide |
+| 2015-08-06 12:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | security: update SSL certificates config |
