@@ -18212,3 +18212,4 @@
 | 2015-08-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | refactor: simplify authentication flow |
 | 2015-08-06 11:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: format code according to style guide |
 | 2015-08-06 12:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | security: update SSL certificates config |
+| 2015-08-06 15:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add file upload support |
