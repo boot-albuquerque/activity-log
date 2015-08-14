@@ -18252,3 +18252,4 @@
 | 2015-08-14 14:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | chore: add pre-commit hooks |
 | 2015-08-14 15:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | test: fix flaky test in async handler |
 | 2015-08-14 16:20 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | feat: add user authentication endpoint |
+| 2015-08-14 16:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | db: optimize slow queries |
