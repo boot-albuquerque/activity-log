@@ -18248,3 +18248,4 @@
 | 2015-08-14 10:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2015-08-14 10:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | test: add performance benchmark tests |
 | 2015-08-14 12:27 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | refactor: improve code readability |
+| 2015-08-14 13:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add OpenAPI documentation |
