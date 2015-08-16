@@ -18255,3 +18255,4 @@
 | 2015-08-14 16:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | db: optimize slow queries |
 | 2015-08-14 17:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | fix: handle missing environment variable |
 | 2015-08-15 23:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | fix: handle empty response from external API |
+| 2015-08-16 07:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | refactor: adopt repository pattern |
