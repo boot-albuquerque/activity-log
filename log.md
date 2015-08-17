@@ -18260,3 +18260,4 @@
 | 2015-08-17 08:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement caching layer |
 | 2015-08-17 09:04 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: add email notification on status change |
 | 2015-08-17 09:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | db: add composite index |
+| 2015-08-17 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | fix: handle edge case in date parsing |
