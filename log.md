@@ -18259,3 +18259,4 @@
 | 2015-08-16 11:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: split large controller into smaller ones |
 | 2015-08-17 08:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement caching layer |
 | 2015-08-17 09:04 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: add email notification on status change |
+| 2015-08-17 09:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | db: add composite index |
