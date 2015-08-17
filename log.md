@@ -18257,3 +18257,4 @@
 | 2015-08-15 23:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | fix: handle empty response from external API |
 | 2015-08-16 07:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | refactor: adopt repository pattern |
 | 2015-08-16 11:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: split large controller into smaller ones |
+| 2015-08-17 08:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement caching layer |
