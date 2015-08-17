@@ -18261,3 +18261,4 @@
 | 2015-08-17 09:04 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: add email notification on status change |
 | 2015-08-17 09:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | db: add composite index |
 | 2015-08-17 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | fix: handle edge case in date parsing |
+| 2015-08-17 18:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: improve test coverage to 80% |
