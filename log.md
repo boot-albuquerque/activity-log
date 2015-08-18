@@ -18264,3 +18264,4 @@
 | 2015-08-17 18:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: improve test coverage to 80% |
 | 2015-08-17 22:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: create order processing service |
 | 2015-08-17 22:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | security: update SSL certificates config |
+| 2015-08-18 10:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: resolve N+1 query problem |
