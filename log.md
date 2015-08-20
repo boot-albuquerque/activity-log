@@ -18275,3 +18275,4 @@
 | 2015-08-19 12:48 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | test: cover edge cases in validator |
 | 2015-08-19 16:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | docs: add README setup instructions |
 | 2015-08-20 00:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | test: add integration tests for API endpoints |
+| 2015-08-20 12:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | chore: add Docker Compose for local dev |
