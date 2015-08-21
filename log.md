@@ -18281,3 +18281,4 @@
 | 2015-08-20 14:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2015-08-20 19:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | db: optimize slow queries |
 | 2015-08-20 20:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | test: fix flaky test in async handler |
+| 2015-08-20 21:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | db: add migration for new schema |
