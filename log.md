@@ -18283,3 +18283,4 @@
 | 2015-08-20 20:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | test: fix flaky test in async handler |
 | 2015-08-20 21:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | db: add migration for new schema |
 | 2015-08-21 10:12 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | docs: add README setup instructions |
+| 2015-08-21 14:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | chore: add pre-commit hooks |
