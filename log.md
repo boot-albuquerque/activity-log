@@ -18289,3 +18289,4 @@
 | 2015-08-24 12:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2015-08-24 13:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | docs: add README setup instructions |
 | 2015-08-24 13:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: create dashboard metrics endpoint |
+| 2015-08-24 14:21 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | fix: resolve memory leak in connection pool |
