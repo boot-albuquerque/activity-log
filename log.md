@@ -18287,3 +18287,4 @@
 | 2015-08-21 15:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | chore: update dependencies |
 | 2015-08-24 12:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | feat: create admin management interface |
 | 2015-08-24 12:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2015-08-24 13:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | docs: add README setup instructions |
