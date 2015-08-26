@@ -18295,3 +18295,4 @@
 | 2015-08-24 17:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
 | 2015-08-24 19:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2015-08-24 23:47 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: add e2e tests for checkout flow |
+| 2015-08-26 10:07 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add composite index |
