@@ -18297,3 +18297,4 @@
 | 2015-08-24 23:47 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: add e2e tests for checkout flow |
 | 2015-08-26 10:07 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | db: add composite index |
 | 2015-08-26 18:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | chore: add Docker Compose for local dev |
+| 2015-08-27 13:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | chore: add pre-commit hooks |
