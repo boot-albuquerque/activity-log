@@ -18304,3 +18304,4 @@
 | 2015-08-28 00:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: handle missing environment variable |
 | 2015-08-28 09:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | fix: handle malformed JSON input |
 | 2015-08-28 13:38 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: add email notification on status change |
+| 2015-08-28 13:49 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | feat: add bulk operations support |
