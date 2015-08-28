@@ -18301,3 +18301,4 @@
 | 2015-08-27 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | db: optimize slow queries |
 | 2015-08-27 18:13 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | refactor: consolidate error handling |
 | 2015-08-27 20:47 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | test: mock external dependencies in tests |
+| 2015-08-28 00:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: handle missing environment variable |
