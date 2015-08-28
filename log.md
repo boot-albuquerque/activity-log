@@ -18303,3 +18303,4 @@
 | 2015-08-27 20:47 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2015-08-28 00:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: handle missing environment variable |
 | 2015-08-28 09:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | fix: handle malformed JSON input |
+| 2015-08-28 13:38 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: add email notification on status change |
