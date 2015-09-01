@@ -18315,3 +18315,4 @@
 | 2015-08-31 07:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct null check in user service |
 | 2015-08-31 16:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | perf: reduce bundle size |
 | 2015-08-31 22:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | chore: update dependencies |
+| 2015-09-01 00:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: create dashboard metrics endpoint |
