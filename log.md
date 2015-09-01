@@ -18318,3 +18318,4 @@
 | 2015-09-01 00:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: create dashboard metrics endpoint |
 | 2015-09-01 12:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | infra: update Terraform modules |
 | 2015-09-01 12:16 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | style: format code according to style guide |
+| 2015-09-01 12:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add export to CSV/Excel |
