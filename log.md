@@ -18327,3 +18327,4 @@
 | 2015-09-02 19:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: add pre-commit hooks |
 | 2015-09-02 23:52 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2015-09-03 08:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
+| 2015-09-03 08:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | infra: add Kubernetes manifests |
