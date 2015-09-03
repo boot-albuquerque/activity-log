@@ -18329,3 +18329,4 @@
 | 2015-09-03 08:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
 | 2015-09-03 08:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2015-09-03 09:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
+| 2015-09-03 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | fix: handle edge case in date parsing |
