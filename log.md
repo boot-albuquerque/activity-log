@@ -18341,3 +18341,4 @@
 | 2015-09-04 00:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | chore: update dependencies |
 | 2015-09-04 09:14 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2015-09-04 09:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | perf: add database indexes |
+| 2015-09-04 11:23 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | feat: implement soft delete pattern |
