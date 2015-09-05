@@ -18350,3 +18350,4 @@
 | 2015-09-04 16:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | docs: add README setup instructions |
 | 2015-09-04 21:30 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2015-09-04 22:54 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add audit log trail |
+| 2015-09-05 10:09 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | infra: configure auto-scaling policies |
