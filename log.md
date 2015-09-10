@@ -18367,3 +18367,4 @@
 | 2015-09-09 12:56 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | feat: add audit log trail |
 | 2015-09-09 15:11 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | feat: add export to CSV/Excel |
 | 2015-09-10 00:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | refactor: move constants to config module |
+| 2015-09-10 11:42 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | feat: add pagination to list endpoint |
