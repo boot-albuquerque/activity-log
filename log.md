@@ -18375,3 +18375,4 @@
 | 2015-09-11 07:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | db: add composite index |
 | 2015-09-11 11:48 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: implement caching layer |
 | 2015-09-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2015-09-11 13:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
