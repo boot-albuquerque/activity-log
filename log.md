@@ -18396,3 +18396,4 @@
 | 2015-09-15 17:18 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | test: mock external dependencies in tests |
 | 2015-09-15 20:37 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | test: add unit tests for payment service |
 | 2015-09-15 23:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: resolve N+1 query problem |
+| 2015-09-16 07:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: correct pagination offset calculation |
