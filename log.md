@@ -18429,3 +18429,4 @@
 | 2015-09-23 15:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | refactor: improve code readability |
 | 2015-09-23 17:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2015-09-23 19:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | test: mock external dependencies in tests |
+| 2015-09-23 20:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | test: add e2e tests for checkout flow |
