@@ -18434,3 +18434,4 @@
 | 2015-09-23 22:08 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
 | 2015-09-24 10:52 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: create health check endpoint |
 | 2015-09-24 15:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | test: fix flaky test in async handler |
+| 2015-09-27 15:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | refactor: adopt repository pattern |
