@@ -18438,3 +18438,4 @@
 | 2015-09-27 16:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | feat: add real-time notifications |
 | 2015-09-28 16:13 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: implement webhook receiver |
 | 2015-09-28 18:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | feat: add audit log trail |
+| 2015-09-28 18:44 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | test: add integration tests for API endpoints |
