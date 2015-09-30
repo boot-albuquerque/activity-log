@@ -18443,3 +18443,4 @@
 | 2015-09-28 20:03 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2015-09-29 12:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | test: add integration tests for API endpoints |
 | 2015-09-29 22:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
+| 2015-09-30 09:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: mock external dependencies in tests |
