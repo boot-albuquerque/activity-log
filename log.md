@@ -18451,3 +18451,4 @@
 | 2015-10-01 00:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2015-10-01 08:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | db: add migration for new schema |
 | 2015-10-01 14:00 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | perf: add database indexes |
+| 2015-10-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | ci: configure staging environment |
