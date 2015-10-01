@@ -18449,3 +18449,4 @@
 | 2015-09-30 17:59 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | fix: handle timeout in async operation |
 | 2015-09-30 19:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | perf: implement response compression |
 | 2015-10-01 00:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | fix: resolve N+1 query problem |
+| 2015-10-01 08:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | db: add migration for new schema |
