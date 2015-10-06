@@ -18466,3 +18466,4 @@
 | 2015-10-05 22:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | chore: add pre-commit hooks |
 | 2015-10-06 08:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | security: add input sanitization |
 | 2015-10-06 13:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | docs: update API documentation |
+| 2015-10-06 13:32 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | feat: implement soft delete pattern |
