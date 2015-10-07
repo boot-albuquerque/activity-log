@@ -18474,3 +18474,4 @@
 | 2015-10-07 13:16 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | fix: handle missing environment variable |
 | 2015-10-07 14:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2015-10-07 14:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | db: add composite index |
+| 2015-10-07 14:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | perf: add database indexes |
