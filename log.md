@@ -18476,3 +18476,4 @@
 | 2015-10-07 14:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | db: add composite index |
 | 2015-10-07 14:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | perf: add database indexes |
 | 2015-10-07 15:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | fix: correct null check in user service |
+| 2015-10-07 17:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | feat: add real-time notifications |
