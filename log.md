@@ -18483,3 +18483,4 @@
 | 2015-10-08 09:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | feat: add file upload support |
 | 2015-10-08 11:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
 | 2015-10-08 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | feat: add OpenAPI documentation |
+| 2015-10-08 16:13 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
