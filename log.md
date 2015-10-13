@@ -18498,3 +18498,4 @@
 | 2015-10-13 09:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2015-10-13 13:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | test: cover edge cases in validator |
 | 2015-10-13 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | refactor: simplify authentication flow |
+| 2015-10-13 15:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | test: improve test coverage to 80% |
