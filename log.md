@@ -18497,3 +18497,4 @@
 | 2015-10-12 18:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2015-10-13 09:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2015-10-13 13:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | test: cover edge cases in validator |
+| 2015-10-13 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | refactor: simplify authentication flow |
