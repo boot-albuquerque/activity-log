@@ -18526,3 +18526,4 @@
 | 2015-10-23 11:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | fix: handle timeout in async operation |
 | 2015-10-23 15:33 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | chore: update dependencies |
 | 2015-10-23 15:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | fix: handle missing environment variable |
+| 2015-10-23 16:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | test: mock external dependencies in tests |
