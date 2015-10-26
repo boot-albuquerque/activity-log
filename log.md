@@ -18536,3 +18536,4 @@
 | 2015-10-26 16:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | feat: create order processing service |
 | 2015-10-26 17:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: implement soft delete pattern |
 | 2015-10-26 19:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
+| 2015-10-26 19:57 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | feat: add export to CSV/Excel |
