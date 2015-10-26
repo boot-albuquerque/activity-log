@@ -18534,3 +18534,4 @@
 | 2015-10-26 08:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/race-condition` | security: add input sanitization |
 | 2015-10-26 15:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | test: fix flaky test in async handler |
 | 2015-10-26 16:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | feat: create order processing service |
+| 2015-10-26 17:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: implement soft delete pattern |
