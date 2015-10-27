@@ -18537,3 +18537,4 @@
 | 2015-10-26 17:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: implement soft delete pattern |
 | 2015-10-26 19:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2015-10-26 19:57 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | feat: add export to CSV/Excel |
+| 2015-10-26 21:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | docs: document environment variables |
