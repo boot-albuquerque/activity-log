@@ -18541,3 +18541,4 @@
 | 2015-10-26 22:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | perf: reduce bundle size |
 | 2015-10-27 15:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | perf: reduce bundle size |
 | 2015-10-30 09:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | infra: add Kubernetes manifests |
+| 2015-10-30 11:27 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | ci: add automated deployment pipeline |
