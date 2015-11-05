@@ -18556,3 +18556,4 @@
 | 2015-11-04 15:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | infra: configure auto-scaling policies |
 | 2015-11-04 19:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | refactor: clean up unused imports |
 | 2015-11-04 20:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add search with filters |
+| 2015-11-04 21:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: add pagination to list endpoint |
