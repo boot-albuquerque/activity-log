@@ -18558,3 +18558,4 @@
 | 2015-11-04 20:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add search with filters |
 | 2015-11-04 21:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2015-11-04 23:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | db: add composite index |
+| 2015-11-05 00:10 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | fix: correct validation error messages |
