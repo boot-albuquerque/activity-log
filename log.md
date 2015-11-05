@@ -18563,3 +18563,4 @@
 | 2015-11-05 11:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2015-11-05 13:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | style: fix indentation and whitespace |
 | 2015-11-05 17:38 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | feat: add pagination to list endpoint |
+| 2015-11-05 20:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | fix: handle edge case in date parsing |
