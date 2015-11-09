@@ -18570,3 +18570,4 @@
 | 2015-11-07 14:50 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2015-11-08 12:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2015-11-08 19:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | feat: add file upload support |
+| 2015-11-09 12:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: handle malformed JSON input |
