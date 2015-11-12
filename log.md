@@ -18578,3 +18578,4 @@
 | 2015-11-11 15:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2015-11-11 17:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2015-11-11 21:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: add email notification on status change |
+| 2015-11-11 21:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | refactor: move constants to config module |
