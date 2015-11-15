@@ -18584,3 +18584,4 @@
 | 2015-11-13 12:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | style: format code according to style guide |
 | 2015-11-13 15:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | refactor: improve code readability |
 | 2015-11-15 12:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add file upload support |
+| 2015-11-15 17:43 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | refactor: adopt repository pattern |
