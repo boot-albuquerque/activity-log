@@ -18585,3 +18585,4 @@
 | 2015-11-13 15:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | refactor: improve code readability |
 | 2015-11-15 12:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add file upload support |
 | 2015-11-15 17:43 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | refactor: adopt repository pattern |
+| 2015-11-16 15:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | feat: add OpenAPI documentation |
