@@ -18591,3 +18591,4 @@
 | 2015-11-17 09:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2015-11-17 11:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | feat: add search with filters |
 | 2015-11-17 13:11 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | style: fix indentation and whitespace |
+| 2015-11-17 13:56 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
