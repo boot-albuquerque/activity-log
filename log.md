@@ -18599,3 +18599,4 @@
 | 2015-11-18 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: correct pagination offset calculation |
 | 2015-11-18 14:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | chore: update dependencies |
 | 2015-11-18 16:20 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | fix: handle missing environment variable |
+| 2015-11-18 17:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
