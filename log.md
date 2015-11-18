@@ -18596,3 +18596,4 @@
 | 2015-11-17 17:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/pagination` | refactor: reduce cyclomatic complexity |
 | 2015-11-17 20:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
 | 2015-11-17 22:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | feat: add bulk operations support |
+| 2015-11-18 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: correct pagination offset calculation |
