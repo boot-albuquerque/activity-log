@@ -18603,3 +18603,4 @@
 | 2015-11-19 00:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2015-11-19 09:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2015-11-19 17:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | perf: add database indexes |
+| 2015-11-19 18:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
