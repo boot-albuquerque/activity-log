@@ -18601,3 +18601,4 @@
 | 2015-11-18 16:20 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | fix: handle missing environment variable |
 | 2015-11-18 17:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
 | 2015-11-19 00:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
+| 2015-11-19 09:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
