@@ -18606,3 +18606,4 @@
 | 2015-11-19 18:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2015-11-20 12:50 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | refactor: adopt repository pattern |
 | 2015-11-20 13:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | db: add composite index |
+| 2015-11-20 14:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add OpenAPI documentation |
