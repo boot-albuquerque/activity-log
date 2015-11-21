@@ -18608,3 +18608,4 @@
 | 2015-11-20 13:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | db: add composite index |
 | 2015-11-20 14:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add OpenAPI documentation |
 | 2015-11-20 14:31 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | chore: update dependencies |
+| 2015-11-20 23:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | feat: add export to CSV/Excel |
