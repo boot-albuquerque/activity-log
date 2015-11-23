@@ -18611,3 +18611,4 @@
 | 2015-11-20 23:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | feat: add export to CSV/Excel |
 | 2015-11-21 23:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | perf: reduce bundle size |
 | 2015-11-22 15:54 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | feat: create background job processor |
+| 2015-11-22 22:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add integration tests for API endpoints |
