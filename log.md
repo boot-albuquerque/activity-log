@@ -18612,3 +18612,4 @@
 | 2015-11-21 23:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | perf: reduce bundle size |
 | 2015-11-22 15:54 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | feat: create background job processor |
 | 2015-11-22 22:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add integration tests for API endpoints |
+| 2015-11-24 09:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | refactor: adopt repository pattern |
