@@ -18632,3 +18632,4 @@
 | 2015-11-26 19:07 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: improve test coverage to 80% |
 | 2015-11-27 15:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | refactor: clean up unused imports |
 | 2015-11-27 18:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
+| 2015-11-30 08:41 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | refactor: consolidate error handling |
