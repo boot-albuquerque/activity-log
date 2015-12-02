@@ -18644,3 +18644,4 @@
 | 2015-12-02 15:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | docs: update API documentation |
 | 2015-12-02 15:43 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | db: add composite index |
 | 2015-12-02 15:46 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | style: format code according to style guide |
+| 2015-12-02 17:04 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | fix: correct pagination offset calculation |
