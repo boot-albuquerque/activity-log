@@ -18639,3 +18639,4 @@
 | 2015-12-01 11:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2015-12-01 15:02 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: create dashboard metrics endpoint |
 | 2015-12-01 20:42 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | refactor: move constants to config module |
+| 2015-12-02 10:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | docs: document environment variables |
