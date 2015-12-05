@@ -18656,3 +18656,4 @@
 | 2015-12-04 16:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2015-12-04 19:30 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2015-12-04 19:42 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | test: add performance benchmark tests |
+| 2015-12-04 21:37 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | chore: add Docker Compose for local dev |
