@@ -18660,3 +18660,4 @@
 | 2015-12-07 15:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | chore: add pre-commit hooks |
 | 2015-12-08 07:43 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | chore: update dependencies |
 | 2015-12-08 09:34 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | refactor: consolidate error handling |
+| 2015-12-08 14:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | feat: implement soft delete pattern |
