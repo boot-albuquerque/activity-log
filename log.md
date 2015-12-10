@@ -18674,3 +18674,4 @@
 | 2015-12-10 08:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | docs: document environment variables |
 | 2015-12-10 09:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2015-12-10 13:14 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: implement response compression |
+| 2015-12-10 14:37 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | db: add migration for new schema |
