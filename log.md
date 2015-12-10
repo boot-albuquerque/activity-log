@@ -18671,3 +18671,4 @@
 | 2015-12-09 14:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | security: fix SQL injection vulnerability |
 | 2015-12-09 22:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2015-12-09 23:13 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | test: add e2e tests for checkout flow |
+| 2015-12-10 08:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | docs: document environment variables |
