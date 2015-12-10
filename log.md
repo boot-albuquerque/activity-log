@@ -18677,3 +18677,4 @@
 | 2015-12-10 14:37 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | db: add migration for new schema |
 | 2015-12-10 15:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | db: optimize slow queries |
 | 2015-12-10 15:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/validation-bug` | security: fix SQL injection vulnerability |
+| 2015-12-10 18:43 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | fix: correct null check in user service |
