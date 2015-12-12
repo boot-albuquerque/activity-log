@@ -18683,3 +18683,4 @@
 | 2015-12-11 10:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | docs: update API documentation |
 | 2015-12-11 15:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2015-12-11 19:26 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | chore: update dependencies |
+| 2015-12-11 23:08 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | security: fix SQL injection vulnerability |
