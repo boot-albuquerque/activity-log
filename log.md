@@ -18686,3 +18686,4 @@
 | 2015-12-11 23:08 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2015-12-12 12:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | perf: reduce bundle size |
 | 2015-12-12 22:32 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | db: add composite index |
+| 2015-12-13 13:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct validation error messages |
