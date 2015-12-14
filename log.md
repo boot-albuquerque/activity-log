@@ -18689,3 +18689,4 @@
 | 2015-12-13 13:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct validation error messages |
 | 2015-12-13 17:56 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: fix indentation and whitespace |
 | 2015-12-14 09:31 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
+| 2015-12-14 19:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | fix: resolve CORS configuration |
