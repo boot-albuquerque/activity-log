@@ -18700,3 +18700,4 @@
 | 2015-12-16 18:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | chore: update dependencies |
 | 2015-12-16 22:52 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | fix: correct pagination offset calculation |
 | 2015-12-17 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | ci: configure staging environment |
+| 2015-12-18 13:06 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | infra: configure auto-scaling policies |
