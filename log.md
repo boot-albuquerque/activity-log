@@ -18716,3 +18716,4 @@
 | 2015-12-21 12:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: create order processing service |
 | 2015-12-21 14:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: extract business logic to service layer |
 | 2015-12-21 18:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: add integration tests for API endpoints |
+| 2015-12-21 20:03 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | security: fix SQL injection vulnerability |
