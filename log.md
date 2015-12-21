@@ -18711,3 +18711,4 @@
 | 2015-12-21 00:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add export to CSV/Excel |
 | 2015-12-21 00:45 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: move constants to config module |
 | 2015-12-21 09:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
+| 2015-12-21 10:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | infra: add Kubernetes manifests |
