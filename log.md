@@ -18714,3 +18714,4 @@
 | 2015-12-21 10:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2015-12-21 11:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | feat: create background job processor |
 | 2015-12-21 12:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: create order processing service |
+| 2015-12-21 14:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: extract business logic to service layer |
