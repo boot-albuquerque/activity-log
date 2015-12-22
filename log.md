@@ -18718,3 +18718,4 @@
 | 2015-12-21 18:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: add integration tests for API endpoints |
 | 2015-12-21 20:03 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | security: fix SQL injection vulnerability |
 | 2015-12-22 07:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | feat: add file upload support |
+| 2015-12-22 09:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | feat: add email notification on status change |
