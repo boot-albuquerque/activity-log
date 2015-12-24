@@ -18728,3 +18728,4 @@
 | 2015-12-23 13:24 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
 | 2015-12-23 15:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2015-12-23 16:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | fix: correct decimal precision in billing |
+| 2015-12-23 21:42 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | feat: add OpenAPI documentation |
