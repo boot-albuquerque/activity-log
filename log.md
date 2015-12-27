@@ -18744,3 +18744,4 @@
 | 2015-12-25 20:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | test: improve test coverage to 80% |
 | 2015-12-25 20:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2015-12-26 14:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: fix flaky test in async handler |
+| 2015-12-27 17:29 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | db: optimize slow queries |
