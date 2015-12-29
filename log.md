@@ -18753,3 +18753,4 @@
 | 2015-12-29 11:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | ci: add automated deployment pipeline |
 | 2015-12-29 13:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2015-12-29 14:19 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | feat: create health check endpoint |
+| 2015-12-29 15:46 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add OpenAPI documentation |
