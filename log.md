@@ -18748,3 +18748,4 @@
 | 2015-12-28 08:54 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2015-12-28 09:25 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
 | 2015-12-28 19:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | perf: optimize database queries |
+| 2015-12-28 22:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: add export to CSV/Excel |
