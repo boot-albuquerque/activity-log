@@ -18759,3 +18759,4 @@
 | 2015-12-29 19:26 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2015-12-29 20:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | refactor: consolidate error handling |
 | 2015-12-30 15:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | test: fix flaky test in async handler |
+| 2015-12-30 18:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: add search with filters |
