@@ -18773,3 +18773,4 @@
 | 2016-01-04 14:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2016-01-05 11:26 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | security: update SSL certificates config |
 | 2016-01-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: simplify authentication flow |
+| 2016-01-05 17:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | refactor: simplify authentication flow |
