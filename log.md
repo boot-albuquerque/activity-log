@@ -18771,3 +18771,4 @@
 | 2016-01-01 18:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | fix: handle empty response from external API |
 | 2016-01-03 11:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | feat: add search with filters |
 | 2016-01-04 14:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | refactor: extract business logic to service layer |
+| 2016-01-05 11:26 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | security: update SSL certificates config |
