@@ -18774,3 +18774,4 @@
 | 2016-01-05 11:26 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | security: update SSL certificates config |
 | 2016-01-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2016-01-05 17:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | refactor: simplify authentication flow |
+| 2016-01-05 20:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | refactor: adopt repository pattern |
