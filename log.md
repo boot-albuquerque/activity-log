@@ -18775,3 +18775,4 @@
 | 2016-01-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2016-01-05 17:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2016-01-05 20:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2016-01-05 21:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | test: add unit tests for payment service |
