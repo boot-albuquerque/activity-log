@@ -18781,3 +18781,4 @@
 | 2016-01-06 12:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | refactor: consolidate error handling |
 | 2016-01-06 13:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | refactor: improve code readability |
 | 2016-01-06 19:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: correct validation error messages |
+| 2016-01-06 20:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | fix: correct validation error messages |
