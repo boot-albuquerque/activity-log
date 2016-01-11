@@ -18794,3 +18794,4 @@
 | 2016-01-10 17:20 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | refactor: move constants to config module |
 | 2016-01-10 18:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2016-01-10 20:05 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | test: fix flaky test in async handler |
+| 2016-01-11 07:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | fix: resolve memory leak in connection pool |
