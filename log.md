@@ -18798,3 +18798,4 @@
 | 2016-01-11 13:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2016-01-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | fix: correct pagination offset calculation |
 | 2016-01-11 15:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | fix: correct pagination offset calculation |
+| 2016-01-11 15:42 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | refactor: simplify authentication flow |
