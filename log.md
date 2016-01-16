@@ -18810,3 +18810,4 @@
 | 2016-01-15 00:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | style: fix indentation and whitespace |
 | 2016-01-15 14:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add export to CSV/Excel |
 | 2016-01-16 09:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | perf: add database indexes |
+| 2016-01-16 11:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | fix: handle malformed JSON input |
