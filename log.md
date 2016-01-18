@@ -18812,3 +18812,4 @@
 | 2016-01-16 09:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | perf: add database indexes |
 | 2016-01-16 11:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | fix: handle malformed JSON input |
 | 2016-01-17 15:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
+| 2016-01-17 22:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
