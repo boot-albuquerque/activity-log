@@ -18851,3 +18851,4 @@
 | 2016-01-24 11:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | docs: document environment variables |
 | 2016-01-24 12:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | test: add performance benchmark tests |
 | 2016-01-25 14:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: add e2e tests for checkout flow |
+| 2016-01-25 16:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | test: add unit tests for payment service |
