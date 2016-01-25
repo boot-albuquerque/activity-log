@@ -18850,3 +18850,4 @@
 | 2016-01-23 18:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | feat: create order processing service |
 | 2016-01-24 11:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | docs: document environment variables |
 | 2016-01-24 12:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | test: add performance benchmark tests |
+| 2016-01-25 14:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: add e2e tests for checkout flow |
