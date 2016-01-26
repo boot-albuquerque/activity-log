@@ -18858,3 +18858,4 @@
 | 2016-01-26 09:24 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | db: add composite index |
 | 2016-01-26 14:08 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2016-01-26 15:59 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | db: add migration for new schema |
+| 2016-01-26 17:58 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: resolve N+1 query problem |
