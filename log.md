@@ -18884,3 +18884,4 @@
 | 2016-02-01 18:18 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2016-02-02 12:07 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: mock external dependencies in tests |
 | 2016-02-02 13:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | feat: add email notification on status change |
+| 2016-02-02 14:38 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | refactor: split large controller into smaller ones |
