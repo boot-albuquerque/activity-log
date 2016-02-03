@@ -18893,3 +18893,4 @@
 | 2016-02-03 14:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | test: add performance benchmark tests |
 | 2016-02-03 14:44 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | style: format code according to style guide |
 | 2016-02-03 15:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | refactor: split large controller into smaller ones |
+| 2016-02-03 18:50 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | chore: update dependencies |
