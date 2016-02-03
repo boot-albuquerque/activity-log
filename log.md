@@ -18890,3 +18890,4 @@
 | 2016-02-02 23:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2016-02-03 12:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2016-02-03 12:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | fix: resolve CORS configuration |
+| 2016-02-03 14:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | test: add performance benchmark tests |
