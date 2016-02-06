@@ -18905,3 +18905,4 @@
 | 2016-02-05 14:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
 | 2016-02-05 15:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2016-02-06 11:38 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | feat: add user authentication endpoint |
+| 2016-02-06 14:32 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | security: update SSL certificates config |
