@@ -18908,3 +18908,4 @@
 | 2016-02-06 14:32 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2016-02-08 12:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | ci: configure staging environment |
 | 2016-02-08 13:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | fix: handle missing environment variable |
+| 2016-02-08 13:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: reduce cyclomatic complexity |
