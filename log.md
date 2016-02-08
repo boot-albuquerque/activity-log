@@ -18907,3 +18907,4 @@
 | 2016-02-06 11:38 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2016-02-06 14:32 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2016-02-08 12:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | ci: configure staging environment |
+| 2016-02-08 13:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | fix: handle missing environment variable |
