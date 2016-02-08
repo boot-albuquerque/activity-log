@@ -18911,3 +18911,4 @@
 | 2016-02-08 13:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2016-02-08 16:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | docs: add README setup instructions |
 | 2016-02-08 19:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | chore: add Docker Compose for local dev |
+| 2016-02-08 20:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: improve test coverage to 80% |
