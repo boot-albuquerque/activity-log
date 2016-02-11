@@ -18920,3 +18920,4 @@
 | 2016-02-10 19:54 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | feat: create health check endpoint |
 | 2016-02-10 23:46 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | feat: add search with filters |
 | 2016-02-11 00:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | ci: add automated deployment pipeline |
+| 2016-02-11 09:21 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | refactor: clean up unused imports |
