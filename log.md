@@ -18927,3 +18927,4 @@
 | 2016-02-11 14:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | test: cover edge cases in validator |
 | 2016-02-11 16:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | test: fix flaky test in async handler |
 | 2016-02-11 16:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: create background job processor |
+| 2016-02-11 20:42 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
