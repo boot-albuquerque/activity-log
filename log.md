@@ -18933,3 +18933,4 @@
 | 2016-02-12 19:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | feat: implement soft delete pattern |
 | 2016-02-13 12:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | feat: add export to CSV/Excel |
 | 2016-02-14 12:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | infra: configure auto-scaling policies |
+| 2016-02-14 18:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: improve code readability |
