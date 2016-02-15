@@ -18934,3 +18934,4 @@
 | 2016-02-13 12:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | feat: add export to CSV/Excel |
 | 2016-02-14 12:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | infra: configure auto-scaling policies |
 | 2016-02-14 18:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: improve code readability |
+| 2016-02-15 15:02 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | test: add integration tests for API endpoints |
