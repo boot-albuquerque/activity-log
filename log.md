@@ -18942,3 +18942,4 @@
 | 2016-02-16 18:25 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | db: optimize slow queries |
 | 2016-02-16 18:28 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | fix: resolve CORS configuration |
 | 2016-02-16 23:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2016-02-17 13:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | refactor: clean up unused imports |
