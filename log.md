@@ -18950,3 +18950,4 @@
 | 2016-02-17 17:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | refactor: move constants to config module |
 | 2016-02-18 00:14 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2016-02-18 11:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | infra: configure auto-scaling policies |
+| 2016-02-18 14:49 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add e2e tests for checkout flow |
