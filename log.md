@@ -18956,3 +18956,4 @@
 | 2016-02-18 20:59 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2016-02-18 23:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | db: add composite index |
 | 2016-02-19 10:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: improve code readability |
+| 2016-02-19 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: handle malformed JSON input |
