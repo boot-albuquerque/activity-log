@@ -18958,3 +18958,4 @@
 | 2016-02-19 10:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: improve code readability |
 | 2016-02-19 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2016-02-19 16:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | fix: resolve N+1 query problem |
+| 2016-02-19 16:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: improve code readability |
