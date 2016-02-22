@@ -18964,3 +18964,4 @@
 | 2016-02-19 20:43 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | ci: add automated deployment pipeline |
 | 2016-02-19 20:51 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2016-02-19 23:45 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | test: improve test coverage to 80% |
+| 2016-02-22 15:41 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | fix: resolve N+1 query problem |
