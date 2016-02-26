@@ -18980,3 +18980,4 @@
 | 2016-02-26 08:45 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2016-02-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2016-02-26 12:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | style: format code according to style guide |
+| 2016-02-26 17:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: correct decimal precision in billing |
