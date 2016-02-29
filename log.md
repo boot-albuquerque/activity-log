@@ -18986,3 +18986,4 @@
 | 2016-02-26 21:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2016-02-28 17:07 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | ci: configure staging environment |
 | 2016-02-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
+| 2016-02-29 11:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | fix: handle missing environment variable |
