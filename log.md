@@ -18988,3 +18988,4 @@
 | 2016-02-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2016-02-29 11:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | fix: handle missing environment variable |
 | 2016-02-29 14:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: implement caching layer |
+| 2016-03-01 14:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | fix: correct decimal precision in billing |
