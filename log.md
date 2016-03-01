@@ -18989,3 +18989,4 @@
 | 2016-02-29 11:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | fix: handle missing environment variable |
 | 2016-02-29 14:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: implement caching layer |
 | 2016-03-01 14:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | fix: correct decimal precision in billing |
+| 2016-03-01 15:32 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | test: add integration tests for API endpoints |
