@@ -18994,3 +18994,4 @@
 | 2016-03-01 19:21 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | fix: resolve race condition in queue worker |
 | 2016-03-01 19:32 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: add bulk operations support |
 | 2016-03-02 07:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | refactor: adopt repository pattern |
+| 2016-03-02 10:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | db: optimize slow queries |
