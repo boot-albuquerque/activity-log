@@ -19014,3 +19014,4 @@
 | 2016-03-08 19:19 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: add e2e tests for checkout flow |
 | 2016-03-08 22:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
 | 2016-03-09 09:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | refactor: clean up unused imports |
+| 2016-03-09 10:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | docs: update API documentation |
