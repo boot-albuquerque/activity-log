@@ -19021,3 +19021,4 @@
 | 2016-03-10 00:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2016-03-10 11:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | perf: implement response compression |
 | 2016-03-10 13:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | infra: add Kubernetes manifests |
+| 2016-03-10 16:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: add Docker Compose for local dev |
