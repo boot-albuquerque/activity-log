@@ -19023,3 +19023,4 @@
 | 2016-03-10 13:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2016-03-10 16:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: add Docker Compose for local dev |
 | 2016-03-10 18:00 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: add Docker Compose for local dev |
+| 2016-03-10 23:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | docs: update API documentation |
