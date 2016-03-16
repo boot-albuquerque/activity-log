@@ -19036,3 +19036,4 @@
 | 2016-03-15 10:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add email notification on status change |
 | 2016-03-15 19:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2016-03-16 00:23 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | infra: update Terraform modules |
+| 2016-03-16 08:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | docs: document environment variables |
