@@ -19040,3 +19040,4 @@
 | 2016-03-16 10:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | style: fix indentation and whitespace |
 | 2016-03-16 12:07 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | feat: implement webhook receiver |
 | 2016-03-16 12:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | refactor: move constants to config module |
+| 2016-03-16 12:30 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | test: fix flaky test in async handler |
