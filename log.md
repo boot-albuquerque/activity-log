@@ -19045,3 +19045,4 @@
 | 2016-03-16 13:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | db: add migration for new schema |
 | 2016-03-16 14:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | refactor: consolidate error handling |
 | 2016-03-16 15:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: implement JWT refresh token |
+| 2016-03-16 15:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: correct pagination offset calculation |
