@@ -19054,3 +19054,4 @@
 | 2016-03-17 10:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2016-03-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | docs: update API documentation |
 | 2016-03-17 12:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
+| 2016-03-17 15:19 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add unit tests for payment service |
