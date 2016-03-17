@@ -19055,3 +19055,4 @@
 | 2016-03-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | docs: update API documentation |
 | 2016-03-17 12:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2016-03-17 15:19 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add unit tests for payment service |
+| 2016-03-17 18:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | db: add migration for new schema |
