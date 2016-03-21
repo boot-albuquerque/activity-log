@@ -19066,3 +19066,4 @@
 | 2016-03-21 15:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | infra: configure auto-scaling policies |
 | 2016-03-21 16:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | test: add unit tests for payment service |
 | 2016-03-21 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | fix: correct decimal precision in billing |
+| 2016-03-21 18:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | infra: update Terraform modules |
