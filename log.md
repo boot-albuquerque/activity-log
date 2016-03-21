@@ -19058,3 +19058,4 @@
 | 2016-03-17 18:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | db: add migration for new schema |
 | 2016-03-18 11:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | refactor: reduce cyclomatic complexity |
 | 2016-03-18 14:17 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | ci: configure staging environment |
+| 2016-03-20 23:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | test: add integration tests for API endpoints |
