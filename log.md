@@ -19078,3 +19078,4 @@
 | 2016-03-23 16:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2016-03-23 17:11 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: reduce cyclomatic complexity |
 | 2016-03-23 18:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: move constants to config module |
+| 2016-03-23 18:29 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
