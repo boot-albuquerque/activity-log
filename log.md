@@ -19077,3 +19077,4 @@
 | 2016-03-23 16:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | fix: resolve memory leak in connection pool |
 | 2016-03-23 16:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2016-03-23 17:11 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: reduce cyclomatic complexity |
+| 2016-03-23 18:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: move constants to config module |
