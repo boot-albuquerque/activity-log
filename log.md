@@ -19082,3 +19082,4 @@
 | 2016-03-23 21:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | security: update SSL certificates config |
 | 2016-03-25 12:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | infra: update Terraform modules |
 | 2016-03-25 16:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | security: fix SQL injection vulnerability |
+| 2016-03-25 16:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | test: add unit tests for payment service |
