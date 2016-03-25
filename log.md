@@ -19081,3 +19081,4 @@
 | 2016-03-23 18:29 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
 | 2016-03-23 21:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | security: update SSL certificates config |
 | 2016-03-25 12:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | infra: update Terraform modules |
+| 2016-03-25 16:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | security: fix SQL injection vulnerability |
