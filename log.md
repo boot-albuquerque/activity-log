@@ -19086,3 +19086,4 @@
 | 2016-03-25 22:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | docs: document environment variables |
 | 2016-03-26 10:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | test: fix flaky test in async handler |
 | 2016-03-26 13:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct decimal precision in billing |
+| 2016-03-26 14:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | feat: add bulk operations support |
