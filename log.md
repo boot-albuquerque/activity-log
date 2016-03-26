@@ -19084,3 +19084,4 @@
 | 2016-03-25 16:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | security: fix SQL injection vulnerability |
 | 2016-03-25 16:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | test: add unit tests for payment service |
 | 2016-03-25 22:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | docs: document environment variables |
+| 2016-03-26 10:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | test: fix flaky test in async handler |
