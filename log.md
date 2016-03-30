@@ -19092,3 +19092,4 @@
 | 2016-03-27 22:43 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | fix: resolve deadlock in transaction |
 | 2016-03-28 14:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | feat: implement JWT refresh token |
 | 2016-03-30 00:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
+| 2016-03-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
