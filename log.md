@@ -19095,3 +19095,4 @@
 | 2016-03-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
 | 2016-03-30 15:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | fix: correct null check in user service |
 | 2016-03-30 16:33 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | docs: update API documentation |
+| 2016-03-30 16:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | fix: resolve CORS configuration |
