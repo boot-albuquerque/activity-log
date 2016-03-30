@@ -19093,3 +19093,4 @@
 | 2016-03-28 14:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | feat: implement JWT refresh token |
 | 2016-03-30 00:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
 | 2016-03-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
+| 2016-03-30 15:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | fix: correct null check in user service |
