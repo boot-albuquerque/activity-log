@@ -19100,3 +19100,4 @@
 | 2016-03-30 22:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: handle empty response from external API |
 | 2016-03-31 10:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2016-04-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | db: add migration for new schema |
+| 2016-04-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: add pagination to list endpoint |
