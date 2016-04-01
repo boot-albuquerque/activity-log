@@ -19101,3 +19101,4 @@
 | 2016-03-31 10:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2016-04-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | db: add migration for new schema |
 | 2016-04-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2016-04-01 12:28 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | fix: resolve N+1 query problem |
