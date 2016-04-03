@@ -19111,3 +19111,4 @@
 | 2016-04-02 08:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | feat: create background job processor |
 | 2016-04-02 11:21 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | docs: add README setup instructions |
 | 2016-04-02 22:15 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: update Terraform modules |
+| 2016-04-03 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: resolve CORS configuration |
