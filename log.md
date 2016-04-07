@@ -19122,3 +19122,4 @@
 | 2016-04-06 20:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | style: fix indentation and whitespace |
 | 2016-04-06 22:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | refactor: improve code readability |
 | 2016-04-06 23:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | feat: create health check endpoint |
+| 2016-04-06 23:49 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | fix: correct decimal precision in billing |
