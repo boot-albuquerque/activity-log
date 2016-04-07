@@ -19124,3 +19124,4 @@
 | 2016-04-06 23:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | feat: create health check endpoint |
 | 2016-04-06 23:49 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | fix: correct decimal precision in billing |
 | 2016-04-07 00:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: create dashboard metrics endpoint |
+| 2016-04-07 10:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | infra: configure auto-scaling policies |
