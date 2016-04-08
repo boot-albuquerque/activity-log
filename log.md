@@ -19128,3 +19128,4 @@
 | 2016-04-07 11:32 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | perf: optimize database queries |
 | 2016-04-07 12:00 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | chore: update dependencies |
 | 2016-04-07 14:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | chore: add pre-commit hooks |
+| 2016-04-07 20:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | fix: resolve race condition in queue worker |
