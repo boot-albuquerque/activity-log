@@ -19131,3 +19131,4 @@
 | 2016-04-07 20:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | fix: resolve race condition in queue worker |
 | 2016-04-07 22:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | chore: upgrade to latest Node.js LTS |
 | 2016-04-08 08:58 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | infra: configure auto-scaling policies |
+| 2016-04-08 08:59 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | test: fix flaky test in async handler |
