@@ -19157,3 +19157,4 @@
 | 2016-04-14 12:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | feat: create order processing service |
 | 2016-04-14 14:15 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | refactor: reduce cyclomatic complexity |
 | 2016-04-14 14:48 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | feat: add email notification on status change |
+| 2016-04-14 18:08 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add email notification on status change |
