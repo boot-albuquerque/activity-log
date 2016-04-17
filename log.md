@@ -19165,3 +19165,4 @@
 | 2016-04-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2016-04-15 15:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2016-04-15 17:37 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: create background job processor |
+| 2016-04-17 15:31 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | perf: implement response compression |
