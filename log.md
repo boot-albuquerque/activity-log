@@ -19173,3 +19173,4 @@
 | 2016-04-18 15:47 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | feat: add audit log trail |
 | 2016-04-18 16:03 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2016-04-18 16:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | style: format code according to style guide |
+| 2016-04-18 22:18 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
