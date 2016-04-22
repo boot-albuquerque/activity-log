@@ -19178,3 +19178,4 @@
 | 2016-04-19 19:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2016-04-22 08:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2016-04-22 10:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: create health check endpoint |
+| 2016-04-22 11:04 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | security: add input sanitization |
