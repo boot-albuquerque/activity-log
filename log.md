@@ -19195,3 +19195,4 @@
 | 2016-04-25 17:14 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2016-04-26 08:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | fix: correct decimal precision in billing |
 | 2016-04-26 09:12 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | feat: implement soft delete pattern |
+| 2016-04-26 12:30 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | test: mock external dependencies in tests |
