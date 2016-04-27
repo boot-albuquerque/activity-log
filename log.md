@@ -19200,3 +19200,4 @@
 | 2016-04-26 14:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | test: add performance benchmark tests |
 | 2016-04-26 19:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add user authentication endpoint |
 | 2016-04-26 20:22 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | feat: add pagination to list endpoint |
+| 2016-04-27 08:34 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | feat: add pagination to list endpoint |
