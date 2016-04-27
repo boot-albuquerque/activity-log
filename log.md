@@ -19203,3 +19203,4 @@
 | 2016-04-27 08:34 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2016-04-27 09:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2016-04-27 10:14 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | test: add performance benchmark tests |
+| 2016-04-27 11:27 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | refactor: consolidate error handling |
