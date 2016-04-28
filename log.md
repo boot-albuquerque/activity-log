@@ -19209,3 +19209,4 @@
 | 2016-04-27 16:18 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2016-04-28 07:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | docs: document environment variables |
 | 2016-04-28 13:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | refactor: move constants to config module |
+| 2016-04-28 15:29 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | fix: handle empty response from external API |
