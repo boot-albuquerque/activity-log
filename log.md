@@ -19208,3 +19208,4 @@
 | 2016-04-27 13:59 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | db: add composite index |
 | 2016-04-27 16:18 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2016-04-28 07:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | docs: document environment variables |
+| 2016-04-28 13:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | refactor: move constants to config module |
