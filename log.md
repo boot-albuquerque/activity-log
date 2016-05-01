@@ -19222,3 +19222,4 @@
 | 2016-04-29 20:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | security: update SSL certificates config |
 | 2016-04-30 09:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: create background job processor |
 | 2016-04-30 14:53 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | style: fix indentation and whitespace |
+| 2016-05-01 18:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | test: improve test coverage to 80% |
