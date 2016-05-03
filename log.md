@@ -19225,3 +19225,4 @@
 | 2016-05-01 18:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | test: improve test coverage to 80% |
 | 2016-05-01 19:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: handle missing environment variable |
 | 2016-05-02 17:24 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: resolve deadlock in transaction |
+| 2016-05-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve CORS configuration |
