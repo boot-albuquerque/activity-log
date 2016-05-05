@@ -19227,3 +19227,4 @@
 | 2016-05-02 17:24 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: resolve deadlock in transaction |
 | 2016-05-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve CORS configuration |
 | 2016-05-04 12:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: configure ESLint and Prettier |
+| 2016-05-04 22:30 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | test: cover edge cases in validator |
