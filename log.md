@@ -19230,3 +19230,4 @@
 | 2016-05-04 22:30 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | test: cover edge cases in validator |
 | 2016-05-05 10:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: replace raw SQL with query builder |
 | 2016-05-05 10:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
+| 2016-05-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: add user authentication endpoint |
