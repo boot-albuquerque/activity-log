@@ -19231,3 +19231,4 @@
 | 2016-05-05 10:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: replace raw SQL with query builder |
 | 2016-05-05 10:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2016-05-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: add user authentication endpoint |
+| 2016-05-05 15:06 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
