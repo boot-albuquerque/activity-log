@@ -19228,3 +19228,4 @@
 | 2016-05-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve CORS configuration |
 | 2016-05-04 12:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: configure ESLint and Prettier |
 | 2016-05-04 22:30 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | test: cover edge cases in validator |
+| 2016-05-05 10:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: replace raw SQL with query builder |
