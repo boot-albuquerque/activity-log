@@ -19238,3 +19238,4 @@
 | 2016-05-07 13:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add user authentication endpoint |
 | 2016-05-07 17:06 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | feat: add bulk operations support |
 | 2016-05-08 17:47 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2016-05-08 19:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: implement webhook receiver |
