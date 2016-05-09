@@ -19242,3 +19242,4 @@
 | 2016-05-09 07:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | infra: configure auto-scaling policies |
 | 2016-05-09 10:05 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | docs: document environment variables |
 | 2016-05-09 17:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve N+1 query problem |
+| 2016-05-09 17:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: resolve deadlock in transaction |
