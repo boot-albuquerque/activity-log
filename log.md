@@ -19240,3 +19240,4 @@
 | 2016-05-08 17:47 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
 | 2016-05-08 19:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: implement webhook receiver |
 | 2016-05-09 07:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | infra: configure auto-scaling policies |
+| 2016-05-09 10:05 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | docs: document environment variables |
