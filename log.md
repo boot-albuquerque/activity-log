@@ -19247,3 +19247,4 @@
 | 2016-05-09 20:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
 | 2016-05-10 09:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | fix: handle timeout in async operation |
 | 2016-05-10 18:33 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: create background job processor |
+| 2016-05-10 19:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/race-condition` | fix: resolve deadlock in transaction |
