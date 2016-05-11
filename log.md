@@ -19257,3 +19257,4 @@
 | 2016-05-11 11:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | infra: update Terraform modules |
 | 2016-05-11 12:53 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | fix: correct pagination offset calculation |
 | 2016-05-11 18:46 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | security: update SSL certificates config |
+| 2016-05-11 19:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | fix: correct cache invalidation logic |
