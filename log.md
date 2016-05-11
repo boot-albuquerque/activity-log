@@ -19251,3 +19251,4 @@
 | 2016-05-10 20:07 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | chore: configure ESLint and Prettier |
 | 2016-05-10 21:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
 | 2016-05-10 21:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | refactor: improve code readability |
+| 2016-05-10 23:15 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | db: add composite index |
