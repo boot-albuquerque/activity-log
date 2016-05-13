@@ -19265,3 +19265,4 @@
 | 2016-05-12 13:31 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
 | 2016-05-12 15:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | docs: document environment variables |
 | 2016-05-12 19:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | security: update SSL certificates config |
+| 2016-05-13 08:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: add pagination to list endpoint |
