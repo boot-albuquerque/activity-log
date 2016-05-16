@@ -19266,3 +19266,4 @@
 | 2016-05-12 15:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | docs: document environment variables |
 | 2016-05-12 19:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | security: update SSL certificates config |
 | 2016-05-13 08:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: add pagination to list endpoint |
+| 2016-05-16 18:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: add audit log trail |
