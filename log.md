@@ -19267,3 +19267,4 @@
 | 2016-05-12 19:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | security: update SSL certificates config |
 | 2016-05-13 08:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: add pagination to list endpoint |
 | 2016-05-16 18:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: add audit log trail |
+| 2016-05-17 00:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | style: format code according to style guide |
