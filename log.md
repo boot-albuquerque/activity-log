@@ -19283,3 +19283,4 @@
 | 2016-05-19 13:15 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
 | 2016-05-19 15:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2016-05-19 18:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | feat: create background job processor |
+| 2016-05-21 11:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | chore: configure GitHub Actions CI |
