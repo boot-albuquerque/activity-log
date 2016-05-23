@@ -19288,3 +19288,4 @@
 | 2016-05-23 13:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | feat: add bulk operations support |
 | 2016-05-23 14:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2016-05-23 16:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/pagination` | ci: add automated deployment pipeline |
+| 2016-05-23 16:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | feat: add OpenAPI documentation |
