@@ -19294,3 +19294,4 @@
 | 2016-05-24 11:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | feat: add real-time notifications |
 | 2016-05-24 11:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | feat: create order processing service |
 | 2016-05-24 12:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: add audit log trail |
+| 2016-05-24 14:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | test: mock external dependencies in tests |
