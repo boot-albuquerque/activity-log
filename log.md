@@ -19303,3 +19303,4 @@
 | 2016-05-27 14:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: replace raw SQL with query builder |
 | 2016-05-27 15:06 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | test: add unit tests for payment service |
 | 2016-05-27 17:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | feat: add pagination to list endpoint |
+| 2016-05-27 20:10 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | test: fix flaky test in async handler |
