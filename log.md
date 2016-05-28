@@ -19304,3 +19304,4 @@
 | 2016-05-27 15:06 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | test: add unit tests for payment service |
 | 2016-05-27 17:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2016-05-27 20:10 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2016-05-28 16:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | fix: resolve race condition in queue worker |
