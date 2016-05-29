@@ -19307,3 +19307,4 @@
 | 2016-05-28 16:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | fix: resolve race condition in queue worker |
 | 2016-05-29 10:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2016-05-29 10:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | fix: resolve CORS configuration |
+| 2016-05-29 13:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
