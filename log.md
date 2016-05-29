@@ -19308,3 +19308,4 @@
 | 2016-05-29 10:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2016-05-29 10:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | fix: resolve CORS configuration |
 | 2016-05-29 13:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
+| 2016-05-29 13:53 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: move constants to config module |
