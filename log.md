@@ -19309,3 +19309,4 @@
 | 2016-05-29 10:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | fix: resolve CORS configuration |
 | 2016-05-29 13:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
 | 2016-05-29 13:53 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: move constants to config module |
+| 2016-05-30 08:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | db: add composite index |
