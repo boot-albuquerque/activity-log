@@ -19313,3 +19313,4 @@
 | 2016-05-30 13:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2016-05-30 13:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | ci: add automated deployment pipeline |
 | 2016-05-30 14:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | feat: add user authentication endpoint |
+| 2016-05-30 14:45 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | db: add composite index |
