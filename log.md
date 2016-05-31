@@ -19322,3 +19322,4 @@
 | 2016-05-31 14:38 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | chore: add Docker Compose for local dev |
 | 2016-05-31 15:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2016-05-31 17:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | feat: implement soft delete pattern |
+| 2016-05-31 20:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | feat: add user authentication endpoint |
