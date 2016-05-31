@@ -19320,3 +19320,4 @@
 | 2016-05-31 09:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: move constants to config module |
 | 2016-05-31 13:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | docs: update API documentation |
 | 2016-05-31 14:38 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | chore: add Docker Compose for local dev |
+| 2016-05-31 15:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
