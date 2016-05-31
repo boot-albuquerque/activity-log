@@ -19318,3 +19318,4 @@
 | 2016-05-30 22:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | refactor: move constants to config module |
 | 2016-05-31 08:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | fix: handle timeout in async operation |
 | 2016-05-31 09:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: move constants to config module |
+| 2016-05-31 13:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | docs: update API documentation |
