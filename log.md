@@ -19332,3 +19332,4 @@
 | 2016-06-01 19:12 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | security: add input sanitization |
 | 2016-06-02 11:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2016-06-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: configure GitHub Actions CI |
+| 2016-06-02 15:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | fix: resolve memory leak in connection pool |
