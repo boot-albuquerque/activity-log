@@ -19340,3 +19340,4 @@
 | 2016-06-02 18:30 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | infra: update Terraform modules |
 | 2016-06-02 18:35 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | test: mock external dependencies in tests |
 | 2016-06-02 19:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | fix: resolve deadlock in transaction |
+| 2016-06-02 19:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: optimize slow queries |
