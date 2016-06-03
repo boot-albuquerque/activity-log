@@ -19341,3 +19341,4 @@
 | 2016-06-02 18:35 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | test: mock external dependencies in tests |
 | 2016-06-02 19:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2016-06-02 19:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: optimize slow queries |
+| 2016-06-02 21:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | fix: correct validation error messages |
