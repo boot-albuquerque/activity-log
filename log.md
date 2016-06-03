@@ -19342,3 +19342,4 @@
 | 2016-06-02 19:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2016-06-02 19:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: optimize slow queries |
 | 2016-06-02 21:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2016-06-03 13:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | infra: add Kubernetes manifests |
