@@ -19344,3 +19344,4 @@
 | 2016-06-02 21:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | fix: correct validation error messages |
 | 2016-06-03 13:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2016-06-03 14:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | docs: document environment variables |
+| 2016-06-03 15:14 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/pagination` | fix: resolve N+1 query problem |
