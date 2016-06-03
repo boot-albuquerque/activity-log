@@ -19343,3 +19343,4 @@
 | 2016-06-02 19:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: optimize slow queries |
 | 2016-06-02 21:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | fix: correct validation error messages |
 | 2016-06-03 13:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | infra: add Kubernetes manifests |
+| 2016-06-03 14:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | docs: document environment variables |
