@@ -19353,3 +19353,4 @@
 | 2016-06-06 14:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2016-06-06 16:09 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: implement caching layer |
 | 2016-06-06 16:38 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | test: mock external dependencies in tests |
+| 2016-06-06 18:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | fix: correct null check in user service |
