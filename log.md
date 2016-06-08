@@ -19356,3 +19356,4 @@
 | 2016-06-06 18:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | fix: correct null check in user service |
 | 2016-06-08 10:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | feat: implement webhook receiver |
 | 2016-06-08 11:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | security: update SSL certificates config |
+| 2016-06-08 14:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | db: optimize slow queries |
