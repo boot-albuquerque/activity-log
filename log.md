@@ -19359,3 +19359,4 @@
 | 2016-06-08 14:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | db: optimize slow queries |
 | 2016-06-08 20:18 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | test: add unit tests for payment service |
 | 2016-06-11 12:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | feat: add email notification on status change |
+| 2016-06-12 08:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | chore: update dependencies |
