@@ -19362,3 +19362,4 @@
 | 2016-06-12 08:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | chore: update dependencies |
 | 2016-06-14 00:16 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | feat: create admin management interface |
 | 2016-06-14 09:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | docs: document environment variables |
+| 2016-06-14 15:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | feat: implement JWT refresh token |
