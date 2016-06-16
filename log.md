@@ -19366,3 +19366,4 @@
 | 2016-06-15 10:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | feat: create order processing service |
 | 2016-06-15 18:06 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2016-06-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | infra: configure auto-scaling policies |
+| 2016-06-16 08:26 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | fix: resolve race condition in queue worker |
