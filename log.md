@@ -19370,3 +19370,4 @@
 | 2016-06-16 14:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2016-06-16 17:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2016-06-16 19:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | perf: implement response compression |
+| 2016-06-16 20:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | fix: handle missing environment variable |
