@@ -19378,3 +19378,4 @@
 | 2016-06-17 11:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2016-06-17 11:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | feat: implement webhook receiver |
 | 2016-06-17 12:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | fix: correct null check in user service |
+| 2016-06-17 16:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | security: update SSL certificates config |
