@@ -19383,3 +19383,4 @@
 | 2016-06-17 17:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2016-06-17 19:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add bulk operations support |
 | 2016-06-17 23:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | chore: update dependencies |
+| 2016-06-18 08:03 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | refactor: extract business logic to service layer |
