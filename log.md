@@ -19384,3 +19384,4 @@
 | 2016-06-17 19:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add bulk operations support |
 | 2016-06-17 23:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | chore: update dependencies |
 | 2016-06-18 08:03 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | refactor: extract business logic to service layer |
+| 2016-06-18 21:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: add search with filters |
