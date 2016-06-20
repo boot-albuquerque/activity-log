@@ -19386,3 +19386,4 @@
 | 2016-06-18 08:03 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | refactor: extract business logic to service layer |
 | 2016-06-18 21:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: add search with filters |
 | 2016-06-20 12:39 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | infra: add Kubernetes manifests |
+| 2016-06-20 14:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | test: add performance benchmark tests |
