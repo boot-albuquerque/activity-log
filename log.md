@@ -19391,3 +19391,4 @@
 | 2016-06-21 07:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: correct cache invalidation logic |
 | 2016-06-21 11:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | fix: handle edge case in date parsing |
 | 2016-06-21 13:37 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: resolve N+1 query problem |
+| 2016-06-21 18:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
