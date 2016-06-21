@@ -19388,3 +19388,4 @@
 | 2016-06-20 12:39 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | infra: add Kubernetes manifests |
 | 2016-06-20 14:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | test: add performance benchmark tests |
 | 2016-06-21 00:10 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: resolve deadlock in transaction |
+| 2016-06-21 07:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: correct cache invalidation logic |
