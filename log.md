@@ -19392,3 +19392,4 @@
 | 2016-06-21 11:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | fix: handle edge case in date parsing |
 | 2016-06-21 13:37 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: resolve N+1 query problem |
 | 2016-06-21 18:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
+| 2016-06-21 22:16 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | docs: add README setup instructions |
