@@ -19394,3 +19394,4 @@
 | 2016-06-21 18:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
 | 2016-06-21 22:16 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | docs: add README setup instructions |
 | 2016-06-23 07:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | perf: add database indexes |
+| 2016-06-23 14:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | chore: add pre-commit hooks |
