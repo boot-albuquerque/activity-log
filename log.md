@@ -19397,3 +19397,4 @@
 | 2016-06-23 14:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | chore: add pre-commit hooks |
 | 2016-06-23 14:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2016-06-23 19:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | perf: implement response compression |
+| 2016-06-24 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: create order processing service |
