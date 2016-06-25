@@ -19400,3 +19400,4 @@
 | 2016-06-24 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: create order processing service |
 | 2016-06-24 18:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2016-06-24 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: implement webhook receiver |
+| 2016-06-25 16:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: mock external dependencies in tests |
