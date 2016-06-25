@@ -19399,3 +19399,4 @@
 | 2016-06-23 19:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | perf: implement response compression |
 | 2016-06-24 09:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: create order processing service |
 | 2016-06-24 18:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: handle empty response from external API |
+| 2016-06-24 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: implement webhook receiver |
