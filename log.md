@@ -19402,3 +19402,4 @@
 | 2016-06-24 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: implement webhook receiver |
 | 2016-06-25 16:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: mock external dependencies in tests |
 | 2016-06-26 09:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | docs: add README setup instructions |
+| 2016-06-26 15:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | test: add integration tests for API endpoints |
