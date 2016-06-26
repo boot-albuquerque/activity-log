@@ -19401,3 +19401,4 @@
 | 2016-06-24 18:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2016-06-24 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: implement webhook receiver |
 | 2016-06-25 16:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: mock external dependencies in tests |
+| 2016-06-26 09:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | docs: add README setup instructions |
