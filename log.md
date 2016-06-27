@@ -19404,3 +19404,4 @@
 | 2016-06-26 09:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | docs: add README setup instructions |
 | 2016-06-26 15:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | test: add integration tests for API endpoints |
 | 2016-06-27 10:43 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | fix: handle malformed JSON input |
+| 2016-06-27 16:09 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | feat: add pagination to list endpoint |
