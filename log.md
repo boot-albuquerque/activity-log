@@ -19410,3 +19410,4 @@
 | 2016-06-28 11:30 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: create dashboard metrics endpoint |
 | 2016-06-28 14:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2016-06-28 15:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2016-06-28 17:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add Docker Compose for local dev |
