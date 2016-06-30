@@ -19414,3 +19414,4 @@
 | 2016-06-28 23:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2016-06-29 17:41 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: add search with filters |
 | 2016-06-30 08:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | refactor: simplify authentication flow |
+| 2016-06-30 13:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | fix: correct null check in user service |
