@@ -19415,3 +19415,4 @@
 | 2016-06-29 17:41 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: add search with filters |
 | 2016-06-30 08:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | refactor: simplify authentication flow |
 | 2016-06-30 13:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | fix: correct null check in user service |
+| 2016-06-30 14:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | fix: correct decimal precision in billing |
