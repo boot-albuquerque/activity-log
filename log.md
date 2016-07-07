@@ -19436,3 +19436,4 @@
 | 2016-07-07 00:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | infra: add Kubernetes manifests |
 | 2016-07-07 09:07 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | refactor: split large controller into smaller ones |
 | 2016-07-07 11:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | fix: resolve memory leak in connection pool |
+| 2016-07-07 12:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | test: add unit tests for payment service |
