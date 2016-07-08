@@ -19439,3 +19439,4 @@
 | 2016-07-07 12:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | test: add unit tests for payment service |
 | 2016-07-07 14:16 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2016-07-07 15:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2016-07-07 22:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | chore: add pre-commit hooks |
