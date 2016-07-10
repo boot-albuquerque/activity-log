@@ -19448,3 +19448,4 @@
 | 2016-07-09 10:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2016-07-09 14:43 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: handle edge case in date parsing |
 | 2016-07-10 14:35 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
+| 2016-07-10 16:59 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: correct pagination offset calculation |
