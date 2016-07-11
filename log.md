@@ -19454,3 +19454,4 @@
 | 2016-07-11 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | db: optimize slow queries |
 | 2016-07-11 14:53 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | chore: update dependencies |
 | 2016-07-11 16:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | refactor: adopt repository pattern |
+| 2016-07-11 16:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | fix: correct pagination offset calculation |
