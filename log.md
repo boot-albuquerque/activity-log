@@ -19464,3 +19464,4 @@
 | 2016-07-13 08:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve N+1 query problem |
 | 2016-07-13 09:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: handle edge case in date parsing |
 | 2016-07-13 14:59 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | style: format code according to style guide |
+| 2016-07-13 15:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | test: fix flaky test in async handler |
