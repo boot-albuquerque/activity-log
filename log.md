@@ -19471,3 +19471,4 @@
 | 2016-07-15 10:04 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | refactor: improve code readability |
 | 2016-07-15 14:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | refactor: clean up unused imports |
 | 2016-07-15 15:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2016-07-16 15:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
