@@ -19481,3 +19481,4 @@
 | 2016-07-18 20:39 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: create admin management interface |
 | 2016-07-19 00:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | feat: create order processing service |
 | 2016-07-19 10:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: create background job processor |
+| 2016-07-19 11:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | docs: document environment variables |
