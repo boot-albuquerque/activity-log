@@ -19483,3 +19483,4 @@
 | 2016-07-19 10:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: create background job processor |
 | 2016-07-19 11:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | docs: document environment variables |
 | 2016-07-19 11:10 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | fix: handle timeout in async operation |
+| 2016-07-19 11:27 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
