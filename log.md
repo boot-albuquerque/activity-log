@@ -19487,3 +19487,4 @@
 | 2016-07-19 19:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: add user authentication endpoint |
 | 2016-07-19 23:47 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2016-07-20 11:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add email notification on status change |
+| 2016-07-20 11:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | refactor: adopt repository pattern |
