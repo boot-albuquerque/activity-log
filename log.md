@@ -19489,3 +19489,4 @@
 | 2016-07-20 11:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2016-07-20 11:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2016-07-20 14:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | perf: reduce bundle size |
+| 2016-07-20 20:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | db: optimize slow queries |
