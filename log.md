@@ -19490,3 +19490,4 @@
 | 2016-07-20 11:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2016-07-20 14:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2016-07-20 20:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | db: optimize slow queries |
+| 2016-07-21 10:22 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | fix: handle timeout in async operation |
