@@ -19499,3 +19499,4 @@
 | 2016-07-22 13:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | chore: configure ESLint and Prettier |
 | 2016-07-22 13:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | fix: correct decimal precision in billing |
 | 2016-07-22 15:53 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle edge case in date parsing |
+| 2016-07-22 15:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: correct null check in user service |
