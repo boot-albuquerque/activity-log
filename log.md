@@ -19508,3 +19508,4 @@
 | 2016-07-25 11:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | feat: implement webhook receiver |
 | 2016-07-25 14:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2016-07-25 17:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: resolve N+1 query problem |
+| 2016-07-25 22:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | refactor: extract business logic to service layer |
