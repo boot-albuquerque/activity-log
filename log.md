@@ -19511,3 +19511,4 @@
 | 2016-07-25 22:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | refactor: extract business logic to service layer |
 | 2016-07-25 23:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2016-07-26 09:20 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | chore: configure ESLint and Prettier |
+| 2016-07-26 13:01 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | test: add integration tests for API endpoints |
