@@ -19515,3 +19515,4 @@
 | 2016-07-26 14:32 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | db: optimize slow queries |
 | 2016-07-27 00:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | feat: add OpenAPI documentation |
 | 2016-07-27 10:45 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | test: cover edge cases in validator |
+| 2016-07-27 13:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | chore: add pre-commit hooks |
