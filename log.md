@@ -19523,3 +19523,4 @@
 | 2016-07-27 21:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | security: update SSL certificates config |
 | 2016-07-28 16:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | style: format code according to style guide |
 | 2016-07-29 09:13 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | fix: handle edge case in date parsing |
+| 2016-07-29 12:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: resolve memory leak in connection pool |
