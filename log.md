@@ -19542,3 +19542,4 @@
 | 2016-08-02 15:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: add file upload support |
 | 2016-08-02 15:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2016-08-02 16:56 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | infra: configure auto-scaling policies |
+| 2016-08-02 17:57 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: correct validation error messages |
