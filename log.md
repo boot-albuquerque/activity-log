@@ -19535,3 +19535,4 @@
 | 2016-08-01 18:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | test: cover edge cases in validator |
 | 2016-08-01 19:41 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: handle empty response from external API |
 | 2016-08-02 10:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/memory-leak` | test: fix flaky test in async handler |
+| 2016-08-02 11:49 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/null-pointer` | fix: correct null check in user service |
