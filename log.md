@@ -19537,3 +19537,4 @@
 | 2016-08-02 10:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/memory-leak` | test: fix flaky test in async handler |
 | 2016-08-02 11:49 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/null-pointer` | fix: correct null check in user service |
 | 2016-08-02 12:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | db: add migration for new schema |
+| 2016-08-02 12:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | db: add migration for new schema |
