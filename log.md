@@ -19548,3 +19548,4 @@
 | 2016-08-05 00:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: correct validation error messages |
 | 2016-08-05 12:20 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2016-08-05 16:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: handle malformed JSON input |
+| 2016-08-05 17:57 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | db: add composite index |
