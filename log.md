@@ -19551,3 +19551,4 @@
 | 2016-08-05 17:57 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | db: add composite index |
 | 2016-08-05 22:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | feat: create order processing service |
 | 2016-08-08 00:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | chore: add pre-commit hooks |
+| 2016-08-08 14:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | feat: implement webhook receiver |
