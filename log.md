@@ -19555,3 +19555,4 @@
 | 2016-08-08 19:22 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: correct validation error messages |
 | 2016-08-09 00:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2016-08-09 09:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
+| 2016-08-09 10:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: implement soft delete pattern |
