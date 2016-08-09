@@ -19553,3 +19553,4 @@
 | 2016-08-08 00:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | chore: add pre-commit hooks |
 | 2016-08-08 14:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | feat: implement webhook receiver |
 | 2016-08-08 19:22 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: correct validation error messages |
+| 2016-08-09 00:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | fix: resolve N+1 query problem |
