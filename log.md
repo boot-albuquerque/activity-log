@@ -19571,3 +19571,4 @@
 | 2016-08-10 17:35 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2016-08-10 19:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | fix: handle empty response from external API |
 | 2016-08-10 20:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2016-08-11 08:44 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | docs: document environment variables |
