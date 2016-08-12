@@ -19576,3 +19576,4 @@
 | 2016-08-11 12:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | style: format code according to style guide |
 | 2016-08-11 14:57 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: add OpenAPI documentation |
 | 2016-08-12 08:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | feat: add email notification on status change |
+| 2016-08-12 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | test: add unit tests for payment service |
