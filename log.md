@@ -19578,3 +19578,4 @@
 | 2016-08-12 08:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | feat: add email notification on status change |
 | 2016-08-12 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2016-08-15 09:49 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: create order processing service |
+| 2016-08-15 14:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | test: improve test coverage to 80% |
