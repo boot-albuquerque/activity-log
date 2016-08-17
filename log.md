@@ -19587,3 +19587,4 @@
 | 2016-08-16 13:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: handle empty response from external API |
 | 2016-08-16 15:16 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2016-08-16 18:32 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | refactor: improve code readability |
+| 2016-08-17 00:24 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | chore: add Docker Compose for local dev |
