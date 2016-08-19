@@ -19597,3 +19597,4 @@
 | 2016-08-18 08:07 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2016-08-18 14:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | infra: configure auto-scaling policies |
 | 2016-08-18 15:26 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | docs: add README setup instructions |
+| 2016-08-18 21:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | feat: add email notification on status change |
