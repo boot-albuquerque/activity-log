@@ -19602,3 +19602,4 @@
 | 2016-08-19 12:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | feat: add user authentication endpoint |
 | 2016-08-19 16:22 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | chore: update dependencies |
 | 2016-08-19 16:24 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | feat: add file upload support |
+| 2016-08-19 20:44 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: correct validation error messages |
