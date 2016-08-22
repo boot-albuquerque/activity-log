@@ -19608,3 +19608,4 @@
 | 2016-08-20 17:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | feat: create health check endpoint |
 | 2016-08-22 08:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
 | 2016-08-22 15:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | infra: update Terraform modules |
+| 2016-08-22 16:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | refactor: simplify authentication flow |
