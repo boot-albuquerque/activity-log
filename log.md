@@ -19606,3 +19606,4 @@
 | 2016-08-19 21:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | docs: update API documentation |
 | 2016-08-19 23:21 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2016-08-20 17:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | feat: create health check endpoint |
+| 2016-08-22 08:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
