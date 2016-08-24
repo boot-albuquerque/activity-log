@@ -19614,3 +19614,4 @@
 | 2016-08-22 20:45 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | refactor: clean up unused imports |
 | 2016-08-23 16:30 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2016-08-23 19:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | db: add migration for new schema |
+| 2016-08-24 00:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | chore: add pre-commit hooks |
