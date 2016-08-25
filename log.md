@@ -19616,3 +19616,4 @@
 | 2016-08-23 19:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | db: add migration for new schema |
 | 2016-08-24 00:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2016-08-24 08:08 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2016-08-25 00:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | fix: correct cache invalidation logic |
