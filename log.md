@@ -19626,3 +19626,4 @@
 | 2016-08-26 00:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | infra: configure auto-scaling policies |
 | 2016-08-26 14:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | infra: add Kubernetes manifests |
 | 2016-08-26 15:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | fix: resolve memory leak in connection pool |
+| 2016-08-26 16:21 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | db: add migration for new schema |
