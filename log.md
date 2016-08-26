@@ -19622,3 +19622,4 @@
 | 2016-08-25 14:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | db: add migration for new schema |
 | 2016-08-25 20:21 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | refactor: consolidate error handling |
 | 2016-08-25 21:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | refactor: consolidate error handling |
+| 2016-08-26 00:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct null check in user service |
