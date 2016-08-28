@@ -19629,3 +19629,4 @@
 | 2016-08-26 16:21 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | db: add migration for new schema |
 | 2016-08-26 21:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | security: update SSL certificates config |
 | 2016-08-28 10:27 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | db: add migration for new schema |
+| 2016-08-28 14:25 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | chore: add pre-commit hooks |
