@@ -19638,3 +19638,4 @@
 | 2016-08-30 10:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | ci: configure staging environment |
 | 2016-08-30 12:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2016-08-30 15:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | refactor: clean up unused imports |
+| 2016-08-30 17:44 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/typo-response` | refactor: simplify authentication flow |
