@@ -19643,3 +19643,4 @@
 | 2016-08-31 13:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | feat: create dashboard metrics endpoint |
 | 2016-08-31 14:23 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2016-08-31 14:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: handle timeout in async operation |
+| 2016-08-31 15:28 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: add OpenAPI documentation |
