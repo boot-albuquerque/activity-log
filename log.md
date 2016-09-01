@@ -19648,3 +19648,4 @@
 | 2016-08-31 21:51 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | refactor: clean up unused imports |
 | 2016-09-01 00:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | docs: document environment variables |
 | 2016-09-01 10:09 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add OpenAPI documentation |
+| 2016-09-01 11:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | infra: configure auto-scaling policies |
