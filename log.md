@@ -19651,3 +19651,4 @@
 | 2016-09-01 11:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | infra: configure auto-scaling policies |
 | 2016-09-01 11:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | db: add migration for new schema |
 | 2016-09-01 11:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: create dashboard metrics endpoint |
+| 2016-09-01 19:02 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | fix: correct validation error messages |
