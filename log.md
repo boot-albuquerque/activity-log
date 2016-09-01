@@ -19647,3 +19647,4 @@
 | 2016-08-31 17:17 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2016-08-31 21:51 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | refactor: clean up unused imports |
 | 2016-09-01 00:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | docs: document environment variables |
+| 2016-09-01 10:09 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add OpenAPI documentation |
