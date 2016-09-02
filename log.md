@@ -19653,3 +19653,4 @@
 | 2016-09-01 11:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: create dashboard metrics endpoint |
 | 2016-09-01 19:02 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | fix: correct validation error messages |
 | 2016-09-02 10:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | perf: implement response compression |
+| 2016-09-02 13:59 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | feat: implement caching layer |
