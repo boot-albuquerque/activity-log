@@ -19658,3 +19658,4 @@
 | 2016-09-02 16:13 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | fix: correct pagination offset calculation |
 | 2016-09-04 13:37 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2016-09-05 07:44 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | ci: add automated deployment pipeline |
+| 2016-09-05 10:13 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | fix: correct validation error messages |
