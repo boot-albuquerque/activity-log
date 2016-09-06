@@ -19662,3 +19662,4 @@
 | 2016-09-05 11:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | test: cover edge cases in validator |
 | 2016-09-05 11:28 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add bulk operations support |
 | 2016-09-05 18:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | style: format code according to style guide |
+| 2016-09-06 12:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | style: format code according to style guide |
