@@ -19668,3 +19668,4 @@
 | 2016-09-06 14:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | fix: correct null check in user service |
 | 2016-09-06 15:57 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: create order processing service |
 | 2016-09-06 16:51 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: add real-time notifications |
+| 2016-09-06 18:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | fix: handle empty response from external API |
