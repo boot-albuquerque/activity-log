@@ -19664,3 +19664,4 @@
 | 2016-09-05 18:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | style: format code according to style guide |
 | 2016-09-06 12:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | style: format code according to style guide |
 | 2016-09-06 12:46 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | ci: configure staging environment |
+| 2016-09-06 12:54 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | docs: update API documentation |
