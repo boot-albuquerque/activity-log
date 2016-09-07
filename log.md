@@ -19672,3 +19672,4 @@
 | 2016-09-06 22:40 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2016-09-07 00:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: mock external dependencies in tests |
 | 2016-09-07 08:10 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | perf: reduce bundle size |
+| 2016-09-07 12:08 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add email notification on status change |
