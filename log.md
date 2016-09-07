@@ -19673,3 +19673,4 @@
 | 2016-09-07 00:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: mock external dependencies in tests |
 | 2016-09-07 08:10 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | perf: reduce bundle size |
 | 2016-09-07 12:08 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add email notification on status change |
+| 2016-09-07 15:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | chore: add pre-commit hooks |
