@@ -19687,3 +19687,4 @@
 | 2016-09-08 18:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2016-09-09 07:09 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2016-09-09 11:03 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | test: add e2e tests for checkout flow |
+| 2016-09-09 11:30 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | fix: correct validation error messages |
