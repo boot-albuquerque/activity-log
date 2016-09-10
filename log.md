@@ -19690,3 +19690,4 @@
 | 2016-09-09 11:30 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | fix: correct validation error messages |
 | 2016-09-09 13:50 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: correct pagination offset calculation |
 | 2016-09-09 14:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | fix: correct validation error messages |
+| 2016-09-09 23:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
