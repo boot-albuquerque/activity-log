@@ -19693,3 +19693,4 @@
 | 2016-09-09 23:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
 | 2016-09-10 12:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2016-09-11 07:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | feat: add pagination to list endpoint |
+| 2016-09-11 08:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | fix: correct validation error messages |
