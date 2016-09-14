@@ -19702,3 +19702,4 @@
 | 2016-09-14 10:36 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | chore: configure GitHub Actions CI |
 | 2016-09-14 12:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | db: add composite index |
 | 2016-09-14 12:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | ci: configure staging environment |
+| 2016-09-14 13:22 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
