@@ -19712,3 +19712,4 @@
 | 2016-09-15 11:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: resolve N+1 query problem |
 | 2016-09-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2016-09-15 12:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | chore: add pre-commit hooks |
+| 2016-09-15 13:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | db: optimize slow queries |
