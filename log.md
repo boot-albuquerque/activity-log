@@ -19713,3 +19713,4 @@
 | 2016-09-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2016-09-15 12:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2016-09-15 13:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | db: optimize slow queries |
+| 2016-09-15 15:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | feat: add bulk operations support |
