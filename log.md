@@ -19725,3 +19725,4 @@
 | 2016-09-16 18:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | feat: implement JWT refresh token |
 | 2016-09-17 09:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2016-09-17 09:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | test: add integration tests for API endpoints |
+| 2016-09-18 11:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
