@@ -19734,3 +19734,4 @@
 | 2016-09-19 16:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
 | 2016-09-19 18:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | refactor: extract business logic to service layer |
 | 2016-09-19 19:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
+| 2016-09-20 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: correct pagination offset calculation |
