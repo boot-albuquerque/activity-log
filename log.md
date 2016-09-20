@@ -19737,3 +19737,4 @@
 | 2016-09-20 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: correct pagination offset calculation |
 | 2016-09-20 08:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2016-09-20 13:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: correct decimal precision in billing |
+| 2016-09-20 14:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | db: add composite index |
