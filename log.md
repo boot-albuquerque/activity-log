@@ -19752,3 +19752,4 @@
 | 2016-09-23 16:36 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | feat: implement soft delete pattern |
 | 2016-09-23 20:56 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | feat: implement JWT refresh token |
 | 2016-09-23 21:03 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: fix flaky test in async handler |
+| 2016-09-24 17:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: add Kubernetes manifests |
