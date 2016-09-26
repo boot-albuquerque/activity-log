@@ -19755,3 +19755,4 @@
 | 2016-09-24 17:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: add Kubernetes manifests |
 | 2016-09-24 20:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: handle malformed JSON input |
 | 2016-09-26 07:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | ci: configure staging environment |
+| 2016-09-26 12:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | db: add migration for new schema |
