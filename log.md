@@ -19757,3 +19757,4 @@
 | 2016-09-26 07:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | ci: configure staging environment |
 | 2016-09-26 12:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | db: add migration for new schema |
 | 2016-09-26 14:08 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: format code according to style guide |
+| 2016-09-26 14:20 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | security: add input sanitization |
