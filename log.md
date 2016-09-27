@@ -19763,3 +19763,4 @@
 | 2016-09-27 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | refactor: replace raw SQL with query builder |
 | 2016-09-27 12:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | test: improve test coverage to 80% |
 | 2016-09-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | db: optimize slow queries |
+| 2016-09-27 14:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: add e2e tests for checkout flow |
