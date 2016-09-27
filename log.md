@@ -19761,3 +19761,4 @@
 | 2016-09-26 15:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | refactor: move constants to config module |
 | 2016-09-26 20:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2016-09-27 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | refactor: replace raw SQL with query builder |
+| 2016-09-27 12:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | test: improve test coverage to 80% |
