@@ -19762,3 +19762,4 @@
 | 2016-09-26 20:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2016-09-27 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | refactor: replace raw SQL with query builder |
 | 2016-09-27 12:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | test: improve test coverage to 80% |
+| 2016-09-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | db: optimize slow queries |
