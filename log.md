@@ -19767,3 +19767,4 @@
 | 2016-09-27 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2016-09-27 21:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create health check endpoint |
 | 2016-09-27 22:11 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add e2e tests for checkout flow |
+| 2016-09-28 10:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add OpenAPI documentation |
