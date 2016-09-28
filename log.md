@@ -19768,3 +19768,4 @@
 | 2016-09-27 21:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create health check endpoint |
 | 2016-09-27 22:11 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2016-09-28 10:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add OpenAPI documentation |
+| 2016-09-28 14:49 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: add Kubernetes manifests |
