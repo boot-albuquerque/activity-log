@@ -19765,3 +19765,4 @@
 | 2016-09-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | db: optimize slow queries |
 | 2016-09-27 14:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: add e2e tests for checkout flow |
 | 2016-09-27 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | chore: configure GitHub Actions CI |
+| 2016-09-27 21:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create health check endpoint |
