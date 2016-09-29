@@ -19769,3 +19769,4 @@
 | 2016-09-27 22:11 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2016-09-28 10:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add OpenAPI documentation |
 | 2016-09-28 14:49 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: add Kubernetes manifests |
+| 2016-09-29 14:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | fix: correct null check in user service |
