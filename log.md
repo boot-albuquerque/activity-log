@@ -19772,3 +19772,4 @@
 | 2016-09-29 14:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | fix: correct null check in user service |
 | 2016-09-29 16:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | style: format code according to style guide |
 | 2016-09-30 09:23 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | refactor: move constants to config module |
+| 2016-09-30 13:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | feat: add file upload support |
