@@ -19801,3 +19801,4 @@
 | 2016-10-07 14:58 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: implement webhook receiver |
 | 2016-10-07 15:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2016-10-07 15:34 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | security: add input sanitization |
+| 2016-10-09 11:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: add export to CSV/Excel |
