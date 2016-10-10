@@ -19804,3 +19804,4 @@
 | 2016-10-09 11:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: add export to CSV/Excel |
 | 2016-10-10 07:24 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | fix: correct validation error messages |
 | 2016-10-10 11:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | security: fix SQL injection vulnerability |
+| 2016-10-10 17:02 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | docs: document environment variables |
