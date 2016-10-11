@@ -19806,3 +19806,4 @@
 | 2016-10-10 11:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | security: fix SQL injection vulnerability |
 | 2016-10-10 17:02 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | docs: document environment variables |
 | 2016-10-10 18:05 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | test: cover edge cases in validator |
+| 2016-10-10 23:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | fix: handle missing environment variable |
