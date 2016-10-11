@@ -19809,3 +19809,4 @@
 | 2016-10-10 23:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2016-10-10 23:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2016-10-11 08:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | ci: configure staging environment |
+| 2016-10-11 10:27 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | infra: add Kubernetes manifests |
