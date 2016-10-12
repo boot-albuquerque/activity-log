@@ -19814,3 +19814,4 @@
 | 2016-10-11 18:50 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | perf: reduce bundle size |
 | 2016-10-12 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | fix: correct pagination offset calculation |
 | 2016-10-12 14:16 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | refactor: split large controller into smaller ones |
+| 2016-10-12 14:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
