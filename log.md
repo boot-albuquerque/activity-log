@@ -19812,3 +19812,4 @@
 | 2016-10-11 10:27 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2016-10-11 11:19 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: add file upload support |
 | 2016-10-11 18:50 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | perf: reduce bundle size |
+| 2016-10-12 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | fix: correct pagination offset calculation |
