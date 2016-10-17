@@ -19835,3 +19835,4 @@
 | 2016-10-17 09:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | fix: correct cache invalidation logic |
 | 2016-10-17 09:33 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2016-10-17 14:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | test: fix flaky test in async handler |
+| 2016-10-17 20:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | db: optimize slow queries |
