@@ -19837,3 +19837,4 @@
 | 2016-10-17 14:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | test: fix flaky test in async handler |
 | 2016-10-17 20:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | db: optimize slow queries |
 | 2016-10-18 13:23 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | test: fix flaky test in async handler |
+| 2016-10-18 15:16 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: mock external dependencies in tests |
