@@ -19839,3 +19839,4 @@
 | 2016-10-18 13:23 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | test: fix flaky test in async handler |
 | 2016-10-18 15:16 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: mock external dependencies in tests |
 | 2016-10-18 16:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | style: fix indentation and whitespace |
+| 2016-10-19 09:53 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | fix: correct cache invalidation logic |
