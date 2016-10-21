@@ -19846,3 +19846,4 @@
 | 2016-10-20 19:11 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | test: add performance benchmark tests |
 | 2016-10-20 21:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: create order processing service |
 | 2016-10-21 08:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | perf: reduce bundle size |
+| 2016-10-21 12:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | test: add e2e tests for checkout flow |
