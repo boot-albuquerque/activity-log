@@ -19859,3 +19859,4 @@
 | 2016-10-24 15:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2016-10-24 15:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
 | 2016-10-24 17:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: add user authentication endpoint |
+| 2016-10-24 17:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
