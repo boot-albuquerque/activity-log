@@ -19850,3 +19850,4 @@
 | 2016-10-21 14:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2016-10-21 16:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2016-10-21 18:16 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | security: add input sanitization |
+| 2016-10-24 10:51 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | chore: add Docker Compose for local dev |
