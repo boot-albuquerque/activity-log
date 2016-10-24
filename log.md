@@ -19851,3 +19851,4 @@
 | 2016-10-21 16:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2016-10-21 18:16 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | security: add input sanitization |
 | 2016-10-24 10:51 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | chore: add Docker Compose for local dev |
+| 2016-10-24 11:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: correct null check in user service |
