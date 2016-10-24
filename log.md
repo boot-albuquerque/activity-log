@@ -19855,3 +19855,4 @@
 | 2016-10-24 11:42 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | docs: update API documentation |
 | 2016-10-24 13:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add audit log trail |
 | 2016-10-24 14:14 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/rate-limiting` | refactor: move constants to config module |
+| 2016-10-24 14:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: add export to CSV/Excel |
