@@ -19863,3 +19863,4 @@
 | 2016-10-24 22:39 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2016-10-25 15:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2016-10-25 15:44 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | feat: add search with filters |
+| 2016-10-25 17:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | fix: handle empty response from external API |
