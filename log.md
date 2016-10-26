@@ -19867,3 +19867,4 @@
 | 2016-10-25 18:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2016-10-25 20:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2016-10-26 16:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: resolve deadlock in transaction |
+| 2016-10-26 18:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | fix: resolve deadlock in transaction |
