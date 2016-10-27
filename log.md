@@ -19868,3 +19868,4 @@
 | 2016-10-25 20:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2016-10-26 16:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2016-10-26 18:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | fix: resolve deadlock in transaction |
+| 2016-10-26 21:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | feat: add bulk operations support |
