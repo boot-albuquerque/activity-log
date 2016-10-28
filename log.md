@@ -19872,3 +19872,4 @@
 | 2016-10-27 13:53 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2016-10-28 12:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2016-10-28 12:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | ci: add automated deployment pipeline |
+| 2016-10-28 13:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | db: optimize slow queries |
