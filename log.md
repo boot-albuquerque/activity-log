@@ -19874,3 +19874,4 @@
 | 2016-10-28 12:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | ci: add automated deployment pipeline |
 | 2016-10-28 13:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | db: optimize slow queries |
 | 2016-10-28 14:10 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | security: add input sanitization |
+| 2016-10-28 15:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: fix flaky test in async handler |
