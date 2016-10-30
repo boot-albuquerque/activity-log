@@ -19880,3 +19880,4 @@
 | 2016-10-28 21:41 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | feat: create order processing service |
 | 2016-10-29 00:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | test: add e2e tests for checkout flow |
 | 2016-10-29 14:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: correct cache invalidation logic |
+| 2016-10-30 19:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
