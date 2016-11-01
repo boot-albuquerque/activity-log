@@ -19884,3 +19884,4 @@
 | 2016-10-30 20:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
 | 2016-10-31 12:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | style: format code according to style guide |
 | 2016-10-31 16:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | docs: add README setup instructions |
+| 2016-10-31 21:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | refactor: adopt repository pattern |
