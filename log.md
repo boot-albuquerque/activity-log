@@ -19890,3 +19890,4 @@
 | 2016-11-01 08:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | chore: upgrade to latest Node.js LTS |
 | 2016-11-01 13:33 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | fix: correct cache invalidation logic |
 | 2016-11-01 14:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
+| 2016-11-01 17:38 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
