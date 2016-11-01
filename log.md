@@ -19885,3 +19885,4 @@
 | 2016-10-31 12:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | style: format code according to style guide |
 | 2016-10-31 16:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | docs: add README setup instructions |
 | 2016-10-31 21:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | refactor: adopt repository pattern |
+| 2016-10-31 22:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: add search with filters |
