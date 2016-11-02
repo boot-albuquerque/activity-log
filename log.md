@@ -19895,3 +19895,4 @@
 | 2016-11-01 20:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | fix: correct validation error messages |
 | 2016-11-02 08:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add export to CSV/Excel |
 | 2016-11-02 13:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | infra: update Terraform modules |
+| 2016-11-02 14:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve race condition in queue worker |
