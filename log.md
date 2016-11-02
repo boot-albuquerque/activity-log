@@ -19893,3 +19893,4 @@
 | 2016-11-01 17:38 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
 | 2016-11-01 18:48 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | docs: add README setup instructions |
 | 2016-11-01 20:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | fix: correct validation error messages |
+| 2016-11-02 08:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add export to CSV/Excel |
