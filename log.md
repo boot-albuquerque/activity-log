@@ -19912,3 +19912,4 @@
 | 2016-11-04 10:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
 | 2016-11-04 12:05 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | perf: optimize database queries |
 | 2016-11-04 19:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: resolve deadlock in transaction |
+| 2016-11-06 00:37 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
