@@ -19916,3 +19916,4 @@
 | 2016-11-06 00:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | refactor: reduce cyclomatic complexity |
 | 2016-11-06 11:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | feat: add search with filters |
 | 2016-11-07 10:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | fix: handle timeout in async operation |
+| 2016-11-07 16:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: resolve memory leak in connection pool |
