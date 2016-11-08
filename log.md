@@ -19919,3 +19919,4 @@
 | 2016-11-07 16:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: resolve memory leak in connection pool |
 | 2016-11-07 20:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2016-11-08 13:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | infra: configure auto-scaling policies |
+| 2016-11-08 14:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: add pagination to list endpoint |
