@@ -19924,3 +19924,4 @@
 | 2016-11-08 19:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2016-11-08 21:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | feat: add email notification on status change |
 | 2016-11-08 23:01 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | test: add e2e tests for checkout flow |
+| 2016-11-09 11:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | refactor: adopt repository pattern |
