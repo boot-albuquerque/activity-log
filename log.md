@@ -19933,3 +19933,4 @@
 | 2016-11-09 23:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: implement caching layer |
 | 2016-11-10 11:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | db: add composite index |
 | 2016-11-10 14:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | feat: add search with filters |
+| 2016-11-10 16:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | db: add migration for new schema |
