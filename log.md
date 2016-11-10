@@ -19931,3 +19931,4 @@
 | 2016-11-09 18:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | feat: add real-time notifications |
 | 2016-11-09 21:37 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2016-11-09 23:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: implement caching layer |
+| 2016-11-10 11:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | db: add composite index |
