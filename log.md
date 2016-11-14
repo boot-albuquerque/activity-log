@@ -19944,3 +19944,4 @@
 | 2016-11-14 13:21 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | feat: create health check endpoint |
 | 2016-11-14 16:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | perf: add database indexes |
 | 2016-11-14 16:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | refactor: simplify authentication flow |
+| 2016-11-14 17:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | fix: handle missing environment variable |
