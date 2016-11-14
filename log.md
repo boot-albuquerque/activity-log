@@ -19941,3 +19941,4 @@
 | 2016-11-13 08:58 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2016-11-13 17:18 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2016-11-14 12:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | fix: correct pagination offset calculation |
+| 2016-11-14 13:21 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | feat: create health check endpoint |
