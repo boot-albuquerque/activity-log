@@ -19951,3 +19951,4 @@
 | 2016-11-15 15:47 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2016-11-15 16:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | feat: create health check endpoint |
 | 2016-11-15 16:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: create background job processor |
+| 2016-11-15 18:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | docs: document environment variables |
