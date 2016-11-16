@@ -19956,3 +19956,4 @@
 | 2016-11-15 22:59 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | refactor: simplify authentication flow |
 | 2016-11-16 08:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2016-11-16 12:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
+| 2016-11-16 13:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | docs: document environment variables |
