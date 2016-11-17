@@ -19960,3 +19960,4 @@
 | 2016-11-16 15:50 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | chore: update dependencies |
 | 2016-11-16 20:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | feat: add search with filters |
 | 2016-11-17 08:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add bulk operations support |
+| 2016-11-17 15:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | test: add integration tests for API endpoints |
