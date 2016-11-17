@@ -19959,3 +19959,4 @@
 | 2016-11-16 13:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | docs: document environment variables |
 | 2016-11-16 15:50 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | chore: update dependencies |
 | 2016-11-16 20:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | feat: add search with filters |
+| 2016-11-17 08:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add bulk operations support |
