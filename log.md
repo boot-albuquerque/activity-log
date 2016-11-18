@@ -19964,3 +19964,4 @@
 | 2016-11-17 18:19 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | docs: add README setup instructions |
 | 2016-11-18 08:36 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | feat: create order processing service |
 | 2016-11-18 11:35 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | test: add integration tests for API endpoints |
+| 2016-11-18 15:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | infra: add Kubernetes manifests |
