@@ -19968,3 +19968,4 @@
 | 2016-11-18 16:37 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | feat: add bulk operations support |
 | 2016-11-18 19:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | test: add integration tests for API endpoints |
 | 2016-11-18 21:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: handle edge case in date parsing |
+| 2016-11-19 08:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/add-caching` | db: add migration for new schema |
