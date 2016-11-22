@@ -19975,3 +19975,4 @@
 | 2016-11-22 11:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | refactor: extract business logic to service layer |
 | 2016-11-22 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | test: fix flaky test in async handler |
 | 2016-11-22 15:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | feat: create order processing service |
+| 2016-11-22 15:48 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | infra: configure auto-scaling policies |
