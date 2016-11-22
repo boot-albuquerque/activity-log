@@ -19974,3 +19974,4 @@
 | 2016-11-20 17:56 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2016-11-22 11:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | refactor: extract business logic to service layer |
 | 2016-11-22 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | test: fix flaky test in async handler |
+| 2016-11-22 15:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | feat: create order processing service |
