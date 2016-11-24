@@ -19990,3 +19990,4 @@
 | 2016-11-24 12:49 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct pagination offset calculation |
 | 2016-11-24 13:42 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | docs: update API documentation |
 | 2016-11-24 19:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | style: format code according to style guide |
+| 2016-11-24 20:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | fix: handle malformed JSON input |
