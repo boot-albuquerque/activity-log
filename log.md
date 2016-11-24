@@ -19986,3 +19986,4 @@
 | 2016-11-23 15:43 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: improve test coverage to 80% |
 | 2016-11-23 16:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: implement JWT refresh token |
 | 2016-11-23 23:16 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | infra: update Terraform modules |
+| 2016-11-24 00:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: configure auto-scaling policies |
