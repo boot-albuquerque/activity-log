@@ -19996,3 +19996,4 @@
 | 2016-11-25 15:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | feat: add user authentication endpoint |
 | 2016-11-25 17:28 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2016-11-25 17:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | feat: add OpenAPI documentation |
+| 2016-11-25 18:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | docs: document environment variables |
