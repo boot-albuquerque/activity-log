@@ -20000,3 +20000,4 @@
 | 2016-11-25 19:20 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2016-11-26 16:38 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/refactor-queries` | fix: resolve memory leak in connection pool |
 | 2016-11-27 12:27 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | fix: handle edge case in date parsing |
+| 2016-11-27 14:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: replace raw SQL with query builder |
