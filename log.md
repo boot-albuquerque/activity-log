@@ -20003,3 +20003,4 @@
 | 2016-11-27 14:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: replace raw SQL with query builder |
 | 2016-11-28 10:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: implement caching layer |
 | 2016-11-28 14:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
+| 2016-11-29 00:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add user authentication endpoint |
