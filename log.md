@@ -20004,3 +20004,4 @@
 | 2016-11-28 10:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: implement caching layer |
 | 2016-11-28 14:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2016-11-29 00:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add user authentication endpoint |
+| 2016-11-29 08:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | perf: optimize database queries |
