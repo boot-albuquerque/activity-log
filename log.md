@@ -20008,3 +20008,4 @@
 | 2016-11-29 09:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | style: format code according to style guide |
 | 2016-11-29 11:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | test: cover edge cases in validator |
 | 2016-11-29 11:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | security: add input sanitization |
+| 2016-11-29 13:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: handle malformed JSON input |
