@@ -20010,3 +20010,4 @@
 | 2016-11-29 11:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | security: add input sanitization |
 | 2016-11-29 13:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: handle malformed JSON input |
 | 2016-11-29 17:42 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
+| 2016-11-29 18:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | test: fix flaky test in async handler |
