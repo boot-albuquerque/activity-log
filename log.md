@@ -20019,3 +20019,4 @@
 | 2016-11-30 14:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | chore: configure GitHub Actions CI |
 | 2016-11-30 14:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: implement rate limiting middleware |
 | 2016-11-30 16:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2016-11-30 19:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | chore: add Docker Compose for local dev |
