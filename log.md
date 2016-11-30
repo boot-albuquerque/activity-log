@@ -20013,3 +20013,4 @@
 | 2016-11-29 18:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | test: fix flaky test in async handler |
 | 2016-11-29 19:08 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | security: fix SQL injection vulnerability |
 | 2016-11-29 22:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/rate-limiting` | feat: add OpenAPI documentation |
+| 2016-11-30 07:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | infra: add Kubernetes manifests |
