@@ -20021,3 +20021,4 @@
 | 2016-11-30 16:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2016-11-30 19:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | chore: add Docker Compose for local dev |
 | 2016-12-01 12:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | chore: add pre-commit hooks |
+| 2016-12-01 12:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve CORS configuration |
