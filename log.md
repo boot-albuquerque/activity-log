@@ -20028,3 +20028,4 @@
 | 2016-12-01 21:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: add user authentication endpoint |
 | 2016-12-02 00:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2016-12-02 13:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | db: add migration for new schema |
+| 2016-12-02 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | fix: correct decimal precision in billing |
