@@ -20030,3 +20030,4 @@
 | 2016-12-02 13:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | db: add migration for new schema |
 | 2016-12-02 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2016-12-02 20:29 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
+| 2016-12-02 22:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | refactor: simplify authentication flow |
