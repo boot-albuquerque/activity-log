@@ -20033,3 +20033,4 @@
 | 2016-12-02 22:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2016-12-03 18:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | refactor: adopt repository pattern |
 | 2016-12-05 14:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | test: mock external dependencies in tests |
+| 2016-12-05 16:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | test: fix flaky test in async handler |
