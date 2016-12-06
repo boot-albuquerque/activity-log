@@ -20035,3 +20035,4 @@
 | 2016-12-05 14:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2016-12-05 16:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2016-12-05 18:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2016-12-06 12:54 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | feat: add export to CSV/Excel |
