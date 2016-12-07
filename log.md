@@ -20039,3 +20039,4 @@
 | 2016-12-06 13:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | fix: handle timeout in async operation |
 | 2016-12-06 15:09 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | test: mock external dependencies in tests |
 | 2016-12-06 16:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle missing environment variable |
+| 2016-12-07 07:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | feat: add email notification on status change |
