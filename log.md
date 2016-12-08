@@ -20048,3 +20048,4 @@
 | 2016-12-08 13:06 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | infra: update Terraform modules |
 | 2016-12-08 15:43 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | feat: add file upload support |
 | 2016-12-08 16:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | refactor: clean up unused imports |
+| 2016-12-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | db: add composite index |
