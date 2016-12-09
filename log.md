@@ -20051,3 +20051,4 @@
 | 2016-12-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | db: add composite index |
 | 2016-12-08 21:58 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | test: improve test coverage to 80% |
 | 2016-12-09 00:24 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | feat: implement rate limiting middleware |
+| 2016-12-09 08:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
