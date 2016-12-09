@@ -20049,3 +20049,4 @@
 | 2016-12-08 15:43 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | feat: add file upload support |
 | 2016-12-08 16:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2016-12-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | db: add composite index |
+| 2016-12-08 21:58 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | test: improve test coverage to 80% |
