@@ -20054,3 +20054,4 @@
 | 2016-12-09 08:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
 | 2016-12-09 16:35 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: create background job processor |
 | 2016-12-09 18:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | db: add migration for new schema |
+| 2016-12-11 07:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: add user authentication endpoint |
