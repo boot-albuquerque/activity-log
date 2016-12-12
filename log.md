@@ -20056,3 +20056,4 @@
 | 2016-12-09 18:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | db: add migration for new schema |
 | 2016-12-11 07:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: add user authentication endpoint |
 | 2016-12-11 11:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | test: mock external dependencies in tests |
+| 2016-12-12 11:00 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | db: optimize slow queries |
