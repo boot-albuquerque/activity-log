@@ -20064,3 +20064,4 @@
 | 2016-12-13 15:32 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | style: format code according to style guide |
 | 2016-12-13 16:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | feat: add search with filters |
 | 2016-12-13 18:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | db: add composite index |
+| 2016-12-13 19:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | test: add e2e tests for checkout flow |
