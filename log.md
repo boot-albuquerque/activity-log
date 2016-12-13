@@ -20060,3 +20060,4 @@
 | 2016-12-12 14:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: fix flaky test in async handler |
 | 2016-12-13 08:08 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | test: add performance benchmark tests |
 | 2016-12-13 08:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | perf: reduce bundle size |
+| 2016-12-13 14:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | perf: reduce bundle size |
