@@ -20063,3 +20063,4 @@
 | 2016-12-13 14:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | perf: reduce bundle size |
 | 2016-12-13 15:32 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | style: format code according to style guide |
 | 2016-12-13 16:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | feat: add search with filters |
+| 2016-12-13 18:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | db: add composite index |
