@@ -20077,3 +20077,4 @@
 | 2016-12-15 16:12 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
 | 2016-12-16 09:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2016-12-16 13:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | test: improve test coverage to 80% |
+| 2016-12-16 16:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | feat: add audit log trail |
