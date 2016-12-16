@@ -20075,3 +20075,4 @@
 | 2016-12-15 08:22 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add audit log trail |
 | 2016-12-15 14:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | style: fix indentation and whitespace |
 | 2016-12-15 16:12 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
+| 2016-12-16 09:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | db: add migration for new schema |
