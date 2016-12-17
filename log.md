@@ -20083,3 +20083,4 @@
 | 2016-12-16 19:53 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | test: add integration tests for API endpoints |
 | 2016-12-16 23:18 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | feat: add email notification on status change |
 | 2016-12-17 11:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | perf: add database indexes |
+| 2016-12-17 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | docs: document environment variables |
