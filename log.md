@@ -20082,3 +20082,4 @@
 | 2016-12-16 18:11 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | db: add migration for new schema |
 | 2016-12-16 19:53 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | test: add integration tests for API endpoints |
 | 2016-12-16 23:18 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | feat: add email notification on status change |
+| 2016-12-17 11:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | perf: add database indexes |
