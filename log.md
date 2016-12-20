@@ -20088,3 +20088,4 @@
 | 2016-12-18 13:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | style: format code according to style guide |
 | 2016-12-20 11:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2016-12-20 11:10 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | chore: add pre-commit hooks |
+| 2016-12-20 12:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | refactor: adopt repository pattern |
