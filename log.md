@@ -20086,3 +20086,4 @@
 | 2016-12-17 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | docs: document environment variables |
 | 2016-12-18 11:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | refactor: extract business logic to service layer |
 | 2016-12-18 13:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | style: format code according to style guide |
+| 2016-12-20 11:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | fix: handle timeout in async operation |
