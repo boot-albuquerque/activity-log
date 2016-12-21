@@ -20096,3 +20096,4 @@
 | 2016-12-21 14:13 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: add search with filters |
 | 2016-12-21 17:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | perf: add database indexes |
 | 2016-12-21 17:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: resolve race condition in queue worker |
+| 2016-12-21 18:49 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | test: add integration tests for API endpoints |
