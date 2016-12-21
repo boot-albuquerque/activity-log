@@ -20093,3 +20093,4 @@
 | 2016-12-21 11:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | refactor: adopt repository pattern |
 | 2016-12-21 12:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | feat: add email notification on status change |
 | 2016-12-21 13:48 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | feat: add real-time notifications |
+| 2016-12-21 14:13 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: add search with filters |
