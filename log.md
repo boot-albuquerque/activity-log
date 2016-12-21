@@ -20091,3 +20091,4 @@
 | 2016-12-20 12:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | refactor: adopt repository pattern |
 | 2016-12-20 12:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | infra: update Terraform modules |
 | 2016-12-21 11:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | refactor: adopt repository pattern |
+| 2016-12-21 12:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | feat: add email notification on status change |
