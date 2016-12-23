@@ -20104,3 +20104,4 @@
 | 2016-12-22 19:34 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
 | 2016-12-22 21:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | db: optimize slow queries |
 | 2016-12-22 22:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add user authentication endpoint |
+| 2016-12-23 09:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | refactor: consolidate error handling |
