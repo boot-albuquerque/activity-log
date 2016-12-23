@@ -20106,3 +20106,4 @@
 | 2016-12-22 22:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add user authentication endpoint |
 | 2016-12-23 09:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | refactor: consolidate error handling |
 | 2016-12-23 09:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | test: mock external dependencies in tests |
+| 2016-12-23 11:09 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | feat: create admin management interface |
