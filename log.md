@@ -20102,3 +20102,4 @@
 | 2016-12-22 14:22 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | feat: add real-time notifications |
 | 2016-12-22 15:26 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | db: add composite index |
 | 2016-12-22 19:34 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
+| 2016-12-22 21:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | db: optimize slow queries |
