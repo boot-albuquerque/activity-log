@@ -20107,3 +20107,4 @@
 | 2016-12-23 09:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | refactor: consolidate error handling |
 | 2016-12-23 09:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2016-12-23 11:09 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | feat: create admin management interface |
+| 2016-12-23 13:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | refactor: simplify authentication flow |
