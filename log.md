@@ -20111,3 +20111,4 @@
 | 2016-12-23 15:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | fix: correct null check in user service |
 | 2016-12-23 16:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | refactor: consolidate error handling |
 | 2016-12-23 19:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
+| 2016-12-24 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
