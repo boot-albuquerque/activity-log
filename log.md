@@ -20112,3 +20112,4 @@
 | 2016-12-23 16:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | refactor: consolidate error handling |
 | 2016-12-23 19:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
 | 2016-12-24 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
+| 2016-12-26 07:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | docs: add README setup instructions |
