@@ -20113,3 +20113,4 @@
 | 2016-12-23 19:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
 | 2016-12-24 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2016-12-26 07:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | docs: add README setup instructions |
+| 2016-12-26 10:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: add search with filters |
