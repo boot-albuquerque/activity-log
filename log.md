@@ -20116,3 +20116,4 @@
 | 2016-12-26 10:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: add search with filters |
 | 2016-12-26 11:24 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | fix: handle missing environment variable |
 | 2016-12-26 18:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | feat: implement webhook receiver |
+| 2016-12-26 18:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | db: add migration for new schema |
