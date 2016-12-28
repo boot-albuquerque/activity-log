@@ -20118,3 +20118,4 @@
 | 2016-12-26 18:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | feat: implement webhook receiver |
 | 2016-12-26 18:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | db: add migration for new schema |
 | 2016-12-26 22:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
+| 2016-12-28 10:40 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | feat: add file upload support |
