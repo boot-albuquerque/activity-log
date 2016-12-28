@@ -20120,3 +20120,4 @@
 | 2016-12-26 22:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2016-12-28 10:40 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | feat: add file upload support |
 | 2016-12-28 12:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
+| 2016-12-28 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
