@@ -20123,3 +20123,4 @@
 | 2016-12-28 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
 | 2016-12-28 18:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: add bulk operations support |
 | 2016-12-29 10:13 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | refactor: improve code readability |
+| 2016-12-29 10:21 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | chore: add Docker Compose for local dev |
