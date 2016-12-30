@@ -20128,3 +20128,4 @@
 | 2016-12-29 15:58 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | docs: add README setup instructions |
 | 2016-12-30 07:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: simplify authentication flow |
 | 2016-12-30 10:37 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | test: fix flaky test in async handler |
+| 2016-12-30 10:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add user authentication endpoint |
