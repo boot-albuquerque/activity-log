@@ -20131,3 +20131,4 @@
 | 2016-12-30 10:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add user authentication endpoint |
 | 2016-12-30 11:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: create order processing service |
 | 2016-12-30 15:18 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | refactor: consolidate error handling |
+| 2016-12-30 15:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | feat: add search with filters |
