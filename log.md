@@ -20139,3 +20139,4 @@
 | 2017-01-01 10:42 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | security: add input sanitization |
 | 2017-01-02 00:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve race condition in queue worker |
 | 2017-01-02 00:44 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | refactor: improve code readability |
+| 2017-01-02 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: implement soft delete pattern |
