@@ -20141,3 +20141,4 @@
 | 2017-01-02 00:44 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2017-01-02 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2017-01-02 23:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2017-01-03 11:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | fix: correct null check in user service |
