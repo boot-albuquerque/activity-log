@@ -20146,3 +20146,4 @@
 | 2017-01-03 18:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2017-01-03 19:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2017-01-04 14:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | style: fix indentation and whitespace |
+| 2017-01-04 14:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: implement webhook receiver |
