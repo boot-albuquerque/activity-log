@@ -20149,3 +20149,4 @@
 | 2017-01-04 14:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: implement webhook receiver |
 | 2017-01-04 16:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | refactor: reduce cyclomatic complexity |
 | 2017-01-04 16:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: add search with filters |
+| 2017-01-04 18:58 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
