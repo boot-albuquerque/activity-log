@@ -20148,3 +20148,4 @@
 | 2017-01-04 14:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | style: fix indentation and whitespace |
 | 2017-01-04 14:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: implement webhook receiver |
 | 2017-01-04 16:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | refactor: reduce cyclomatic complexity |
+| 2017-01-04 16:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: add search with filters |
