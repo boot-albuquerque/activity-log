@@ -20150,3 +20150,4 @@
 | 2017-01-04 16:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | refactor: reduce cyclomatic complexity |
 | 2017-01-04 16:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: add search with filters |
 | 2017-01-04 18:58 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
+| 2017-01-05 17:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add pagination to list endpoint |
