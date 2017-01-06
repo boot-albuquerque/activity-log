@@ -20153,3 +20153,4 @@
 | 2017-01-05 17:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add pagination to list endpoint |
 | 2017-01-06 00:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | style: format code according to style guide |
 | 2017-01-06 11:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | fix: correct decimal precision in billing |
+| 2017-01-06 14:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | refactor: improve code readability |
