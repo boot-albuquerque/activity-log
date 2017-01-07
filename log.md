@@ -20156,3 +20156,4 @@
 | 2017-01-06 14:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | refactor: improve code readability |
 | 2017-01-06 17:52 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2017-01-06 19:08 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/extract-service` | feat: implement soft delete pattern |
+| 2017-01-07 19:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | docs: document environment variables |
