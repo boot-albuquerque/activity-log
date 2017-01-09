@@ -20163,3 +20163,4 @@
 | 2017-01-08 13:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | chore: upgrade to latest Node.js LTS |
 | 2017-01-09 07:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2017-01-09 14:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | chore: update dependencies |
+| 2017-01-09 15:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: add OpenAPI documentation |
