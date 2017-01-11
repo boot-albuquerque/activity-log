@@ -20170,3 +20170,4 @@
 | 2017-01-10 10:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: handle empty response from external API |
 | 2017-01-10 16:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | feat: add email notification on status change |
 | 2017-01-10 18:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | security: update SSL certificates config |
+| 2017-01-11 09:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | test: add unit tests for payment service |
