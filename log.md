@@ -20173,3 +20173,4 @@
 | 2017-01-11 09:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2017-01-12 08:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | docs: update API documentation |
 | 2017-01-12 09:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: handle empty response from external API |
+| 2017-01-12 11:08 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | fix: handle edge case in date parsing |
