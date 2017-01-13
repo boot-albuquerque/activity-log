@@ -20178,3 +20178,4 @@
 | 2017-01-12 12:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | perf: implement response compression |
 | 2017-01-12 13:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | feat: add file upload support |
 | 2017-01-12 21:57 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | infra: update Terraform modules |
+| 2017-01-12 23:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | test: add unit tests for payment service |
