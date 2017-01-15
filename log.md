@@ -20186,3 +20186,4 @@
 | 2017-01-13 23:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | fix: correct null check in user service |
 | 2017-01-15 00:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | chore: update dependencies |
 | 2017-01-15 17:01 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
+| 2017-01-15 18:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add email notification on status change |
