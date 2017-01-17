@@ -20196,3 +20196,4 @@
 | 2017-01-17 10:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: add search with filters |
 | 2017-01-17 11:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | feat: add real-time notifications |
 | 2017-01-17 11:19 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | feat: add OpenAPI documentation |
+| 2017-01-17 12:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
