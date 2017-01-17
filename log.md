@@ -20199,3 +20199,4 @@
 | 2017-01-17 12:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
 | 2017-01-17 12:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | docs: update API documentation |
 | 2017-01-17 12:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: add bulk operations support |
+| 2017-01-17 13:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | feat: implement webhook receiver |
