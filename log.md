@@ -20195,3 +20195,4 @@
 | 2017-01-17 07:18 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | db: add migration for new schema |
 | 2017-01-17 10:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: add search with filters |
 | 2017-01-17 11:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | feat: add real-time notifications |
+| 2017-01-17 11:19 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | feat: add OpenAPI documentation |
