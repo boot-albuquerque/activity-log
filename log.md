@@ -20192,3 +20192,4 @@
 | 2017-01-16 10:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: add file upload support |
 | 2017-01-16 14:35 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | security: add input sanitization |
 | 2017-01-16 15:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: implement JWT refresh token |
+| 2017-01-17 07:18 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | db: add migration for new schema |
