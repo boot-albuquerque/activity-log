@@ -20200,3 +20200,4 @@
 | 2017-01-17 12:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | docs: update API documentation |
 | 2017-01-17 12:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: add bulk operations support |
 | 2017-01-17 13:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | feat: implement webhook receiver |
+| 2017-01-18 18:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | docs: add README setup instructions |
