@@ -20210,3 +20210,4 @@
 | 2017-01-20 13:47 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | refactor: improve code readability |
 | 2017-01-20 16:41 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
 | 2017-01-20 16:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | ci: configure staging environment |
+| 2017-01-20 23:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | fix: resolve CORS configuration |
