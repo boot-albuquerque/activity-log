@@ -20219,3 +20219,4 @@
 | 2017-01-23 11:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2017-01-23 12:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | fix: resolve memory leak in connection pool |
 | 2017-01-23 13:41 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | feat: implement caching layer |
+| 2017-01-23 14:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add email notification on status change |
