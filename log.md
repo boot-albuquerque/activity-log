@@ -20230,3 +20230,4 @@
 | 2017-01-25 13:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | fix: correct decimal precision in billing |
 | 2017-01-25 17:34 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | refactor: split large controller into smaller ones |
 | 2017-01-25 22:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | feat: add search with filters |
+| 2017-01-25 23:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | refactor: replace raw SQL with query builder |
