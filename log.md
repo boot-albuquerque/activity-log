@@ -20234,3 +20234,4 @@
 | 2017-01-26 11:48 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | db: add migration for new schema |
 | 2017-01-26 12:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | docs: update API documentation |
 | 2017-01-26 12:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | perf: reduce bundle size |
+| 2017-01-26 17:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve race condition in queue worker |
