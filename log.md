@@ -20238,3 +20238,4 @@
 | 2017-01-26 17:49 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | perf: add database indexes |
 | 2017-01-26 18:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | refactor: simplify authentication flow |
 | 2017-01-26 19:28 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: handle missing environment variable |
+| 2017-01-27 09:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | test: add unit tests for payment service |
