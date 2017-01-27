@@ -20241,3 +20241,4 @@
 | 2017-01-27 09:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | test: add unit tests for payment service |
 | 2017-01-27 09:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | docs: add README setup instructions |
 | 2017-01-27 13:05 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: adopt repository pattern |
+| 2017-01-27 15:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: implement caching layer |
