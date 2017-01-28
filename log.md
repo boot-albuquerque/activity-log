@@ -20247,3 +20247,4 @@
 | 2017-01-28 09:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: correct validation error messages |
 | 2017-01-28 14:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | test: cover edge cases in validator |
 | 2017-01-28 16:01 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | fix: handle edge case in date parsing |
+| 2017-01-28 20:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | refactor: move constants to config module |
