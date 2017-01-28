@@ -20244,3 +20244,4 @@
 | 2017-01-27 15:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: implement caching layer |
 | 2017-01-27 17:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: create background job processor |
 | 2017-01-27 22:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
+| 2017-01-28 09:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: correct validation error messages |
