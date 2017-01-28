@@ -20246,3 +20246,4 @@
 | 2017-01-27 22:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
 | 2017-01-28 09:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: correct validation error messages |
 | 2017-01-28 14:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | test: cover edge cases in validator |
+| 2017-01-28 16:01 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | fix: handle edge case in date parsing |
