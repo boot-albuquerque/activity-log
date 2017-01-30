@@ -20253,3 +20253,4 @@
 | 2017-01-30 12:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | refactor: improve code readability |
 | 2017-01-30 15:42 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | test: add performance benchmark tests |
 | 2017-01-30 18:23 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | test: add integration tests for API endpoints |
+| 2017-01-30 19:07 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: implement soft delete pattern |
