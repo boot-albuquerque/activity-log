@@ -20249,3 +20249,4 @@
 | 2017-01-28 16:01 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | fix: handle edge case in date parsing |
 | 2017-01-28 20:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | refactor: move constants to config module |
 | 2017-01-30 09:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | refactor: adopt repository pattern |
+| 2017-01-30 12:09 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | chore: add Docker Compose for local dev |
