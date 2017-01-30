@@ -20251,3 +20251,4 @@
 | 2017-01-30 09:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2017-01-30 12:09 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | chore: add Docker Compose for local dev |
 | 2017-01-30 12:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | refactor: improve code readability |
+| 2017-01-30 15:42 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | test: add performance benchmark tests |
