@@ -20257,3 +20257,4 @@
 | 2017-01-30 19:28 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | db: optimize slow queries |
 | 2017-01-31 11:12 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | style: fix indentation and whitespace |
 | 2017-01-31 13:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | style: fix indentation and whitespace |
+| 2017-01-31 20:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | perf: add database indexes |
