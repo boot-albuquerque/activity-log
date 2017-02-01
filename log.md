@@ -20265,3 +20265,4 @@
 | 2017-02-01 12:37 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | ci: add automated deployment pipeline |
 | 2017-02-01 13:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | feat: implement caching layer |
 | 2017-02-01 14:30 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | ci: configure staging environment |
+| 2017-02-01 19:17 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | chore: add pre-commit hooks |
