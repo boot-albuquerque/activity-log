@@ -20261,3 +20261,4 @@
 | 2017-01-31 20:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2017-01-31 21:10 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/add-caching` | test: cover edge cases in validator |
 | 2017-01-31 23:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add OpenAPI documentation |
+| 2017-02-01 12:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | feat: implement JWT refresh token |
