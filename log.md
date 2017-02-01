@@ -20263,3 +20263,4 @@
 | 2017-01-31 23:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2017-02-01 12:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2017-02-01 12:37 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | ci: add automated deployment pipeline |
+| 2017-02-01 13:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | feat: implement caching layer |
