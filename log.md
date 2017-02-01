@@ -20260,3 +20260,4 @@
 | 2017-01-31 20:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | perf: add database indexes |
 | 2017-01-31 20:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2017-01-31 21:10 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/add-caching` | test: cover edge cases in validator |
+| 2017-01-31 23:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add OpenAPI documentation |
