@@ -20267,3 +20267,4 @@
 | 2017-02-01 14:30 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | ci: configure staging environment |
 | 2017-02-01 19:17 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | chore: add pre-commit hooks |
 | 2017-02-02 07:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: create order processing service |
+| 2017-02-02 13:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | test: cover edge cases in validator |
