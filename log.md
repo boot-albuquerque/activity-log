@@ -20269,3 +20269,4 @@
 | 2017-02-02 07:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: create order processing service |
 | 2017-02-02 13:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | test: cover edge cases in validator |
 | 2017-02-02 14:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | fix: handle empty response from external API |
+| 2017-02-02 22:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: implement rate limiting middleware |
