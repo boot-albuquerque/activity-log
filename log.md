@@ -20275,3 +20275,4 @@
 | 2017-02-03 10:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | chore: add pre-commit hooks |
 | 2017-02-03 13:08 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | test: add unit tests for payment service |
 | 2017-02-03 14:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | fix: handle missing environment variable |
+| 2017-02-03 17:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | style: fix indentation and whitespace |
