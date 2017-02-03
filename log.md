@@ -20277,3 +20277,4 @@
 | 2017-02-03 14:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2017-02-03 17:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | style: fix indentation and whitespace |
 | 2017-02-03 18:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | infra: update Terraform modules |
+| 2017-02-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | fix: resolve deadlock in transaction |
