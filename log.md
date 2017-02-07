@@ -20284,3 +20284,4 @@
 | 2017-02-07 13:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | refactor: extract business logic to service layer |
 | 2017-02-07 14:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
 | 2017-02-07 14:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | test: cover edge cases in validator |
+| 2017-02-07 20:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: correct null check in user service |
