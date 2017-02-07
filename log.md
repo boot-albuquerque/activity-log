@@ -20279,3 +20279,4 @@
 | 2017-02-03 18:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2017-02-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2017-02-06 13:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | test: add unit tests for payment service |
+| 2017-02-07 10:09 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | feat: implement soft delete pattern |
