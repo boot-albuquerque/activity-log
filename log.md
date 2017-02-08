@@ -20285,3 +20285,4 @@
 | 2017-02-07 14:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
 | 2017-02-07 14:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | test: cover edge cases in validator |
 | 2017-02-07 20:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: correct null check in user service |
+| 2017-02-07 22:10 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: correct decimal precision in billing |
