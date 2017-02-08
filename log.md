@@ -20289,3 +20289,4 @@
 | 2017-02-08 07:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
 | 2017-02-08 14:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | feat: implement caching layer |
 | 2017-02-08 15:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | chore: update dependencies |
+| 2017-02-08 15:38 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: handle malformed JSON input |
