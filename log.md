@@ -20291,3 +20291,4 @@
 | 2017-02-08 15:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | chore: update dependencies |
 | 2017-02-08 15:38 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2017-02-09 11:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | chore: add Docker Compose for local dev |
+| 2017-02-09 17:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | security: add input sanitization |
