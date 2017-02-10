@@ -20296,3 +20296,4 @@
 | 2017-02-10 08:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2017-02-10 11:52 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | fix: resolve N+1 query problem |
 | 2017-02-10 12:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: add file upload support |
+| 2017-02-10 14:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | docs: add README setup instructions |
