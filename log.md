@@ -20294,3 +20294,4 @@
 | 2017-02-09 17:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | security: add input sanitization |
 | 2017-02-09 20:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | db: optimize slow queries |
 | 2017-02-10 08:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2017-02-10 11:52 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | fix: resolve N+1 query problem |
