@@ -20300,3 +20300,4 @@
 | 2017-02-10 23:44 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: create order processing service |
 | 2017-02-11 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | chore: add pre-commit hooks |
 | 2017-02-13 08:39 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | security: update SSL certificates config |
+| 2017-02-13 11:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | refactor: extract business logic to service layer |
