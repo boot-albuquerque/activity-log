@@ -20301,3 +20301,4 @@
 | 2017-02-11 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | chore: add pre-commit hooks |
 | 2017-02-13 08:39 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | security: update SSL certificates config |
 | 2017-02-13 11:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | refactor: extract business logic to service layer |
+| 2017-02-13 14:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | refactor: move constants to config module |
