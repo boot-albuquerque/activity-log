@@ -20310,3 +20310,4 @@
 | 2017-02-15 10:00 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2017-02-15 11:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | feat: add file upload support |
 | 2017-02-15 14:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | feat: implement JWT refresh token |
+| 2017-02-15 15:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | refactor: extract business logic to service layer |
