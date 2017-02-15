@@ -20307,3 +20307,4 @@
 | 2017-02-14 15:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2017-02-14 16:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | refactor: extract business logic to service layer |
 | 2017-02-14 17:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | fix: handle missing environment variable |
+| 2017-02-15 10:00 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: add user authentication endpoint |
