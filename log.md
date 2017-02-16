@@ -20312,3 +20312,4 @@
 | 2017-02-15 14:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | feat: implement JWT refresh token |
 | 2017-02-15 15:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | refactor: extract business logic to service layer |
 | 2017-02-15 16:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: create order processing service |
+| 2017-02-15 20:58 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | perf: add database indexes |
