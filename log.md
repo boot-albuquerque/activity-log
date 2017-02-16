@@ -20316,3 +20316,4 @@
 | 2017-02-15 23:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
 | 2017-02-16 08:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | test: mock external dependencies in tests |
 | 2017-02-16 13:43 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2017-02-16 14:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | feat: add OpenAPI documentation |
