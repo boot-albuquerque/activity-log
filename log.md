@@ -20322,3 +20322,4 @@
 | 2017-02-17 08:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
 | 2017-02-17 15:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: handle empty response from external API |
 | 2017-02-17 17:17 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | refactor: simplify authentication flow |
+| 2017-02-17 22:09 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | test: improve test coverage to 80% |
