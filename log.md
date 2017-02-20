@@ -20329,3 +20329,4 @@
 | 2017-02-19 00:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | chore: add pre-commit hooks |
 | 2017-02-20 12:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: handle malformed JSON input |
 | 2017-02-20 14:03 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | security: fix SQL injection vulnerability |
+| 2017-02-20 15:39 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: resolve deadlock in transaction |
