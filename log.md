@@ -20332,3 +20332,4 @@
 | 2017-02-20 15:39 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: resolve deadlock in transaction |
 | 2017-02-20 15:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | ci: configure staging environment |
 | 2017-02-20 16:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
+| 2017-02-22 07:02 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | db: add composite index |
