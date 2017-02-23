@@ -20335,3 +20335,4 @@
 | 2017-02-22 07:02 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | db: add composite index |
 | 2017-02-22 13:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add search with filters |
 | 2017-02-22 13:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | fix: handle timeout in async operation |
+| 2017-02-23 00:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | infra: add Kubernetes manifests |
