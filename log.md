@@ -20339,3 +20339,4 @@
 | 2017-02-23 10:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2017-02-23 17:46 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | db: add migration for new schema |
 | 2017-02-23 23:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | feat: add audit log trail |
+| 2017-02-24 07:37 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
