@@ -20344,3 +20344,4 @@
 | 2017-02-24 13:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | fix: correct validation error messages |
 | 2017-02-24 21:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | fix: handle malformed JSON input |
 | 2017-02-25 09:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2017-02-25 13:12 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | security: add input sanitization |
