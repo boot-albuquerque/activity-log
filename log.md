@@ -20342,3 +20342,4 @@
 | 2017-02-24 07:37 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2017-02-24 11:49 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | security: add input sanitization |
 | 2017-02-24 13:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | fix: correct validation error messages |
+| 2017-02-24 21:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | fix: handle malformed JSON input |
