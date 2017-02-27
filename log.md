@@ -20348,3 +20348,4 @@
 | 2017-02-26 00:28 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | style: fix indentation and whitespace |
 | 2017-02-27 00:57 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
 | 2017-02-27 08:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2017-02-27 14:24 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | chore: add pre-commit hooks |
