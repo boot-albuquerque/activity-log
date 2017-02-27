@@ -20346,3 +20346,4 @@
 | 2017-02-25 09:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | ci: add automated deployment pipeline |
 | 2017-02-25 13:12 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | security: add input sanitization |
 | 2017-02-26 00:28 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | style: fix indentation and whitespace |
+| 2017-02-27 00:57 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
