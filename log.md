@@ -20355,3 +20355,4 @@
 | 2017-02-28 09:10 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | fix: handle edge case in date parsing |
 | 2017-02-28 09:46 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2017-02-28 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: handle timeout in async operation |
+| 2017-02-28 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | perf: reduce bundle size |
