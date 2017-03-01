@@ -20360,3 +20360,4 @@
 | 2017-02-28 18:46 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: create order processing service |
 | 2017-02-28 21:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: create health check endpoint |
 | 2017-03-01 11:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | chore: update dependencies |
+| 2017-03-01 12:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: implement webhook receiver |
