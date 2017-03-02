@@ -20361,3 +20361,4 @@
 | 2017-02-28 21:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: create health check endpoint |
 | 2017-03-01 11:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | chore: update dependencies |
 | 2017-03-01 12:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: implement webhook receiver |
+| 2017-03-02 09:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | refactor: move constants to config module |
