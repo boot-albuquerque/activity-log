@@ -20371,3 +20371,4 @@
 | 2017-03-03 20:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | ci: add automated deployment pipeline |
 | 2017-03-03 20:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | perf: reduce bundle size |
 | 2017-03-05 00:29 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | feat: add real-time notifications |
+| 2017-03-05 10:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | chore: configure ESLint and Prettier |
