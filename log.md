@@ -20376,3 +20376,4 @@
 | 2017-03-06 09:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: handle empty response from external API |
 | 2017-03-06 16:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: handle missing environment variable |
 | 2017-03-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct cache invalidation logic |
+| 2017-03-06 17:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve race condition in queue worker |
