@@ -20375,3 +20375,4 @@
 | 2017-03-06 08:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | chore: update dependencies |
 | 2017-03-06 09:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: handle empty response from external API |
 | 2017-03-06 16:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: handle missing environment variable |
+| 2017-03-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct cache invalidation logic |
