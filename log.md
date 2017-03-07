@@ -20378,3 +20378,4 @@
 | 2017-03-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct cache invalidation logic |
 | 2017-03-06 17:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve race condition in queue worker |
 | 2017-03-07 09:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | perf: add database indexes |
+| 2017-03-07 12:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: add pagination to list endpoint |
