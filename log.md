@@ -20383,3 +20383,4 @@
 | 2017-03-08 00:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: correct cache invalidation logic |
 | 2017-03-08 10:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | ci: add automated deployment pipeline |
 | 2017-03-08 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
+| 2017-03-08 12:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: create health check endpoint |
