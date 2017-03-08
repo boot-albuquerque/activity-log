@@ -20384,3 +20384,4 @@
 | 2017-03-08 10:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | ci: add automated deployment pipeline |
 | 2017-03-08 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
 | 2017-03-08 12:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: create health check endpoint |
+| 2017-03-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | db: optimize slow queries |
