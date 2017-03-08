@@ -20388,3 +20388,4 @@
 | 2017-03-08 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | chore: configure ESLint and Prettier |
 | 2017-03-08 15:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
 | 2017-03-08 17:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | docs: add README setup instructions |
+| 2017-03-08 17:29 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | fix: resolve memory leak in connection pool |
