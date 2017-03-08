@@ -20386,3 +20386,4 @@
 | 2017-03-08 12:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: create health check endpoint |
 | 2017-03-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | db: optimize slow queries |
 | 2017-03-08 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | chore: configure ESLint and Prettier |
+| 2017-03-08 15:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
