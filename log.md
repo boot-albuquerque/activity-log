@@ -20379,3 +20379,4 @@
 | 2017-03-06 17:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve race condition in queue worker |
 | 2017-03-07 09:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | perf: add database indexes |
 | 2017-03-07 12:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: add pagination to list endpoint |
+| 2017-03-08 00:15 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | ci: add automated deployment pipeline |
