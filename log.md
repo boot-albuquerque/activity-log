@@ -20380,3 +20380,4 @@
 | 2017-03-07 09:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | perf: add database indexes |
 | 2017-03-07 12:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2017-03-08 00:15 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2017-03-08 00:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: correct cache invalidation logic |
