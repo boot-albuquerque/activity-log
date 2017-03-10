@@ -20398,3 +20398,4 @@
 | 2017-03-10 15:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
 | 2017-03-10 17:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2017-03-10 18:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: resolve CORS configuration |
+| 2017-03-10 19:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | test: add unit tests for payment service |
