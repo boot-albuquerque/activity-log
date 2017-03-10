@@ -20395,3 +20395,4 @@
 | 2017-03-09 12:27 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | feat: implement webhook receiver |
 | 2017-03-09 20:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2017-03-10 10:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | feat: create background job processor |
+| 2017-03-10 15:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
