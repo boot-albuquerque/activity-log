@@ -20399,3 +20399,4 @@
 | 2017-03-10 17:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2017-03-10 18:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: resolve CORS configuration |
 | 2017-03-10 19:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | test: add unit tests for payment service |
+| 2017-03-10 20:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | feat: create background job processor |
