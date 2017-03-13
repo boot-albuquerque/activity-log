@@ -20408,3 +20408,4 @@
 | 2017-03-13 12:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2017-03-13 12:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
 | 2017-03-13 18:15 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | refactor: adopt repository pattern |
+| 2017-03-13 18:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | fix: resolve CORS configuration |
