@@ -20406,3 +20406,4 @@
 | 2017-03-12 20:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add real-time notifications |
 | 2017-03-13 08:16 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2017-03-13 12:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2017-03-13 12:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
