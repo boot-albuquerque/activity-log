@@ -20411,3 +20411,4 @@
 | 2017-03-13 18:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | fix: resolve CORS configuration |
 | 2017-03-13 21:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | style: format code according to style guide |
 | 2017-03-13 21:40 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: handle timeout in async operation |
+| 2017-03-14 14:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | docs: add README setup instructions |
