@@ -20419,3 +20419,4 @@
 | 2017-03-15 16:11 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | infra: update Terraform modules |
 | 2017-03-15 16:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | fix: correct null check in user service |
 | 2017-03-17 10:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: cover edge cases in validator |
+| 2017-03-17 11:58 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | feat: create admin management interface |
