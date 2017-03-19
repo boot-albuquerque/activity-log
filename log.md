@@ -20425,3 +20425,4 @@
 | 2017-03-17 15:57 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2017-03-17 20:38 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | test: mock external dependencies in tests |
 | 2017-03-18 16:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
+| 2017-03-18 21:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | fix: resolve N+1 query problem |
