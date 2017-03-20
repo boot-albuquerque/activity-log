@@ -20428,3 +20428,4 @@
 | 2017-03-18 21:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2017-03-19 13:18 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | feat: add user authentication endpoint |
 | 2017-03-19 16:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | docs: update API documentation |
+| 2017-03-19 20:47 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | fix: resolve memory leak in connection pool |
