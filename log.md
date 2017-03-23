@@ -20438,3 +20438,4 @@
 | 2017-03-21 21:18 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: create health check endpoint |
 | 2017-03-22 00:41 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | chore: update dependencies |
 | 2017-03-22 14:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | fix: handle timeout in async operation |
+| 2017-03-23 11:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | refactor: simplify authentication flow |
