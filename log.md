@@ -20442,3 +20442,4 @@
 | 2017-03-23 13:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | feat: add file upload support |
 | 2017-03-24 13:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | docs: update API documentation |
 | 2017-03-25 12:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | test: cover edge cases in validator |
+| 2017-03-27 09:46 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: implement JWT refresh token |
