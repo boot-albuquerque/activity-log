@@ -20447,3 +20447,4 @@
 | 2017-03-27 17:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
 | 2017-03-28 00:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
 | 2017-03-28 09:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | db: add composite index |
+| 2017-03-28 18:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/null-pointer` | fix: handle empty response from external API |
