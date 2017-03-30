@@ -20453,3 +20453,4 @@
 | 2017-03-30 08:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: handle empty response from external API |
 | 2017-03-30 09:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | feat: create background job processor |
 | 2017-03-30 10:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | fix: resolve race condition in queue worker |
+| 2017-03-30 10:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: resolve memory leak in connection pool |
