@@ -20454,3 +20454,4 @@
 | 2017-03-30 09:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | feat: create background job processor |
 | 2017-03-30 10:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2017-03-30 10:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: resolve memory leak in connection pool |
+| 2017-03-31 16:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: move constants to config module |
