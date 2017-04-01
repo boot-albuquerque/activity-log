@@ -20455,3 +20455,4 @@
 | 2017-03-30 10:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2017-03-30 10:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: resolve memory leak in connection pool |
 | 2017-03-31 16:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: move constants to config module |
+| 2017-04-01 08:51 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | feat: add search with filters |
