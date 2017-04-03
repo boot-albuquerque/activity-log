@@ -20457,3 +20457,4 @@
 | 2017-03-31 16:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: move constants to config module |
 | 2017-04-01 08:51 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | feat: add search with filters |
 | 2017-04-01 15:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/validation-bug` | ci: add automated deployment pipeline |
+| 2017-04-03 08:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | feat: add user authentication endpoint |
