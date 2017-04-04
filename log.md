@@ -20469,3 +20469,4 @@
 | 2017-04-04 14:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2017-04-04 14:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2017-04-04 14:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | perf: implement response compression |
+| 2017-04-04 19:24 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | docs: add README setup instructions |
