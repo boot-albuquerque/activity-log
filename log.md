@@ -20465,3 +20465,4 @@
 | 2017-04-04 11:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: implement soft delete pattern |
 | 2017-04-04 12:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2017-04-04 13:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | test: add e2e tests for checkout flow |
+| 2017-04-04 13:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | feat: add search with filters |
