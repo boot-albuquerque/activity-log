@@ -20462,3 +20462,4 @@
 | 2017-04-03 13:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2017-04-03 18:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2017-04-03 23:42 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | perf: reduce bundle size |
+| 2017-04-04 11:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: implement soft delete pattern |
