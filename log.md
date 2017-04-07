@@ -20476,3 +20476,4 @@
 | 2017-04-05 12:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | ci: configure staging environment |
 | 2017-04-05 14:05 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | feat: create order processing service |
 | 2017-04-05 22:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | db: optimize slow queries |
+| 2017-04-07 16:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | security: add input sanitization |
