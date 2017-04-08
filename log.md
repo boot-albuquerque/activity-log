@@ -20479,3 +20479,4 @@
 | 2017-04-07 16:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | security: add input sanitization |
 | 2017-04-07 18:17 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | security: update SSL certificates config |
 | 2017-04-08 10:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | feat: add export to CSV/Excel |
+| 2017-04-08 15:00 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | test: cover edge cases in validator |
