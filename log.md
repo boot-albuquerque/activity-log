@@ -20480,3 +20480,4 @@
 | 2017-04-07 18:17 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | security: update SSL certificates config |
 | 2017-04-08 10:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | feat: add export to CSV/Excel |
 | 2017-04-08 15:00 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | test: cover edge cases in validator |
+| 2017-04-09 11:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add export to CSV/Excel |
