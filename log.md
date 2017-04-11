@@ -20482,3 +20482,4 @@
 | 2017-04-08 15:00 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | test: cover edge cases in validator |
 | 2017-04-09 11:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2017-04-10 13:13 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | fix: resolve N+1 query problem |
+| 2017-04-11 11:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | chore: add pre-commit hooks |
