@@ -20486,3 +20486,4 @@
 | 2017-04-11 14:11 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | refactor: improve code readability |
 | 2017-04-11 15:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: implement JWT refresh token |
 | 2017-04-11 16:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: add user authentication endpoint |
+| 2017-04-11 16:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | db: optimize slow queries |
