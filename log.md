@@ -20492,3 +20492,4 @@
 | 2017-04-12 10:58 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | perf: implement response compression |
 | 2017-04-12 12:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2017-04-12 12:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | infra: update Terraform modules |
+| 2017-04-12 16:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle edge case in date parsing |
