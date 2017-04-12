@@ -20493,3 +20493,4 @@
 | 2017-04-12 12:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2017-04-12 12:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | infra: update Terraform modules |
 | 2017-04-12 16:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle edge case in date parsing |
+| 2017-04-12 20:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: resolve memory leak in connection pool |
