@@ -20502,3 +20502,4 @@
 | 2017-04-13 10:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | perf: optimize database queries |
 | 2017-04-13 11:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: configure ESLint and Prettier |
 | 2017-04-13 13:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2017-04-13 15:08 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: implement caching layer |
