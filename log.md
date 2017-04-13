@@ -20496,3 +20496,4 @@
 | 2017-04-12 20:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2017-04-12 22:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: implement JWT refresh token |
 | 2017-04-12 22:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | security: fix SQL injection vulnerability |
+| 2017-04-12 23:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: resolve N+1 query problem |
