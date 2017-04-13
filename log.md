@@ -20494,3 +20494,4 @@
 | 2017-04-12 12:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | infra: update Terraform modules |
 | 2017-04-12 16:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle edge case in date parsing |
 | 2017-04-12 20:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: resolve memory leak in connection pool |
+| 2017-04-12 22:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: implement JWT refresh token |
