@@ -20501,3 +20501,4 @@
 | 2017-04-13 09:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | feat: add bulk operations support |
 | 2017-04-13 10:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | perf: optimize database queries |
 | 2017-04-13 11:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: configure ESLint and Prettier |
+| 2017-04-13 13:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | ci: add automated deployment pipeline |
