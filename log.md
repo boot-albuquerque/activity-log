@@ -20507,3 +20507,4 @@
 | 2017-04-13 21:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | refactor: adopt repository pattern |
 | 2017-04-14 11:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | refactor: consolidate error handling |
 | 2017-04-14 18:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | refactor: reduce cyclomatic complexity |
+| 2017-04-14 19:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
