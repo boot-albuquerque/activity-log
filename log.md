@@ -20513,3 +20513,4 @@
 | 2017-04-17 10:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | feat: add user authentication endpoint |
 | 2017-04-17 12:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2017-04-17 14:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | chore: configure GitHub Actions CI |
+| 2017-04-17 19:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
