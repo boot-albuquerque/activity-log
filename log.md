@@ -20510,3 +20510,4 @@
 | 2017-04-14 19:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2017-04-17 07:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
 | 2017-04-17 08:20 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | style: format code according to style guide |
+| 2017-04-17 10:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | feat: add user authentication endpoint |
