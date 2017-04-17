@@ -20512,3 +20512,4 @@
 | 2017-04-17 08:20 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | style: format code according to style guide |
 | 2017-04-17 10:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | feat: add user authentication endpoint |
 | 2017-04-17 12:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
+| 2017-04-17 14:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | chore: configure GitHub Actions CI |
