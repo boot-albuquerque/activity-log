@@ -20522,3 +20522,4 @@
 | 2017-04-20 10:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | security: fix SQL injection vulnerability |
 | 2017-04-20 12:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: create order processing service |
 | 2017-04-20 18:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: implement rate limiting middleware |
+| 2017-04-21 13:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | fix: handle malformed JSON input |
