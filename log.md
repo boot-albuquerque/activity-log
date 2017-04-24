@@ -20523,3 +20523,4 @@
 | 2017-04-20 12:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: create order processing service |
 | 2017-04-20 18:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: implement rate limiting middleware |
 | 2017-04-21 13:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | fix: handle malformed JSON input |
+| 2017-04-24 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
