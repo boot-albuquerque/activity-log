@@ -20534,3 +20534,4 @@
 | 2017-04-26 09:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: correct validation error messages |
 | 2017-04-26 10:36 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct cache invalidation logic |
 | 2017-04-26 13:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | fix: correct decimal precision in billing |
+| 2017-04-26 19:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | perf: optimize database queries |
