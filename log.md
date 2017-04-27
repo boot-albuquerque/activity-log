@@ -20536,3 +20536,4 @@
 | 2017-04-26 13:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | fix: correct decimal precision in billing |
 | 2017-04-26 19:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | perf: optimize database queries |
 | 2017-04-26 21:29 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2017-04-27 14:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | test: cover edge cases in validator |
