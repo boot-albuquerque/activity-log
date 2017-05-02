@@ -20546,3 +20546,4 @@
 | 2017-04-30 22:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2017-05-02 10:15 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | feat: add user authentication endpoint |
 | 2017-05-02 12:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | fix: correct null check in user service |
+| 2017-05-02 12:55 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: fix flaky test in async handler |
