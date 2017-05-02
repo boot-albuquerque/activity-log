@@ -20544,3 +20544,4 @@
 | 2017-04-30 10:57 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | refactor: simplify authentication flow |
 | 2017-04-30 17:12 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | fix: handle malformed JSON input |
 | 2017-04-30 22:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | chore: add pre-commit hooks |
+| 2017-05-02 10:15 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | feat: add user authentication endpoint |
