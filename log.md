@@ -20548,3 +20548,4 @@
 | 2017-05-02 12:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2017-05-02 12:55 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: fix flaky test in async handler |
 | 2017-05-02 13:50 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | fix: handle missing environment variable |
+| 2017-05-02 15:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: create dashboard metrics endpoint |
