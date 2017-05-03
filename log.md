@@ -20551,3 +20551,4 @@
 | 2017-05-02 15:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2017-05-02 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: implement caching layer |
 | 2017-05-03 00:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
+| 2017-05-03 09:25 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve N+1 query problem |
