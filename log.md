@@ -20550,3 +20550,4 @@
 | 2017-05-02 13:50 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | fix: handle missing environment variable |
 | 2017-05-02 15:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2017-05-02 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: implement caching layer |
+| 2017-05-03 00:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
