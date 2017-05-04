@@ -20554,3 +20554,4 @@
 | 2017-05-03 09:25 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2017-05-03 12:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2017-05-04 08:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | docs: document environment variables |
+| 2017-05-04 09:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | fix: resolve memory leak in connection pool |
