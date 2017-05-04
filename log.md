@@ -20555,3 +20555,4 @@
 | 2017-05-03 12:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2017-05-04 08:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | docs: document environment variables |
 | 2017-05-04 09:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | fix: resolve memory leak in connection pool |
+| 2017-05-04 11:55 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | infra: add Kubernetes manifests |
