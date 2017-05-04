@@ -20553,3 +20553,4 @@
 | 2017-05-03 00:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
 | 2017-05-03 09:25 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2017-05-03 12:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: add pre-commit hooks |
+| 2017-05-04 08:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | docs: document environment variables |
