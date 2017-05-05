@@ -20563,3 +20563,4 @@
 | 2017-05-05 11:28 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | fix: handle timeout in async operation |
 | 2017-05-05 13:32 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | docs: document environment variables |
 | 2017-05-05 13:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | fix: resolve CORS configuration |
+| 2017-05-05 13:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | docs: update API documentation |
