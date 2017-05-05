@@ -20565,3 +20565,4 @@
 | 2017-05-05 13:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2017-05-05 13:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | docs: update API documentation |
 | 2017-05-05 13:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
+| 2017-05-05 16:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: handle empty response from external API |
