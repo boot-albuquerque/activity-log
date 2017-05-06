@@ -20567,3 +20567,4 @@
 | 2017-05-05 13:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2017-05-05 16:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2017-05-05 17:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | perf: optimize database queries |
+| 2017-05-06 09:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | docs: document environment variables |
