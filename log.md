@@ -20575,3 +20575,4 @@
 | 2017-05-08 12:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | feat: implement JWT refresh token |
 | 2017-05-08 16:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | fix: handle malformed JSON input |
 | 2017-05-09 09:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | fix: resolve race condition in queue worker |
+| 2017-05-09 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | feat: implement rate limiting middleware |
