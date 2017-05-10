@@ -20577,3 +20577,4 @@
 | 2017-05-09 09:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | fix: resolve race condition in queue worker |
 | 2017-05-09 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | feat: implement rate limiting middleware |
 | 2017-05-10 07:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/memory-leak` | test: improve test coverage to 80% |
+| 2017-05-10 09:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | chore: configure GitHub Actions CI |
