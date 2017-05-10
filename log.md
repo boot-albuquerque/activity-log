@@ -20580,3 +20580,4 @@
 | 2017-05-10 09:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2017-05-10 10:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2017-05-10 11:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add file upload support |
+| 2017-05-10 12:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: extract business logic to service layer |
