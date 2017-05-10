@@ -20582,3 +20582,4 @@
 | 2017-05-10 11:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add file upload support |
 | 2017-05-10 12:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: extract business logic to service layer |
 | 2017-05-10 16:07 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | feat: implement caching layer |
+| 2017-05-10 19:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | feat: implement JWT refresh token |
