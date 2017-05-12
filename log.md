@@ -20593,3 +20593,4 @@
 | 2017-05-12 12:40 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | perf: reduce bundle size |
 | 2017-05-12 13:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2017-05-12 13:27 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | test: add e2e tests for checkout flow |
+| 2017-05-12 17:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: implement JWT refresh token |
