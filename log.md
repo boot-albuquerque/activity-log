@@ -20592,3 +20592,4 @@
 | 2017-05-12 12:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create order processing service |
 | 2017-05-12 12:40 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | perf: reduce bundle size |
 | 2017-05-12 13:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
+| 2017-05-12 13:27 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | test: add e2e tests for checkout flow |
