@@ -20597,3 +20597,4 @@
 | 2017-05-12 18:34 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | chore: update dependencies |
 | 2017-05-13 09:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2017-05-13 11:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: improve test coverage to 80% |
+| 2017-05-13 13:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: simplify authentication flow |
