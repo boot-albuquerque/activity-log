@@ -20596,3 +20596,4 @@
 | 2017-05-12 17:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: implement JWT refresh token |
 | 2017-05-12 18:34 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | chore: update dependencies |
 | 2017-05-13 09:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
+| 2017-05-13 11:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: improve test coverage to 80% |
