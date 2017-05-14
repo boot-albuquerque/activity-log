@@ -20599,3 +20599,4 @@
 | 2017-05-13 11:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: improve test coverage to 80% |
 | 2017-05-13 13:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2017-05-13 22:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: add pagination to list endpoint |
+| 2017-05-14 13:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct decimal precision in billing |
