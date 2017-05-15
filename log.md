@@ -20605,3 +20605,4 @@
 | 2017-05-15 14:14 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | infra: add Kubernetes manifests |
 | 2017-05-15 15:47 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | chore: update dependencies |
 | 2017-05-15 16:30 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | feat: add search with filters |
+| 2017-05-15 18:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | style: format code according to style guide |
