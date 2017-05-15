@@ -20600,3 +20600,4 @@
 | 2017-05-13 13:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2017-05-13 22:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: add pagination to list endpoint |
 | 2017-05-14 13:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct decimal precision in billing |
+| 2017-05-14 21:08 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | test: add integration tests for API endpoints |
