@@ -20610,3 +20610,4 @@
 | 2017-05-15 20:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | docs: document environment variables |
 | 2017-05-15 23:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | fix: handle edge case in date parsing |
 | 2017-05-16 13:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | db: optimize slow queries |
+| 2017-05-16 16:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | feat: add search with filters |
