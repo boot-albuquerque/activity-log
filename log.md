@@ -20615,3 +20615,4 @@
 | 2017-05-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2017-05-18 10:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
 | 2017-05-18 12:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
+| 2017-05-18 13:15 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | feat: add real-time notifications |
