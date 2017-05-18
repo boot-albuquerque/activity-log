@@ -20613,3 +20613,4 @@
 | 2017-05-16 16:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | feat: add search with filters |
 | 2017-05-18 09:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/pagination` | chore: update dependencies |
 | 2017-05-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | feat: add OpenAPI documentation |
+| 2017-05-18 10:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
