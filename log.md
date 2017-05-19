@@ -20621,3 +20621,4 @@
 | 2017-05-18 15:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | perf: reduce bundle size |
 | 2017-05-19 14:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: update SSL certificates config |
 | 2017-05-19 16:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add bulk operations support |
+| 2017-05-19 17:44 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: add search with filters |
