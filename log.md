@@ -20619,3 +20619,4 @@
 | 2017-05-18 14:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | fix: handle missing environment variable |
 | 2017-05-18 15:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2017-05-18 15:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | perf: reduce bundle size |
+| 2017-05-19 14:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: update SSL certificates config |
