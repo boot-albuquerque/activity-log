@@ -20622,3 +20622,4 @@
 | 2017-05-19 14:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: update SSL certificates config |
 | 2017-05-19 16:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add bulk operations support |
 | 2017-05-19 17:44 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: add search with filters |
+| 2017-05-19 22:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: correct decimal precision in billing |
