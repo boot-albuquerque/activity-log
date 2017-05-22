@@ -20625,3 +20625,4 @@
 | 2017-05-19 22:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: correct decimal precision in billing |
 | 2017-05-20 09:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2017-05-20 12:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | fix: correct pagination offset calculation |
+| 2017-05-22 09:30 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | feat: add file upload support |
