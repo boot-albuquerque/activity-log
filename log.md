@@ -20629,3 +20629,4 @@
 | 2017-05-22 17:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2017-05-23 11:57 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | feat: add audit log trail |
 | 2017-05-23 13:19 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | feat: implement caching layer |
+| 2017-05-23 14:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: correct validation error messages |
