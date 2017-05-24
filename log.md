@@ -20636,3 +20636,4 @@
 | 2017-05-23 23:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | fix: handle missing environment variable |
 | 2017-05-24 00:33 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | feat: create health check endpoint |
 | 2017-05-24 10:16 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | refactor: move constants to config module |
+| 2017-05-24 10:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | docs: document environment variables |
