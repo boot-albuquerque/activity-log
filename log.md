@@ -20633,3 +20633,4 @@
 | 2017-05-23 14:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | test: add integration tests for API endpoints |
 | 2017-05-23 16:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: add search with filters |
 | 2017-05-23 19:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: implement caching layer |
+| 2017-05-23 23:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | fix: handle missing environment variable |
