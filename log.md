@@ -20638,3 +20638,4 @@
 | 2017-05-24 10:16 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | refactor: move constants to config module |
 | 2017-05-24 10:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | docs: document environment variables |
 | 2017-05-24 11:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | feat: implement soft delete pattern |
+| 2017-05-24 13:18 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | infra: configure auto-scaling policies |
