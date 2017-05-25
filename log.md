@@ -20642,3 +20642,4 @@
 | 2017-05-24 13:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | fix: correct cache invalidation logic |
 | 2017-05-24 18:01 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | chore: add pre-commit hooks |
 | 2017-05-25 08:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | db: add composite index |
+| 2017-05-25 10:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | test: add unit tests for payment service |
