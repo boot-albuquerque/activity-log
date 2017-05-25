@@ -20646,3 +20646,4 @@
 | 2017-05-25 12:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: adopt repository pattern |
 | 2017-05-25 15:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | feat: add file upload support |
 | 2017-05-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | db: optimize slow queries |
+| 2017-05-25 17:53 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | test: mock external dependencies in tests |
