@@ -20664,3 +20664,4 @@
 | 2017-05-29 22:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | infra: configure auto-scaling policies |
 | 2017-05-30 13:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2017-05-30 14:37 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | fix: resolve CORS configuration |
+| 2017-05-30 14:56 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | test: fix flaky test in async handler |
