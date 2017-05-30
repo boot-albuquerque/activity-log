@@ -20662,3 +20662,4 @@
 | 2017-05-29 19:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | perf: optimize database queries |
 | 2017-05-29 20:31 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | fix: handle empty response from external API |
 | 2017-05-29 22:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | infra: configure auto-scaling policies |
+| 2017-05-30 13:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: resolve CORS configuration |
