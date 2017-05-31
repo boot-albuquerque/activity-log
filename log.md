@@ -20668,3 +20668,4 @@
 | 2017-05-30 17:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | refactor: reduce cyclomatic complexity |
 | 2017-05-30 17:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | refactor: improve code readability |
 | 2017-05-30 18:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | test: fix flaky test in async handler |
+| 2017-05-30 22:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: handle timeout in async operation |
