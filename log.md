@@ -20670,3 +20670,4 @@
 | 2017-05-30 18:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | test: fix flaky test in async handler |
 | 2017-05-30 22:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: handle timeout in async operation |
 | 2017-05-31 09:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | test: add e2e tests for checkout flow |
+| 2017-05-31 11:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | infra: add Kubernetes manifests |
