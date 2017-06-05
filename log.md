@@ -20686,3 +20686,4 @@
 | 2017-06-05 10:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: add email notification on status change |
 | 2017-06-05 11:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | fix: correct null check in user service |
 | 2017-06-05 13:39 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | feat: add pagination to list endpoint |
+| 2017-06-05 16:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: add OpenAPI documentation |
