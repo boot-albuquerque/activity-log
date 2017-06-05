@@ -20683,3 +20683,4 @@
 | 2017-06-02 12:37 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2017-06-02 12:43 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | fix: handle edge case in date parsing |
 | 2017-06-02 18:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | test: fix flaky test in async handler |
+| 2017-06-05 10:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: add email notification on status change |
