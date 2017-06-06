@@ -20690,3 +20690,4 @@
 | 2017-06-05 19:00 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | perf: reduce bundle size |
 | 2017-06-06 07:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
 | 2017-06-06 11:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | test: fix flaky test in async handler |
+| 2017-06-06 11:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: add file upload support |
