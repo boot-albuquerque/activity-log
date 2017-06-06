@@ -20688,3 +20688,4 @@
 | 2017-06-05 13:39 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | feat: add pagination to list endpoint |
 | 2017-06-05 16:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2017-06-05 19:00 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | perf: reduce bundle size |
+| 2017-06-06 07:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
