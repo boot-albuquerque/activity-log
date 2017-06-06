@@ -20692,3 +20692,4 @@
 | 2017-06-06 11:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2017-06-06 11:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: add file upload support |
 | 2017-06-06 17:14 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | fix: handle empty response from external API |
+| 2017-06-06 20:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | feat: add file upload support |
