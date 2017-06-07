@@ -20698,3 +20698,4 @@
 | 2017-06-07 14:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: handle edge case in date parsing |
 | 2017-06-07 15:05 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | security: fix SQL injection vulnerability |
 | 2017-06-07 16:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: handle timeout in async operation |
+| 2017-06-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | fix: resolve N+1 query problem |
