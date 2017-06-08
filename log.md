@@ -20700,3 +20700,4 @@
 | 2017-06-07 16:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: handle timeout in async operation |
 | 2017-06-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | fix: resolve N+1 query problem |
 | 2017-06-07 19:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | fix: handle empty response from external API |
+| 2017-06-08 10:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | chore: configure GitHub Actions CI |
