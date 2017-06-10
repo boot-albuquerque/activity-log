@@ -20702,3 +20702,4 @@
 | 2017-06-07 19:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | fix: handle empty response from external API |
 | 2017-06-08 10:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2017-06-08 17:06 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | chore: update dependencies |
+| 2017-06-10 08:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: add performance benchmark tests |
