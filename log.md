@@ -20704,3 +20704,4 @@
 | 2017-06-08 17:06 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | chore: update dependencies |
 | 2017-06-10 08:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2017-06-10 14:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | infra: configure auto-scaling policies |
+| 2017-06-11 09:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | refactor: replace raw SQL with query builder |
