@@ -20707,3 +20707,4 @@
 | 2017-06-11 09:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | refactor: replace raw SQL with query builder |
 | 2017-06-11 17:49 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | security: add input sanitization |
 | 2017-06-12 09:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | db: add migration for new schema |
+| 2017-06-12 12:29 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | test: add performance benchmark tests |
