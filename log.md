@@ -20712,3 +20712,4 @@
 | 2017-06-12 22:04 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/null-pointer` | chore: add Docker Compose for local dev |
 | 2017-06-13 00:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | db: optimize slow queries |
 | 2017-06-13 09:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | fix: resolve race condition in queue worker |
+| 2017-06-13 14:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: correct cache invalidation logic |
