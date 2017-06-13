@@ -20711,3 +20711,4 @@
 | 2017-06-12 15:57 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | test: fix flaky test in async handler |
 | 2017-06-12 22:04 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/null-pointer` | chore: add Docker Compose for local dev |
 | 2017-06-13 00:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | db: optimize slow queries |
+| 2017-06-13 09:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | fix: resolve race condition in queue worker |
