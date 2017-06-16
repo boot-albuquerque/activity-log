@@ -20721,3 +20721,4 @@
 | 2017-06-15 18:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | chore: add pre-commit hooks |
 | 2017-06-15 18:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | test: add e2e tests for checkout flow |
 | 2017-06-15 23:36 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
+| 2017-06-16 15:59 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | feat: implement caching layer |
