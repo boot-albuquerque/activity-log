@@ -20725,3 +20725,4 @@
 | 2017-06-16 17:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2017-06-19 10:48 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | fix: correct cache invalidation logic |
 | 2017-06-19 13:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | test: improve test coverage to 80% |
+| 2017-06-19 14:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | docs: document environment variables |
