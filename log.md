@@ -20727,3 +20727,4 @@
 | 2017-06-19 13:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | test: improve test coverage to 80% |
 | 2017-06-19 14:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | docs: document environment variables |
 | 2017-06-19 15:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add export to CSV/Excel |
+| 2017-06-20 13:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | style: format code according to style guide |
