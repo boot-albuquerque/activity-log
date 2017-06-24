@@ -20733,3 +20733,4 @@
 | 2017-06-21 11:15 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2017-06-23 07:47 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | ci: add automated deployment pipeline |
 | 2017-06-24 14:15 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: create dashboard metrics endpoint |
+| 2017-06-24 18:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | refactor: adopt repository pattern |
