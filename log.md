@@ -20735,3 +20735,4 @@
 | 2017-06-24 14:15 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: create dashboard metrics endpoint |
 | 2017-06-24 18:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2017-06-25 11:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | style: fix indentation and whitespace |
+| 2017-06-25 14:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add search with filters |
