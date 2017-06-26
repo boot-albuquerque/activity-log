@@ -20737,3 +20737,4 @@
 | 2017-06-25 11:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | style: fix indentation and whitespace |
 | 2017-06-25 14:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add search with filters |
 | 2017-06-26 12:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: improve code readability |
+| 2017-06-26 17:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | feat: implement JWT refresh token |
