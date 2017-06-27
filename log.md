@@ -20738,3 +20738,4 @@
 | 2017-06-25 14:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add search with filters |
 | 2017-06-26 12:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: improve code readability |
 | 2017-06-26 17:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2017-06-27 08:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
