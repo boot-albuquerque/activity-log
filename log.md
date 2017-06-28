@@ -20740,3 +20740,4 @@
 | 2017-06-26 17:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2017-06-27 08:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
 | 2017-06-28 00:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: implement soft delete pattern |
+| 2017-06-28 09:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | feat: implement rate limiting middleware |
