@@ -20741,3 +20741,4 @@
 | 2017-06-27 08:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
 | 2017-06-28 00:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: implement soft delete pattern |
 | 2017-06-28 09:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | feat: implement rate limiting middleware |
+| 2017-06-28 12:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | test: add unit tests for payment service |
