@@ -20739,3 +20739,4 @@
 | 2017-06-26 12:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: improve code readability |
 | 2017-06-26 17:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2017-06-27 08:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
+| 2017-06-28 00:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: implement soft delete pattern |
