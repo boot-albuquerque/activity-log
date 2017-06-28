@@ -20746,3 +20746,4 @@
 | 2017-06-28 15:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve memory leak in connection pool |
 | 2017-06-28 15:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | refactor: simplify authentication flow |
 | 2017-06-28 16:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | refactor: improve code readability |
+| 2017-06-28 17:45 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | db: add composite index |
