@@ -20752,3 +20752,4 @@
 | 2017-06-28 23:34 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | ci: configure staging environment |
 | 2017-06-29 13:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2017-06-29 15:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
+| 2017-06-29 16:36 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | test: fix flaky test in async handler |
