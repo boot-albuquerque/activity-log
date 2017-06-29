@@ -20748,3 +20748,4 @@
 | 2017-06-28 16:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | refactor: improve code readability |
 | 2017-06-28 17:45 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | db: add composite index |
 | 2017-06-28 20:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: correct decimal precision in billing |
+| 2017-06-28 23:24 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | feat: implement caching layer |
