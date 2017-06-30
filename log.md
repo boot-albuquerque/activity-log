@@ -20756,3 +20756,4 @@
 | 2017-06-29 18:43 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | infra: update Terraform modules |
 | 2017-06-29 19:53 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2017-06-29 20:53 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: correct pagination offset calculation |
+| 2017-06-29 22:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | test: improve test coverage to 80% |
