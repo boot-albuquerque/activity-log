@@ -20761,3 +20761,4 @@
 | 2017-07-02 23:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2017-07-04 11:53 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | test: improve test coverage to 80% |
 | 2017-07-04 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | perf: reduce bundle size |
+| 2017-07-04 15:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | security: fix SQL injection vulnerability |
