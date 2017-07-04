@@ -20763,3 +20763,4 @@
 | 2017-07-04 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | perf: reduce bundle size |
 | 2017-07-04 15:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | security: fix SQL injection vulnerability |
 | 2017-07-04 15:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
+| 2017-07-04 19:17 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | security: fix SQL injection vulnerability |
