@@ -20759,3 +20759,4 @@
 | 2017-06-29 22:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | test: improve test coverage to 80% |
 | 2017-06-30 12:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: clean up unused imports |
 | 2017-07-02 23:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: handle timeout in async operation |
+| 2017-07-04 11:53 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | test: improve test coverage to 80% |
