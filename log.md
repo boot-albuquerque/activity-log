@@ -20771,3 +20771,4 @@
 | 2017-07-05 15:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2017-07-06 00:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | feat: implement soft delete pattern |
 | 2017-07-06 14:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | refactor: improve code readability |
+| 2017-07-06 14:48 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | docs: add README setup instructions |
