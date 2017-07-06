@@ -20769,3 +20769,4 @@
 | 2017-07-04 20:25 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | feat: add file upload support |
 | 2017-07-04 23:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | refactor: simplify authentication flow |
 | 2017-07-05 15:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add export to CSV/Excel |
+| 2017-07-06 00:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | feat: implement soft delete pattern |
