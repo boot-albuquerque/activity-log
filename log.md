@@ -20777,3 +20777,4 @@
 | 2017-07-06 17:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2017-07-06 18:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | chore: update dependencies |
 | 2017-07-08 09:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/critical-fix` | fix: handle empty response from external API |
+| 2017-07-08 14:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | fix: correct validation error messages |
