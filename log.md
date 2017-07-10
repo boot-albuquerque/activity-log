@@ -20780,3 +20780,4 @@
 | 2017-07-08 14:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | fix: correct validation error messages |
 | 2017-07-09 00:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | style: format code according to style guide |
 | 2017-07-09 12:20 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
+| 2017-07-10 08:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | fix: resolve CORS configuration |
