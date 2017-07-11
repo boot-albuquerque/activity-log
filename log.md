@@ -20782,3 +20782,4 @@
 | 2017-07-09 12:20 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
 | 2017-07-10 08:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | fix: resolve CORS configuration |
 | 2017-07-10 18:57 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | ci: configure staging environment |
+| 2017-07-11 08:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | ci: add automated deployment pipeline |
