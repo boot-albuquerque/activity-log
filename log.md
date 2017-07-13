@@ -20789,3 +20789,4 @@
 | 2017-07-12 14:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2017-07-12 19:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | fix: correct pagination offset calculation |
 | 2017-07-13 08:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add user authentication endpoint |
+| 2017-07-13 11:36 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | test: mock external dependencies in tests |
