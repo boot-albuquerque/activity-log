@@ -20788,3 +20788,4 @@
 | 2017-07-11 18:54 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | feat: add real-time notifications |
 | 2017-07-12 14:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2017-07-12 19:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | fix: correct pagination offset calculation |
+| 2017-07-13 08:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add user authentication endpoint |
