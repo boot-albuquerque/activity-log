@@ -20798,3 +20798,4 @@
 | 2017-07-13 23:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2017-07-14 08:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2017-07-14 09:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | db: optimize slow queries |
+| 2017-07-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: implement caching layer |
