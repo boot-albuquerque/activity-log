@@ -20800,3 +20800,4 @@
 | 2017-07-14 09:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2017-07-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: implement caching layer |
 | 2017-07-14 12:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: add real-time notifications |
+| 2017-07-14 13:19 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | test: cover edge cases in validator |
