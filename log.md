@@ -20804,3 +20804,4 @@
 | 2017-07-14 15:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | chore: update dependencies |
 | 2017-07-14 22:22 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2017-07-15 22:20 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | refactor: consolidate error handling |
+| 2017-07-16 11:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: resolve N+1 query problem |
