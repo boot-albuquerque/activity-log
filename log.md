@@ -20812,3 +20812,4 @@
 | 2017-07-18 08:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | feat: add email notification on status change |
 | 2017-07-18 11:13 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: create dashboard metrics endpoint |
 | 2017-07-18 12:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | feat: add export to CSV/Excel |
+| 2017-07-18 15:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | fix: resolve CORS configuration |
