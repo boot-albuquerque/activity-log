@@ -20820,3 +20820,4 @@
 | 2017-07-19 11:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2017-07-19 12:00 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2017-07-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | feat: implement soft delete pattern |
+| 2017-07-19 14:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | test: improve test coverage to 80% |
