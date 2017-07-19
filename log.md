@@ -20816,3 +20816,4 @@
 | 2017-07-18 19:42 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | chore: configure ESLint and Prettier |
 | 2017-07-19 08:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2017-07-19 09:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | db: add composite index |
+| 2017-07-19 10:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | feat: implement soft delete pattern |
