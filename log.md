@@ -20815,3 +20815,4 @@
 | 2017-07-18 15:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2017-07-18 19:42 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | chore: configure ESLint and Prettier |
 | 2017-07-19 08:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | feat: add user authentication endpoint |
+| 2017-07-19 09:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | db: add composite index |
