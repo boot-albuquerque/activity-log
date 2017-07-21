@@ -20833,3 +20833,4 @@
 | 2017-07-21 11:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct pagination offset calculation |
 | 2017-07-21 11:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2017-07-21 12:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: correct pagination offset calculation |
+| 2017-07-21 12:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | db: add composite index |
