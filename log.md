@@ -20834,3 +20834,4 @@
 | 2017-07-21 11:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2017-07-21 12:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: correct pagination offset calculation |
 | 2017-07-21 12:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | db: add composite index |
+| 2017-07-21 13:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | test: add unit tests for payment service |
