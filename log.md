@@ -20836,3 +20836,4 @@
 | 2017-07-21 12:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | db: add composite index |
 | 2017-07-21 13:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2017-07-21 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | chore: add Docker Compose for local dev |
+| 2017-07-21 19:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | infra: add Kubernetes manifests |
