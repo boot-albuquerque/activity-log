@@ -20831,3 +20831,4 @@
 | 2017-07-20 20:09 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | feat: create order processing service |
 | 2017-07-20 22:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2017-07-21 11:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct pagination offset calculation |
+| 2017-07-21 11:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | infra: add Kubernetes manifests |
