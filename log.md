@@ -20837,3 +20837,4 @@
 | 2017-07-21 13:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2017-07-21 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | chore: add Docker Compose for local dev |
 | 2017-07-21 19:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | infra: add Kubernetes manifests |
+| 2017-07-23 07:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | fix: resolve memory leak in connection pool |
