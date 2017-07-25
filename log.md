@@ -20844,3 +20844,4 @@
 | 2017-07-24 13:02 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | feat: add search with filters |
 | 2017-07-24 13:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | fix: correct decimal precision in billing |
 | 2017-07-24 18:30 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | test: mock external dependencies in tests |
+| 2017-07-25 13:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | infra: configure auto-scaling policies |
