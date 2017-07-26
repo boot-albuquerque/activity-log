@@ -20849,3 +20849,4 @@
 | 2017-07-26 15:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: improve code readability |
 | 2017-07-26 16:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
 | 2017-07-26 16:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | style: format code according to style guide |
+| 2017-07-26 18:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: create dashboard metrics endpoint |
