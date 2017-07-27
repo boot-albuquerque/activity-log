@@ -20852,3 +20852,4 @@
 | 2017-07-26 18:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: create dashboard metrics endpoint |
 | 2017-07-26 20:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | docs: document environment variables |
 | 2017-07-26 23:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | fix: correct cache invalidation logic |
+| 2017-07-27 14:44 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | docs: add README setup instructions |
