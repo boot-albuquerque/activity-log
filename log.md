@@ -20855,3 +20855,4 @@
 | 2017-07-27 14:44 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | docs: add README setup instructions |
 | 2017-07-28 08:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2017-07-28 10:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: add performance benchmark tests |
+| 2017-07-28 13:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | chore: add Docker Compose for local dev |
