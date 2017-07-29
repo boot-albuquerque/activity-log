@@ -20857,3 +20857,4 @@
 | 2017-07-28 10:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2017-07-28 13:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | chore: add Docker Compose for local dev |
 | 2017-07-28 17:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | test: mock external dependencies in tests |
+| 2017-07-28 22:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | feat: create dashboard metrics endpoint |
