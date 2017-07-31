@@ -20862,3 +20862,4 @@
 | 2017-07-29 19:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2017-07-30 11:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: resolve N+1 query problem |
 | 2017-07-30 20:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | test: cover edge cases in validator |
+| 2017-07-31 00:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
