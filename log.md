@@ -20867,3 +20867,4 @@
 | 2017-07-31 16:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2017-08-01 12:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | test: add unit tests for payment service |
 | 2017-08-01 14:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | test: cover edge cases in validator |
+| 2017-08-01 14:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: mock external dependencies in tests |
