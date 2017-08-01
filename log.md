@@ -20868,3 +20868,4 @@
 | 2017-08-01 12:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | test: add unit tests for payment service |
 | 2017-08-01 14:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | test: cover edge cases in validator |
 | 2017-08-01 14:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: mock external dependencies in tests |
+| 2017-08-01 18:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
