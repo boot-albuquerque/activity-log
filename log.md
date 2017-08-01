@@ -20865,3 +20865,4 @@
 | 2017-07-31 00:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
 | 2017-07-31 10:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: resolve N+1 query problem |
 | 2017-07-31 16:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2017-08-01 12:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | test: add unit tests for payment service |
