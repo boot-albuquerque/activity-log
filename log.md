@@ -20870,3 +20870,4 @@
 | 2017-08-01 14:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: mock external dependencies in tests |
 | 2017-08-01 18:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2017-08-01 22:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | fix: correct pagination offset calculation |
+| 2017-08-02 09:16 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | style: format code according to style guide |
