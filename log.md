@@ -20875,3 +20875,4 @@
 | 2017-08-02 20:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add email notification on status change |
 | 2017-08-02 21:18 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | db: add composite index |
 | 2017-08-03 09:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | test: add performance benchmark tests |
+| 2017-08-03 13:50 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | db: optimize slow queries |
