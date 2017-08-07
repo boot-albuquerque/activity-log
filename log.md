@@ -20886,3 +20886,4 @@
 | 2017-08-07 00:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | infra: add Kubernetes manifests |
 | 2017-08-07 12:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | db: add composite index |
 | 2017-08-07 12:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: resolve memory leak in connection pool |
+| 2017-08-07 13:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | infra: configure auto-scaling policies |
