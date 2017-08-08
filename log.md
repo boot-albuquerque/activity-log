@@ -20893,3 +20893,4 @@
 | 2017-08-08 09:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: configure ESLint and Prettier |
 | 2017-08-08 12:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | fix: correct cache invalidation logic |
 | 2017-08-08 14:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | feat: add export to CSV/Excel |
+| 2017-08-08 15:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | refactor: move constants to config module |
