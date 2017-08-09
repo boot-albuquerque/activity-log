@@ -20898,3 +20898,4 @@
 | 2017-08-08 21:12 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | fix: handle malformed JSON input |
 | 2017-08-09 08:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | perf: reduce bundle size |
 | 2017-08-09 08:27 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | fix: handle edge case in date parsing |
+| 2017-08-09 08:28 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | perf: optimize database queries |
