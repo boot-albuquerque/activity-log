@@ -20905,3 +20905,4 @@
 | 2017-08-10 14:23 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | feat: add real-time notifications |
 | 2017-08-10 15:47 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | db: add composite index |
 | 2017-08-10 16:56 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | style: fix indentation and whitespace |
+| 2017-08-10 17:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | infra: configure auto-scaling policies |
