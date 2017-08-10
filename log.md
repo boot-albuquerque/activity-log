@@ -20903,3 +20903,4 @@
 | 2017-08-10 10:59 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | feat: add file upload support |
 | 2017-08-10 12:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | refactor: split large controller into smaller ones |
 | 2017-08-10 14:23 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | feat: add real-time notifications |
+| 2017-08-10 15:47 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | db: add composite index |
