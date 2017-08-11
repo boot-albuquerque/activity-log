@@ -20907,3 +20907,4 @@
 | 2017-08-10 16:56 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2017-08-10 17:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | infra: configure auto-scaling policies |
 | 2017-08-10 20:44 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | test: add performance benchmark tests |
+| 2017-08-10 22:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: implement soft delete pattern |
