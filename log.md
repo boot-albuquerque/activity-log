@@ -20909,3 +20909,4 @@
 | 2017-08-10 20:44 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | test: add performance benchmark tests |
 | 2017-08-10 22:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: implement soft delete pattern |
 | 2017-08-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: implement rate limiting middleware |
+| 2017-08-13 14:59 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: handle empty response from external API |
