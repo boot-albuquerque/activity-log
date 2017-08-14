@@ -20914,3 +20914,4 @@
 | 2017-08-14 07:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: replace raw SQL with query builder |
 | 2017-08-14 09:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2017-08-14 11:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | style: format code according to style guide |
+| 2017-08-14 14:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | docs: update API documentation |
