@@ -20911,3 +20911,4 @@
 | 2017-08-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: implement rate limiting middleware |
 | 2017-08-13 14:59 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: handle empty response from external API |
 | 2017-08-14 00:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: add input sanitization |
+| 2017-08-14 07:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: replace raw SQL with query builder |
