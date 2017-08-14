@@ -20913,3 +20913,4 @@
 | 2017-08-14 00:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: add input sanitization |
 | 2017-08-14 07:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: replace raw SQL with query builder |
 | 2017-08-14 09:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
+| 2017-08-14 11:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | style: format code according to style guide |
