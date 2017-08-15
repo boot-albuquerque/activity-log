@@ -20916,3 +20916,4 @@
 | 2017-08-14 11:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | style: format code according to style guide |
 | 2017-08-14 14:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | docs: update API documentation |
 | 2017-08-14 20:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | fix: resolve memory leak in connection pool |
+| 2017-08-14 22:26 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add email notification on status change |
