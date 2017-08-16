@@ -20919,3 +20919,4 @@
 | 2017-08-14 22:26 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add email notification on status change |
 | 2017-08-15 10:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: improve code readability |
 | 2017-08-15 23:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | chore: update dependencies |
+| 2017-08-16 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | fix: correct cache invalidation logic |
