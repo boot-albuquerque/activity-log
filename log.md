@@ -20923,3 +20923,4 @@
 | 2017-08-16 08:52 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | docs: add README setup instructions |
 | 2017-08-16 12:30 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: implement caching layer |
 | 2017-08-16 13:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: create dashboard metrics endpoint |
+| 2017-08-16 14:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | chore: configure ESLint and Prettier |
