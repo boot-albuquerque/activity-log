@@ -20920,3 +20920,4 @@
 | 2017-08-15 10:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: improve code readability |
 | 2017-08-15 23:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | chore: update dependencies |
 | 2017-08-16 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | fix: correct cache invalidation logic |
+| 2017-08-16 08:52 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | docs: add README setup instructions |
