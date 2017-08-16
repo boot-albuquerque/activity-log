@@ -20925,3 +20925,4 @@
 | 2017-08-16 13:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2017-08-16 14:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2017-08-16 14:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | chore: configure ESLint and Prettier |
+| 2017-08-16 20:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | refactor: simplify authentication flow |
