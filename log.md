@@ -20929,3 +20929,4 @@
 | 2017-08-17 11:14 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | refactor: adopt repository pattern |
 | 2017-08-17 12:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: correct pagination offset calculation |
 | 2017-08-17 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: improve test coverage to 80% |
+| 2017-08-17 17:20 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | infra: configure auto-scaling policies |
