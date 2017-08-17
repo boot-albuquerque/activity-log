@@ -20928,3 +20928,4 @@
 | 2017-08-16 20:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | refactor: simplify authentication flow |
 | 2017-08-17 11:14 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | refactor: adopt repository pattern |
 | 2017-08-17 12:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: correct pagination offset calculation |
+| 2017-08-17 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: improve test coverage to 80% |
