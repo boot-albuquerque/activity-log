@@ -20931,3 +20931,4 @@
 | 2017-08-17 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: improve test coverage to 80% |
 | 2017-08-17 17:20 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | infra: configure auto-scaling policies |
 | 2017-08-17 17:26 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
+| 2017-08-17 22:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | test: add unit tests for payment service |
