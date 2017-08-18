@@ -20934,3 +20934,4 @@
 | 2017-08-17 22:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | test: add unit tests for payment service |
 | 2017-08-17 23:32 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | feat: implement caching layer |
 | 2017-08-18 00:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | refactor: improve code readability |
+| 2017-08-18 12:08 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | security: fix SQL injection vulnerability |
