@@ -20938,3 +20938,4 @@
 | 2017-08-18 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | fix: handle missing environment variable |
 | 2017-08-18 13:43 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: create order processing service |
 | 2017-08-18 14:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
+| 2017-08-18 15:56 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | refactor: clean up unused imports |
