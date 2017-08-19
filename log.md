@@ -20940,3 +20940,4 @@
 | 2017-08-18 14:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2017-08-18 15:56 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2017-08-18 16:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create admin management interface |
+| 2017-08-19 14:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
