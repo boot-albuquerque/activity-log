@@ -20942,3 +20942,4 @@
 | 2017-08-18 16:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create admin management interface |
 | 2017-08-19 14:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2017-08-19 17:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: resolve N+1 query problem |
+| 2017-08-20 09:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | fix: correct cache invalidation logic |
