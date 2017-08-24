@@ -20949,3 +20949,4 @@
 | 2017-08-23 10:43 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | feat: implement soft delete pattern |
 | 2017-08-23 19:15 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2017-08-23 19:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | chore: add Docker Compose for local dev |
+| 2017-08-23 22:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | infra: configure auto-scaling policies |
