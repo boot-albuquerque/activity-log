@@ -20951,3 +20951,4 @@
 | 2017-08-23 19:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2017-08-23 22:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | infra: configure auto-scaling policies |
 | 2017-08-24 12:49 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/extract-service` | feat: create health check endpoint |
+| 2017-08-24 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | test: add performance benchmark tests |
