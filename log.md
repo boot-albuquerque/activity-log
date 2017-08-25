@@ -20956,3 +20956,4 @@
 | 2017-08-25 13:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | infra: add Kubernetes manifests |
 | 2017-08-25 13:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | feat: add audit log trail |
 | 2017-08-25 15:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | feat: add search with filters |
+| 2017-08-25 15:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | fix: handle timeout in async operation |
