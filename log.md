@@ -20954,3 +20954,4 @@
 | 2017-08-24 15:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | test: add performance benchmark tests |
 | 2017-08-25 07:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | feat: create order processing service |
 | 2017-08-25 13:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | infra: add Kubernetes manifests |
+| 2017-08-25 13:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | feat: add audit log trail |
