@@ -20964,3 +20964,4 @@
 | 2017-08-28 22:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: create background job processor |
 | 2017-08-29 15:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | fix: handle edge case in date parsing |
 | 2017-08-29 16:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | db: optimize slow queries |
+| 2017-08-29 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle missing environment variable |
