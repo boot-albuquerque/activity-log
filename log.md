@@ -20966,3 +20966,4 @@
 | 2017-08-29 16:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | db: optimize slow queries |
 | 2017-08-29 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle missing environment variable |
 | 2017-08-29 18:46 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: resolve deadlock in transaction |
+| 2017-08-29 19:03 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | test: add integration tests for API endpoints |
