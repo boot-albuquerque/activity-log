@@ -20969,3 +20969,4 @@
 | 2017-08-29 19:03 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | test: add integration tests for API endpoints |
 | 2017-08-30 11:18 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2017-08-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | test: add unit tests for payment service |
+| 2017-08-30 14:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
