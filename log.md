@@ -20972,3 +20972,4 @@
 | 2017-08-30 14:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2017-08-30 18:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | infra: update Terraform modules |
 | 2017-08-30 20:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: add OpenAPI documentation |
+| 2017-08-31 14:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: add export to CSV/Excel |
