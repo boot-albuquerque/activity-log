@@ -20975,3 +20975,4 @@
 | 2017-08-31 14:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2017-08-31 19:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2017-09-01 14:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: implement JWT refresh token |
+| 2017-09-01 20:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
