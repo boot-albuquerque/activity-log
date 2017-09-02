@@ -20977,3 +20977,4 @@
 | 2017-09-01 14:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: implement JWT refresh token |
 | 2017-09-01 20:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
 | 2017-09-01 22:42 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | fix: handle missing environment variable |
+| 2017-09-02 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | docs: add README setup instructions |
