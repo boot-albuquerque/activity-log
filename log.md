@@ -20978,3 +20978,4 @@
 | 2017-09-01 20:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
 | 2017-09-01 22:42 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | fix: handle missing environment variable |
 | 2017-09-02 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | docs: add README setup instructions |
+| 2017-09-02 13:40 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | test: add unit tests for payment service |
