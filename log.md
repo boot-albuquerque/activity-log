@@ -20980,3 +20980,4 @@
 | 2017-09-02 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | docs: add README setup instructions |
 | 2017-09-02 13:40 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | test: add unit tests for payment service |
 | 2017-09-03 15:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | feat: implement JWT refresh token |
+| 2017-09-04 14:24 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: handle edge case in date parsing |
