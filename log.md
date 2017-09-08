@@ -20991,3 +20991,4 @@
 | 2017-09-07 10:24 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | refactor: extract business logic to service layer |
 | 2017-09-07 12:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2017-09-08 00:16 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | infra: add Kubernetes manifests |
+| 2017-09-08 00:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
