@@ -21003,3 +21003,4 @@
 | 2017-09-11 10:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2017-09-11 11:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | fix: correct decimal precision in billing |
 | 2017-09-11 14:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2017-09-11 14:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | db: optimize slow queries |
