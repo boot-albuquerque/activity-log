@@ -20999,3 +20999,4 @@
 | 2017-09-08 20:27 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | docs: add README setup instructions |
 | 2017-09-08 22:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | refactor: clean up unused imports |
 | 2017-09-09 16:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | refactor: split large controller into smaller ones |
+| 2017-09-11 08:06 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: add export to CSV/Excel |
