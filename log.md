@@ -21002,3 +21002,4 @@
 | 2017-09-11 08:06 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: add export to CSV/Excel |
 | 2017-09-11 10:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2017-09-11 11:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | fix: correct decimal precision in billing |
+| 2017-09-11 14:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | fix: resolve race condition in queue worker |
