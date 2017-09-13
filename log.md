@@ -21007,3 +21007,4 @@
 | 2017-09-12 15:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: simplify authentication flow |
 | 2017-09-12 20:45 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | db: add composite index |
 | 2017-09-13 14:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | fix: handle edge case in date parsing |
+| 2017-09-13 15:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | fix: resolve CORS configuration |
