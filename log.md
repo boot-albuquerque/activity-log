@@ -21011,3 +21011,4 @@
 | 2017-09-13 19:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: add search with filters |
 | 2017-09-14 10:59 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | db: add migration for new schema |
 | 2017-09-14 11:26 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2017-09-14 13:54 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
