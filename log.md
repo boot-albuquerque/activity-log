@@ -21016,3 +21016,4 @@
 | 2017-09-14 16:18 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add audit log trail |
 | 2017-09-14 16:33 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | refactor: adopt repository pattern |
 | 2017-09-15 00:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: handle empty response from external API |
+| 2017-09-15 14:31 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | test: improve test coverage to 80% |
