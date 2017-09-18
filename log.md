@@ -21022,3 +21022,4 @@
 | 2017-09-16 19:36 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add pagination to list endpoint |
 | 2017-09-18 08:01 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | db: optimize slow queries |
 | 2017-09-18 08:45 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | feat: implement rate limiting middleware |
+| 2017-09-18 09:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: mock external dependencies in tests |
