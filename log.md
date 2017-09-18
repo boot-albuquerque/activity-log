@@ -21020,3 +21020,4 @@
 | 2017-09-15 18:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
 | 2017-09-16 17:36 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: create background job processor |
 | 2017-09-16 19:36 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add pagination to list endpoint |
+| 2017-09-18 08:01 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | db: optimize slow queries |
