@@ -21032,3 +21032,4 @@
 | 2017-09-20 11:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: adopt repository pattern |
 | 2017-09-20 13:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2017-09-20 14:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: add file upload support |
+| 2017-09-20 14:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | db: add composite index |
