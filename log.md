@@ -21033,3 +21033,4 @@
 | 2017-09-20 13:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2017-09-20 14:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: add file upload support |
 | 2017-09-20 14:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | db: add composite index |
+| 2017-09-20 17:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: create admin management interface |
