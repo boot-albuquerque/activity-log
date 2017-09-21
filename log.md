@@ -21035,3 +21035,4 @@
 | 2017-09-20 14:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | db: add composite index |
 | 2017-09-20 17:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: create admin management interface |
 | 2017-09-20 18:04 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | docs: add README setup instructions |
+| 2017-09-20 21:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct pagination offset calculation |
