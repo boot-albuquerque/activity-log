@@ -21040,3 +21040,4 @@
 | 2017-09-21 14:16 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2017-09-21 21:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: create admin management interface |
 | 2017-09-24 12:14 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: add search with filters |
+| 2017-09-24 14:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | refactor: clean up unused imports |
