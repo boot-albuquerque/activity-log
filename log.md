@@ -21041,3 +21041,4 @@
 | 2017-09-21 21:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: create admin management interface |
 | 2017-09-24 12:14 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: add search with filters |
 | 2017-09-24 14:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | refactor: clean up unused imports |
+| 2017-09-24 14:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | test: add e2e tests for checkout flow |
