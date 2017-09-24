@@ -21039,3 +21039,4 @@
 | 2017-09-21 09:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | security: add input sanitization |
 | 2017-09-21 14:16 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2017-09-21 21:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: create admin management interface |
+| 2017-09-24 12:14 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: add search with filters |
