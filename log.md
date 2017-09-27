@@ -21049,3 +21049,4 @@
 | 2017-09-25 23:54 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | chore: update dependencies |
 | 2017-09-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | fix: resolve CORS configuration |
 | 2017-09-26 18:04 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | db: add migration for new schema |
+| 2017-09-27 09:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | feat: create health check endpoint |
