@@ -21052,3 +21052,4 @@
 | 2017-09-27 09:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | feat: create health check endpoint |
 | 2017-09-27 11:55 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | test: add unit tests for payment service |
 | 2017-09-27 13:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | test: add e2e tests for checkout flow |
+| 2017-09-27 13:44 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | chore: configure GitHub Actions CI |
