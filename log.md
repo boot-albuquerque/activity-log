@@ -21056,3 +21056,4 @@
 | 2017-09-27 13:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2017-09-27 16:04 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | perf: optimize database queries |
 | 2017-09-28 09:13 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | docs: add README setup instructions |
+| 2017-09-28 19:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | fix: handle missing environment variable |
