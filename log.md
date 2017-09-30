@@ -21060,3 +21060,4 @@
 | 2017-09-29 16:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2017-09-30 13:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct pagination offset calculation |
 | 2017-09-30 14:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | security: add input sanitization |
+| 2017-09-30 19:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | security: fix SQL injection vulnerability |
