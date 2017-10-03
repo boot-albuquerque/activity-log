@@ -21064,3 +21064,4 @@
 | 2017-10-02 00:30 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | db: add migration for new schema |
 | 2017-10-02 23:20 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2017-10-03 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: handle missing environment variable |
+| 2017-10-03 14:16 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | ci: configure staging environment |
