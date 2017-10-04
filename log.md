@@ -21072,3 +21072,4 @@
 | 2017-10-04 14:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | infra: add Kubernetes manifests |
 | 2017-10-04 18:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: handle edge case in date parsing |
 | 2017-10-04 18:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | fix: resolve CORS configuration |
+| 2017-10-04 20:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
