@@ -21070,3 +21070,4 @@
 | 2017-10-04 11:40 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2017-10-04 13:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | feat: create background job processor |
 | 2017-10-04 14:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | infra: add Kubernetes manifests |
+| 2017-10-04 18:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: handle edge case in date parsing |
