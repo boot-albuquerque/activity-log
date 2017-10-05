@@ -21073,3 +21073,4 @@
 | 2017-10-04 18:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: handle edge case in date parsing |
 | 2017-10-04 18:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | fix: resolve CORS configuration |
 | 2017-10-04 20:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
+| 2017-10-05 09:46 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | test: fix flaky test in async handler |
