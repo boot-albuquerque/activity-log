@@ -21074,3 +21074,4 @@
 | 2017-10-04 18:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | fix: resolve CORS configuration |
 | 2017-10-04 20:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
 | 2017-10-05 09:46 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2017-10-05 21:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | fix: correct null check in user service |
