@@ -21084,3 +21084,4 @@
 | 2017-10-09 14:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2017-10-09 15:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: adopt repository pattern |
 | 2017-10-09 15:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | fix: correct decimal precision in billing |
+| 2017-10-09 18:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | chore: add Docker Compose for local dev |
