@@ -21083,3 +21083,4 @@
 | 2017-10-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2017-10-09 14:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2017-10-09 15:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: adopt repository pattern |
+| 2017-10-09 15:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | fix: correct decimal precision in billing |
