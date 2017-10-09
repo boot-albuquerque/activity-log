@@ -21080,3 +21080,4 @@
 | 2017-10-07 00:22 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: add search with filters |
 | 2017-10-07 12:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: improve code readability |
 | 2017-10-09 12:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
+| 2017-10-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | fix: resolve race condition in queue worker |
