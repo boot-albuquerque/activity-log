@@ -21081,3 +21081,4 @@
 | 2017-10-07 12:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: improve code readability |
 | 2017-10-09 12:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2017-10-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2017-10-09 14:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
