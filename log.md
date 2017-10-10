@@ -21086,3 +21086,4 @@
 | 2017-10-09 15:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2017-10-09 18:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | chore: add Docker Compose for local dev |
 | 2017-10-10 10:55 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | feat: add search with filters |
+| 2017-10-10 11:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | feat: add audit log trail |
