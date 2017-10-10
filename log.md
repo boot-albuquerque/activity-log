@@ -21088,3 +21088,4 @@
 | 2017-10-10 10:55 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | feat: add search with filters |
 | 2017-10-10 11:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | feat: add audit log trail |
 | 2017-10-10 11:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | feat: implement JWT refresh token |
+| 2017-10-10 12:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | feat: add user authentication endpoint |
