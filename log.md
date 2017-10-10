@@ -21085,3 +21085,4 @@
 | 2017-10-09 15:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: adopt repository pattern |
 | 2017-10-09 15:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2017-10-09 18:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | chore: add Docker Compose for local dev |
+| 2017-10-10 10:55 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | feat: add search with filters |
