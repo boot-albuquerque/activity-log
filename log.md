@@ -21089,3 +21089,4 @@
 | 2017-10-10 11:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | feat: add audit log trail |
 | 2017-10-10 11:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | feat: implement JWT refresh token |
 | 2017-10-10 12:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | feat: add user authentication endpoint |
+| 2017-10-10 15:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: add OpenAPI documentation |
