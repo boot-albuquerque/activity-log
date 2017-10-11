@@ -21093,3 +21093,4 @@
 | 2017-10-10 16:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: create order processing service |
 | 2017-10-10 22:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | infra: update Terraform modules |
 | 2017-10-11 13:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | test: improve test coverage to 80% |
+| 2017-10-11 14:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | ci: add automated deployment pipeline |
