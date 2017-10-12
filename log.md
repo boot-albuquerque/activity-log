@@ -21094,3 +21094,4 @@
 | 2017-10-10 22:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | infra: update Terraform modules |
 | 2017-10-11 13:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2017-10-11 14:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | ci: add automated deployment pipeline |
+| 2017-10-12 14:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: add audit log trail |
