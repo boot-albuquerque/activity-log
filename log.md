@@ -21104,3 +21104,4 @@
 | 2017-10-13 10:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | infra: update Terraform modules |
 | 2017-10-13 11:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2017-10-13 12:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | style: fix indentation and whitespace |
+| 2017-10-13 14:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | ci: add automated deployment pipeline |
