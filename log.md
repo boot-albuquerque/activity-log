@@ -21106,3 +21106,4 @@
 | 2017-10-13 12:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2017-10-13 14:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2017-10-13 19:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | feat: add OpenAPI documentation |
+| 2017-10-15 16:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: implement JWT refresh token |
