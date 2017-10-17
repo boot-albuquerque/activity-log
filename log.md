@@ -21109,3 +21109,4 @@
 | 2017-10-15 16:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: implement JWT refresh token |
 | 2017-10-15 18:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | refactor: clean up unused imports |
 | 2017-10-17 13:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | infra: update Terraform modules |
+| 2017-10-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | fix: handle timeout in async operation |
