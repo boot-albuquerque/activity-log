@@ -21112,3 +21112,4 @@
 | 2017-10-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2017-10-18 12:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve race condition in queue worker |
 | 2017-10-18 13:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2017-10-19 13:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | security: update SSL certificates config |
