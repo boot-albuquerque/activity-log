@@ -21117,3 +21117,4 @@
 | 2017-10-20 00:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | chore: add pre-commit hooks |
 | 2017-10-20 14:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | perf: add database indexes |
 | 2017-10-20 15:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
+| 2017-10-20 17:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | test: fix flaky test in async handler |
