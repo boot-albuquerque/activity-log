@@ -21113,3 +21113,4 @@
 | 2017-10-18 12:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve race condition in queue worker |
 | 2017-10-18 13:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2017-10-19 13:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | security: update SSL certificates config |
+| 2017-10-19 23:58 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | db: optimize slow queries |
