@@ -21121,3 +21121,4 @@
 | 2017-10-20 18:07 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2017-10-20 19:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2017-10-20 19:50 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | refactor: adopt repository pattern |
+| 2017-10-20 22:33 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: create dashboard metrics endpoint |
