@@ -21124,3 +21124,4 @@
 | 2017-10-20 22:33 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2017-10-23 17:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct null check in user service |
 | 2017-10-23 17:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | feat: create order processing service |
+| 2017-10-25 09:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
