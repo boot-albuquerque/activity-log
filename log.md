@@ -21125,3 +21125,4 @@
 | 2017-10-23 17:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct null check in user service |
 | 2017-10-23 17:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | feat: create order processing service |
 | 2017-10-25 09:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
+| 2017-10-25 13:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | refactor: improve code readability |
