@@ -21127,3 +21127,4 @@
 | 2017-10-25 09:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
 | 2017-10-25 13:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | refactor: improve code readability |
 | 2017-10-25 13:19 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | db: add composite index |
+| 2017-10-25 13:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | chore: add pre-commit hooks |
