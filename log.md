@@ -21131,3 +21131,4 @@
 | 2017-10-25 16:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | perf: optimize database queries |
 | 2017-10-25 17:01 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | refactor: consolidate error handling |
 | 2017-10-25 18:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | refactor: adopt repository pattern |
+| 2017-10-26 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: add integration tests for API endpoints |
