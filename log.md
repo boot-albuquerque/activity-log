@@ -21134,3 +21134,4 @@
 | 2017-10-26 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: add integration tests for API endpoints |
 | 2017-10-26 16:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | chore: add pre-commit hooks |
 | 2017-10-26 18:48 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | feat: create order processing service |
+| 2017-10-27 09:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | db: add migration for new schema |
