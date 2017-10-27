@@ -21137,3 +21137,4 @@
 | 2017-10-27 09:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | db: add migration for new schema |
 | 2017-10-27 11:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | feat: add bulk operations support |
 | 2017-10-27 12:35 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2017-10-27 13:26 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add user authentication endpoint |
