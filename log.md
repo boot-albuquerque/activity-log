@@ -21140,3 +21140,4 @@
 | 2017-10-27 13:26 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2017-10-27 13:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2017-10-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: reduce bundle size |
+| 2017-10-27 19:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
