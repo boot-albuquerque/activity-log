@@ -21141,3 +21141,4 @@
 | 2017-10-27 13:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2017-10-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: reduce bundle size |
 | 2017-10-27 19:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2017-10-28 00:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | test: fix flaky test in async handler |
