@@ -21142,3 +21142,4 @@
 | 2017-10-27 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: reduce bundle size |
 | 2017-10-27 19:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2017-10-28 00:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | test: fix flaky test in async handler |
+| 2017-10-28 08:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | docs: add README setup instructions |
