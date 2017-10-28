@@ -21143,3 +21143,4 @@
 | 2017-10-27 19:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2017-10-28 00:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2017-10-28 08:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | docs: add README setup instructions |
+| 2017-10-28 14:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | refactor: clean up unused imports |
