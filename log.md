@@ -21151,3 +21151,4 @@
 | 2017-10-30 23:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | refactor: improve code readability |
 | 2017-10-31 08:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2017-10-31 09:03 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: add audit log trail |
+| 2017-10-31 11:31 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | test: cover edge cases in validator |
