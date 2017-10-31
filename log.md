@@ -21152,3 +21152,4 @@
 | 2017-10-31 08:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2017-10-31 09:03 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: add audit log trail |
 | 2017-10-31 11:31 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | test: cover edge cases in validator |
+| 2017-10-31 16:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | chore: configure ESLint and Prettier |
