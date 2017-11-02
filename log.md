@@ -21158,3 +21158,4 @@
 | 2017-10-31 19:33 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2017-10-31 23:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: implement rate limiting middleware |
 | 2017-11-01 08:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | docs: document environment variables |
+| 2017-11-01 21:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add migration for new schema |
