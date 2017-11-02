@@ -21161,3 +21161,4 @@
 | 2017-11-01 21:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add migration for new schema |
 | 2017-11-02 12:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2017-11-02 13:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | style: format code according to style guide |
+| 2017-11-02 16:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | refactor: consolidate error handling |
