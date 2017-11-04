@@ -21165,3 +21165,4 @@
 | 2017-11-02 22:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | perf: add database indexes |
 | 2017-11-03 15:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2017-11-03 22:06 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
+| 2017-11-04 12:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: handle missing environment variable |
