@@ -21170,3 +21170,4 @@
 | 2017-11-05 18:16 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | infra: add Kubernetes manifests |
 | 2017-11-06 09:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
 | 2017-11-06 09:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2017-11-06 11:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | ci: configure staging environment |
