@@ -21175,3 +21175,4 @@
 | 2017-11-06 21:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2017-11-06 23:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: cover edge cases in validator |
 | 2017-11-08 08:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: correct decimal precision in billing |
+| 2017-11-08 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: clean up unused imports |
