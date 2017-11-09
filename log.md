@@ -21176,3 +21176,4 @@
 | 2017-11-06 23:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: cover edge cases in validator |
 | 2017-11-08 08:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2017-11-08 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: clean up unused imports |
+| 2017-11-09 11:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | perf: optimize database queries |
