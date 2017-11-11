@@ -21182,3 +21182,4 @@
 | 2017-11-10 19:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2017-11-10 23:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2017-11-11 08:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | fix: resolve deadlock in transaction |
+| 2017-11-11 19:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | fix: correct cache invalidation logic |
