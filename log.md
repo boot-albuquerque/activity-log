@@ -21188,3 +21188,4 @@
 | 2017-11-13 16:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | docs: update API documentation |
 | 2017-11-13 17:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct cache invalidation logic |
 | 2017-11-13 17:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | style: format code according to style guide |
+| 2017-11-13 18:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: implement caching layer |
