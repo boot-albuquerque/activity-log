@@ -21187,3 +21187,4 @@
 | 2017-11-12 14:57 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | refactor: clean up unused imports |
 | 2017-11-13 16:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | docs: update API documentation |
 | 2017-11-13 17:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct cache invalidation logic |
+| 2017-11-13 17:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | style: format code according to style guide |
