@@ -21191,3 +21191,4 @@
 | 2017-11-13 18:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: implement caching layer |
 | 2017-11-14 07:12 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | chore: configure ESLint and Prettier |
 | 2017-11-14 12:16 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | fix: resolve race condition in queue worker |
+| 2017-11-14 14:38 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | refactor: simplify authentication flow |
