@@ -21201,3 +21201,4 @@
 | 2017-11-15 13:53 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: create background job processor |
 | 2017-11-15 15:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | fix: correct null check in user service |
 | 2017-11-15 17:28 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2017-11-15 19:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | feat: add OpenAPI documentation |
