@@ -21202,3 +21202,4 @@
 | 2017-11-15 15:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | fix: correct null check in user service |
 | 2017-11-15 17:28 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2017-11-15 19:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2017-11-15 20:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
