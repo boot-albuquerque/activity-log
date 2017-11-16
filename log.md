@@ -21208,3 +21208,4 @@
 | 2017-11-16 00:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: handle empty response from external API |
 | 2017-11-16 18:37 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | refactor: clean up unused imports |
 | 2017-11-16 19:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | fix: correct null check in user service |
+| 2017-11-16 19:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | test: add performance benchmark tests |
