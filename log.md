@@ -21212,3 +21212,4 @@
 | 2017-11-17 13:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | docs: document environment variables |
 | 2017-11-17 13:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2017-11-17 17:57 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | refactor: consolidate error handling |
+| 2017-11-17 19:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | infra: add Kubernetes manifests |
