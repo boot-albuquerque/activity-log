@@ -21210,3 +21210,4 @@
 | 2017-11-16 19:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | fix: correct null check in user service |
 | 2017-11-16 19:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | test: add performance benchmark tests |
 | 2017-11-17 13:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | docs: document environment variables |
+| 2017-11-17 13:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: implement JWT refresh token |
