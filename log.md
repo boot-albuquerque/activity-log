@@ -21214,3 +21214,4 @@
 | 2017-11-17 17:57 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | refactor: consolidate error handling |
 | 2017-11-17 19:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2017-11-17 22:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: handle timeout in async operation |
+| 2017-11-18 11:06 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | feat: add export to CSV/Excel |
