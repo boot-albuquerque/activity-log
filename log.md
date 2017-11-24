@@ -21221,3 +21221,4 @@
 | 2017-11-22 12:56 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | style: format code according to style guide |
 | 2017-11-22 21:14 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: create admin management interface |
 | 2017-11-23 07:24 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | chore: update dependencies |
+| 2017-11-23 21:37 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: resolve CORS configuration |
