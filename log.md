@@ -21227,3 +21227,4 @@
 | 2017-11-24 18:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: implement webhook receiver |
 | 2017-11-24 20:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | security: update SSL certificates config |
 | 2017-11-24 21:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | feat: add pagination to list endpoint |
+| 2017-11-24 23:21 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | security: update SSL certificates config |
