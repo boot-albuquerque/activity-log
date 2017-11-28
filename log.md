@@ -21232,3 +21232,4 @@
 | 2017-11-26 15:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | perf: reduce bundle size |
 | 2017-11-27 00:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | infra: configure auto-scaling policies |
 | 2017-11-27 13:59 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | fix: correct null check in user service |
+| 2017-11-28 09:17 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | test: mock external dependencies in tests |
