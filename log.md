@@ -21239,3 +21239,4 @@
 | 2017-11-28 16:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
 | 2017-11-29 09:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | db: add migration for new schema |
 | 2017-11-29 10:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | fix: handle edge case in date parsing |
+| 2017-11-29 15:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: correct cache invalidation logic |
