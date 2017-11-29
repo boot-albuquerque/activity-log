@@ -21237,3 +21237,4 @@
 | 2017-11-28 14:12 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: handle edge case in date parsing |
 | 2017-11-28 15:12 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | style: fix indentation and whitespace |
 | 2017-11-28 16:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
+| 2017-11-29 09:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | db: add migration for new schema |
