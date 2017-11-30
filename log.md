@@ -21242,3 +21242,4 @@
 | 2017-11-29 15:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: correct cache invalidation logic |
 | 2017-11-29 22:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: replace raw SQL with query builder |
 | 2017-11-30 11:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | db: add migration for new schema |
+| 2017-11-30 14:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | fix: handle malformed JSON input |
