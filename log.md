@@ -21244,3 +21244,4 @@
 | 2017-11-30 11:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2017-11-30 14:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | fix: handle malformed JSON input |
 | 2017-11-30 14:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | fix: resolve N+1 query problem |
+| 2017-11-30 15:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | security: fix SQL injection vulnerability |
