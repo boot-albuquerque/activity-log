@@ -21247,3 +21247,4 @@
 | 2017-11-30 15:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2017-11-30 16:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: resolve CORS configuration |
 | 2017-11-30 19:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | test: cover edge cases in validator |
+| 2017-12-02 00:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | ci: configure staging environment |
