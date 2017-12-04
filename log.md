@@ -21249,3 +21249,4 @@
 | 2017-11-30 19:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | test: cover edge cases in validator |
 | 2017-12-02 00:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | ci: configure staging environment |
 | 2017-12-03 12:31 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | style: fix indentation and whitespace |
+| 2017-12-04 09:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | fix: resolve deadlock in transaction |
