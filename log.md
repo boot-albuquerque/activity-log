@@ -21257,3 +21257,4 @@
 | 2017-12-04 19:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | fix: resolve memory leak in connection pool |
 | 2017-12-05 00:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | docs: add README setup instructions |
 | 2017-12-05 10:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure GitHub Actions CI |
+| 2017-12-05 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | db: optimize slow queries |
