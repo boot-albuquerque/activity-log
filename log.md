@@ -21259,3 +21259,4 @@
 | 2017-12-05 10:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2017-12-05 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | db: optimize slow queries |
 | 2017-12-05 17:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | docs: update API documentation |
+| 2017-12-05 18:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | feat: implement rate limiting middleware |
