@@ -21258,3 +21258,4 @@
 | 2017-12-05 00:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | docs: add README setup instructions |
 | 2017-12-05 10:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2017-12-05 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | db: optimize slow queries |
+| 2017-12-05 17:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | docs: update API documentation |
