@@ -21262,3 +21262,4 @@
 | 2017-12-05 18:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | feat: implement rate limiting middleware |
 | 2017-12-05 22:09 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | feat: add audit log trail |
 | 2017-12-06 08:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | refactor: adopt repository pattern |
+| 2017-12-06 16:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | chore: add Docker Compose for local dev |
