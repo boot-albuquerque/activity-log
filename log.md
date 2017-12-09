@@ -21268,3 +21268,4 @@
 | 2017-12-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: create background job processor |
 | 2017-12-09 14:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | db: optimize slow queries |
 | 2017-12-09 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: cover edge cases in validator |
+| 2017-12-09 17:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: add Docker Compose for local dev |
