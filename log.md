@@ -21267,3 +21267,4 @@
 | 2017-12-07 19:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2017-12-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: create background job processor |
 | 2017-12-09 14:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | db: optimize slow queries |
+| 2017-12-09 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: cover edge cases in validator |
