@@ -21269,3 +21269,4 @@
 | 2017-12-09 14:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | db: optimize slow queries |
 | 2017-12-09 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: cover edge cases in validator |
 | 2017-12-09 17:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: add Docker Compose for local dev |
+| 2017-12-12 11:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | refactor: clean up unused imports |
