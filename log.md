@@ -21274,3 +21274,4 @@
 | 2017-12-12 13:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: update API documentation |
 | 2017-12-12 21:39 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: reduce bundle size |
 | 2017-12-13 00:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | docs: add README setup instructions |
+| 2017-12-13 09:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: resolve deadlock in transaction |
