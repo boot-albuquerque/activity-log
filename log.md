@@ -21273,3 +21273,4 @@
 | 2017-12-12 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | feat: create health check endpoint |
 | 2017-12-12 13:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: update API documentation |
 | 2017-12-12 21:39 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: reduce bundle size |
+| 2017-12-13 00:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | docs: add README setup instructions |
