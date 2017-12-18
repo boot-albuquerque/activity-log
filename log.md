@@ -21289,3 +21289,4 @@
 | 2017-12-15 16:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | refactor: improve code readability |
 | 2017-12-16 12:08 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | refactor: replace raw SQL with query builder |
 | 2017-12-16 18:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | chore: update dependencies |
+| 2017-12-18 10:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: implement webhook receiver |
