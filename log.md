@@ -21300,3 +21300,4 @@
 | 2017-12-19 13:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2017-12-19 16:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2017-12-19 16:18 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: implement JWT refresh token |
+| 2017-12-19 18:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
