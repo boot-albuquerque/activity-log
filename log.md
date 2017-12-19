@@ -21297,3 +21297,4 @@
 | 2017-12-18 23:09 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
 | 2017-12-19 07:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | docs: add README setup instructions |
 | 2017-12-19 12:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle timeout in async operation |
+| 2017-12-19 13:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
