@@ -21292,3 +21292,4 @@
 | 2017-12-18 10:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: implement webhook receiver |
 | 2017-12-18 12:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: upgrade to latest Node.js LTS |
 | 2017-12-18 12:42 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | test: add performance benchmark tests |
+| 2017-12-18 20:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | perf: implement response compression |
