@@ -21312,3 +21312,4 @@
 | 2017-12-20 16:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: update Terraform modules |
 | 2017-12-21 11:01 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | test: mock external dependencies in tests |
 | 2017-12-22 15:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2017-12-22 16:47 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | test: add unit tests for payment service |
