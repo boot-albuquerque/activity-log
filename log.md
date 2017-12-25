@@ -21315,3 +21315,4 @@
 | 2017-12-22 16:47 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | test: add unit tests for payment service |
 | 2017-12-25 08:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | chore: upgrade to latest Node.js LTS |
 | 2017-12-25 13:13 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: create admin management interface |
+| 2017-12-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | fix: handle malformed JSON input |
