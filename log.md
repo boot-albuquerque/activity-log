@@ -21320,3 +21320,4 @@
 | 2017-12-26 11:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: adopt repository pattern |
 | 2017-12-26 13:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | infra: add Kubernetes manifests |
 | 2017-12-26 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | fix: correct null check in user service |
+| 2017-12-26 19:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: add bulk operations support |
