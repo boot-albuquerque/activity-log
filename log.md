@@ -21318,3 +21318,4 @@
 | 2017-12-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2017-12-25 18:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | test: improve test coverage to 80% |
 | 2017-12-26 11:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: adopt repository pattern |
+| 2017-12-26 13:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | infra: add Kubernetes manifests |
