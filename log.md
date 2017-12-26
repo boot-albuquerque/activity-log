@@ -21317,3 +21317,4 @@
 | 2017-12-25 13:13 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: create admin management interface |
 | 2017-12-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2017-12-25 18:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | test: improve test coverage to 80% |
+| 2017-12-26 11:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: adopt repository pattern |
