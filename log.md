@@ -21325,3 +21325,4 @@
 | 2017-12-27 10:11 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2017-12-27 11:24 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | style: format code according to style guide |
 | 2017-12-27 12:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2017-12-27 15:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | refactor: move constants to config module |
