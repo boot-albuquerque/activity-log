@@ -21327,3 +21327,4 @@
 | 2017-12-27 12:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: correct pagination offset calculation |
 | 2017-12-27 15:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | refactor: move constants to config module |
 | 2017-12-27 17:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: implement JWT refresh token |
+| 2017-12-28 16:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | docs: document environment variables |
