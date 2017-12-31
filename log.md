@@ -21330,3 +21330,4 @@
 | 2017-12-28 16:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | docs: document environment variables |
 | 2017-12-29 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | security: update SSL certificates config |
 | 2017-12-30 12:21 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | refactor: adopt repository pattern |
+| 2017-12-31 11:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | security: add input sanitization |
