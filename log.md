@@ -21341,3 +21341,4 @@
 | 2018-01-02 00:17 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2018-01-02 11:52 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | db: add migration for new schema |
 | 2018-01-02 11:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | db: optimize slow queries |
+| 2018-01-02 15:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: handle missing environment variable |
