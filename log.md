@@ -21343,3 +21343,4 @@
 | 2018-01-02 11:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | db: optimize slow queries |
 | 2018-01-02 15:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: handle missing environment variable |
 | 2018-01-02 18:56 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: reduce bundle size |
+| 2018-01-03 00:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | test: add integration tests for API endpoints |
