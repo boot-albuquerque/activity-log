@@ -21346,3 +21346,4 @@
 | 2018-01-03 00:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | test: add integration tests for API endpoints |
 | 2018-01-03 00:35 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/cleanup` | fix: correct decimal precision in billing |
 | 2018-01-03 10:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | ci: configure staging environment |
+| 2018-01-03 10:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
