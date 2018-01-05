@@ -21352,3 +21352,4 @@
 | 2018-01-04 15:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2018-01-05 09:16 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/null-pointer` | refactor: split large controller into smaller ones |
 | 2018-01-05 12:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | perf: implement response compression |
+| 2018-01-05 13:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve deadlock in transaction |
