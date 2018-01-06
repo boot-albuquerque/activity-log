@@ -21354,3 +21354,4 @@
 | 2018-01-05 12:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | perf: implement response compression |
 | 2018-01-05 13:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve deadlock in transaction |
 | 2018-01-05 21:00 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2018-01-06 17:49 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
