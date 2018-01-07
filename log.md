@@ -21356,3 +21356,4 @@
 | 2018-01-05 21:00 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2018-01-06 17:49 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
 | 2018-01-07 09:59 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add composite index |
+| 2018-01-07 15:47 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | fix: resolve memory leak in connection pool |
