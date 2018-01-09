@@ -21370,3 +21370,4 @@
 | 2018-01-09 08:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | fix: handle missing environment variable |
 | 2018-01-09 08:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | refactor: split large controller into smaller ones |
 | 2018-01-09 13:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
+| 2018-01-09 14:40 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | db: add migration for new schema |
