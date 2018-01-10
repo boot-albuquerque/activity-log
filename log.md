@@ -21372,3 +21372,4 @@
 | 2018-01-09 13:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2018-01-09 14:40 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | db: add migration for new schema |
 | 2018-01-09 21:57 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | feat: create order processing service |
+| 2018-01-10 07:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | fix: resolve deadlock in transaction |
