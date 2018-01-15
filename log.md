@@ -21386,3 +21386,4 @@
 | 2018-01-11 16:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | docs: document environment variables |
 | 2018-01-11 18:41 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | feat: implement webhook receiver |
 | 2018-01-14 20:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement JWT refresh token |
+| 2018-01-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | feat: add email notification on status change |
