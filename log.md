@@ -21388,3 +21388,4 @@
 | 2018-01-14 20:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement JWT refresh token |
 | 2018-01-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | feat: add email notification on status change |
 | 2018-01-15 07:45 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
+| 2018-01-15 12:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | fix: resolve race condition in queue worker |
