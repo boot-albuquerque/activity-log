@@ -21393,3 +21393,4 @@
 | 2018-01-15 13:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | feat: add bulk operations support |
 | 2018-01-15 18:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2018-01-15 20:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement soft delete pattern |
+| 2018-01-15 21:25 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | test: add unit tests for payment service |
