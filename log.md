@@ -21396,3 +21396,4 @@
 | 2018-01-15 21:25 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | test: add unit tests for payment service |
 | 2018-01-16 11:42 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | chore: add Docker Compose for local dev |
 | 2018-01-16 15:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | style: fix indentation and whitespace |
+| 2018-01-16 16:19 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | chore: configure ESLint and Prettier |
