@@ -21397,3 +21397,4 @@
 | 2018-01-16 11:42 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | chore: add Docker Compose for local dev |
 | 2018-01-16 15:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | style: fix indentation and whitespace |
 | 2018-01-16 16:19 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | chore: configure ESLint and Prettier |
+| 2018-01-17 17:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | test: add e2e tests for checkout flow |
