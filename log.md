@@ -21401,3 +21401,4 @@
 | 2018-01-18 09:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | db: add composite index |
 | 2018-01-18 09:32 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | test: cover edge cases in validator |
 | 2018-01-18 10:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | perf: optimize database queries |
+| 2018-01-18 16:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | fix: correct pagination offset calculation |
