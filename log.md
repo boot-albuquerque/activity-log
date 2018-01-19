@@ -21406,3 +21406,4 @@
 | 2018-01-18 21:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | ci: configure staging environment |
 | 2018-01-19 11:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: handle malformed JSON input |
 | 2018-01-19 19:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | perf: reduce bundle size |
+| 2018-01-19 19:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add pagination to list endpoint |
