@@ -21409,3 +21409,4 @@
 | 2018-01-19 19:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2018-01-19 21:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: move constants to config module |
 | 2018-01-19 21:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | ci: configure staging environment |
+| 2018-01-19 23:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: resolve CORS configuration |
