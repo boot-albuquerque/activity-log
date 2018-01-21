@@ -21411,3 +21411,4 @@
 | 2018-01-19 21:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | ci: configure staging environment |
 | 2018-01-19 23:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: resolve CORS configuration |
 | 2018-01-20 21:50 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | refactor: replace raw SQL with query builder |
+| 2018-01-21 15:53 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | docs: document environment variables |
