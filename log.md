@@ -21410,3 +21410,4 @@
 | 2018-01-19 21:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: move constants to config module |
 | 2018-01-19 21:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | ci: configure staging environment |
 | 2018-01-19 23:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: resolve CORS configuration |
+| 2018-01-20 21:50 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | refactor: replace raw SQL with query builder |
