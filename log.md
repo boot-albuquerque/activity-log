@@ -21415,3 +21415,4 @@
 | 2018-01-22 13:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2018-01-22 13:36 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2018-01-22 14:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | chore: add Docker Compose for local dev |
+| 2018-01-22 18:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | chore: configure ESLint and Prettier |
