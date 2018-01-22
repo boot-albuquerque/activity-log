@@ -21413,3 +21413,4 @@
 | 2018-01-20 21:50 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | refactor: replace raw SQL with query builder |
 | 2018-01-21 15:53 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | docs: document environment variables |
 | 2018-01-22 13:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2018-01-22 13:36 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | db: add migration for new schema |
