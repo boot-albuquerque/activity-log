@@ -21419,3 +21419,4 @@
 | 2018-01-22 23:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | test: add performance benchmark tests |
 | 2018-01-23 10:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2018-01-23 13:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | style: fix indentation and whitespace |
+| 2018-01-23 16:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | perf: reduce bundle size |
