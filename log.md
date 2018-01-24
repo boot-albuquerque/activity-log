@@ -21421,3 +21421,4 @@
 | 2018-01-23 13:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2018-01-23 16:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | perf: reduce bundle size |
 | 2018-01-23 18:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | chore: update dependencies |
+| 2018-01-24 08:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/validation-bug` | docs: document environment variables |
