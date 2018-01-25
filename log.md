@@ -21427,3 +21427,4 @@
 | 2018-01-24 18:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2018-01-25 10:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | test: fix flaky test in async handler |
 | 2018-01-25 12:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
+| 2018-01-25 12:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | fix: correct pagination offset calculation |
