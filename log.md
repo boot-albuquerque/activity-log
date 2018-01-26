@@ -21437,3 +21437,4 @@
 | 2018-01-26 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | docs: document environment variables |
 | 2018-01-26 14:46 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: update API documentation |
 | 2018-01-26 14:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
+| 2018-01-26 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: format code according to style guide |
