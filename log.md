@@ -21434,3 +21434,4 @@
 | 2018-01-25 17:23 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: correct null check in user service |
 | 2018-01-26 09:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2018-01-26 11:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | chore: configure ESLint and Prettier |
+| 2018-01-26 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | docs: document environment variables |
