@@ -21436,3 +21436,4 @@
 | 2018-01-26 11:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | chore: configure ESLint and Prettier |
 | 2018-01-26 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | docs: document environment variables |
 | 2018-01-26 14:46 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: update API documentation |
+| 2018-01-26 14:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
