@@ -21439,3 +21439,4 @@
 | 2018-01-26 14:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2018-01-26 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: format code according to style guide |
 | 2018-01-26 15:45 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | refactor: simplify authentication flow |
+| 2018-01-26 19:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | db: add composite index |
