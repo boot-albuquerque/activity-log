@@ -21432,3 +21432,4 @@
 | 2018-01-25 13:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2018-01-25 14:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: implement JWT refresh token |
 | 2018-01-25 17:23 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: correct null check in user service |
+| 2018-01-26 09:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | test: mock external dependencies in tests |
