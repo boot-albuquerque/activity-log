@@ -21442,3 +21442,4 @@
 | 2018-01-26 19:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | db: add composite index |
 | 2018-01-26 20:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2018-01-26 20:55 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
+| 2018-01-26 23:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | docs: add README setup instructions |
