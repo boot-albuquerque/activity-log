@@ -21445,3 +21445,4 @@
 | 2018-01-26 23:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | docs: add README setup instructions |
 | 2018-01-27 19:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: add export to CSV/Excel |
 | 2018-01-28 13:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | feat: add real-time notifications |
+| 2018-01-28 16:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | docs: document environment variables |
