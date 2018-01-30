@@ -21450,3 +21450,4 @@
 | 2018-01-30 11:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | feat: create health check endpoint |
 | 2018-01-30 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2018-01-30 11:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | chore: update dependencies |
+| 2018-01-30 17:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: handle missing environment variable |
