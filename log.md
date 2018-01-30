@@ -21452,3 +21452,4 @@
 | 2018-01-30 11:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | chore: update dependencies |
 | 2018-01-30 17:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: handle missing environment variable |
 | 2018-01-30 18:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | ci: configure staging environment |
+| 2018-01-30 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | docs: update API documentation |
