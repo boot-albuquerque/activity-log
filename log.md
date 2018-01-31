@@ -21453,3 +21453,4 @@
 | 2018-01-30 17:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: handle missing environment variable |
 | 2018-01-30 18:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | ci: configure staging environment |
 | 2018-01-30 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | docs: update API documentation |
+| 2018-01-31 00:38 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
