@@ -21455,3 +21455,4 @@
 | 2018-01-30 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | docs: update API documentation |
 | 2018-01-31 00:38 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
 | 2018-01-31 00:57 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | fix: resolve N+1 query problem |
+| 2018-01-31 08:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve race condition in queue worker |
