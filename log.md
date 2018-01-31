@@ -21458,3 +21458,4 @@
 | 2018-01-31 08:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve race condition in queue worker |
 | 2018-01-31 09:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/extract-service` | fix: correct validation error messages |
 | 2018-01-31 14:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | test: add unit tests for payment service |
+| 2018-01-31 15:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | refactor: simplify authentication flow |
