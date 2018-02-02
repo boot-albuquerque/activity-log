@@ -21460,3 +21460,4 @@
 | 2018-01-31 14:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | test: add unit tests for payment service |
 | 2018-01-31 15:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2018-02-01 13:30 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | infra: add Kubernetes manifests |
+| 2018-02-01 22:33 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | refactor: split large controller into smaller ones |
