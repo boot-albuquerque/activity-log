@@ -21467,3 +21467,4 @@
 | 2018-02-04 13:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2018-02-05 17:44 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | feat: add real-time notifications |
 | 2018-02-06 13:35 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | feat: add pagination to list endpoint |
+| 2018-02-06 15:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
