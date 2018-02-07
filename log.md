@@ -21472,3 +21472,4 @@
 | 2018-02-06 19:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2018-02-06 19:31 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | refactor: improve code readability |
 | 2018-02-06 21:05 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: implement webhook receiver |
+| 2018-02-06 21:27 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: add search with filters |
