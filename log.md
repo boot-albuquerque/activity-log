@@ -21479,3 +21479,4 @@
 | 2018-02-07 14:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | refactor: split large controller into smaller ones |
 | 2018-02-07 16:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | test: add integration tests for API endpoints |
 | 2018-02-07 16:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: handle timeout in async operation |
+| 2018-02-07 19:15 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | docs: document environment variables |
