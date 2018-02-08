@@ -21485,3 +21485,4 @@
 | 2018-02-08 11:13 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | infra: update Terraform modules |
 | 2018-02-08 12:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | fix: correct null check in user service |
 | 2018-02-08 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | security: update SSL certificates config |
+| 2018-02-08 18:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: correct null check in user service |
