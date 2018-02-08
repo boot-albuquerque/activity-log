@@ -21481,3 +21481,4 @@
 | 2018-02-07 16:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: handle timeout in async operation |
 | 2018-02-07 19:15 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | docs: document environment variables |
 | 2018-02-07 19:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | feat: implement rate limiting middleware |
+| 2018-02-08 00:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add export to CSV/Excel |
