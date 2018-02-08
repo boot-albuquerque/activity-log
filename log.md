@@ -21483,3 +21483,4 @@
 | 2018-02-07 19:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2018-02-08 00:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add export to CSV/Excel |
 | 2018-02-08 11:13 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | infra: update Terraform modules |
+| 2018-02-08 12:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | fix: correct null check in user service |
