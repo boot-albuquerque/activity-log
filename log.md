@@ -21494,3 +21494,4 @@
 | 2018-02-11 00:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | refactor: improve code readability |
 | 2018-02-11 09:35 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | feat: add file upload support |
 | 2018-02-11 20:53 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | db: add migration for new schema |
+| 2018-02-12 09:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | style: fix indentation and whitespace |
