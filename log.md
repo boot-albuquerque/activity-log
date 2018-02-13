@@ -21498,3 +21498,4 @@
 | 2018-02-12 16:12 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | chore: configure ESLint and Prettier |
 | 2018-02-12 23:39 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | refactor: split large controller into smaller ones |
 | 2018-02-13 07:17 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | style: format code according to style guide |
+| 2018-02-13 12:32 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | feat: implement soft delete pattern |
