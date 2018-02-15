@@ -21506,3 +21506,4 @@
 | 2018-02-15 13:31 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2018-02-15 13:47 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | fix: resolve deadlock in transaction |
 | 2018-02-15 15:52 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add performance benchmark tests |
+| 2018-02-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
