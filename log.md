@@ -21508,3 +21508,4 @@
 | 2018-02-15 15:52 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add performance benchmark tests |
 | 2018-02-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2018-02-15 23:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
+| 2018-02-16 08:09 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
