@@ -21507,3 +21507,4 @@
 | 2018-02-15 13:47 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | fix: resolve deadlock in transaction |
 | 2018-02-15 15:52 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: add performance benchmark tests |
 | 2018-02-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
+| 2018-02-15 23:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
