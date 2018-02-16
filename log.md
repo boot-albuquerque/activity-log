@@ -21514,3 +21514,4 @@
 | 2018-02-16 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | fix: handle timeout in async operation |
 | 2018-02-16 14:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | db: add migration for new schema |
 | 2018-02-16 17:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: handle timeout in async operation |
+| 2018-02-16 17:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | docs: update API documentation |
