@@ -21511,3 +21511,4 @@
 | 2018-02-16 08:09 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2018-02-16 12:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2018-02-16 13:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | ci: add automated deployment pipeline |
+| 2018-02-16 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | fix: handle timeout in async operation |
