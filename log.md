@@ -21520,3 +21520,4 @@
 | 2018-02-19 13:07 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | docs: add README setup instructions |
 | 2018-02-19 14:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | fix: handle edge case in date parsing |
 | 2018-02-20 12:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: correct null check in user service |
+| 2018-02-20 14:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | test: cover edge cases in validator |
