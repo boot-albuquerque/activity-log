@@ -21523,3 +21523,4 @@
 | 2018-02-20 14:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | test: cover edge cases in validator |
 | 2018-02-20 14:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | ci: add automated deployment pipeline |
 | 2018-02-20 15:14 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | chore: upgrade to latest Node.js LTS |
+| 2018-02-20 15:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | refactor: extract business logic to service layer |
