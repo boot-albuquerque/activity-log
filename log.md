@@ -21527,3 +21527,4 @@
 | 2018-02-20 16:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | feat: add search with filters |
 | 2018-02-20 23:30 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | db: add migration for new schema |
 | 2018-02-23 09:13 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | test: add performance benchmark tests |
+| 2018-02-23 09:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
