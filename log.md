@@ -21531,3 +21531,4 @@
 | 2018-02-23 09:43 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | test: mock external dependencies in tests |
 | 2018-02-23 10:31 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | chore: add pre-commit hooks |
 | 2018-02-23 13:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | test: add integration tests for API endpoints |
+| 2018-02-23 13:37 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | test: add unit tests for payment service |
