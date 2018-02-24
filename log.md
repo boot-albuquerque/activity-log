@@ -21534,3 +21534,4 @@
 | 2018-02-23 13:37 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | test: add unit tests for payment service |
 | 2018-02-23 16:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | refactor: improve code readability |
 | 2018-02-23 18:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | chore: add Docker Compose for local dev |
+| 2018-02-23 20:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement webhook receiver |
