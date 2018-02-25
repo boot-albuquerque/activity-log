@@ -21536,3 +21536,4 @@
 | 2018-02-23 18:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2018-02-23 20:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement webhook receiver |
 | 2018-02-24 14:26 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add OpenAPI documentation |
+| 2018-02-24 21:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle missing environment variable |
