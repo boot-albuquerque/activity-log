@@ -21550,3 +21550,4 @@
 | 2018-02-27 14:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | perf: reduce bundle size |
 | 2018-02-27 14:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: correct null check in user service |
 | 2018-02-27 18:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
+| 2018-02-27 20:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | feat: add audit log trail |
