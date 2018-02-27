@@ -21547,3 +21547,4 @@
 | 2018-02-27 00:15 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | infra: add Kubernetes manifests |
 | 2018-02-27 00:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | feat: create dashboard metrics endpoint |
 | 2018-02-27 12:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: implement JWT refresh token |
+| 2018-02-27 14:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | perf: reduce bundle size |
