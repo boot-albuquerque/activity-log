@@ -21544,3 +21544,4 @@
 | 2018-02-26 15:59 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: configure ESLint and Prettier |
 | 2018-02-26 16:11 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | ci: configure staging environment |
 | 2018-02-26 20:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: simplify authentication flow |
+| 2018-02-27 00:15 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | infra: add Kubernetes manifests |
