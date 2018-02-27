@@ -21546,3 +21546,4 @@
 | 2018-02-26 20:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2018-02-27 00:15 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | infra: add Kubernetes manifests |
 | 2018-02-27 00:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | feat: create dashboard metrics endpoint |
+| 2018-02-27 12:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: implement JWT refresh token |
