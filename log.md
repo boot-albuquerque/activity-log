@@ -21556,3 +21556,4 @@
 | 2018-02-28 13:40 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | feat: create order processing service |
 | 2018-02-28 22:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | perf: add database indexes |
 | 2018-02-28 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
+| 2018-03-02 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: adopt repository pattern |
