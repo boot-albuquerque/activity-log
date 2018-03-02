@@ -21559,3 +21559,4 @@
 | 2018-03-02 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: adopt repository pattern |
 | 2018-03-02 13:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | docs: update API documentation |
 | 2018-03-02 17:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | chore: add Docker Compose for local dev |
+| 2018-03-02 19:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | docs: add README setup instructions |
