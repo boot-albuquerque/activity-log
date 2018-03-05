@@ -21561,3 +21561,4 @@
 | 2018-03-02 17:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | chore: add Docker Compose for local dev |
 | 2018-03-02 19:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2018-03-04 17:49 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | feat: create health check endpoint |
+| 2018-03-05 00:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | db: optimize slow queries |
