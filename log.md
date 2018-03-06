@@ -21571,3 +21571,4 @@
 | 2018-03-06 08:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | db: optimize slow queries |
 | 2018-03-06 09:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | chore: configure ESLint and Prettier |
 | 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | chore: upgrade to latest Node.js LTS |
+| 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
