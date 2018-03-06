@@ -21568,3 +21568,4 @@
 | 2018-03-05 15:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | test: improve test coverage to 80% |
 | 2018-03-05 20:06 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | db: optimize slow queries |
 | 2018-03-05 21:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | fix: handle timeout in async operation |
+| 2018-03-06 08:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | db: optimize slow queries |
