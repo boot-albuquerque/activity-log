@@ -21570,3 +21570,4 @@
 | 2018-03-05 21:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | fix: handle timeout in async operation |
 | 2018-03-06 08:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | db: optimize slow queries |
 | 2018-03-06 09:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | chore: configure ESLint and Prettier |
+| 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | chore: upgrade to latest Node.js LTS |
