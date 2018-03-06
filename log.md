@@ -21574,3 +21574,4 @@
 | 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2018-03-06 11:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | refactor: move constants to config module |
 | 2018-03-06 13:03 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
+| 2018-03-06 15:52 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | test: add integration tests for API endpoints |
