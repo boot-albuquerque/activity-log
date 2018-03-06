@@ -21573,3 +21573,4 @@
 | 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | chore: upgrade to latest Node.js LTS |
 | 2018-03-06 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2018-03-06 11:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | refactor: move constants to config module |
+| 2018-03-06 13:03 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
