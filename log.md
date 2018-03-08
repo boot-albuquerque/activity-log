@@ -21584,3 +21584,4 @@
 | 2018-03-07 16:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | security: update SSL certificates config |
 | 2018-03-07 21:49 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | feat: create background job processor |
 | 2018-03-08 14:16 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | style: fix indentation and whitespace |
+| 2018-03-08 19:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | test: add e2e tests for checkout flow |
