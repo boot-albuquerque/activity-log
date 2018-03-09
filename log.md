@@ -21588,3 +21588,4 @@
 | 2018-03-08 23:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: correct null check in user service |
 | 2018-03-09 11:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | feat: create order processing service |
 | 2018-03-09 13:31 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | db: optimize slow queries |
+| 2018-03-09 14:30 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
