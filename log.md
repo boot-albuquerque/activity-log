@@ -21591,3 +21591,4 @@
 | 2018-03-09 14:30 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2018-03-09 20:49 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add search with filters |
 | 2018-03-09 23:12 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | docs: update API documentation |
+| 2018-03-10 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: add user authentication endpoint |
