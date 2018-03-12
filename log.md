@@ -21594,3 +21594,4 @@
 | 2018-03-10 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: add user authentication endpoint |
 | 2018-03-11 15:42 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | feat: add file upload support |
 | 2018-03-11 20:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: add migration for new schema |
+| 2018-03-12 11:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | feat: implement webhook receiver |
