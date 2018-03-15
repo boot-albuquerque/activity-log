@@ -21607,3 +21607,4 @@
 | 2018-03-15 12:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | feat: create order processing service |
 | 2018-03-15 13:11 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2018-03-15 14:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | fix: resolve N+1 query problem |
+| 2018-03-15 14:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
