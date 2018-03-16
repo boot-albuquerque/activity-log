@@ -21614,3 +21614,4 @@
 | 2018-03-16 09:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | security: update SSL certificates config |
 | 2018-03-16 11:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2018-03-16 12:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | perf: reduce bundle size |
+| 2018-03-16 14:38 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | chore: add Docker Compose for local dev |
