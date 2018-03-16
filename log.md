@@ -21616,3 +21616,4 @@
 | 2018-03-16 12:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | perf: reduce bundle size |
 | 2018-03-16 14:38 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | chore: add Docker Compose for local dev |
 | 2018-03-16 17:24 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/new-endpoint` | test: add performance benchmark tests |
+| 2018-03-16 18:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add audit log trail |
