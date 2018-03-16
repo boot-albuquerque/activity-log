@@ -21613,3 +21613,4 @@
 | 2018-03-16 08:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | feat: add email notification on status change |
 | 2018-03-16 09:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | security: update SSL certificates config |
 | 2018-03-16 11:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/race-condition` | chore: configure ESLint and Prettier |
+| 2018-03-16 12:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | perf: reduce bundle size |
