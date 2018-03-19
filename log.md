@@ -21620,3 +21620,4 @@
 | 2018-03-16 18:53 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | chore: configure GitHub Actions CI |
 | 2018-03-16 19:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | test: add e2e tests for checkout flow |
 | 2018-03-19 10:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: implement caching layer |
+| 2018-03-19 13:08 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | docs: add README setup instructions |
