@@ -21627,3 +21627,4 @@
 | 2018-03-19 17:19 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | perf: implement response compression |
 | 2018-03-20 00:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2018-03-20 00:39 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
+| 2018-03-20 10:22 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | refactor: move constants to config module |
