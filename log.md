@@ -21633,3 +21633,4 @@
 | 2018-03-20 14:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | feat: add real-time notifications |
 | 2018-03-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | test: cover edge cases in validator |
 | 2018-03-20 20:42 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | test: add performance benchmark tests |
+| 2018-03-21 08:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: add email notification on status change |
