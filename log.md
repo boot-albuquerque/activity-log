@@ -21635,3 +21635,4 @@
 | 2018-03-20 20:42 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | test: add performance benchmark tests |
 | 2018-03-21 08:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: add email notification on status change |
 | 2018-03-21 20:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: implement webhook receiver |
+| 2018-03-22 07:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add export to CSV/Excel |
