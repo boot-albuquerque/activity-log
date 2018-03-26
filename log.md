@@ -21650,3 +21650,4 @@
 | 2018-03-25 00:58 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | db: add migration for new schema |
 | 2018-03-26 09:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | db: add migration for new schema |
 | 2018-03-26 09:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | infra: add Kubernetes manifests |
+| 2018-03-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | style: fix indentation and whitespace |
