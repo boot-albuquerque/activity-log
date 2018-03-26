@@ -21652,3 +21652,4 @@
 | 2018-03-26 09:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2018-03-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | style: fix indentation and whitespace |
 | 2018-03-26 14:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | security: fix SQL injection vulnerability |
+| 2018-03-26 16:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | style: fix indentation and whitespace |
