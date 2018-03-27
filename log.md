@@ -21653,3 +21653,4 @@
 | 2018-03-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | style: fix indentation and whitespace |
 | 2018-03-26 14:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | security: fix SQL injection vulnerability |
 | 2018-03-26 16:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | style: fix indentation and whitespace |
+| 2018-03-27 09:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | fix: correct decimal precision in billing |
