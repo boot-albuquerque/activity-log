@@ -21657,3 +21657,4 @@
 | 2018-03-27 19:03 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2018-03-27 21:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | security: add input sanitization |
 | 2018-03-27 23:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | refactor: extract business logic to service layer |
+| 2018-03-28 11:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | docs: document environment variables |
