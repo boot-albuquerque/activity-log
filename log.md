@@ -21659,3 +21659,4 @@
 | 2018-03-27 23:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | refactor: extract business logic to service layer |
 | 2018-03-28 11:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | docs: document environment variables |
 | 2018-03-28 12:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | perf: add database indexes |
+| 2018-03-28 13:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
