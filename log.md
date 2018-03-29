@@ -21660,3 +21660,4 @@
 | 2018-03-28 11:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | docs: document environment variables |
 | 2018-03-28 12:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | perf: add database indexes |
 | 2018-03-28 13:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
+| 2018-03-28 21:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | feat: implement JWT refresh token |
