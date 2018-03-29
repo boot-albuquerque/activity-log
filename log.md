@@ -21672,3 +21672,4 @@
 | 2018-03-29 15:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | chore: update dependencies |
 | 2018-03-29 15:27 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
 | 2018-03-29 15:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
+| 2018-03-29 16:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | security: update SSL certificates config |
