@@ -21670,3 +21670,4 @@
 | 2018-03-29 13:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | docs: update API documentation |
 | 2018-03-29 13:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | perf: add database indexes |
 | 2018-03-29 15:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | chore: update dependencies |
+| 2018-03-29 15:27 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
