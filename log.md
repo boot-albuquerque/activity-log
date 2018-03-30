@@ -21674,3 +21674,4 @@
 | 2018-03-29 15:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
 | 2018-03-29 16:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2018-03-30 15:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: create health check endpoint |
+| 2018-03-30 17:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/prod-issue` | fix: correct null check in user service |
