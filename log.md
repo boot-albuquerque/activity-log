@@ -21678,3 +21678,4 @@
 | 2018-03-30 21:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2018-03-31 16:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | fix: resolve deadlock in transaction |
 | 2018-03-31 19:11 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | infra: add Kubernetes manifests |
+| 2018-04-03 08:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: add OpenAPI documentation |
