@@ -21680,3 +21680,4 @@
 | 2018-03-31 19:11 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | infra: add Kubernetes manifests |
 | 2018-04-03 08:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2018-04-03 09:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | fix: resolve N+1 query problem |
+| 2018-04-03 15:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | test: add performance benchmark tests |
