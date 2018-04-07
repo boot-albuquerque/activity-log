@@ -21691,3 +21691,4 @@
 | 2018-04-06 14:45 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2018-04-06 15:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | test: add unit tests for payment service |
 | 2018-04-06 15:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | security: add input sanitization |
+| 2018-04-07 18:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | refactor: adopt repository pattern |
