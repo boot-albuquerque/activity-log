@@ -21695,3 +21695,4 @@
 | 2018-04-07 23:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
 | 2018-04-08 00:04 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | refactor: adopt repository pattern |
 | 2018-04-08 15:49 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | security: update SSL certificates config |
+| 2018-04-08 19:13 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: add export to CSV/Excel |
