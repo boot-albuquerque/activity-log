@@ -21692,3 +21692,4 @@
 | 2018-04-06 15:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | test: add unit tests for payment service |
 | 2018-04-06 15:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | security: add input sanitization |
 | 2018-04-07 18:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | refactor: adopt repository pattern |
+| 2018-04-07 23:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
