@@ -21700,3 +21700,4 @@
 | 2018-04-09 21:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
 | 2018-04-10 08:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/cleanup` | feat: add user authentication endpoint |
 | 2018-04-10 12:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | style: fix indentation and whitespace |
+| 2018-04-10 16:20 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | security: fix SQL injection vulnerability |
