@@ -21705,3 +21705,4 @@
 | 2018-04-10 22:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2018-04-11 12:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | fix: resolve deadlock in transaction |
 | 2018-04-11 12:53 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | ci: add automated deployment pipeline |
+| 2018-04-11 19:11 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: create order processing service |
