@@ -21702,3 +21702,4 @@
 | 2018-04-10 12:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | style: fix indentation and whitespace |
 | 2018-04-10 16:20 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | security: fix SQL injection vulnerability |
 | 2018-04-10 21:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | infra: configure auto-scaling policies |
+| 2018-04-10 22:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | db: add migration for new schema |
