@@ -21709,3 +21709,4 @@
 | 2018-04-11 22:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
 | 2018-04-12 11:16 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2018-04-12 15:00 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | test: fix flaky test in async handler |
+| 2018-04-12 16:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | feat: add user authentication endpoint |
