@@ -21717,3 +21717,4 @@
 | 2018-04-13 08:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: add bulk operations support |
 | 2018-04-13 14:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2018-04-13 14:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
+| 2018-04-13 15:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | refactor: consolidate error handling |
