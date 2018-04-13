@@ -21715,3 +21715,4 @@
 | 2018-04-12 20:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: clean up unused imports |
 | 2018-04-12 21:19 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | feat: create health check endpoint |
 | 2018-04-13 08:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: add bulk operations support |
+| 2018-04-13 14:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | test: mock external dependencies in tests |
