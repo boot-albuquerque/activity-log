@@ -21718,3 +21718,4 @@
 | 2018-04-13 14:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2018-04-13 14:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2018-04-13 15:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | refactor: consolidate error handling |
+| 2018-04-13 19:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | chore: update dependencies |
