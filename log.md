@@ -21730,3 +21730,4 @@
 | 2018-04-17 11:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | feat: create health check endpoint |
 | 2018-04-17 11:53 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add search with filters |
 | 2018-04-17 13:49 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | chore: add pre-commit hooks |
+| 2018-04-17 18:04 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | db: add migration for new schema |
