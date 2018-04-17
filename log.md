@@ -21726,3 +21726,4 @@
 | 2018-04-16 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | style: format code according to style guide |
 | 2018-04-16 19:21 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: update dependencies |
 | 2018-04-17 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
+| 2018-04-17 10:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: add search with filters |
