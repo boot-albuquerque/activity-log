@@ -21735,3 +21735,4 @@
 | 2018-04-18 09:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | infra: add Kubernetes manifests |
 | 2018-04-18 10:42 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2018-04-18 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: create background job processor |
+| 2018-04-18 14:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | perf: add database indexes |
