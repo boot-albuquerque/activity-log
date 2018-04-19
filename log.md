@@ -21736,3 +21736,4 @@
 | 2018-04-18 10:42 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2018-04-18 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: create background job processor |
 | 2018-04-18 14:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | perf: add database indexes |
+| 2018-04-19 11:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | fix: resolve N+1 query problem |
