@@ -21740,3 +21740,4 @@
 | 2018-04-19 14:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2018-04-19 15:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | test: mock external dependencies in tests |
 | 2018-04-22 00:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | feat: implement JWT refresh token |
+| 2018-04-22 15:27 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | feat: add email notification on status change |
