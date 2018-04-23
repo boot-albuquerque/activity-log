@@ -21741,3 +21741,4 @@
 | 2018-04-19 15:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | test: mock external dependencies in tests |
 | 2018-04-22 00:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | feat: implement JWT refresh token |
 | 2018-04-22 15:27 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | feat: add email notification on status change |
+| 2018-04-23 07:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | perf: implement response compression |
