@@ -21745,3 +21745,4 @@
 | 2018-04-23 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2018-04-23 12:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2018-04-23 13:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | test: add performance benchmark tests |
+| 2018-04-23 15:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create health check endpoint |
