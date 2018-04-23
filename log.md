@@ -21744,3 +21744,4 @@
 | 2018-04-23 07:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | perf: implement response compression |
 | 2018-04-23 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2018-04-23 12:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | ci: add automated deployment pipeline |
+| 2018-04-23 13:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | test: add performance benchmark tests |
