@@ -21746,3 +21746,4 @@
 | 2018-04-23 12:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2018-04-23 13:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | test: add performance benchmark tests |
 | 2018-04-23 15:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create health check endpoint |
+| 2018-04-26 13:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
