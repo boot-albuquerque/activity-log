@@ -21750,3 +21750,4 @@
 | 2018-04-26 16:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | refactor: consolidate error handling |
 | 2018-04-26 16:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | refactor: move constants to config module |
 | 2018-04-26 17:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: resolve deadlock in transaction |
+| 2018-04-26 17:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | refactor: clean up unused imports |
