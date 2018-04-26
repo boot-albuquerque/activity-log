@@ -21749,3 +21749,4 @@
 | 2018-04-26 13:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2018-04-26 16:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | refactor: consolidate error handling |
 | 2018-04-26 16:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | refactor: move constants to config module |
+| 2018-04-26 17:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: resolve deadlock in transaction |
