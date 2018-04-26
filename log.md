@@ -21751,3 +21751,4 @@
 | 2018-04-26 16:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | refactor: move constants to config module |
 | 2018-04-26 17:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2018-04-26 17:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | refactor: clean up unused imports |
+| 2018-04-26 18:24 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | feat: add file upload support |
