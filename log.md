@@ -21759,3 +21759,4 @@
 | 2018-04-27 12:09 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | refactor: move constants to config module |
 | 2018-04-27 16:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | chore: upgrade to latest Node.js LTS |
 | 2018-04-27 19:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | test: add e2e tests for checkout flow |
+| 2018-04-28 09:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: create order processing service |
