@@ -21762,3 +21762,4 @@
 | 2018-04-28 09:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: create order processing service |
 | 2018-04-28 10:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | perf: implement response compression |
 | 2018-04-28 17:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | infra: add Kubernetes manifests |
+| 2018-04-29 10:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | docs: document environment variables |
