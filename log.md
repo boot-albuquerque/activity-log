@@ -21765,3 +21765,4 @@
 | 2018-04-29 10:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | docs: document environment variables |
 | 2018-04-30 14:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | feat: create dashboard metrics endpoint |
 | 2018-04-30 17:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | test: cover edge cases in validator |
+| 2018-05-01 09:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | refactor: clean up unused imports |
