@@ -21770,3 +21770,4 @@
 | 2018-05-03 16:38 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | refactor: clean up unused imports |
 | 2018-05-03 19:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2018-05-04 00:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve memory leak in connection pool |
+| 2018-05-04 09:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
