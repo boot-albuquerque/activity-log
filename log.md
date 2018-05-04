@@ -21769,3 +21769,4 @@
 | 2018-05-03 16:29 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | security: update SSL certificates config |
 | 2018-05-03 16:38 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | refactor: clean up unused imports |
 | 2018-05-03 19:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2018-05-04 00:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve memory leak in connection pool |
