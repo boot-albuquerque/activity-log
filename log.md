@@ -21772,3 +21772,4 @@
 | 2018-05-04 00:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve memory leak in connection pool |
 | 2018-05-04 09:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
 | 2018-05-04 11:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | test: cover edge cases in validator |
+| 2018-05-04 11:23 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | fix: resolve deadlock in transaction |
