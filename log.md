@@ -21781,3 +21781,4 @@
 | 2018-05-07 12:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: correct validation error messages |
 | 2018-05-07 12:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | docs: document environment variables |
 | 2018-05-07 12:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | chore: configure ESLint and Prettier |
+| 2018-05-07 14:38 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
