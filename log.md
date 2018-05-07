@@ -21778,3 +21778,4 @@
 | 2018-05-07 07:48 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | fix: handle timeout in async operation |
 | 2018-05-07 10:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | fix: resolve CORS configuration |
 | 2018-05-07 11:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: add real-time notifications |
+| 2018-05-07 12:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: correct validation error messages |
