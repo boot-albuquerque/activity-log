@@ -21780,3 +21780,4 @@
 | 2018-05-07 11:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: add real-time notifications |
 | 2018-05-07 12:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: correct validation error messages |
 | 2018-05-07 12:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | docs: document environment variables |
+| 2018-05-07 12:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | chore: configure ESLint and Prettier |
