@@ -21784,3 +21784,4 @@
 | 2018-05-07 14:38 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
 | 2018-05-07 17:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | style: format code according to style guide |
 | 2018-05-07 22:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | test: add integration tests for API endpoints |
+| 2018-05-08 07:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct pagination offset calculation |
