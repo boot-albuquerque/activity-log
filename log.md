@@ -21786,3 +21786,4 @@
 | 2018-05-07 22:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | test: add integration tests for API endpoints |
 | 2018-05-08 07:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2018-05-08 08:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | refactor: clean up unused imports |
+| 2018-05-08 18:02 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | fix: correct pagination offset calculation |
