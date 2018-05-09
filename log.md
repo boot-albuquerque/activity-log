@@ -21788,3 +21788,4 @@
 | 2018-05-08 08:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | refactor: clean up unused imports |
 | 2018-05-08 18:02 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | fix: correct pagination offset calculation |
 | 2018-05-08 19:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2018-05-08 21:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
