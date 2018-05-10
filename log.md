@@ -21790,3 +21790,4 @@
 | 2018-05-08 19:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2018-05-08 21:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2018-05-09 21:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | perf: reduce bundle size |
+| 2018-05-09 21:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: add unit tests for payment service |
