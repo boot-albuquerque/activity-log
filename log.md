@@ -21792,3 +21792,4 @@
 | 2018-05-09 21:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | perf: reduce bundle size |
 | 2018-05-09 21:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2018-05-10 00:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | test: add integration tests for API endpoints |
+| 2018-05-10 14:48 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | chore: configure GitHub Actions CI |
