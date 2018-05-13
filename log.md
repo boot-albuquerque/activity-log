@@ -21794,3 +21794,4 @@
 | 2018-05-10 00:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | test: add integration tests for API endpoints |
 | 2018-05-10 14:48 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | chore: configure GitHub Actions CI |
 | 2018-05-10 15:52 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: resolve N+1 query problem |
+| 2018-05-13 20:49 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | ci: configure staging environment |
