@@ -21796,3 +21796,4 @@
 | 2018-05-10 15:52 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: resolve N+1 query problem |
 | 2018-05-13 20:49 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | ci: configure staging environment |
 | 2018-05-13 23:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | chore: update dependencies |
+| 2018-05-14 00:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
