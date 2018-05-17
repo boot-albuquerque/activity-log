@@ -21807,3 +21807,4 @@
 | 2018-05-16 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | perf: implement response compression |
 | 2018-05-16 19:49 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2018-05-17 08:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | feat: add real-time notifications |
+| 2018-05-17 15:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | test: improve test coverage to 80% |
