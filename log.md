@@ -21810,3 +21810,4 @@
 | 2018-05-17 15:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | test: improve test coverage to 80% |
 | 2018-05-17 15:56 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: correct pagination offset calculation |
 | 2018-05-17 16:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
+| 2018-05-17 22:27 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | feat: implement soft delete pattern |
