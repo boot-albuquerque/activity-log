@@ -21812,3 +21812,4 @@
 | 2018-05-17 16:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
 | 2018-05-17 22:27 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | feat: implement soft delete pattern |
 | 2018-05-18 09:13 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | perf: add database indexes |
+| 2018-05-18 15:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | perf: implement response compression |
