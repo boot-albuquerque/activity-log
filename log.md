@@ -21815,3 +21815,4 @@
 | 2018-05-18 15:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | perf: implement response compression |
 | 2018-05-18 16:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: create order processing service |
 | 2018-05-18 17:24 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: create admin management interface |
+| 2018-05-18 17:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add export to CSV/Excel |
