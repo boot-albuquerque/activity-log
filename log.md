@@ -21820,3 +21820,4 @@
 | 2018-05-18 22:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | test: add performance benchmark tests |
 | 2018-05-20 08:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | fix: handle malformed JSON input |
 | 2018-05-20 15:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | feat: implement caching layer |
+| 2018-05-21 19:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | style: fix indentation and whitespace |
