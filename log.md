@@ -21827,3 +21827,4 @@
 | 2018-05-23 17:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | infra: configure auto-scaling policies |
 | 2018-05-23 19:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2018-05-24 07:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | feat: implement webhook receiver |
+| 2018-05-24 09:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | feat: add audit log trail |
