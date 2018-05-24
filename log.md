@@ -21826,3 +21826,4 @@
 | 2018-05-23 15:31 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2018-05-23 17:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | infra: configure auto-scaling policies |
 | 2018-05-23 19:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add email notification on status change |
+| 2018-05-24 07:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | feat: implement webhook receiver |
