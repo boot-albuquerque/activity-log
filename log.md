@@ -21829,3 +21829,4 @@
 | 2018-05-24 07:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | feat: implement webhook receiver |
 | 2018-05-24 09:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2018-05-24 09:33 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | feat: add pagination to list endpoint |
+| 2018-05-24 12:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | fix: handle missing environment variable |
