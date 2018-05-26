@@ -21834,3 +21834,4 @@
 | 2018-05-24 18:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2018-05-25 15:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2018-05-26 08:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | chore: add pre-commit hooks |
+| 2018-05-26 20:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | feat: create admin management interface |
