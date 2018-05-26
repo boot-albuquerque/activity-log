@@ -21833,3 +21833,4 @@
 | 2018-05-24 16:28 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | style: fix indentation and whitespace |
 | 2018-05-24 18:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2018-05-25 15:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | security: update SSL certificates config |
+| 2018-05-26 08:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | chore: add pre-commit hooks |
