@@ -21842,3 +21842,4 @@
 | 2018-05-28 18:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | feat: create order processing service |
 | 2018-05-29 16:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | feat: add email notification on status change |
 | 2018-05-29 20:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add real-time notifications |
+| 2018-05-29 20:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | feat: add email notification on status change |
