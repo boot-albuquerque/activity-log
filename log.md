@@ -21840,3 +21840,4 @@
 | 2018-05-28 15:14 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: implement webhook receiver |
 | 2018-05-28 15:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2018-05-28 18:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | feat: create order processing service |
+| 2018-05-29 16:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | feat: add email notification on status change |
