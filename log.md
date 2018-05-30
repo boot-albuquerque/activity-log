@@ -21844,3 +21844,4 @@
 | 2018-05-29 20:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add real-time notifications |
 | 2018-05-29 20:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | feat: add email notification on status change |
 | 2018-05-29 21:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | refactor: simplify authentication flow |
+| 2018-05-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | fix: correct validation error messages |
