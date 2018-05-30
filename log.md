@@ -21843,3 +21843,4 @@
 | 2018-05-29 16:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | feat: add email notification on status change |
 | 2018-05-29 20:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add real-time notifications |
 | 2018-05-29 20:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | feat: add email notification on status change |
+| 2018-05-29 21:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | refactor: simplify authentication flow |
