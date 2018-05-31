@@ -21847,3 +21847,4 @@
 | 2018-05-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | fix: correct validation error messages |
 | 2018-05-30 14:53 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add audit log trail |
 | 2018-05-30 17:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: correct pagination offset calculation |
+| 2018-05-31 08:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | feat: add OpenAPI documentation |
