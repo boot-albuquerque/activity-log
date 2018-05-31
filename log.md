@@ -21851,3 +21851,4 @@
 | 2018-05-31 12:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2018-05-31 13:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: create dashboard metrics endpoint |
 | 2018-05-31 14:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | feat: create background job processor |
+| 2018-05-31 20:21 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | docs: document environment variables |
