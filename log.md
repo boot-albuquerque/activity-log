@@ -21853,3 +21853,4 @@
 | 2018-05-31 14:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | feat: create background job processor |
 | 2018-05-31 20:21 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | docs: document environment variables |
 | 2018-06-01 11:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | perf: optimize database queries |
+| 2018-06-01 12:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | feat: implement JWT refresh token |
