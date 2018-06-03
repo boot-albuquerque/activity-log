@@ -21859,3 +21859,4 @@
 | 2018-06-01 14:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | style: format code according to style guide |
 | 2018-06-03 11:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | perf: add database indexes |
 | 2018-06-03 12:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
+| 2018-06-03 13:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | refactor: simplify authentication flow |
