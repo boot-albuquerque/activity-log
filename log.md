@@ -21858,3 +21858,4 @@
 | 2018-06-01 14:12 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | feat: add real-time notifications |
 | 2018-06-01 14:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | style: format code according to style guide |
 | 2018-06-03 11:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | perf: add database indexes |
+| 2018-06-03 12:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
