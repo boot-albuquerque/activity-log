@@ -21863,3 +21863,4 @@
 | 2018-06-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
 | 2018-06-04 09:06 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2018-06-04 10:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: add export to CSV/Excel |
+| 2018-06-04 13:01 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | fix: correct null check in user service |
