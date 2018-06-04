@@ -21862,3 +21862,4 @@
 | 2018-06-03 13:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | refactor: simplify authentication flow |
 | 2018-06-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
 | 2018-06-04 09:06 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/null-pointer` | feat: add pagination to list endpoint |
+| 2018-06-04 10:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: add export to CSV/Excel |
