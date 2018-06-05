@@ -21871,3 +21871,4 @@
 | 2018-06-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | docs: add README setup instructions |
 | 2018-06-05 09:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | db: optimize slow queries |
 | 2018-06-05 12:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | refactor: reduce cyclomatic complexity |
+| 2018-06-05 13:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: replace raw SQL with query builder |
