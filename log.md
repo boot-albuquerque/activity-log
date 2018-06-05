@@ -21869,3 +21869,4 @@
 | 2018-06-04 14:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | chore: configure ESLint and Prettier |
 | 2018-06-04 20:49 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2018-06-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | docs: add README setup instructions |
+| 2018-06-05 09:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | db: optimize slow queries |
