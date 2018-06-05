@@ -21872,3 +21872,4 @@
 | 2018-06-05 09:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | db: optimize slow queries |
 | 2018-06-05 12:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | refactor: reduce cyclomatic complexity |
 | 2018-06-05 13:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: replace raw SQL with query builder |
+| 2018-06-05 19:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add integration tests for API endpoints |
