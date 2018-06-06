@@ -21877,3 +21877,4 @@
 | 2018-06-05 22:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add real-time notifications |
 | 2018-06-06 11:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: implement caching layer |
 | 2018-06-06 16:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | fix: correct validation error messages |
+| 2018-06-06 18:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | feat: create admin management interface |
