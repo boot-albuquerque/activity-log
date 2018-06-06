@@ -21876,3 +21876,4 @@
 | 2018-06-05 21:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | infra: configure auto-scaling policies |
 | 2018-06-05 22:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add real-time notifications |
 | 2018-06-06 11:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: implement caching layer |
+| 2018-06-06 16:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | fix: correct validation error messages |
