@@ -21875,3 +21875,4 @@
 | 2018-06-05 19:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add integration tests for API endpoints |
 | 2018-06-05 21:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | infra: configure auto-scaling policies |
 | 2018-06-05 22:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add real-time notifications |
+| 2018-06-06 11:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: implement caching layer |
