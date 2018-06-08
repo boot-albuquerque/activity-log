@@ -21886,3 +21886,4 @@
 | 2018-06-07 15:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | feat: create order processing service |
 | 2018-06-07 18:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | refactor: consolidate error handling |
 | 2018-06-08 00:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
+| 2018-06-08 17:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
