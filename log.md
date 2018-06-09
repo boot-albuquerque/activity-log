@@ -21888,3 +21888,4 @@
 | 2018-06-08 00:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2018-06-08 17:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2018-06-08 23:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | chore: configure GitHub Actions CI |
+| 2018-06-09 11:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: configure staging environment |
