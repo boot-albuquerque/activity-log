@@ -21889,3 +21889,4 @@
 | 2018-06-08 17:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2018-06-08 23:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | chore: configure GitHub Actions CI |
 | 2018-06-09 11:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: configure staging environment |
+| 2018-06-09 16:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
