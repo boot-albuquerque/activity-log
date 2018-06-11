@@ -21901,3 +21901,4 @@
 | 2018-06-11 15:07 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | fix: correct validation error messages |
 | 2018-06-11 15:40 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2018-06-11 15:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
+| 2018-06-11 18:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | style: format code according to style guide |
