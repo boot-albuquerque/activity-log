@@ -21892,3 +21892,4 @@
 | 2018-06-09 16:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
 | 2018-06-10 10:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2018-06-10 17:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | docs: document environment variables |
+| 2018-06-11 12:33 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | ci: configure staging environment |
