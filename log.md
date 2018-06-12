@@ -21907,3 +21907,4 @@
 | 2018-06-12 13:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2018-06-12 14:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2018-06-12 16:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | fix: handle missing environment variable |
+| 2018-06-12 17:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | refactor: improve code readability |
