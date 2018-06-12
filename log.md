@@ -21904,3 +21904,4 @@
 | 2018-06-11 18:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | style: format code according to style guide |
 | 2018-06-12 07:47 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | db: add composite index |
 | 2018-06-12 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: handle missing environment variable |
+| 2018-06-12 13:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | chore: configure ESLint and Prettier |
