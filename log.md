@@ -21911,3 +21911,4 @@
 | 2018-06-12 18:21 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | test: fix flaky test in async handler |
 | 2018-06-12 20:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | security: add input sanitization |
 | 2018-06-12 21:37 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | docs: update API documentation |
+| 2018-06-13 16:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
