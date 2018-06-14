@@ -21913,3 +21913,4 @@
 | 2018-06-12 21:37 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | docs: update API documentation |
 | 2018-06-13 16:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2018-06-13 18:14 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | feat: implement rate limiting middleware |
+| 2018-06-14 11:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: split large controller into smaller ones |
