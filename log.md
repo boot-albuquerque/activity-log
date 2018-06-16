@@ -21915,3 +21915,4 @@
 | 2018-06-13 18:14 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2018-06-14 11:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: split large controller into smaller ones |
 | 2018-06-14 15:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | fix: resolve deadlock in transaction |
+| 2018-06-16 09:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | test: mock external dependencies in tests |
