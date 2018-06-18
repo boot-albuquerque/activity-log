@@ -21925,3 +21925,4 @@
 | 2018-06-18 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2018-06-18 14:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: move constants to config module |
 | 2018-06-18 15:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: add file upload support |
+| 2018-06-18 15:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | test: mock external dependencies in tests |
