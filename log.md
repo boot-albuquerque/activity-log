@@ -21924,3 +21924,4 @@
 | 2018-06-18 14:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | refactor: move constants to config module |
 | 2018-06-18 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2018-06-18 14:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: move constants to config module |
+| 2018-06-18 15:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: add file upload support |
