@@ -21921,3 +21921,4 @@
 | 2018-06-18 08:22 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | fix: correct validation error messages |
 | 2018-06-18 09:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | ci: add automated deployment pipeline |
 | 2018-06-18 10:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: correct decimal precision in billing |
+| 2018-06-18 14:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | refactor: move constants to config module |
