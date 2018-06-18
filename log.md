@@ -21923,3 +21923,4 @@
 | 2018-06-18 10:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: correct decimal precision in billing |
 | 2018-06-18 14:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | refactor: move constants to config module |
 | 2018-06-18 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
+| 2018-06-18 14:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: move constants to config module |
