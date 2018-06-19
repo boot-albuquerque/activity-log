@@ -21932,3 +21932,4 @@
 | 2018-06-19 11:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2018-06-19 12:42 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | feat: add search with filters |
 | 2018-06-19 15:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: add file upload support |
+| 2018-06-19 16:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | feat: add email notification on status change |
