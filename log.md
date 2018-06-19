@@ -21929,3 +21929,4 @@
 | 2018-06-18 16:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
 | 2018-06-18 18:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | test: add performance benchmark tests |
 | 2018-06-18 18:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | docs: add README setup instructions |
+| 2018-06-19 11:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | feat: implement JWT refresh token |
