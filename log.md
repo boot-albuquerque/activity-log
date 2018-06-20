@@ -21934,3 +21934,4 @@
 | 2018-06-19 15:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: add file upload support |
 | 2018-06-19 16:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | feat: add email notification on status change |
 | 2018-06-20 09:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | chore: add pre-commit hooks |
+| 2018-06-20 12:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | chore: configure ESLint and Prettier |
