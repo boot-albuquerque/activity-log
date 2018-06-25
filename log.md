@@ -21948,3 +21948,4 @@
 | 2018-06-24 08:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: add file upload support |
 | 2018-06-24 11:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | fix: resolve CORS configuration |
 | 2018-06-25 12:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/prod-issue` | style: fix indentation and whitespace |
+| 2018-06-25 18:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: implement JWT refresh token |
