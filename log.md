@@ -21953,3 +21953,4 @@
 | 2018-06-27 15:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | chore: update dependencies |
 | 2018-06-28 14:04 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/validation-bug` | perf: implement response compression |
 | 2018-06-28 14:40 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
+| 2018-06-28 19:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: handle missing environment variable |
