@@ -21963,3 +21963,4 @@
 | 2018-07-01 08:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2018-07-01 12:06 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | perf: optimize database queries |
 | 2018-07-02 09:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | chore: update dependencies |
+| 2018-07-02 13:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: handle missing environment variable |
