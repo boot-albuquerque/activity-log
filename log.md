@@ -21975,3 +21975,4 @@
 | 2018-07-03 10:39 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2018-07-03 11:39 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: create background job processor |
 | 2018-07-03 14:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | perf: implement response compression |
+| 2018-07-03 15:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | refactor: adopt repository pattern |
