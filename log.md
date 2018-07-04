@@ -21976,3 +21976,4 @@
 | 2018-07-03 11:39 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: create background job processor |
 | 2018-07-03 14:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | perf: implement response compression |
 | 2018-07-03 15:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2018-07-04 00:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | test: improve test coverage to 80% |
