@@ -21986,3 +21986,4 @@
 | 2018-07-05 08:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: resolve N+1 query problem |
 | 2018-07-05 09:25 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | infra: configure auto-scaling policies |
 | 2018-07-05 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | style: fix indentation and whitespace |
+| 2018-07-05 16:11 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: add user authentication endpoint |
