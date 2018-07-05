@@ -21984,3 +21984,4 @@
 | 2018-07-04 19:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | perf: optimize database queries |
 | 2018-07-04 22:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/cleanup` | fix: correct validation error messages |
 | 2018-07-05 08:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: resolve N+1 query problem |
+| 2018-07-05 09:25 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | infra: configure auto-scaling policies |
