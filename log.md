@@ -21988,3 +21988,4 @@
 | 2018-07-05 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | style: fix indentation and whitespace |
 | 2018-07-05 16:11 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: add user authentication endpoint |
 | 2018-07-05 17:15 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | test: mock external dependencies in tests |
+| 2018-07-06 09:56 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | feat: add pagination to list endpoint |
