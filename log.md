@@ -21995,3 +21995,4 @@
 | 2018-07-06 19:47 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | feat: create admin management interface |
 | 2018-07-06 20:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | refactor: replace raw SQL with query builder |
 | 2018-07-07 11:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | chore: configure GitHub Actions CI |
+| 2018-07-09 12:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | feat: add search with filters |
