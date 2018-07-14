@@ -22012,3 +22012,4 @@
 | 2018-07-12 16:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2018-07-12 19:54 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | test: add integration tests for API endpoints |
 | 2018-07-13 09:50 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | test: add performance benchmark tests |
+| 2018-07-14 14:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | db: optimize slow queries |
