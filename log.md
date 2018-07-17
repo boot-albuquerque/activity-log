@@ -22021,3 +22021,4 @@
 | 2018-07-16 17:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
 | 2018-07-16 18:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2018-07-17 15:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | ci: configure staging environment |
+| 2018-07-17 16:00 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
