@@ -22027,3 +22027,4 @@
 | 2018-07-18 16:43 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | fix: handle malformed JSON input |
 | 2018-07-19 13:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | security: add input sanitization |
 | 2018-07-20 13:29 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | feat: create admin management interface |
+| 2018-07-20 15:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | fix: handle missing environment variable |
