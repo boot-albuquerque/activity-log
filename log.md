@@ -22038,3 +22038,4 @@
 | 2018-07-24 09:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | security: update SSL certificates config |
 | 2018-07-24 11:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | refactor: consolidate error handling |
 | 2018-07-24 12:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: correct cache invalidation logic |
+| 2018-07-24 18:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | test: cover edge cases in validator |
