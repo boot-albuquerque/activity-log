@@ -22034,3 +22034,4 @@
 | 2018-07-23 15:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2018-07-23 17:01 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | docs: document environment variables |
 | 2018-07-23 22:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | refactor: consolidate error handling |
+| 2018-07-23 23:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | test: mock external dependencies in tests |
