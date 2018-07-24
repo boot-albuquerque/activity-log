@@ -22036,3 +22036,4 @@
 | 2018-07-23 22:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | refactor: consolidate error handling |
 | 2018-07-23 23:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2018-07-24 09:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | security: update SSL certificates config |
+| 2018-07-24 11:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | refactor: consolidate error handling |
