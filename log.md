@@ -22045,3 +22045,4 @@
 | 2018-07-25 12:08 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
 | 2018-07-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2018-07-25 13:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add bulk operations support |
+| 2018-07-25 13:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | fix: resolve N+1 query problem |
