@@ -22042,3 +22042,4 @@
 | 2018-07-24 19:04 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2018-07-24 19:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | feat: create order processing service |
 | 2018-07-24 20:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: handle timeout in async operation |
+| 2018-07-25 12:08 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
