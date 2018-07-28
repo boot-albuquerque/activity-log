@@ -22057,3 +22057,4 @@
 | 2018-07-27 19:14 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | fix: handle edge case in date parsing |
 | 2018-07-27 20:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: cover edge cases in validator |
 | 2018-07-27 22:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | chore: update dependencies |
+| 2018-07-28 12:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | fix: correct pagination offset calculation |
