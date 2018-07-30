@@ -22061,3 +22061,4 @@
 | 2018-07-28 15:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | test: add integration tests for API endpoints |
 | 2018-07-29 20:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | test: cover edge cases in validator |
 | 2018-07-30 12:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: configure staging environment |
+| 2018-07-30 20:51 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | test: fix flaky test in async handler |
