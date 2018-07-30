@@ -22059,3 +22059,4 @@
 | 2018-07-27 22:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | chore: update dependencies |
 | 2018-07-28 12:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2018-07-28 15:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/race-condition` | test: add integration tests for API endpoints |
+| 2018-07-29 20:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | test: cover edge cases in validator |
