@@ -22063,3 +22063,4 @@
 | 2018-07-30 12:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: configure staging environment |
 | 2018-07-30 20:51 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | test: fix flaky test in async handler |
 | 2018-07-31 12:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | security: add input sanitization |
+| 2018-07-31 14:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: correct validation error messages |
