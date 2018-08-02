@@ -22066,3 +22066,4 @@
 | 2018-07-31 14:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: correct validation error messages |
 | 2018-08-02 10:34 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2018-08-02 17:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | refactor: adopt repository pattern |
+| 2018-08-02 19:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: handle missing environment variable |
