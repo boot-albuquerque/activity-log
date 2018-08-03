@@ -22070,3 +22070,4 @@
 | 2018-08-02 20:13 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2018-08-02 20:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | docs: update API documentation |
 | 2018-08-03 07:44 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | chore: add pre-commit hooks |
+| 2018-08-03 09:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
