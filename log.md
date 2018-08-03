@@ -22074,3 +22074,4 @@
 | 2018-08-03 09:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | fix: resolve CORS configuration |
 | 2018-08-03 14:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: correct decimal precision in billing |
 | 2018-08-03 17:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | ci: add automated deployment pipeline |
+| 2018-08-03 17:20 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | refactor: move constants to config module |
