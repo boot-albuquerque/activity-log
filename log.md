@@ -22077,3 +22077,4 @@
 | 2018-08-03 17:20 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | refactor: move constants to config module |
 | 2018-08-03 17:39 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | security: fix SQL injection vulnerability |
 | 2018-08-04 15:44 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: create dashboard metrics endpoint |
+| 2018-08-04 19:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | fix: correct validation error messages |
