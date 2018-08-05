@@ -22079,3 +22079,4 @@
 | 2018-08-04 15:44 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: create dashboard metrics endpoint |
 | 2018-08-04 19:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | fix: correct validation error messages |
 | 2018-08-05 00:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
+| 2018-08-05 09:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: add email notification on status change |
