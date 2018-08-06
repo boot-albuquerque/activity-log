@@ -22081,3 +22081,4 @@
 | 2018-08-05 00:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
 | 2018-08-05 09:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: add email notification on status change |
 | 2018-08-06 12:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | ci: configure staging environment |
+| 2018-08-06 16:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | fix: correct decimal precision in billing |
