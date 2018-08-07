@@ -22090,3 +22090,4 @@
 | 2018-08-07 11:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | perf: implement response compression |
 | 2018-08-07 15:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: implement webhook receiver |
 | 2018-08-07 15:48 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/cleanup` | infra: configure auto-scaling policies |
+| 2018-08-07 17:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | db: add composite index |
