@@ -22093,3 +22093,4 @@
 | 2018-08-07 17:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | db: add composite index |
 | 2018-08-09 13:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
 | 2018-08-09 21:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | fix: correct null check in user service |
+| 2018-08-10 17:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add user authentication endpoint |
