@@ -22096,3 +22096,4 @@
 | 2018-08-10 17:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2018-08-14 08:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | feat: add email notification on status change |
 | 2018-08-14 09:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/rate-limiting` | feat: add OpenAPI documentation |
+| 2018-08-14 13:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add performance benchmark tests |
