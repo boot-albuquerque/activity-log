@@ -22095,3 +22095,4 @@
 | 2018-08-09 21:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | fix: correct null check in user service |
 | 2018-08-10 17:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2018-08-14 08:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | feat: add email notification on status change |
+| 2018-08-14 09:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/rate-limiting` | feat: add OpenAPI documentation |
