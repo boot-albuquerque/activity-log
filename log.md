@@ -22099,3 +22099,4 @@
 | 2018-08-14 13:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2018-08-14 22:58 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: add search with filters |
 | 2018-08-15 08:19 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: resolve CORS configuration |
+| 2018-08-15 14:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | db: add migration for new schema |
