@@ -22098,3 +22098,4 @@
 | 2018-08-14 09:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/rate-limiting` | feat: add OpenAPI documentation |
 | 2018-08-14 13:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2018-08-14 22:58 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: add search with filters |
+| 2018-08-15 08:19 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: resolve CORS configuration |
