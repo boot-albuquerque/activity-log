@@ -22107,3 +22107,4 @@
 | 2018-08-16 00:49 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | test: cover edge cases in validator |
 | 2018-08-16 09:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | feat: create order processing service |
 | 2018-08-16 14:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: implement soft delete pattern |
+| 2018-08-16 17:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | fix: resolve race condition in queue worker |
