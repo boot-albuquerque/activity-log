@@ -22103,3 +22103,4 @@
 | 2018-08-15 16:52 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | ci: configure staging environment |
 | 2018-08-15 20:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | feat: add user authentication endpoint |
 | 2018-08-15 22:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct pagination offset calculation |
+| 2018-08-16 00:31 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
