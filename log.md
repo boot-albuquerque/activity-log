@@ -22102,3 +22102,4 @@
 | 2018-08-15 14:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | db: add migration for new schema |
 | 2018-08-15 16:52 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | ci: configure staging environment |
 | 2018-08-15 20:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | feat: add user authentication endpoint |
+| 2018-08-15 22:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct pagination offset calculation |
