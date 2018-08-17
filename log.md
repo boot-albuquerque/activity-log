@@ -22110,3 +22110,4 @@
 | 2018-08-16 17:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | fix: resolve race condition in queue worker |
 | 2018-08-16 18:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | feat: add user authentication endpoint |
 | 2018-08-16 23:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: add e2e tests for checkout flow |
+| 2018-08-17 09:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | fix: resolve CORS configuration |
