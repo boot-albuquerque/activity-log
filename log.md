@@ -22111,3 +22111,4 @@
 | 2018-08-16 18:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | feat: add user authentication endpoint |
 | 2018-08-16 23:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2018-08-17 09:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | fix: resolve CORS configuration |
+| 2018-08-17 09:55 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | style: format code according to style guide |
