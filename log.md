@@ -22127,3 +22127,4 @@
 | 2018-08-20 18:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | security: add input sanitization |
 | 2018-08-21 00:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: resolve N+1 query problem |
 | 2018-08-21 10:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | fix: resolve N+1 query problem |
+| 2018-08-21 15:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | security: update SSL certificates config |
