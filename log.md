@@ -22129,3 +22129,4 @@
 | 2018-08-21 10:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2018-08-21 15:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2018-08-21 18:30 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
+| 2018-08-22 07:09 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | security: update SSL certificates config |
