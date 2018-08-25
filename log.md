@@ -22144,3 +22144,4 @@
 | 2018-08-24 09:25 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | chore: update dependencies |
 | 2018-08-24 10:06 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2018-08-24 17:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: implement JWT refresh token |
+| 2018-08-25 14:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | refactor: move constants to config module |
