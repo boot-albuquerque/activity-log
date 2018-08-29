@@ -22152,3 +22152,4 @@
 | 2018-08-28 09:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2018-08-28 16:31 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | fix: handle missing environment variable |
 | 2018-08-28 20:14 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | feat: create order processing service |
+| 2018-08-29 09:43 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
