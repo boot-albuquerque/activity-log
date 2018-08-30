@@ -22155,3 +22155,4 @@
 | 2018-08-29 09:43 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2018-08-29 17:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | test: improve test coverage to 80% |
 | 2018-08-29 21:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | fix: handle timeout in async operation |
+| 2018-08-30 10:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | feat: add OpenAPI documentation |
