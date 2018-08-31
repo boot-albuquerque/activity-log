@@ -22162,3 +22162,4 @@
 | 2018-08-30 17:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | perf: add database indexes |
 | 2018-08-30 18:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2018-08-31 08:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
+| 2018-08-31 13:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | fix: handle empty response from external API |
