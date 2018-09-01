@@ -22164,3 +22164,4 @@
 | 2018-08-31 08:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
 | 2018-08-31 13:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | fix: handle empty response from external API |
 | 2018-09-01 12:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | fix: handle missing environment variable |
+| 2018-09-01 12:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | feat: add real-time notifications |
