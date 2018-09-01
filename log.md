@@ -22163,3 +22163,4 @@
 | 2018-08-30 18:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2018-08-31 08:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
 | 2018-08-31 13:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | fix: handle empty response from external API |
+| 2018-09-01 12:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | fix: handle missing environment variable |
