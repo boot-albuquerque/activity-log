@@ -22168,3 +22168,4 @@
 | 2018-09-01 17:59 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2018-09-02 09:27 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | fix: resolve CORS configuration |
 | 2018-09-02 10:51 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2018-09-03 07:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | fix: correct cache invalidation logic |
