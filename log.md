@@ -22172,3 +22172,4 @@
 | 2018-09-03 10:33 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2018-09-03 11:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | fix: correct pagination offset calculation |
 | 2018-09-03 12:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: add OpenAPI documentation |
+| 2018-09-03 13:06 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | security: update SSL certificates config |
