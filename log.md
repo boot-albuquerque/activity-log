@@ -22174,3 +22174,4 @@
 | 2018-09-03 12:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2018-09-03 13:06 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | security: update SSL certificates config |
 | 2018-09-03 13:25 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2018-09-03 13:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | test: fix flaky test in async handler |
