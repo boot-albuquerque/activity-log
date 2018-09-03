@@ -22176,3 +22176,4 @@
 | 2018-09-03 13:25 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2018-09-03 13:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | test: fix flaky test in async handler |
 | 2018-09-03 15:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | feat: add file upload support |
+| 2018-09-03 15:22 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: implement webhook receiver |
