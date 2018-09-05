@@ -22188,3 +22188,4 @@
 | 2018-09-05 11:38 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2018-09-05 13:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | db: optimize slow queries |
 | 2018-09-05 16:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: add email notification on status change |
+| 2018-09-05 20:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | refactor: replace raw SQL with query builder |
