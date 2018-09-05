@@ -22184,3 +22184,4 @@
 | 2018-09-04 14:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: add pre-commit hooks |
 | 2018-09-04 16:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | style: fix indentation and whitespace |
 | 2018-09-04 16:19 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | fix: resolve CORS configuration |
+| 2018-09-05 09:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | feat: implement soft delete pattern |
