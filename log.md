@@ -22191,3 +22191,4 @@
 | 2018-09-05 20:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | refactor: replace raw SQL with query builder |
 | 2018-09-05 21:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | docs: update API documentation |
 | 2018-09-05 22:23 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | infra: update Terraform modules |
+| 2018-09-06 12:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | chore: add Docker Compose for local dev |
