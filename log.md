@@ -22198,3 +22198,4 @@
 | 2018-09-06 23:20 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2018-09-07 10:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2018-09-07 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: improve code readability |
+| 2018-09-07 12:06 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: add OpenAPI documentation |
