@@ -22200,3 +22200,4 @@
 | 2018-09-07 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: improve code readability |
 | 2018-09-07 12:06 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: add OpenAPI documentation |
 | 2018-09-07 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: resolve memory leak in connection pool |
+| 2018-09-07 15:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
