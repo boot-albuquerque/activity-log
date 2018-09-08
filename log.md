@@ -22203,3 +22203,4 @@
 | 2018-09-07 15:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
 | 2018-09-07 17:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2018-09-07 17:18 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement JWT refresh token |
+| 2018-09-08 15:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | fix: handle missing environment variable |
