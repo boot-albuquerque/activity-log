@@ -22206,3 +22206,4 @@
 | 2018-09-08 15:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | fix: handle missing environment variable |
 | 2018-09-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | refactor: adopt repository pattern |
 | 2018-09-10 15:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | fix: resolve race condition in queue worker |
+| 2018-09-10 16:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: implement webhook receiver |
