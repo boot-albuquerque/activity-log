@@ -22209,3 +22209,4 @@
 | 2018-09-10 16:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2018-09-10 23:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: add file upload support |
 | 2018-09-11 09:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | security: fix SQL injection vulnerability |
+| 2018-09-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | infra: configure auto-scaling policies |
