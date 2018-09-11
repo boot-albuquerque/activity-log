@@ -22207,3 +22207,4 @@
 | 2018-09-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | refactor: adopt repository pattern |
 | 2018-09-10 15:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | fix: resolve race condition in queue worker |
 | 2018-09-10 16:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: implement webhook receiver |
+| 2018-09-10 23:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: add file upload support |
