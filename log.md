@@ -22211,3 +22211,4 @@
 | 2018-09-11 09:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | security: fix SQL injection vulnerability |
 | 2018-09-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | infra: configure auto-scaling policies |
 | 2018-09-11 14:08 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | refactor: adopt repository pattern |
+| 2018-09-11 14:53 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | fix: resolve CORS configuration |
