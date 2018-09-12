@@ -22215,3 +22215,4 @@
 | 2018-09-11 20:44 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | fix: resolve memory leak in connection pool |
 | 2018-09-11 22:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2018-09-11 23:13 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | ci: configure staging environment |
+| 2018-09-12 13:05 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: resolve N+1 query problem |
