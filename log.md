@@ -22232,3 +22232,4 @@
 | 2018-09-13 20:35 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | feat: add pagination to list endpoint |
 | 2018-09-14 09:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | chore: update dependencies |
 | 2018-09-14 13:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | infra: add Kubernetes manifests |
+| 2018-09-14 14:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | security: fix SQL injection vulnerability |
