@@ -22234,3 +22234,4 @@
 | 2018-09-14 13:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | infra: add Kubernetes manifests |
 | 2018-09-14 14:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2018-09-14 21:48 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: add user authentication endpoint |
+| 2018-09-15 09:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | fix: resolve N+1 query problem |
