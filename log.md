@@ -22236,3 +22236,4 @@
 | 2018-09-14 21:48 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: add user authentication endpoint |
 | 2018-09-15 09:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2018-09-16 12:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | feat: add email notification on status change |
+| 2018-09-16 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: clean up unused imports |
