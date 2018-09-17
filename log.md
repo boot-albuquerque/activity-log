@@ -22242,3 +22242,4 @@
 | 2018-09-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | feat: add export to CSV/Excel |
 | 2018-09-17 13:57 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
 | 2018-09-17 15:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | chore: update dependencies |
+| 2018-09-17 17:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | chore: add pre-commit hooks |
