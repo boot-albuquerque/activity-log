@@ -22237,3 +22237,4 @@
 | 2018-09-15 09:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2018-09-16 12:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | feat: add email notification on status change |
 | 2018-09-16 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: clean up unused imports |
+| 2018-09-17 08:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | feat: add OpenAPI documentation |
