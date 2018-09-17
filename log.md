@@ -22238,3 +22238,4 @@
 | 2018-09-16 12:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | feat: add email notification on status change |
 | 2018-09-16 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: clean up unused imports |
 | 2018-09-17 08:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | feat: add OpenAPI documentation |
+| 2018-09-17 10:44 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | security: add input sanitization |
