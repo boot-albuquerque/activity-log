@@ -22247,3 +22247,4 @@
 | 2018-09-18 07:49 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | infra: configure auto-scaling policies |
 | 2018-09-18 08:09 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
 | 2018-09-18 15:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | test: improve test coverage to 80% |
+| 2018-09-18 21:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | test: cover edge cases in validator |
