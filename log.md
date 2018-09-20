@@ -22255,3 +22255,4 @@
 | 2018-09-19 18:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | chore: add pre-commit hooks |
 | 2018-09-19 19:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | feat: create health check endpoint |
 | 2018-09-19 21:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: move constants to config module |
+| 2018-09-19 21:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | refactor: adopt repository pattern |
