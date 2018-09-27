@@ -22272,3 +22272,4 @@
 | 2018-09-27 15:17 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | refactor: split large controller into smaller ones |
 | 2018-09-27 16:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | feat: add file upload support |
 | 2018-09-27 18:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add pagination to list endpoint |
+| 2018-09-27 19:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | style: format code according to style guide |
