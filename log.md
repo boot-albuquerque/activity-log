@@ -22266,3 +22266,4 @@
 | 2018-09-26 18:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | security: add input sanitization |
 | 2018-09-26 21:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2018-09-26 23:12 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | chore: update dependencies |
+| 2018-09-27 00:13 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | fix: correct null check in user service |
