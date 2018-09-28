@@ -22274,3 +22274,4 @@
 | 2018-09-27 18:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add pagination to list endpoint |
 | 2018-09-27 19:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | style: format code according to style guide |
 | 2018-09-27 19:24 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: implement caching layer |
+| 2018-09-28 11:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: implement soft delete pattern |
