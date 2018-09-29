@@ -22279,3 +22279,4 @@
 | 2018-09-28 16:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | refactor: move constants to config module |
 | 2018-09-28 22:51 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2018-09-28 23:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | fix: resolve deadlock in transaction |
+| 2018-09-29 11:23 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | refactor: simplify authentication flow |
