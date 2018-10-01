@@ -22282,3 +22282,4 @@
 | 2018-09-29 11:23 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2018-09-29 13:45 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | style: fix indentation and whitespace |
 | 2018-10-01 00:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | feat: create dashboard metrics endpoint |
+| 2018-10-01 09:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: add export to CSV/Excel |
