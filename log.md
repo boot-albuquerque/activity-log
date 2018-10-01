@@ -22284,3 +22284,4 @@
 | 2018-10-01 00:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | feat: create dashboard metrics endpoint |
 | 2018-10-01 09:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: add export to CSV/Excel |
 | 2018-10-01 12:13 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | feat: add email notification on status change |
+| 2018-10-01 15:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: implement webhook receiver |
