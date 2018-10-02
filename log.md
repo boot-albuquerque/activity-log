@@ -22287,3 +22287,4 @@
 | 2018-10-01 15:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: implement webhook receiver |
 | 2018-10-01 22:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2018-10-02 00:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | refactor: adopt repository pattern |
+| 2018-10-02 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: cover edge cases in validator |
