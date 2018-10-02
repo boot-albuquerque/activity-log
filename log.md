@@ -22290,3 +22290,4 @@
 | 2018-10-02 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: cover edge cases in validator |
 | 2018-10-02 11:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | feat: create admin management interface |
 | 2018-10-02 11:56 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | fix: correct decimal precision in billing |
+| 2018-10-02 13:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | docs: add README setup instructions |
