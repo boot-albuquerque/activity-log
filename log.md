@@ -22300,3 +22300,4 @@
 | 2018-10-04 19:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | perf: reduce bundle size |
 | 2018-10-04 20:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | docs: add README setup instructions |
 | 2018-10-05 12:32 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | test: cover edge cases in validator |
+| 2018-10-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | fix: resolve CORS configuration |
