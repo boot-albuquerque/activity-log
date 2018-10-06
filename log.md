@@ -22302,3 +22302,4 @@
 | 2018-10-05 12:32 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | test: cover edge cases in validator |
 | 2018-10-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | fix: resolve CORS configuration |
 | 2018-10-05 18:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | db: add composite index |
+| 2018-10-06 15:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
