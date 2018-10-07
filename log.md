@@ -22304,3 +22304,4 @@
 | 2018-10-05 18:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | db: add composite index |
 | 2018-10-06 15:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2018-10-06 15:56 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
+| 2018-10-07 08:22 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | chore: add pre-commit hooks |
