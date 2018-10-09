@@ -22307,3 +22307,4 @@
 | 2018-10-07 08:22 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | chore: add pre-commit hooks |
 | 2018-10-07 14:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2018-10-08 13:24 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: correct cache invalidation logic |
+| 2018-10-09 09:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | fix: resolve memory leak in connection pool |
