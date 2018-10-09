@@ -22310,3 +22310,4 @@
 | 2018-10-09 09:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2018-10-09 13:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | feat: implement rate limiting middleware |
 | 2018-10-09 13:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2018-10-09 14:58 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | fix: resolve CORS configuration |
