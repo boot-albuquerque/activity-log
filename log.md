@@ -22308,3 +22308,4 @@
 | 2018-10-07 14:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2018-10-08 13:24 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: correct cache invalidation logic |
 | 2018-10-09 09:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | fix: resolve memory leak in connection pool |
+| 2018-10-09 13:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | feat: implement rate limiting middleware |
