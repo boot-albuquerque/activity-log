@@ -22313,3 +22313,4 @@
 | 2018-10-09 14:58 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | fix: resolve CORS configuration |
 | 2018-10-09 16:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | db: add migration for new schema |
 | 2018-10-09 21:31 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | chore: upgrade to latest Node.js LTS |
+| 2018-10-10 13:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | infra: add Kubernetes manifests |
