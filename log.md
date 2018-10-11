@@ -22316,3 +22316,4 @@
 | 2018-10-10 13:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | infra: add Kubernetes manifests |
 | 2018-10-10 18:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: implement caching layer |
 | 2018-10-10 20:45 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | fix: resolve N+1 query problem |
+| 2018-10-10 21:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | test: fix flaky test in async handler |
