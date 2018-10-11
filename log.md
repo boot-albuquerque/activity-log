@@ -22317,3 +22317,4 @@
 | 2018-10-10 18:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: implement caching layer |
 | 2018-10-10 20:45 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | fix: resolve N+1 query problem |
 | 2018-10-10 21:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | test: fix flaky test in async handler |
+| 2018-10-11 10:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | fix: resolve CORS configuration |
