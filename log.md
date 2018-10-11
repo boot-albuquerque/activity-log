@@ -22320,3 +22320,4 @@
 | 2018-10-11 10:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | fix: resolve CORS configuration |
 | 2018-10-11 12:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: correct decimal precision in billing |
 | 2018-10-11 16:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: create dashboard metrics endpoint |
+| 2018-10-11 17:58 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add export to CSV/Excel |
