@@ -22332,3 +22332,4 @@
 | 2018-10-15 08:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | fix: correct null check in user service |
 | 2018-10-15 12:59 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
 | 2018-10-15 18:21 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | fix: handle empty response from external API |
+| 2018-10-16 13:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | fix: correct pagination offset calculation |
