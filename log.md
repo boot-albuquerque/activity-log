@@ -22336,3 +22336,4 @@
 | 2018-10-16 14:37 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | fix: resolve race condition in queue worker |
 | 2018-10-16 18:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: add file upload support |
 | 2018-10-17 10:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
+| 2018-10-17 11:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: implement webhook receiver |
