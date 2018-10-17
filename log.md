@@ -22339,3 +22339,4 @@
 | 2018-10-17 11:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: implement webhook receiver |
 | 2018-10-17 11:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | refactor: reduce cyclomatic complexity |
 | 2018-10-17 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | db: add composite index |
+| 2018-10-17 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | test: add integration tests for API endpoints |
