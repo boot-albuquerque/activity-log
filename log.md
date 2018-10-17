@@ -22338,3 +22338,4 @@
 | 2018-10-17 10:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2018-10-17 11:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: implement webhook receiver |
 | 2018-10-17 11:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | refactor: reduce cyclomatic complexity |
+| 2018-10-17 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | db: add composite index |
