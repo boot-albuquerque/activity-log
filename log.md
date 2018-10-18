@@ -22342,3 +22342,4 @@
 | 2018-10-17 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | test: add integration tests for API endpoints |
 | 2018-10-17 18:13 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | feat: create order processing service |
 | 2018-10-17 19:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | infra: update Terraform modules |
+| 2018-10-17 22:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | fix: correct decimal precision in billing |
