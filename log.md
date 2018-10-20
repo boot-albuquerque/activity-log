@@ -22344,3 +22344,4 @@
 | 2018-10-17 19:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | infra: update Terraform modules |
 | 2018-10-17 22:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2018-10-20 08:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | chore: add pre-commit hooks |
+| 2018-10-20 17:39 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | test: add unit tests for payment service |
