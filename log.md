@@ -22351,3 +22351,4 @@
 | 2018-10-23 07:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | infra: configure auto-scaling policies |
 | 2018-10-23 09:44 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | refactor: consolidate error handling |
 | 2018-10-23 11:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | test: mock external dependencies in tests |
+| 2018-10-23 13:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | refactor: simplify authentication flow |
