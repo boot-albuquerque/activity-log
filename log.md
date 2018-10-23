@@ -22353,3 +22353,4 @@
 | 2018-10-23 11:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | test: mock external dependencies in tests |
 | 2018-10-23 13:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2018-10-23 13:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | refactor: clean up unused imports |
+| 2018-10-23 20:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | feat: add export to CSV/Excel |
