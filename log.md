@@ -22348,3 +22348,4 @@
 | 2018-10-20 22:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | infra: add Kubernetes manifests |
 | 2018-10-21 11:33 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | feat: add bulk operations support |
 | 2018-10-21 20:46 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2018-10-23 07:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | infra: configure auto-scaling policies |
