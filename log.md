@@ -22354,3 +22354,4 @@
 | 2018-10-23 13:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2018-10-23 13:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | refactor: clean up unused imports |
 | 2018-10-23 20:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2018-10-24 08:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | test: fix flaky test in async handler |
