@@ -22356,3 +22356,4 @@
 | 2018-10-23 20:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2018-10-24 08:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | test: fix flaky test in async handler |
 | 2018-10-24 12:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | refactor: consolidate error handling |
+| 2018-10-24 14:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | chore: upgrade to latest Node.js LTS |
