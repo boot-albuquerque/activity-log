@@ -22362,3 +22362,4 @@
 | 2018-10-24 18:03 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | infra: update Terraform modules |
 | 2018-10-24 18:21 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | feat: add search with filters |
 | 2018-10-24 22:06 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | infra: update Terraform modules |
+| 2018-10-24 23:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | docs: document environment variables |
