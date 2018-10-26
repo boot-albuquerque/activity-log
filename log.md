@@ -22364,3 +22364,4 @@
 | 2018-10-24 22:06 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | infra: update Terraform modules |
 | 2018-10-24 23:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | docs: document environment variables |
 | 2018-10-26 08:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | refactor: consolidate error handling |
+| 2018-10-26 10:26 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: correct validation error messages |
