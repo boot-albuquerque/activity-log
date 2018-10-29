@@ -22373,3 +22373,4 @@
 | 2018-10-28 10:55 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2018-10-28 18:11 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2018-10-29 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | refactor: replace raw SQL with query builder |
+| 2018-10-29 14:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | feat: implement JWT refresh token |
