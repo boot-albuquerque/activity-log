@@ -22377,3 +22377,4 @@
 | 2018-10-29 14:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | security: add input sanitization |
 | 2018-10-29 14:42 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2018-10-29 16:55 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | perf: add database indexes |
+| 2018-10-29 18:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | db: add composite index |
