@@ -22372,3 +22372,4 @@
 | 2018-10-27 16:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: implement webhook receiver |
 | 2018-10-28 10:55 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2018-10-28 18:11 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | infra: add Kubernetes manifests |
+| 2018-10-29 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | refactor: replace raw SQL with query builder |
