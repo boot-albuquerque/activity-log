@@ -22379,3 +22379,4 @@
 | 2018-10-29 16:55 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | perf: add database indexes |
 | 2018-10-29 18:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | db: add composite index |
 | 2018-10-30 16:52 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
+| 2018-10-30 17:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: replace raw SQL with query builder |
