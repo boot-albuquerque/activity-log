@@ -22383,3 +22383,4 @@
 | 2018-10-31 10:03 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | fix: correct validation error messages |
 | 2018-10-31 12:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: clean up unused imports |
 | 2018-10-31 15:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | fix: resolve N+1 query problem |
+| 2018-10-31 22:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | perf: implement response compression |
