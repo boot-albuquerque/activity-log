@@ -22395,3 +22395,4 @@
 | 2018-11-04 00:00 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/null-pointer` | fix: resolve N+1 query problem |
 | 2018-11-04 23:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | feat: add email notification on status change |
 | 2018-11-05 11:00 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | infra: add Kubernetes manifests |
+| 2018-11-05 13:02 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | feat: add email notification on status change |
