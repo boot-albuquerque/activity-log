@@ -22407,3 +22407,4 @@
 | 2018-11-06 19:53 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2018-11-06 23:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | docs: document environment variables |
 | 2018-11-06 23:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
+| 2018-11-06 23:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | test: mock external dependencies in tests |
