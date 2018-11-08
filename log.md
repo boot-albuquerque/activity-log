@@ -22420,3 +22420,4 @@
 | 2018-11-08 16:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | infra: add Kubernetes manifests |
 | 2018-11-08 18:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: resolve CORS configuration |
 | 2018-11-08 19:24 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | infra: update Terraform modules |
+| 2018-11-08 20:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: document environment variables |
