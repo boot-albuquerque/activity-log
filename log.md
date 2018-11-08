@@ -22418,3 +22418,4 @@
 | 2018-11-08 11:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | chore: update dependencies |
 | 2018-11-08 16:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: add audit log trail |
 | 2018-11-08 16:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | infra: add Kubernetes manifests |
+| 2018-11-08 18:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: resolve CORS configuration |
