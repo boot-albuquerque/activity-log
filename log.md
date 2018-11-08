@@ -22414,3 +22414,4 @@
 | 2018-11-07 17:29 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | test: add unit tests for payment service |
 | 2018-11-07 20:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | fix: handle timeout in async operation |
 | 2018-11-07 21:02 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2018-11-07 23:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | db: add migration for new schema |
