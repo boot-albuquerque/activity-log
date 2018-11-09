@@ -22423,3 +22423,4 @@
 | 2018-11-08 20:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: document environment variables |
 | 2018-11-09 07:33 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2018-11-09 08:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: reduce bundle size |
+| 2018-11-09 13:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: add email notification on status change |
