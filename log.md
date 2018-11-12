@@ -22429,3 +22429,4 @@
 | 2018-11-10 08:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2018-11-10 13:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | feat: implement webhook receiver |
 | 2018-11-12 09:03 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | perf: optimize database queries |
+| 2018-11-12 14:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | refactor: move constants to config module |
