@@ -22433,3 +22433,4 @@
 | 2018-11-12 16:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | fix: correct validation error messages |
 | 2018-11-12 17:38 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | perf: implement response compression |
 | 2018-11-12 20:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: implement JWT refresh token |
+| 2018-11-13 00:49 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | test: add integration tests for API endpoints |
