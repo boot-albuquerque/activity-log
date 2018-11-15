@@ -22440,3 +22440,4 @@
 | 2018-11-14 13:55 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | ci: add automated deployment pipeline |
 | 2018-11-15 12:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | fix: correct validation error messages |
 | 2018-11-15 14:18 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | feat: implement webhook receiver |
+| 2018-11-15 14:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | fix: resolve deadlock in transaction |
