@@ -22438,3 +22438,4 @@
 | 2018-11-13 14:36 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | style: fix indentation and whitespace |
 | 2018-11-14 13:28 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2018-11-14 13:55 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | ci: add automated deployment pipeline |
+| 2018-11-15 12:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | fix: correct validation error messages |
