@@ -22444,3 +22444,4 @@
 | 2018-11-15 22:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | style: fix indentation and whitespace |
 | 2018-11-16 12:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | ci: configure staging environment |
 | 2018-11-16 14:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | feat: create order processing service |
+| 2018-11-17 11:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: handle missing environment variable |
