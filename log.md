@@ -22450,3 +22450,4 @@
 | 2018-11-18 22:52 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | perf: implement response compression |
 | 2018-11-19 10:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: implement soft delete pattern |
 | 2018-11-19 11:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/rate-limiting` | fix: handle malformed JSON input |
+| 2018-11-19 12:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | feat: add email notification on status change |
