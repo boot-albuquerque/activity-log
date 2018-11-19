@@ -22453,3 +22453,4 @@
 | 2018-11-19 12:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2018-11-19 14:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | test: improve test coverage to 80% |
 | 2018-11-19 15:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | fix: correct pagination offset calculation |
+| 2018-11-19 18:27 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | refactor: consolidate error handling |
