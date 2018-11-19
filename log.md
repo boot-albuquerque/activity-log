@@ -22448,3 +22448,4 @@
 | 2018-11-18 15:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | security: update SSL certificates config |
 | 2018-11-18 16:51 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | docs: update API documentation |
 | 2018-11-18 22:52 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | perf: implement response compression |
+| 2018-11-19 10:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: implement soft delete pattern |
