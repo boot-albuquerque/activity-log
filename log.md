@@ -22466,3 +22466,4 @@
 | 2018-11-22 11:36 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2018-11-22 13:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | feat: add bulk operations support |
 | 2018-11-22 14:14 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: correct null check in user service |
+| 2018-11-22 16:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
