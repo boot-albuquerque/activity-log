@@ -22469,3 +22469,4 @@
 | 2018-11-22 16:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2018-11-22 16:54 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2018-11-22 17:49 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | security: add input sanitization |
+| 2018-11-23 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | feat: add OpenAPI documentation |
