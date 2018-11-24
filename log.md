@@ -22471,3 +22471,4 @@
 | 2018-11-22 17:49 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | security: add input sanitization |
 | 2018-11-23 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2018-11-23 15:39 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | chore: update dependencies |
+| 2018-11-23 23:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
