@@ -22475,3 +22475,4 @@
 | 2018-11-24 18:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2018-11-25 15:57 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | security: add input sanitization |
 | 2018-11-25 16:01 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | perf: implement response compression |
+| 2018-11-25 16:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
