@@ -22480,3 +22480,4 @@
 | 2018-11-26 00:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | refactor: improve code readability |
 | 2018-11-26 07:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | security: add input sanitization |
 | 2018-11-26 09:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | security: add input sanitization |
+| 2018-11-26 15:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | fix: correct cache invalidation logic |
