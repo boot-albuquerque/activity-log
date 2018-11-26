@@ -22478,3 +22478,4 @@
 | 2018-11-25 16:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
 | 2018-11-25 21:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2018-11-26 00:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | refactor: improve code readability |
+| 2018-11-26 07:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | security: add input sanitization |
