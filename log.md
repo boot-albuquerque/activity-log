@@ -22485,3 +22485,4 @@
 | 2018-11-26 19:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | fix: handle empty response from external API |
 | 2018-11-26 21:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2018-11-27 11:54 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | chore: configure GitHub Actions CI |
+| 2018-11-27 15:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | refactor: adopt repository pattern |
