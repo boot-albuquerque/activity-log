@@ -22493,3 +22493,4 @@
 | 2018-11-28 00:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | fix: handle timeout in async operation |
 | 2018-11-28 00:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | refactor: improve code readability |
 | 2018-11-28 00:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: add file upload support |
+| 2018-11-28 13:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | perf: add database indexes |
