@@ -22499,3 +22499,4 @@
 | 2018-11-30 12:58 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | feat: create order processing service |
 | 2018-11-30 14:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create dashboard metrics endpoint |
 | 2018-11-30 14:34 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | db: add composite index |
+| 2018-11-30 17:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: fix flaky test in async handler |
