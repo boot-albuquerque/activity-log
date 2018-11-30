@@ -22495,3 +22495,4 @@
 | 2018-11-28 00:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: add file upload support |
 | 2018-11-28 13:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | perf: add database indexes |
 | 2018-11-30 00:16 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | fix: correct cache invalidation logic |
+| 2018-11-30 11:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | security: fix SQL injection vulnerability |
