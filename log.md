@@ -22501,3 +22501,4 @@
 | 2018-11-30 14:34 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | db: add composite index |
 | 2018-11-30 17:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2018-11-30 21:50 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: handle empty response from external API |
+| 2018-12-01 20:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | docs: add README setup instructions |
