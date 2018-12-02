@@ -22502,3 +22502,4 @@
 | 2018-11-30 17:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: fix flaky test in async handler |
 | 2018-11-30 21:50 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: handle empty response from external API |
 | 2018-12-01 20:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | docs: add README setup instructions |
+| 2018-12-01 22:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | test: improve test coverage to 80% |
