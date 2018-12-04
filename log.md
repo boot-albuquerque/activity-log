@@ -22514,3 +22514,4 @@
 | 2018-12-04 13:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | docs: update API documentation |
 | 2018-12-04 13:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | security: add input sanitization |
 | 2018-12-04 14:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
+| 2018-12-04 14:25 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/refactor-queries` | perf: add database indexes |
