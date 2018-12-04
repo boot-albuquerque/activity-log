@@ -22510,3 +22510,4 @@
 | 2018-12-03 17:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | fix: resolve deadlock in transaction |
 | 2018-12-03 20:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2018-12-03 22:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | perf: add database indexes |
+| 2018-12-04 11:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | feat: implement JWT refresh token |
