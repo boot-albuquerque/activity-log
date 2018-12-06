@@ -22521,3 +22521,4 @@
 | 2018-12-05 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2018-12-05 21:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add user authentication endpoint |
 | 2018-12-05 22:15 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
+| 2018-12-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create health check endpoint |
