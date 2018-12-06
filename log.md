@@ -22524,3 +22524,4 @@
 | 2018-12-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create health check endpoint |
 | 2018-12-06 11:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | fix: correct null check in user service |
 | 2018-12-06 14:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | style: format code according to style guide |
+| 2018-12-06 15:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | docs: add README setup instructions |
