@@ -22519,3 +22519,4 @@
 | 2018-12-05 11:08 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | fix: handle edge case in date parsing |
 | 2018-12-05 12:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
 | 2018-12-05 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: resolve deadlock in transaction |
+| 2018-12-05 21:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add user authentication endpoint |
