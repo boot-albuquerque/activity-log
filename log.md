@@ -22523,3 +22523,4 @@
 | 2018-12-05 22:15 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
 | 2018-12-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create health check endpoint |
 | 2018-12-06 11:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | fix: correct null check in user service |
+| 2018-12-06 14:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | style: format code according to style guide |
