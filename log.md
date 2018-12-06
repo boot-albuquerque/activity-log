@@ -22520,3 +22520,4 @@
 | 2018-12-05 12:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
 | 2018-12-05 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2018-12-05 21:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add user authentication endpoint |
+| 2018-12-05 22:15 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
