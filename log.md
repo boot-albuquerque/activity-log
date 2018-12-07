@@ -22529,3 +22529,4 @@
 | 2018-12-06 22:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | style: fix indentation and whitespace |
 | 2018-12-07 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: fix indentation and whitespace |
 | 2018-12-07 11:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
+| 2018-12-07 13:26 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: implement rate limiting middleware |
