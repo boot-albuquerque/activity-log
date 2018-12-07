@@ -22528,3 +22528,4 @@
 | 2018-12-06 15:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: resolve CORS configuration |
 | 2018-12-06 22:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | style: fix indentation and whitespace |
 | 2018-12-07 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: fix indentation and whitespace |
+| 2018-12-07 11:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
