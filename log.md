@@ -22540,3 +22540,4 @@
 | 2018-12-10 00:22 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: configure ESLint and Prettier |
 | 2018-12-10 09:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2018-12-10 11:28 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | fix: handle empty response from external API |
+| 2018-12-10 13:08 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | fix: correct validation error messages |
