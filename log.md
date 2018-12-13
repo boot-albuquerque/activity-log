@@ -22548,3 +22548,4 @@
 | 2018-12-11 22:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | feat: create admin management interface |
 | 2018-12-12 08:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2018-12-13 12:37 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct decimal precision in billing |
+| 2018-12-13 13:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | docs: document environment variables |
