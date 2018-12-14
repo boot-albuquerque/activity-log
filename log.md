@@ -22550,3 +22550,4 @@
 | 2018-12-13 12:37 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct decimal precision in billing |
 | 2018-12-13 13:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | docs: document environment variables |
 | 2018-12-13 20:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
+| 2018-12-14 13:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | db: optimize slow queries |
