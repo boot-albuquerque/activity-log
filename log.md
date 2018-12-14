@@ -22553,3 +22553,4 @@
 | 2018-12-14 13:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | db: optimize slow queries |
 | 2018-12-14 14:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: create order processing service |
 | 2018-12-14 15:11 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2018-12-14 15:46 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | test: fix flaky test in async handler |
