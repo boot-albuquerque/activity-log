@@ -22557,3 +22557,4 @@
 | 2018-12-14 16:53 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | fix: resolve race condition in queue worker |
 | 2018-12-14 19:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: create order processing service |
 | 2018-12-14 22:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | feat: add pagination to list endpoint |
+| 2018-12-15 12:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | security: update SSL certificates config |
