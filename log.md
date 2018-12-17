@@ -22559,3 +22559,4 @@
 | 2018-12-14 22:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2018-12-15 12:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | security: update SSL certificates config |
 | 2018-12-16 16:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
+| 2018-12-16 21:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | security: add input sanitization |
