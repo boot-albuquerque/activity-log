@@ -22561,3 +22561,4 @@
 | 2018-12-16 16:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
 | 2018-12-16 21:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | security: add input sanitization |
 | 2018-12-17 09:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | security: fix SQL injection vulnerability |
+| 2018-12-17 09:59 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: implement soft delete pattern |
