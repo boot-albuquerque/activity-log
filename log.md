@@ -22585,3 +22585,4 @@
 | 2018-12-22 22:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2018-12-23 23:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | security: fix SQL injection vulnerability |
 | 2018-12-24 13:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: correct validation error messages |
+| 2018-12-24 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: simplify authentication flow |
