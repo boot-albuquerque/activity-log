@@ -22584,3 +22584,4 @@
 | 2018-12-22 13:54 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | refactor: clean up unused imports |
 | 2018-12-22 22:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2018-12-23 23:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | security: fix SQL injection vulnerability |
+| 2018-12-24 13:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: correct validation error messages |
