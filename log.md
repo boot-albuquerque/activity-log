@@ -22595,3 +22595,4 @@
 | 2018-12-26 11:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | test: add integration tests for API endpoints |
 | 2018-12-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2018-12-26 14:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | refactor: move constants to config module |
+| 2018-12-26 15:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | fix: correct validation error messages |
