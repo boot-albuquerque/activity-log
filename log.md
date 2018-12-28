@@ -22598,3 +22598,4 @@
 | 2018-12-26 15:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | fix: correct validation error messages |
 | 2018-12-26 17:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | chore: add pre-commit hooks |
 | 2018-12-26 22:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | chore: add pre-commit hooks |
+| 2018-12-28 07:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle missing environment variable |
