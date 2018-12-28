@@ -22599,3 +22599,4 @@
 | 2018-12-26 17:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | chore: add pre-commit hooks |
 | 2018-12-26 22:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | chore: add pre-commit hooks |
 | 2018-12-28 07:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle missing environment variable |
+| 2018-12-28 12:01 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | test: add e2e tests for checkout flow |
