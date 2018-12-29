@@ -22601,3 +22601,4 @@
 | 2018-12-28 07:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle missing environment variable |
 | 2018-12-28 12:01 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | test: add e2e tests for checkout flow |
 | 2018-12-28 17:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add email notification on status change |
+| 2018-12-28 23:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | refactor: extract business logic to service layer |
