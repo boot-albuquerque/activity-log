@@ -22610,3 +22610,4 @@
 | 2019-01-01 17:42 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | feat: add audit log trail |
 | 2019-01-01 17:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: move constants to config module |
 | 2019-01-01 21:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | fix: correct null check in user service |
+| 2019-01-02 00:36 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | feat: add pagination to list endpoint |
