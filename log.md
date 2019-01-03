@@ -22619,3 +22619,4 @@
 | 2019-01-02 23:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | fix: resolve race condition in queue worker |
 | 2019-01-03 11:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | fix: handle malformed JSON input |
 | 2019-01-03 12:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | feat: add file upload support |
+| 2019-01-03 12:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
