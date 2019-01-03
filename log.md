@@ -22617,3 +22617,4 @@
 | 2019-01-02 18:59 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: handle missing environment variable |
 | 2019-01-02 22:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | infra: add Kubernetes manifests |
 | 2019-01-02 23:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | fix: resolve race condition in queue worker |
+| 2019-01-03 11:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | fix: handle malformed JSON input |
