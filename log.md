@@ -22628,3 +22628,4 @@
 | 2019-01-04 22:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | test: add integration tests for API endpoints |
 | 2019-01-04 23:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2019-01-05 10:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/pagination` | feat: add real-time notifications |
+| 2019-01-05 12:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | perf: reduce bundle size |
