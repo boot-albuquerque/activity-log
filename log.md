@@ -22625,3 +22625,4 @@
 | 2019-01-03 13:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | perf: optimize database queries |
 | 2019-01-04 14:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2019-01-04 22:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | refactor: move constants to config module |
+| 2019-01-04 22:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | test: add integration tests for API endpoints |
