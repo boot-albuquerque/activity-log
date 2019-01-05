@@ -22624,3 +22624,4 @@
 | 2019-01-03 13:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: handle edge case in date parsing |
 | 2019-01-03 13:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | perf: optimize database queries |
 | 2019-01-04 14:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
+| 2019-01-04 22:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | refactor: move constants to config module |
