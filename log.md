@@ -22644,3 +22644,4 @@
 | 2019-01-14 16:41 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | refactor: clean up unused imports |
 | 2019-01-15 09:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2019-01-15 13:37 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: implement rate limiting middleware |
+| 2019-01-15 16:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: implement soft delete pattern |
