@@ -22650,3 +22650,4 @@
 | 2019-01-16 09:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2019-01-16 10:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | fix: correct decimal precision in billing |
 | 2019-01-16 11:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | test: fix flaky test in async handler |
+| 2019-01-16 16:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | test: add performance benchmark tests |
