@@ -22653,3 +22653,4 @@
 | 2019-01-16 16:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | test: add performance benchmark tests |
 | 2019-01-16 20:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | docs: add README setup instructions |
 | 2019-01-17 09:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | db: optimize slow queries |
+| 2019-01-17 12:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | style: fix indentation and whitespace |
