@@ -22654,3 +22654,4 @@
 | 2019-01-16 20:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | docs: add README setup instructions |
 | 2019-01-17 09:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | db: optimize slow queries |
 | 2019-01-17 12:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | style: fix indentation and whitespace |
+| 2019-01-17 13:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | test: add integration tests for API endpoints |
