@@ -22652,3 +22652,4 @@
 | 2019-01-16 11:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | test: fix flaky test in async handler |
 | 2019-01-16 16:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | test: add performance benchmark tests |
 | 2019-01-16 20:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | docs: add README setup instructions |
+| 2019-01-17 09:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | db: optimize slow queries |
