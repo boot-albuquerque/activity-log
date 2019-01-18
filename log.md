@@ -22661,3 +22661,4 @@
 | 2019-01-18 14:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | perf: reduce bundle size |
 | 2019-01-18 15:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2019-01-18 16:31 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: create dashboard metrics endpoint |
+| 2019-01-18 18:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | style: format code according to style guide |
