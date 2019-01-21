@@ -22667,3 +22667,4 @@
 | 2019-01-19 23:28 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | refactor: move constants to config module |
 | 2019-01-20 10:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | perf: reduce bundle size |
 | 2019-01-20 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | style: format code according to style guide |
+| 2019-01-21 18:41 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
