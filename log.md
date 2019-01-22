@@ -22670,3 +22670,4 @@
 | 2019-01-21 18:41 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2019-01-21 20:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: add OpenAPI documentation |
 | 2019-01-22 12:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: adopt repository pattern |
+| 2019-01-22 14:15 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | test: add unit tests for payment service |
