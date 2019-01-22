@@ -22668,3 +22668,4 @@
 | 2019-01-20 10:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | perf: reduce bundle size |
 | 2019-01-20 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | style: format code according to style guide |
 | 2019-01-21 18:41 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
+| 2019-01-21 20:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: add OpenAPI documentation |
