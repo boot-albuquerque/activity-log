@@ -22678,3 +22678,4 @@
 | 2019-01-23 20:40 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | docs: add README setup instructions |
 | 2019-01-25 08:23 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | feat: create background job processor |
 | 2019-01-25 09:11 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | refactor: move constants to config module |
+| 2019-01-25 11:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | fix: handle malformed JSON input |
