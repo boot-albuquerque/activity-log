@@ -22684,3 +22684,4 @@
 | 2019-01-25 14:40 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: create order processing service |
 | 2019-01-28 07:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2019-01-28 08:10 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
+| 2019-01-28 10:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | feat: add email notification on status change |
