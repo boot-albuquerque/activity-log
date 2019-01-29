@@ -22689,3 +22689,4 @@
 | 2019-01-28 18:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | db: add migration for new schema |
 | 2019-01-29 13:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: add audit log trail |
 | 2019-01-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | refactor: adopt repository pattern |
+| 2019-01-29 19:03 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
