@@ -22688,3 +22688,4 @@
 | 2019-01-28 11:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2019-01-28 18:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | db: add migration for new schema |
 | 2019-01-29 13:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: add audit log trail |
+| 2019-01-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | refactor: adopt repository pattern |
