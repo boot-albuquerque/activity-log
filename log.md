@@ -22698,3 +22698,4 @@
 | 2019-01-31 23:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | db: add migration for new schema |
 | 2019-02-01 11:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2019-02-01 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: configure auto-scaling policies |
+| 2019-02-01 13:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
