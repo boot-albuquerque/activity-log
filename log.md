@@ -22700,3 +22700,4 @@
 | 2019-02-01 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: configure auto-scaling policies |
 | 2019-02-01 13:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
 | 2019-02-01 13:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | perf: optimize database queries |
+| 2019-02-01 14:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | test: add performance benchmark tests |
