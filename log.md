@@ -22694,3 +22694,4 @@
 | 2019-01-31 08:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | test: cover edge cases in validator |
 | 2019-01-31 13:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | docs: update API documentation |
 | 2019-01-31 19:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | security: add input sanitization |
+| 2019-01-31 22:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | db: add composite index |
