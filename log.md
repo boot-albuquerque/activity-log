@@ -22704,3 +22704,4 @@
 | 2019-02-03 14:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | style: format code according to style guide |
 | 2019-02-04 08:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | feat: create order processing service |
 | 2019-02-04 10:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | fix: resolve CORS configuration |
+| 2019-02-04 14:21 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
