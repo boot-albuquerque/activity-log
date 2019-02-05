@@ -22713,3 +22713,4 @@
 | 2019-02-05 10:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | security: update SSL certificates config |
 | 2019-02-05 10:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | test: cover edge cases in validator |
 | 2019-02-05 12:42 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add bulk operations support |
+| 2019-02-05 16:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | feat: implement rate limiting middleware |
