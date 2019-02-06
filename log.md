@@ -22719,3 +22719,4 @@
 | 2019-02-05 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | chore: update dependencies |
 | 2019-02-06 07:20 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | test: mock external dependencies in tests |
 | 2019-02-06 11:28 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
+| 2019-02-06 14:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: implement JWT refresh token |
