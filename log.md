@@ -22722,3 +22722,4 @@
 | 2019-02-06 14:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: implement JWT refresh token |
 | 2019-02-08 12:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/update-deps` | feat: implement webhook receiver |
 | 2019-02-08 15:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2019-02-08 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add real-time notifications |
