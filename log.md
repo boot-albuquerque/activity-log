@@ -22724,3 +22724,4 @@
 | 2019-02-08 15:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2019-02-08 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add real-time notifications |
 | 2019-02-08 17:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | feat: add real-time notifications |
+| 2019-02-08 18:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | ci: configure staging environment |
