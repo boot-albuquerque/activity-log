@@ -22725,3 +22725,4 @@
 | 2019-02-08 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add real-time notifications |
 | 2019-02-08 17:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | feat: add real-time notifications |
 | 2019-02-08 18:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | ci: configure staging environment |
+| 2019-02-08 18:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: add Kubernetes manifests |
