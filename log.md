@@ -22743,3 +22743,4 @@
 | 2019-02-13 15:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2019-02-13 16:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: move constants to config module |
 | 2019-02-13 17:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | docs: add README setup instructions |
+| 2019-02-13 20:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | feat: add bulk operations support |
