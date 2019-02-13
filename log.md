@@ -22741,3 +22741,4 @@
 | 2019-02-13 12:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2019-02-13 14:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | db: add migration for new schema |
 | 2019-02-13 15:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2019-02-13 16:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: move constants to config module |
