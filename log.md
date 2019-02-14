@@ -22754,3 +22754,4 @@
 | 2019-02-14 16:08 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add bulk operations support |
 | 2019-02-14 16:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2019-02-14 16:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | feat: add file upload support |
+| 2019-02-14 20:11 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | ci: configure staging environment |
