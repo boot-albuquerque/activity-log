@@ -22749,3 +22749,4 @@
 | 2019-02-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: improve code readability |
 | 2019-02-14 11:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | feat: add export to CSV/Excel |
 | 2019-02-14 12:39 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | db: optimize slow queries |
+| 2019-02-14 13:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | fix: correct pagination offset calculation |
