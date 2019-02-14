@@ -22748,3 +22748,4 @@
 | 2019-02-14 00:49 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | refactor: clean up unused imports |
 | 2019-02-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: improve code readability |
 | 2019-02-14 11:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | feat: add export to CSV/Excel |
+| 2019-02-14 12:39 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | db: optimize slow queries |
