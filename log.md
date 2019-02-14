@@ -22744,3 +22744,4 @@
 | 2019-02-13 16:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: move constants to config module |
 | 2019-02-13 17:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | docs: add README setup instructions |
 | 2019-02-13 20:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | feat: add bulk operations support |
+| 2019-02-13 21:20 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | refactor: clean up unused imports |
