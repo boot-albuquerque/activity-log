@@ -22758,3 +22758,4 @@
 | 2019-02-14 22:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2019-02-15 11:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | chore: add pre-commit hooks |
 | 2019-02-15 15:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | db: add migration for new schema |
+| 2019-02-15 16:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | feat: create admin management interface |
