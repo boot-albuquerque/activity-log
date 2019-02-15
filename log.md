@@ -22761,3 +22761,4 @@
 | 2019-02-15 16:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | feat: create admin management interface |
 | 2019-02-15 20:00 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2019-02-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | feat: add search with filters |
+| 2019-02-15 20:50 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | fix: resolve N+1 query problem |
