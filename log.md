@@ -22760,3 +22760,4 @@
 | 2019-02-15 15:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | db: add migration for new schema |
 | 2019-02-15 16:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | feat: create admin management interface |
 | 2019-02-15 20:00 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | test: add performance benchmark tests |
+| 2019-02-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | feat: add search with filters |
