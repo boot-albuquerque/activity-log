@@ -22769,3 +22769,4 @@
 | 2019-02-17 10:24 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | refactor: replace raw SQL with query builder |
 | 2019-02-17 15:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2019-02-19 00:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
+| 2019-02-19 18:12 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: handle malformed JSON input |
