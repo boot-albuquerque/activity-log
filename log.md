@@ -22773,3 +22773,4 @@
 | 2019-02-19 20:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | feat: add real-time notifications |
 | 2019-02-20 11:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2019-02-20 11:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | chore: add pre-commit hooks |
+| 2019-02-20 17:08 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add email notification on status change |
