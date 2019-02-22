@@ -22775,3 +22775,4 @@
 | 2019-02-20 11:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | chore: add pre-commit hooks |
 | 2019-02-20 17:08 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add email notification on status change |
 | 2019-02-20 20:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | db: add composite index |
+| 2019-02-21 23:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | fix: correct validation error messages |
