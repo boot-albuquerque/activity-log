@@ -22790,3 +22790,4 @@
 | 2019-02-25 13:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: handle empty response from external API |
 | 2019-02-25 14:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2019-02-25 15:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | chore: update dependencies |
+| 2019-02-26 09:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | feat: add bulk operations support |
