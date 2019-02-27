@@ -22794,3 +22794,4 @@
 | 2019-02-26 13:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: resolve deadlock in transaction |
 | 2019-02-26 14:18 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: update dependencies |
 | 2019-02-26 17:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | test: add integration tests for API endpoints |
+| 2019-02-27 00:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add search with filters |
