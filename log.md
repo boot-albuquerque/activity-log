@@ -22804,3 +22804,4 @@
 | 2019-03-01 22:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
 | 2019-03-02 14:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | security: add input sanitization |
 | 2019-03-02 15:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | feat: add OpenAPI documentation |
+| 2019-03-02 19:16 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | docs: document environment variables |
