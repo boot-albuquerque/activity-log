@@ -22808,3 +22808,4 @@
 | 2019-03-04 09:08 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2019-03-04 13:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2019-03-04 16:25 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | fix: correct null check in user service |
+| 2019-03-04 20:40 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | perf: implement response compression |
