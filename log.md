@@ -22814,3 +22814,4 @@
 | 2019-03-05 22:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | docs: update API documentation |
 | 2019-03-06 09:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | test: add integration tests for API endpoints |
 | 2019-03-06 10:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
+| 2019-03-06 11:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | refactor: adopt repository pattern |
