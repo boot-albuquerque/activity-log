@@ -22811,3 +22811,4 @@
 | 2019-03-04 20:40 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | perf: implement response compression |
 | 2019-03-05 11:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | test: cover edge cases in validator |
 | 2019-03-05 16:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | feat: implement soft delete pattern |
+| 2019-03-05 22:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | docs: update API documentation |
