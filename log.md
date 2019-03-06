@@ -22816,3 +22816,4 @@
 | 2019-03-06 10:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
 | 2019-03-06 11:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | refactor: adopt repository pattern |
 | 2019-03-06 14:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | security: add input sanitization |
+| 2019-03-06 15:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | feat: add search with filters |
