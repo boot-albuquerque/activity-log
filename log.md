@@ -22822,3 +22822,4 @@
 | 2019-03-07 10:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add email notification on status change |
 | 2019-03-07 12:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/memory-leak` | docs: update API documentation |
 | 2019-03-07 15:15 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | feat: add real-time notifications |
+| 2019-03-07 15:20 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | infra: add Kubernetes manifests |
