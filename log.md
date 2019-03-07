@@ -22818,3 +22818,4 @@
 | 2019-03-06 14:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | security: add input sanitization |
 | 2019-03-06 15:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | feat: add search with filters |
 | 2019-03-06 17:42 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | infra: update Terraform modules |
+| 2019-03-06 21:29 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | refactor: reduce cyclomatic complexity |
