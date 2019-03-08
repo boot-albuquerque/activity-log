@@ -22827,3 +22827,4 @@
 | 2019-03-07 16:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2019-03-07 22:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: correct null check in user service |
 | 2019-03-08 00:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | feat: add user authentication endpoint |
+| 2019-03-08 08:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | test: mock external dependencies in tests |
