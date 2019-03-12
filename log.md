@@ -22836,3 +22836,4 @@
 | 2019-03-09 23:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | feat: create background job processor |
 | 2019-03-11 09:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | db: optimize slow queries |
 | 2019-03-11 10:37 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: implement rate limiting middleware |
+| 2019-03-12 00:20 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
