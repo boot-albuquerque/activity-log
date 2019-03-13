@@ -22841,3 +22841,4 @@
 | 2019-03-12 11:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | style: fix indentation and whitespace |
 | 2019-03-12 14:57 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | refactor: replace raw SQL with query builder |
 | 2019-03-13 11:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
+| 2019-03-13 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement rate limiting middleware |
