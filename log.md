@@ -22848,3 +22848,4 @@
 | 2019-03-14 12:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | chore: add pre-commit hooks |
 | 2019-03-14 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: create background job processor |
 | 2019-03-14 15:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | ci: add automated deployment pipeline |
+| 2019-03-14 17:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | test: add e2e tests for checkout flow |
