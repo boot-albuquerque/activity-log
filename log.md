@@ -22843,3 +22843,4 @@
 | 2019-03-13 11:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
 | 2019-03-13 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement rate limiting middleware |
 | 2019-03-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | refactor: replace raw SQL with query builder |
+| 2019-03-14 00:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | fix: correct decimal precision in billing |
