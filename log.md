@@ -22846,3 +22846,4 @@
 | 2019-03-14 00:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | fix: correct decimal precision in billing |
 | 2019-03-14 11:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2019-03-14 12:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | chore: add pre-commit hooks |
+| 2019-03-14 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: create background job processor |
