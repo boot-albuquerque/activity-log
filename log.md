@@ -22844,3 +22844,4 @@
 | 2019-03-13 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement rate limiting middleware |
 | 2019-03-13 12:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | refactor: replace raw SQL with query builder |
 | 2019-03-14 00:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | fix: correct decimal precision in billing |
+| 2019-03-14 11:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | feat: implement rate limiting middleware |
