@@ -22857,3 +22857,4 @@
 | 2019-03-15 17:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | fix: resolve race condition in queue worker |
 | 2019-03-15 22:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/pagination` | chore: configure GitHub Actions CI |
 | 2019-03-15 22:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | perf: implement response compression |
+| 2019-03-15 23:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | db: add composite index |
