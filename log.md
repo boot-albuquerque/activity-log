@@ -22872,3 +22872,4 @@
 | 2019-03-19 15:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2019-03-19 15:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | feat: implement caching layer |
 | 2019-03-19 17:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
+| 2019-03-19 17:54 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | security: update SSL certificates config |
