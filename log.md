@@ -22870,3 +22870,4 @@
 | 2019-03-19 09:43 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2019-03-19 11:35 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | infra: add Kubernetes manifests |
 | 2019-03-19 15:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2019-03-19 15:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | feat: implement caching layer |
