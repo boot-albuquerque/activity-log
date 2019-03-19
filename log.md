@@ -22868,3 +22868,4 @@
 | 2019-03-18 16:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/pagination` | ci: configure staging environment |
 | 2019-03-19 00:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | fix: handle malformed JSON input |
 | 2019-03-19 09:43 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | feat: implement soft delete pattern |
+| 2019-03-19 11:35 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | infra: add Kubernetes manifests |
