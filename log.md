@@ -22881,3 +22881,4 @@
 | 2019-03-20 11:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2019-03-20 13:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | fix: resolve memory leak in connection pool |
 | 2019-03-20 13:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | chore: update dependencies |
+| 2019-03-20 15:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | fix: correct validation error messages |
