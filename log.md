@@ -22878,3 +22878,4 @@
 | 2019-03-20 08:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2019-03-20 10:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | docs: update API documentation |
 | 2019-03-20 11:21 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | chore: configure ESLint and Prettier |
+| 2019-03-20 11:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | security: update SSL certificates config |
