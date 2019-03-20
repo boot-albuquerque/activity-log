@@ -22874,3 +22874,4 @@
 | 2019-03-19 17:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
 | 2019-03-19 17:54 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2019-03-19 18:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement caching layer |
+| 2019-03-20 07:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add pagination to list endpoint |
