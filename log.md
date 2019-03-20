@@ -22876,3 +22876,4 @@
 | 2019-03-19 18:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement caching layer |
 | 2019-03-20 07:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2019-03-20 08:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | fix: correct null check in user service |
+| 2019-03-20 10:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | docs: update API documentation |
