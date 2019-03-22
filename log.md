@@ -22884,3 +22884,4 @@
 | 2019-03-20 15:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | fix: correct validation error messages |
 | 2019-03-20 16:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | test: cover edge cases in validator |
 | 2019-03-20 19:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | refactor: clean up unused imports |
+| 2019-03-22 00:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: replace raw SQL with query builder |
