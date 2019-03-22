@@ -22886,3 +22886,4 @@
 | 2019-03-20 19:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | refactor: clean up unused imports |
 | 2019-03-22 00:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: replace raw SQL with query builder |
 | 2019-03-22 10:37 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: add unit tests for payment service |
+| 2019-03-22 14:12 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | refactor: move constants to config module |
