@@ -22893,3 +22893,4 @@
 | 2019-03-22 20:02 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | refactor: split large controller into smaller ones |
 | 2019-03-22 21:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2019-03-25 09:37 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | feat: implement caching layer |
+| 2019-03-25 14:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | test: fix flaky test in async handler |
