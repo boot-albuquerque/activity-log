@@ -22904,3 +22904,4 @@
 | 2019-03-27 12:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2019-03-27 13:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | security: fix SQL injection vulnerability |
 | 2019-03-27 15:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | test: add integration tests for API endpoints |
+| 2019-03-27 18:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
