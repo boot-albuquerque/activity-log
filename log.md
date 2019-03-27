@@ -22902,3 +22902,4 @@
 | 2019-03-27 00:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | fix: resolve deadlock in transaction |
 | 2019-03-27 08:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | feat: create admin management interface |
 | 2019-03-27 12:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
+| 2019-03-27 13:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | security: fix SQL injection vulnerability |
