@@ -22901,3 +22901,4 @@
 | 2019-03-26 19:19 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | feat: add email notification on status change |
 | 2019-03-27 00:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | fix: resolve deadlock in transaction |
 | 2019-03-27 08:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | feat: create admin management interface |
+| 2019-03-27 12:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
