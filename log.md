@@ -22906,3 +22906,4 @@
 | 2019-03-27 15:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | test: add integration tests for API endpoints |
 | 2019-03-27 18:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
 | 2019-03-27 19:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | ci: configure staging environment |
+| 2019-03-27 22:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | fix: correct decimal precision in billing |
