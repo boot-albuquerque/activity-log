@@ -22910,3 +22910,4 @@
 | 2019-03-28 13:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | security: add input sanitization |
 | 2019-03-29 10:35 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | refactor: split large controller into smaller ones |
 | 2019-03-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: add user authentication endpoint |
+| 2019-03-29 17:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | feat: implement rate limiting middleware |
