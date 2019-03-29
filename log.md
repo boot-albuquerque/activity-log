@@ -22909,3 +22909,4 @@
 | 2019-03-27 22:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2019-03-28 13:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | security: add input sanitization |
 | 2019-03-29 10:35 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | refactor: split large controller into smaller ones |
+| 2019-03-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: add user authentication endpoint |
