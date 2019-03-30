@@ -22912,3 +22912,4 @@
 | 2019-03-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: add user authentication endpoint |
 | 2019-03-29 17:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2019-03-29 23:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | feat: create admin management interface |
+| 2019-03-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | feat: add file upload support |
