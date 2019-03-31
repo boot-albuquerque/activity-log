@@ -22914,3 +22914,4 @@
 | 2019-03-29 23:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2019-03-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | feat: add file upload support |
 | 2019-03-31 10:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | security: update SSL certificates config |
+| 2019-03-31 12:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add search with filters |
