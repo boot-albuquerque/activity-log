@@ -22922,3 +22922,4 @@
 | 2019-04-01 13:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | db: add migration for new schema |
 | 2019-04-01 16:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2019-04-01 16:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | docs: update API documentation |
+| 2019-04-01 16:24 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | db: optimize slow queries |
