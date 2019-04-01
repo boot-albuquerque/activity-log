@@ -22920,3 +22920,4 @@
 | 2019-04-01 12:00 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | refactor: move constants to config module |
 | 2019-04-01 12:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | feat: create health check endpoint |
 | 2019-04-01 13:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | db: add migration for new schema |
+| 2019-04-01 16:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | test: add integration tests for API endpoints |
