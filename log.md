@@ -22916,3 +22916,4 @@
 | 2019-03-31 10:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2019-03-31 12:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add search with filters |
 | 2019-04-01 07:19 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | fix: handle edge case in date parsing |
+| 2019-04-01 09:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | feat: add email notification on status change |
