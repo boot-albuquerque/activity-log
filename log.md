@@ -22928,3 +22928,4 @@
 | 2019-04-01 21:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
 | 2019-04-02 16:07 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | fix: correct validation error messages |
 | 2019-04-02 20:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | refactor: improve code readability |
+| 2019-04-03 00:50 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | feat: add pagination to list endpoint |
