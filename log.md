@@ -22934,3 +22934,4 @@
 | 2019-04-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2019-04-03 20:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2019-04-03 20:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: adopt repository pattern |
+| 2019-04-03 21:26 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | fix: correct validation error messages |
