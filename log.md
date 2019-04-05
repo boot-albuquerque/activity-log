@@ -22941,3 +22941,4 @@
 | 2019-04-04 17:38 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: create admin management interface |
 | 2019-04-05 10:05 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | docs: update API documentation |
 | 2019-04-05 10:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | feat: add export to CSV/Excel |
+| 2019-04-05 11:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | perf: optimize database queries |
