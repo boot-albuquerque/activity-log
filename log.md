@@ -22944,3 +22944,4 @@
 | 2019-04-05 11:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | perf: optimize database queries |
 | 2019-04-05 16:56 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | security: add input sanitization |
 | 2019-04-06 14:15 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | feat: implement rate limiting middleware |
+| 2019-04-07 17:11 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/pagination` | perf: implement response compression |
