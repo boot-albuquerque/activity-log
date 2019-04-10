@@ -22956,3 +22956,4 @@
 | 2019-04-09 19:31 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | docs: add README setup instructions |
 | 2019-04-10 14:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: add search with filters |
 | 2019-04-10 15:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | refactor: adopt repository pattern |
+| 2019-04-10 15:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | security: update SSL certificates config |
