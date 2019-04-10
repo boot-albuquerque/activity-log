@@ -22954,3 +22954,4 @@
 | 2019-04-09 15:49 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | fix: correct validation error messages |
 | 2019-04-09 17:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: handle timeout in async operation |
 | 2019-04-09 19:31 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | docs: add README setup instructions |
+| 2019-04-10 14:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: add search with filters |
