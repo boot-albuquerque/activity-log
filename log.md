@@ -22958,3 +22958,4 @@
 | 2019-04-10 15:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | refactor: adopt repository pattern |
 | 2019-04-10 15:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | security: update SSL certificates config |
 | 2019-04-11 00:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: update dependencies |
+| 2019-04-11 09:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | perf: add database indexes |
