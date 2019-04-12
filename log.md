@@ -22960,3 +22960,4 @@
 | 2019-04-11 00:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: update dependencies |
 | 2019-04-11 09:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | perf: add database indexes |
 | 2019-04-11 15:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: add OpenAPI documentation |
+| 2019-04-12 12:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add OpenAPI documentation |
