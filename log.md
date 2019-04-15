@@ -22964,3 +22964,4 @@
 | 2019-04-12 14:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: handle missing environment variable |
 | 2019-04-12 17:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | feat: implement rate limiting middleware |
 | 2019-04-14 16:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | security: add input sanitization |
+| 2019-04-15 08:08 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | refactor: simplify authentication flow |
