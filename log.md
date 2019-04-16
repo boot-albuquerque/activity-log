@@ -22968,3 +22968,4 @@
 | 2019-04-15 13:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | db: add composite index |
 | 2019-04-16 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: implement soft delete pattern |
 | 2019-04-16 12:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | test: fix flaky test in async handler |
+| 2019-04-16 12:53 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | fix: correct cache invalidation logic |
