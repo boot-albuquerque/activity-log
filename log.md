@@ -22966,3 +22966,4 @@
 | 2019-04-14 16:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | security: add input sanitization |
 | 2019-04-15 08:08 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2019-04-15 13:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | db: add composite index |
+| 2019-04-16 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: implement soft delete pattern |
