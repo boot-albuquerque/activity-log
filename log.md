@@ -22976,3 +22976,4 @@
 | 2019-04-18 10:15 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | fix: resolve N+1 query problem |
 | 2019-04-18 11:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | docs: document environment variables |
 | 2019-04-18 12:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2019-04-18 12:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | test: cover edge cases in validator |
