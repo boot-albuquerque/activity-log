@@ -22974,3 +22974,4 @@
 | 2019-04-17 20:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | refactor: improve code readability |
 | 2019-04-18 10:08 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2019-04-18 10:15 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | fix: resolve N+1 query problem |
+| 2019-04-18 11:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | docs: document environment variables |
