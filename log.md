@@ -22978,3 +22978,4 @@
 | 2019-04-18 12:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2019-04-18 12:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | test: cover edge cases in validator |
 | 2019-04-18 21:39 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | fix: correct null check in user service |
+| 2019-04-21 12:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: add export to CSV/Excel |
