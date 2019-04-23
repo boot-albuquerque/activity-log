@@ -22988,3 +22988,4 @@
 | 2019-04-22 22:02 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2019-04-22 22:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: clean up unused imports |
 | 2019-04-22 22:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | infra: update Terraform modules |
+| 2019-04-22 23:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | db: optimize slow queries |
