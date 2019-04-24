@@ -22993,3 +22993,4 @@
 | 2019-04-24 12:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2019-04-24 14:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2019-04-24 15:45 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | security: fix SQL injection vulnerability |
+| 2019-04-24 15:58 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: implement JWT refresh token |
