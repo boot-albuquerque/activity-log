@@ -22994,3 +22994,4 @@
 | 2019-04-24 14:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2019-04-24 15:45 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | security: fix SQL injection vulnerability |
 | 2019-04-24 15:58 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: implement JWT refresh token |
+| 2019-04-25 09:12 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | refactor: move constants to config module |
