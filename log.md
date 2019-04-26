@@ -23000,3 +23000,4 @@
 | 2019-04-25 12:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: implement caching layer |
 | 2019-04-25 17:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | test: cover edge cases in validator |
 | 2019-04-25 20:49 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | ci: configure staging environment |
+| 2019-04-25 21:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | security: fix SQL injection vulnerability |
