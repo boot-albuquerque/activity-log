@@ -23005,3 +23005,4 @@
 | 2019-04-26 20:36 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | test: cover edge cases in validator |
 | 2019-04-29 11:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | infra: update Terraform modules |
 | 2019-04-29 13:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | perf: optimize database queries |
+| 2019-04-29 15:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | feat: implement soft delete pattern |
