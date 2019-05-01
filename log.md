@@ -23012,3 +23012,4 @@
 | 2019-04-30 14:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | docs: add README setup instructions |
 | 2019-04-30 18:29 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | infra: add Kubernetes manifests |
 | 2019-04-30 20:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | feat: create admin management interface |
+| 2019-04-30 23:56 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | ci: configure staging environment |
