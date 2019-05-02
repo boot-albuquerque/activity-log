@@ -23017,3 +23017,4 @@
 | 2019-05-01 21:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | ci: add automated deployment pipeline |
 | 2019-05-02 00:21 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | feat: create admin management interface |
 | 2019-05-02 09:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: improve test coverage to 80% |
+| 2019-05-02 10:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
