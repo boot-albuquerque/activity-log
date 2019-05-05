@@ -23020,3 +23020,4 @@
 | 2019-05-02 10:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
 | 2019-05-03 08:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | fix: correct null check in user service |
 | 2019-05-03 17:35 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | db: add migration for new schema |
+| 2019-05-05 10:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle timeout in async operation |
