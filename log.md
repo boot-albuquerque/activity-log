@@ -23023,3 +23023,4 @@
 | 2019-05-05 10:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle timeout in async operation |
 | 2019-05-05 13:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: configure ESLint and Prettier |
 | 2019-05-06 10:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | feat: add OpenAPI documentation |
+| 2019-05-06 10:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | docs: document environment variables |
