@@ -23026,3 +23026,4 @@
 | 2019-05-06 10:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | docs: document environment variables |
 | 2019-05-06 13:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | style: fix indentation and whitespace |
 | 2019-05-06 16:19 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2019-05-06 22:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: extract business logic to service layer |
