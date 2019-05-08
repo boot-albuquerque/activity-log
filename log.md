@@ -23031,3 +23031,4 @@
 | 2019-05-07 19:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2019-05-08 00:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: resolve CORS configuration |
 | 2019-05-08 08:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | test: add integration tests for API endpoints |
+| 2019-05-08 12:30 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: add export to CSV/Excel |
