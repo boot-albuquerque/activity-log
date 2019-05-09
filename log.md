@@ -23038,3 +23038,4 @@
 | 2019-05-08 22:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | fix: resolve deadlock in transaction |
 | 2019-05-09 00:41 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | security: update SSL certificates config |
 | 2019-05-09 11:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | infra: update Terraform modules |
+| 2019-05-09 12:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | docs: document environment variables |
