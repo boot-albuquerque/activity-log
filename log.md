@@ -23044,3 +23044,4 @@
 | 2019-05-09 17:26 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: create dashboard metrics endpoint |
 | 2019-05-10 13:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | fix: correct decimal precision in billing |
 | 2019-05-10 13:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | perf: add database indexes |
+| 2019-05-10 15:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | perf: reduce bundle size |
