@@ -23042,3 +23042,4 @@
 | 2019-05-09 15:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | refactor: clean up unused imports |
 | 2019-05-09 15:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: correct null check in user service |
 | 2019-05-09 17:26 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: create dashboard metrics endpoint |
+| 2019-05-10 13:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | fix: correct decimal precision in billing |
