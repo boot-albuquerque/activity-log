@@ -23046,3 +23046,4 @@
 | 2019-05-10 13:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | perf: add database indexes |
 | 2019-05-10 15:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2019-05-10 18:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | test: add performance benchmark tests |
+| 2019-05-10 19:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
