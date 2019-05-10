@@ -23045,3 +23045,4 @@
 | 2019-05-10 13:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | fix: correct decimal precision in billing |
 | 2019-05-10 13:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | perf: add database indexes |
 | 2019-05-10 15:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | perf: reduce bundle size |
+| 2019-05-10 18:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | test: add performance benchmark tests |
