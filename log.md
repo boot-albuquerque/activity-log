@@ -23055,3 +23055,4 @@
 | 2019-05-13 14:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | refactor: move constants to config module |
 | 2019-05-13 16:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2019-05-13 18:46 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | docs: document environment variables |
+| 2019-05-13 20:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | infra: update Terraform modules |
