@@ -23058,3 +23058,4 @@
 | 2019-05-13 20:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | infra: update Terraform modules |
 | 2019-05-13 21:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2019-05-13 22:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
+| 2019-05-14 08:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | chore: update dependencies |
