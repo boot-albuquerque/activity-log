@@ -23064,3 +23064,4 @@
 | 2019-05-14 11:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | refactor: move constants to config module |
 | 2019-05-14 13:49 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: add bulk operations support |
 | 2019-05-14 16:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | test: add performance benchmark tests |
+| 2019-05-14 19:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | chore: add Docker Compose for local dev |
