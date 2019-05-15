@@ -23072,3 +23072,4 @@
 | 2019-05-15 09:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add email notification on status change |
 | 2019-05-15 10:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | ci: configure staging environment |
 | 2019-05-15 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: improve test coverage to 80% |
+| 2019-05-15 13:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | fix: handle malformed JSON input |
