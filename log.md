@@ -23068,3 +23068,4 @@
 | 2019-05-14 20:56 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add search with filters |
 | 2019-05-14 23:31 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | docs: update API documentation |
 | 2019-05-15 07:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | security: update SSL certificates config |
+| 2019-05-15 08:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add export to CSV/Excel |
