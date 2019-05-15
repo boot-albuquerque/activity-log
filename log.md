@@ -23074,3 +23074,4 @@
 | 2019-05-15 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: improve test coverage to 80% |
 | 2019-05-15 13:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | fix: handle malformed JSON input |
 | 2019-05-15 13:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: add audit log trail |
+| 2019-05-15 19:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | docs: update API documentation |
