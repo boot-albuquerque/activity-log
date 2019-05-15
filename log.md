@@ -23071,3 +23071,4 @@
 | 2019-05-15 08:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add export to CSV/Excel |
 | 2019-05-15 09:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add email notification on status change |
 | 2019-05-15 10:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | ci: configure staging environment |
+| 2019-05-15 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: improve test coverage to 80% |
