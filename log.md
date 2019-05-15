@@ -23069,3 +23069,4 @@
 | 2019-05-14 23:31 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | docs: update API documentation |
 | 2019-05-15 07:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | security: update SSL certificates config |
 | 2019-05-15 08:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add export to CSV/Excel |
+| 2019-05-15 09:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add email notification on status change |
