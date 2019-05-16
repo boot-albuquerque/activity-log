@@ -23079,3 +23079,4 @@
 | 2019-05-16 13:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add pagination to list endpoint |
 | 2019-05-16 14:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | refactor: split large controller into smaller ones |
 | 2019-05-16 15:24 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | security: fix SQL injection vulnerability |
+| 2019-05-16 19:49 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
