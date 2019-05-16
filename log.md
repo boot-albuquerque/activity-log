@@ -23076,3 +23076,4 @@
 | 2019-05-15 13:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: add audit log trail |
 | 2019-05-15 19:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | docs: update API documentation |
 | 2019-05-16 12:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: implement soft delete pattern |
+| 2019-05-16 13:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add pagination to list endpoint |
