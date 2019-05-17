@@ -23084,3 +23084,4 @@
 | 2019-05-16 20:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | feat: add bulk operations support |
 | 2019-05-16 20:35 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add real-time notifications |
 | 2019-05-17 07:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
+| 2019-05-17 10:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: resolve race condition in queue worker |
