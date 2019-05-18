@@ -23088,3 +23088,4 @@
 | 2019-05-17 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | feat: create background job processor |
 | 2019-05-17 14:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: create admin management interface |
 | 2019-05-17 16:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | security: update SSL certificates config |
+| 2019-05-17 22:53 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | feat: add OpenAPI documentation |
