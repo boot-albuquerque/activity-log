@@ -23091,3 +23091,4 @@
 | 2019-05-17 22:53 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | feat: add OpenAPI documentation |
 | 2019-05-17 23:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2019-05-19 19:26 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | perf: implement response compression |
+| 2019-05-19 20:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | perf: add database indexes |
