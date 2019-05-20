@@ -23092,3 +23092,4 @@
 | 2019-05-17 23:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2019-05-19 19:26 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | perf: implement response compression |
 | 2019-05-19 20:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | perf: add database indexes |
+| 2019-05-20 18:35 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | db: optimize slow queries |
