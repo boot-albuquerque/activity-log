@@ -23094,3 +23094,4 @@
 | 2019-05-19 20:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | perf: add database indexes |
 | 2019-05-20 18:35 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | db: optimize slow queries |
 | 2019-05-20 22:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | test: mock external dependencies in tests |
+| 2019-05-20 23:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | chore: configure ESLint and Prettier |
