@@ -23095,3 +23095,4 @@
 | 2019-05-20 18:35 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | db: optimize slow queries |
 | 2019-05-20 22:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | test: mock external dependencies in tests |
 | 2019-05-20 23:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | chore: configure ESLint and Prettier |
+| 2019-05-21 11:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | perf: optimize database queries |
