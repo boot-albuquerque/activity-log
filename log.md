@@ -23103,3 +23103,4 @@
 | 2019-05-21 23:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2019-05-22 00:16 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | refactor: move constants to config module |
 | 2019-05-22 10:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
+| 2019-05-22 12:29 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: resolve race condition in queue worker |
