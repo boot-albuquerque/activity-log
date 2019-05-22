@@ -23100,3 +23100,4 @@
 | 2019-05-21 19:31 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | docs: update API documentation |
 | 2019-05-21 22:40 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | feat: create health check endpoint |
 | 2019-05-21 23:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | chore: configure GitHub Actions CI |
+| 2019-05-21 23:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: handle empty response from external API |
