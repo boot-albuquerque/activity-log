@@ -23105,3 +23105,4 @@
 | 2019-05-22 10:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
 | 2019-05-22 12:29 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: resolve race condition in queue worker |
 | 2019-05-22 16:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create order processing service |
+| 2019-05-22 19:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
