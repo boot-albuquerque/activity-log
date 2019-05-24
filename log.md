@@ -23108,3 +23108,4 @@
 | 2019-05-22 19:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2019-05-22 19:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct decimal precision in billing |
 | 2019-05-23 13:20 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | infra: add Kubernetes manifests |
+| 2019-05-24 00:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
