@@ -23110,3 +23110,4 @@
 | 2019-05-23 13:20 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2019-05-24 00:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2019-05-24 00:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | chore: update dependencies |
+| 2019-05-25 15:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create background job processor |
