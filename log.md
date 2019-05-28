@@ -23119,3 +23119,4 @@
 | 2019-05-27 21:07 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | fix: handle malformed JSON input |
 | 2019-05-27 22:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2019-05-28 08:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: implement JWT refresh token |
+| 2019-05-28 09:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | chore: add pre-commit hooks |
