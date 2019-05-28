@@ -23120,3 +23120,4 @@
 | 2019-05-27 22:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2019-05-28 08:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: implement JWT refresh token |
 | 2019-05-28 09:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | chore: add pre-commit hooks |
+| 2019-05-28 09:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: implement caching layer |
