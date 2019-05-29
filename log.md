@@ -23124,3 +23124,4 @@
 | 2019-05-28 10:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | test: improve test coverage to 80% |
 | 2019-05-28 13:36 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | infra: update Terraform modules |
 | 2019-05-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: configure GitHub Actions CI |
+| 2019-05-28 21:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: resolve race condition in queue worker |
