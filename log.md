@@ -23129,3 +23129,4 @@
 | 2019-05-29 11:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | fix: handle missing environment variable |
 | 2019-05-29 18:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2019-05-29 21:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | fix: correct decimal precision in billing |
+| 2019-05-30 00:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | perf: optimize database queries |
