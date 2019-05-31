@@ -23136,3 +23136,4 @@
 | 2019-05-30 21:32 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
 | 2019-05-30 22:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | refactor: move constants to config module |
 | 2019-05-31 14:21 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | chore: add pre-commit hooks |
+| 2019-05-31 17:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | db: add composite index |
