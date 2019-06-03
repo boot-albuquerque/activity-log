@@ -23142,3 +23142,4 @@
 | 2019-06-01 10:01 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | db: add composite index |
 | 2019-06-01 13:18 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/memory-leak` | feat: create health check endpoint |
 | 2019-06-03 09:53 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | infra: update Terraform modules |
+| 2019-06-03 14:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | feat: add email notification on status change |
