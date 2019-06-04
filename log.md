@@ -23145,3 +23145,4 @@
 | 2019-06-03 14:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2019-06-04 13:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2019-06-04 16:54 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | feat: implement JWT refresh token |
+| 2019-06-04 18:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | feat: add OpenAPI documentation |
