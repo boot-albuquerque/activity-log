@@ -23150,3 +23150,4 @@
 | 2019-06-05 17:47 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2019-06-05 21:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | test: cover edge cases in validator |
 | 2019-06-06 09:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | feat: create admin management interface |
+| 2019-06-06 10:06 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | db: optimize slow queries |
