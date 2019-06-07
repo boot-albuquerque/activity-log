@@ -23155,3 +23155,4 @@
 | 2019-06-06 14:57 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | infra: add Kubernetes manifests |
 | 2019-06-06 15:53 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: add pre-commit hooks |
 | 2019-06-07 13:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
+| 2019-06-07 13:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | fix: handle empty response from external API |
