@@ -23162,3 +23162,4 @@
 | 2019-06-08 07:38 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2019-06-10 08:24 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | feat: add OpenAPI documentation |
 | 2019-06-10 10:44 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: improve code readability |
+| 2019-06-10 13:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | test: mock external dependencies in tests |
