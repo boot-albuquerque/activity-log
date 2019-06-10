@@ -23164,3 +23164,4 @@
 | 2019-06-10 10:44 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: improve code readability |
 | 2019-06-10 13:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | test: mock external dependencies in tests |
 | 2019-06-10 17:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | infra: update Terraform modules |
+| 2019-06-10 17:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
