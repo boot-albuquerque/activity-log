@@ -23170,3 +23170,4 @@
 | 2019-06-11 20:15 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | feat: create order processing service |
 | 2019-06-12 09:02 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
 | 2019-06-12 10:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | feat: create admin management interface |
+| 2019-06-12 10:47 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: add performance benchmark tests |
