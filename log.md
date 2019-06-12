@@ -23171,3 +23171,4 @@
 | 2019-06-12 09:02 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
 | 2019-06-12 10:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | feat: create admin management interface |
 | 2019-06-12 10:47 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: add performance benchmark tests |
+| 2019-06-12 18:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: create dashboard metrics endpoint |
