@@ -23173,3 +23173,4 @@
 | 2019-06-12 10:47 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2019-06-12 18:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: create dashboard metrics endpoint |
 | 2019-06-13 08:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
+| 2019-06-13 17:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: clean up unused imports |
