@@ -23175,3 +23175,4 @@
 | 2019-06-13 08:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
 | 2019-06-13 17:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: clean up unused imports |
 | 2019-06-13 17:18 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | perf: optimize database queries |
+| 2019-06-13 18:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | test: add performance benchmark tests |
