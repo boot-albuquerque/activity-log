@@ -23180,3 +23180,4 @@
 | 2019-06-13 19:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2019-06-13 20:47 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | fix: handle empty response from external API |
 | 2019-06-14 08:29 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | test: cover edge cases in validator |
+| 2019-06-14 08:46 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | chore: upgrade to latest Node.js LTS |
