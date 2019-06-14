@@ -23183,3 +23183,4 @@
 | 2019-06-14 08:46 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2019-06-14 11:58 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | chore: update dependencies |
 | 2019-06-14 13:03 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2019-06-14 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: correct validation error messages |
