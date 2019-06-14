@@ -23184,3 +23184,4 @@
 | 2019-06-14 11:58 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | chore: update dependencies |
 | 2019-06-14 13:03 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2019-06-14 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: correct validation error messages |
+| 2019-06-14 14:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: correct cache invalidation logic |
