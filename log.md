@@ -23185,3 +23185,4 @@
 | 2019-06-14 13:03 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2019-06-14 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: correct validation error messages |
 | 2019-06-14 14:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: correct cache invalidation logic |
+| 2019-06-16 09:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | fix: resolve deadlock in transaction |
