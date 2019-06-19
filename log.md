@@ -23193,3 +23193,4 @@
 | 2019-06-19 13:06 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | feat: implement soft delete pattern |
 | 2019-06-19 14:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | perf: implement response compression |
 | 2019-06-19 14:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | chore: add Docker Compose for local dev |
+| 2019-06-19 15:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/rate-limiting` | feat: add OpenAPI documentation |
