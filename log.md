@@ -23201,3 +23201,4 @@
 | 2019-06-20 12:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | style: format code according to style guide |
 | 2019-06-20 13:47 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | test: add integration tests for API endpoints |
 | 2019-06-20 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | perf: implement response compression |
+| 2019-06-20 17:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
