@@ -23203,3 +23203,4 @@
 | 2019-06-20 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | perf: implement response compression |
 | 2019-06-20 17:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
 | 2019-06-20 22:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
+| 2019-06-20 22:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve N+1 query problem |
