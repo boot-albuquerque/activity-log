@@ -23204,3 +23204,4 @@
 | 2019-06-20 17:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
 | 2019-06-20 22:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
 | 2019-06-20 22:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve N+1 query problem |
+| 2019-06-20 23:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | chore: add pre-commit hooks |
