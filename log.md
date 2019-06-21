@@ -23205,3 +23205,4 @@
 | 2019-06-20 22:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
 | 2019-06-20 22:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve N+1 query problem |
 | 2019-06-20 23:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | chore: add pre-commit hooks |
+| 2019-06-21 10:06 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
