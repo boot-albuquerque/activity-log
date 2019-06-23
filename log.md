@@ -23207,3 +23207,4 @@
 | 2019-06-20 23:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | chore: add pre-commit hooks |
 | 2019-06-21 10:06 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
 | 2019-06-22 14:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: correct decimal precision in billing |
+| 2019-06-23 12:00 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | chore: update dependencies |
