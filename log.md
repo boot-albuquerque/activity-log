@@ -23212,3 +23212,4 @@
 | 2019-06-24 00:17 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
 | 2019-06-24 09:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: add file upload support |
 | 2019-06-24 11:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: correct validation error messages |
+| 2019-06-24 14:20 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | test: improve test coverage to 80% |
