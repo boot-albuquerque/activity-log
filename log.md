@@ -23216,3 +23216,4 @@
 | 2019-06-24 14:28 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | ci: configure staging environment |
 | 2019-06-24 15:07 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | chore: update dependencies |
 | 2019-06-24 22:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | chore: update dependencies |
+| 2019-06-25 12:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | chore: configure GitHub Actions CI |
