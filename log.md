@@ -23221,3 +23221,4 @@
 | 2019-06-25 14:31 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | fix: correct null check in user service |
 | 2019-06-25 14:49 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: implement rate limiting middleware |
 | 2019-06-25 15:50 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | feat: add search with filters |
+| 2019-06-25 16:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | security: add input sanitization |
