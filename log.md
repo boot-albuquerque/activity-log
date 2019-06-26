@@ -23223,3 +23223,4 @@
 | 2019-06-25 15:50 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | feat: add search with filters |
 | 2019-06-25 16:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | security: add input sanitization |
 | 2019-06-25 16:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | test: improve test coverage to 80% |
+| 2019-06-26 00:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | refactor: extract business logic to service layer |
