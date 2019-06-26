@@ -23225,3 +23225,4 @@
 | 2019-06-25 16:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | test: improve test coverage to 80% |
 | 2019-06-26 00:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | refactor: extract business logic to service layer |
 | 2019-06-26 11:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | fix: handle missing environment variable |
+| 2019-06-26 12:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | perf: add database indexes |
