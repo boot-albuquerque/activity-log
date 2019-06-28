@@ -23240,3 +23240,4 @@
 | 2019-06-28 10:01 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2019-06-28 13:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2019-06-28 16:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | feat: add export to CSV/Excel |
+| 2019-06-28 16:36 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | fix: resolve N+1 query problem |
