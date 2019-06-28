@@ -23237,3 +23237,4 @@
 | 2019-06-27 18:41 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | security: update SSL certificates config |
 | 2019-06-27 21:40 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | db: add composite index |
 | 2019-06-28 09:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: add export to CSV/Excel |
+| 2019-06-28 10:01 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
