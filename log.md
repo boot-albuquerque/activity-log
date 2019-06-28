@@ -23239,3 +23239,4 @@
 | 2019-06-28 09:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2019-06-28 10:01 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2019-06-28 13:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2019-06-28 16:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | feat: add export to CSV/Excel |
