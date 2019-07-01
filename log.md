@@ -23251,3 +23251,4 @@
 | 2019-07-01 12:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | test: cover edge cases in validator |
 | 2019-07-01 13:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle edge case in date parsing |
 | 2019-07-01 13:12 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add email notification on status change |
+| 2019-07-01 14:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
