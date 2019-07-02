@@ -23254,3 +23254,4 @@
 | 2019-07-01 14:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
 | 2019-07-01 14:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: move constants to config module |
 | 2019-07-01 23:54 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | feat: create order processing service |
+| 2019-07-02 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | chore: add Docker Compose for local dev |
