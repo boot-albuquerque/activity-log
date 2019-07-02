@@ -23257,3 +23257,4 @@
 | 2019-07-02 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | chore: add Docker Compose for local dev |
 | 2019-07-02 11:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | db: add migration for new schema |
 | 2019-07-02 12:40 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | fix: correct null check in user service |
+| 2019-07-02 18:13 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | docs: document environment variables |
