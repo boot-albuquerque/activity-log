@@ -23260,3 +23260,4 @@
 | 2019-07-02 18:13 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | docs: document environment variables |
 | 2019-07-02 21:17 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | security: add input sanitization |
 | 2019-07-03 09:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle timeout in async operation |
+| 2019-07-03 09:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
