@@ -23267,3 +23267,4 @@
 | 2019-07-03 21:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2019-07-03 22:49 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | docs: document environment variables |
 | 2019-07-04 00:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: add file upload support |
+| 2019-07-04 09:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | db: add migration for new schema |
