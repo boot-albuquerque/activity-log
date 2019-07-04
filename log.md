@@ -23270,3 +23270,4 @@
 | 2019-07-04 09:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | db: add migration for new schema |
 | 2019-07-04 14:23 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | security: add input sanitization |
 | 2019-07-04 14:43 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | style: fix indentation and whitespace |
+| 2019-07-04 19:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | docs: document environment variables |
