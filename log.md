@@ -23279,3 +23279,4 @@
 | 2019-07-09 07:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | infra: add Kubernetes manifests |
 | 2019-07-09 15:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | perf: optimize database queries |
 | 2019-07-09 16:12 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct validation error messages |
+| 2019-07-09 16:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | test: add integration tests for API endpoints |
