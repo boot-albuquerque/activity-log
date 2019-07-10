@@ -23282,3 +23282,4 @@
 | 2019-07-09 16:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | test: add integration tests for API endpoints |
 | 2019-07-09 17:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | ci: add automated deployment pipeline |
 | 2019-07-10 07:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: handle edge case in date parsing |
+| 2019-07-10 12:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
