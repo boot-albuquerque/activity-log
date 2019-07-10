@@ -23284,3 +23284,4 @@
 | 2019-07-10 07:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: handle edge case in date parsing |
 | 2019-07-10 12:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2019-07-10 13:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
+| 2019-07-10 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | chore: update dependencies |
