@@ -23285,3 +23285,4 @@
 | 2019-07-10 12:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2019-07-10 13:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
 | 2019-07-10 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | chore: update dependencies |
+| 2019-07-10 22:13 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | fix: resolve CORS configuration |
