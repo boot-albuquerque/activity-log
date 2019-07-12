@@ -23289,3 +23289,4 @@
 | 2019-07-12 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | fix: correct cache invalidation logic |
 | 2019-07-12 13:47 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2019-07-12 15:53 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | infra: configure auto-scaling policies |
+| 2019-07-12 17:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | perf: optimize database queries |
