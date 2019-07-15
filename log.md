@@ -23295,3 +23295,4 @@
 | 2019-07-13 15:54 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2019-07-14 16:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2019-07-15 12:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | chore: configure ESLint and Prettier |
+| 2019-07-15 13:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | test: improve test coverage to 80% |
