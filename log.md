@@ -23300,3 +23300,4 @@
 | 2019-07-15 15:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | feat: add email notification on status change |
 | 2019-07-15 18:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | security: add input sanitization |
 | 2019-07-16 08:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
+| 2019-07-16 10:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | security: update SSL certificates config |
