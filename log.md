@@ -23303,3 +23303,4 @@
 | 2019-07-16 10:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | security: update SSL certificates config |
 | 2019-07-16 13:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
 | 2019-07-16 14:31 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | docs: update API documentation |
+| 2019-07-16 20:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: create background job processor |
