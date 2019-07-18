@@ -23311,3 +23311,4 @@
 | 2019-07-17 17:30 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | feat: add email notification on status change |
 | 2019-07-17 19:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | style: format code according to style guide |
 | 2019-07-18 00:08 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | fix: resolve CORS configuration |
+| 2019-07-18 12:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: extract business logic to service layer |
