@@ -23320,3 +23320,4 @@
 | 2019-07-19 17:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | db: add composite index |
 | 2019-07-19 18:05 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2019-07-19 19:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | infra: update Terraform modules |
+| 2019-07-19 23:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | fix: handle malformed JSON input |
