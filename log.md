@@ -23321,3 +23321,4 @@
 | 2019-07-19 18:05 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2019-07-19 19:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | infra: update Terraform modules |
 | 2019-07-19 23:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | fix: handle malformed JSON input |
+| 2019-07-20 16:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: move constants to config module |
