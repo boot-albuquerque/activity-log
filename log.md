@@ -23324,3 +23324,4 @@
 | 2019-07-20 16:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: move constants to config module |
 | 2019-07-20 23:04 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: update API documentation |
 | 2019-07-22 13:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | feat: create dashboard metrics endpoint |
+| 2019-07-22 18:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add migration for new schema |
