@@ -23331,3 +23331,4 @@
 | 2019-07-23 11:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | fix: handle missing environment variable |
 | 2019-07-23 14:08 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2019-07-23 18:20 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: correct cache invalidation logic |
+| 2019-07-23 18:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | infra: add Kubernetes manifests |
