@@ -23329,3 +23329,4 @@
 | 2019-07-22 23:20 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: create background job processor |
 | 2019-07-23 10:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2019-07-23 11:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | fix: handle missing environment variable |
+| 2019-07-23 14:08 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | feat: add email notification on status change |
