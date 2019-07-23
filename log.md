@@ -23326,3 +23326,4 @@
 | 2019-07-22 13:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | feat: create dashboard metrics endpoint |
 | 2019-07-22 18:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add migration for new schema |
 | 2019-07-22 20:39 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2019-07-22 23:20 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: create background job processor |
