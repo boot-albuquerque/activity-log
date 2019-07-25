@@ -23337,3 +23337,4 @@
 | 2019-07-24 10:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | fix: resolve deadlock in transaction |
 | 2019-07-24 13:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | test: add unit tests for payment service |
 | 2019-07-24 13:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | fix: correct pagination offset calculation |
+| 2019-07-24 23:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: add OpenAPI documentation |
