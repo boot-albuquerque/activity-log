@@ -23346,3 +23346,4 @@
 | 2019-07-26 14:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: add file upload support |
 | 2019-07-26 15:20 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | feat: create order processing service |
 | 2019-07-26 16:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | db: add migration for new schema |
+| 2019-07-26 16:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct decimal precision in billing |
