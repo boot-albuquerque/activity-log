@@ -23350,3 +23350,4 @@
 | 2019-07-26 20:33 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | feat: add real-time notifications |
 | 2019-07-26 20:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | refactor: improve code readability |
 | 2019-07-27 10:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | db: add migration for new schema |
+| 2019-07-28 00:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | test: add unit tests for payment service |
