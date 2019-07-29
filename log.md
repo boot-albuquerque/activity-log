@@ -23353,3 +23353,4 @@
 | 2019-07-28 00:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | test: add unit tests for payment service |
 | 2019-07-28 15:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
 | 2019-07-29 17:03 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | infra: update Terraform modules |
+| 2019-07-29 18:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
