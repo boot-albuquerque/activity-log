@@ -23361,3 +23361,4 @@
 | 2019-07-31 08:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add export to CSV/Excel |
 | 2019-07-31 11:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | fix: handle timeout in async operation |
 | 2019-07-31 12:25 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | chore: update dependencies |
+| 2019-07-31 15:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
