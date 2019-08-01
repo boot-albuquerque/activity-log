@@ -23368,3 +23368,4 @@
 | 2019-08-01 15:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2019-08-01 17:27 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: add bulk operations support |
 | 2019-08-01 20:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | infra: update Terraform modules |
+| 2019-08-01 20:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add pagination to list endpoint |
