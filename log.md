@@ -23371,3 +23371,4 @@
 | 2019-08-01 20:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add pagination to list endpoint |
 | 2019-08-01 23:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: create order processing service |
 | 2019-08-02 10:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
+| 2019-08-02 11:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | db: optimize slow queries |
