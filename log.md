@@ -23390,3 +23390,4 @@
 | 2019-08-08 11:55 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | test: cover edge cases in validator |
 | 2019-08-08 11:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | test: add unit tests for payment service |
 | 2019-08-08 12:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | feat: implement rate limiting middleware |
+| 2019-08-08 14:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | fix: correct decimal precision in billing |
