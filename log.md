@@ -23389,3 +23389,4 @@
 | 2019-08-07 19:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | security: fix SQL injection vulnerability |
 | 2019-08-08 11:55 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | test: cover edge cases in validator |
 | 2019-08-08 11:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | test: add unit tests for payment service |
+| 2019-08-08 12:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | feat: implement rate limiting middleware |
