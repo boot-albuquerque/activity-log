@@ -23399,3 +23399,4 @@
 | 2019-08-09 15:14 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add audit log trail |
 | 2019-08-09 16:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: add Docker Compose for local dev |
 | 2019-08-09 18:12 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | style: format code according to style guide |
+| 2019-08-09 18:34 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | docs: add README setup instructions |
