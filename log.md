@@ -23407,3 +23407,4 @@
 | 2019-08-12 15:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | chore: configure GitHub Actions CI |
 | 2019-08-12 17:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | chore: configure GitHub Actions CI |
 | 2019-08-13 09:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | test: add integration tests for API endpoints |
+| 2019-08-13 10:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
