@@ -23413,3 +23413,4 @@
 | 2019-08-13 13:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: create admin management interface |
 | 2019-08-13 13:32 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | feat: add search with filters |
 | 2019-08-13 18:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | test: improve test coverage to 80% |
+| 2019-08-15 12:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | test: cover edge cases in validator |
