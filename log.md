@@ -23423,3 +23423,4 @@
 | 2019-08-16 15:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
 | 2019-08-16 18:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | fix: resolve N+1 query problem |
 | 2019-08-16 21:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | feat: add email notification on status change |
+| 2019-08-17 00:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
