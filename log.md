@@ -23428,3 +23428,4 @@
 | 2019-08-17 14:04 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | security: add input sanitization |
 | 2019-08-17 15:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | feat: add pagination to list endpoint |
 | 2019-08-19 07:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | feat: implement caching layer |
+| 2019-08-19 08:11 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | fix: correct pagination offset calculation |
