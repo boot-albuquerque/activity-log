@@ -23439,3 +23439,4 @@
 | 2019-08-21 13:09 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | refactor: clean up unused imports |
 | 2019-08-21 18:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | db: add composite index |
 | 2019-08-21 21:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add real-time notifications |
+| 2019-08-22 14:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | fix: correct cache invalidation logic |
