@@ -23446,3 +23446,4 @@
 | 2019-08-23 10:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2019-08-23 10:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | fix: handle malformed JSON input |
 | 2019-08-23 12:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/validation-bug` | chore: add pre-commit hooks |
+| 2019-08-23 13:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | test: cover edge cases in validator |
