@@ -23448,3 +23448,4 @@
 | 2019-08-23 12:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/validation-bug` | chore: add pre-commit hooks |
 | 2019-08-23 13:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2019-08-23 13:57 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: correct null check in user service |
+| 2019-08-23 14:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | perf: add database indexes |
