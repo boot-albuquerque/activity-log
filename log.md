@@ -23443,3 +23443,4 @@
 | 2019-08-22 18:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | refactor: improve code readability |
 | 2019-08-23 09:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | feat: add file upload support |
 | 2019-08-23 09:41 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | refactor: extract business logic to service layer |
+| 2019-08-23 10:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | refactor: split large controller into smaller ones |
