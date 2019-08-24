@@ -23453,3 +23453,4 @@
 | 2019-08-23 15:41 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | ci: add automated deployment pipeline |
 | 2019-08-23 17:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/race-condition` | style: format code according to style guide |
 | 2019-08-23 17:59 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | refactor: clean up unused imports |
+| 2019-08-24 18:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: handle missing environment variable |
