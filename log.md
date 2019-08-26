@@ -23460,3 +23460,4 @@
 | 2019-08-26 14:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2019-08-26 15:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | chore: update dependencies |
 | 2019-08-26 16:12 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | chore: configure ESLint and Prettier |
+| 2019-08-26 16:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | db: add migration for new schema |
