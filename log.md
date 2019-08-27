@@ -23466,3 +23466,4 @@
 | 2019-08-27 00:06 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2019-08-27 09:22 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | feat: implement caching layer |
 | 2019-08-27 14:06 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | infra: configure auto-scaling policies |
+| 2019-08-27 17:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: add export to CSV/Excel |
