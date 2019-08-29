@@ -23472,3 +23472,4 @@
 | 2019-08-28 09:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | test: mock external dependencies in tests |
 | 2019-08-28 12:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
 | 2019-08-28 14:47 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | perf: optimize database queries |
+| 2019-08-29 11:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | test: add unit tests for payment service |
