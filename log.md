@@ -23478,3 +23478,4 @@
 | 2019-08-29 20:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2019-08-30 09:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2019-08-30 11:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: add user authentication endpoint |
+| 2019-08-30 13:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | refactor: adopt repository pattern |
