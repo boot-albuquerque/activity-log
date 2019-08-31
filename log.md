@@ -23482,3 +23482,4 @@
 | 2019-08-30 14:35 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2019-08-30 14:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2019-08-30 20:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | security: update SSL certificates config |
+| 2019-08-31 16:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
