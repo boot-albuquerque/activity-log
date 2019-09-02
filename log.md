@@ -23485,3 +23485,4 @@
 | 2019-08-31 16:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
 | 2019-08-31 18:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2019-09-02 00:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | refactor: adopt repository pattern |
+| 2019-09-02 08:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: resolve memory leak in connection pool |
