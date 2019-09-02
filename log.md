@@ -23489,3 +23489,4 @@
 | 2019-09-02 12:07 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: add OpenAPI documentation |
 | 2019-09-02 13:31 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | db: add composite index |
 | 2019-09-02 15:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: fix flaky test in async handler |
+| 2019-09-02 15:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
