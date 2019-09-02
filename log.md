@@ -23491,3 +23491,4 @@
 | 2019-09-02 15:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: fix flaky test in async handler |
 | 2019-09-02 15:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2019-09-02 15:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
+| 2019-09-02 17:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: handle malformed JSON input |
