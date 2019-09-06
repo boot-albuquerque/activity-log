@@ -23511,3 +23511,4 @@
 | 2019-09-06 00:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | fix: handle malformed JSON input |
 | 2019-09-06 11:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | db: add migration for new schema |
 | 2019-09-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | refactor: simplify authentication flow |
+| 2019-09-06 19:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
