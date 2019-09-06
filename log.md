@@ -23508,3 +23508,4 @@
 | 2019-09-05 15:43 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | infra: configure auto-scaling policies |
 | 2019-09-05 18:57 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: add bulk operations support |
 | 2019-09-05 18:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | fix: handle malformed JSON input |
+| 2019-09-06 00:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | fix: handle malformed JSON input |
