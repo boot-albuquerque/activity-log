@@ -23514,3 +23514,4 @@
 | 2019-09-06 19:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2019-09-08 10:01 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2019-09-08 23:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | fix: resolve CORS configuration |
+| 2019-09-09 07:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | feat: implement JWT refresh token |
