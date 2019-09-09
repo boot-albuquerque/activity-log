@@ -23516,3 +23516,4 @@
 | 2019-09-08 23:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | fix: resolve CORS configuration |
 | 2019-09-09 07:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2019-09-09 10:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | docs: update API documentation |
+| 2019-09-09 13:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | feat: implement JWT refresh token |
