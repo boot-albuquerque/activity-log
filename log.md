@@ -23534,3 +23534,4 @@
 | 2019-09-11 09:06 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: improve test coverage to 80% |
 | 2019-09-11 10:26 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | feat: create admin management interface |
 | 2019-09-11 11:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | refactor: move constants to config module |
+| 2019-09-11 16:32 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | fix: handle empty response from external API |
