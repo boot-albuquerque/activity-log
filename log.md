@@ -23543,3 +23543,4 @@
 | 2019-09-12 20:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2019-09-13 12:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: implement webhook receiver |
 | 2019-09-14 13:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | perf: optimize database queries |
+| 2019-09-15 07:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
