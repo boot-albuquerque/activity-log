@@ -23545,3 +23545,4 @@
 | 2019-09-14 13:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | perf: optimize database queries |
 | 2019-09-15 07:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2019-09-15 11:56 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | fix: handle malformed JSON input |
+| 2019-09-16 15:16 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | feat: add OpenAPI documentation |
