@@ -23551,3 +23551,4 @@
 | 2019-09-17 11:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
 | 2019-09-17 13:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2019-09-17 17:18 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
+| 2019-09-18 07:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: add OpenAPI documentation |
