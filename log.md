@@ -23556,3 +23556,4 @@
 | 2019-09-19 10:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: implement rate limiting middleware |
 | 2019-09-19 11:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | ci: configure staging environment |
 | 2019-09-19 12:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2019-09-19 18:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: mock external dependencies in tests |
