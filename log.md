@@ -23557,3 +23557,4 @@
 | 2019-09-19 11:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | ci: configure staging environment |
 | 2019-09-19 12:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | refactor: split large controller into smaller ones |
 | 2019-09-19 18:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: mock external dependencies in tests |
+| 2019-09-19 18:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | perf: add database indexes |
