@@ -23562,3 +23562,4 @@
 | 2019-09-19 21:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: improve code readability |
 | 2019-09-20 13:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2019-09-20 18:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | refactor: reduce cyclomatic complexity |
+| 2019-09-20 18:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
