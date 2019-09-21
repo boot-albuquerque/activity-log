@@ -23563,3 +23563,4 @@
 | 2019-09-20 13:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2019-09-20 18:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | refactor: reduce cyclomatic complexity |
 | 2019-09-20 18:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
+| 2019-09-21 08:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: upgrade to latest Node.js LTS |
