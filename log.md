@@ -23565,3 +23565,4 @@
 | 2019-09-20 18:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2019-09-21 08:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: upgrade to latest Node.js LTS |
 | 2019-09-22 12:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | feat: add search with filters |
+| 2019-09-22 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: resolve N+1 query problem |
