@@ -23567,3 +23567,4 @@
 | 2019-09-22 12:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | feat: add search with filters |
 | 2019-09-22 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: resolve N+1 query problem |
 | 2019-09-23 00:02 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | db: add migration for new schema |
+| 2019-09-23 08:53 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | test: add unit tests for payment service |
