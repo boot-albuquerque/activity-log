@@ -23569,3 +23569,4 @@
 | 2019-09-23 00:02 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | db: add migration for new schema |
 | 2019-09-23 08:53 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | test: add unit tests for payment service |
 | 2019-09-23 10:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create health check endpoint |
+| 2019-09-23 12:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | db: optimize slow queries |
