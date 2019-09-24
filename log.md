@@ -23573,3 +23573,4 @@
 | 2019-09-23 16:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: add README setup instructions |
 | 2019-09-23 17:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | ci: configure staging environment |
 | 2019-09-23 22:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: add pre-commit hooks |
+| 2019-09-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | db: add composite index |
