@@ -23576,3 +23576,4 @@
 | 2019-09-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | db: add composite index |
 | 2019-09-24 13:28 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | test: fix flaky test in async handler |
 | 2019-09-24 16:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | refactor: consolidate error handling |
+| 2019-09-25 08:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | feat: implement JWT refresh token |
