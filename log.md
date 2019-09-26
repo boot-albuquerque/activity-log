@@ -23582,3 +23582,4 @@
 | 2019-09-25 13:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: replace raw SQL with query builder |
 | 2019-09-25 16:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | infra: add Kubernetes manifests |
 | 2019-09-25 20:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | feat: implement webhook receiver |
+| 2019-09-25 22:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
