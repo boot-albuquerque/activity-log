@@ -23585,3 +23585,4 @@
 | 2019-09-25 22:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2019-09-26 16:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
 | 2019-09-28 00:29 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | feat: add search with filters |
+| 2019-09-29 14:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: add user authentication endpoint |
