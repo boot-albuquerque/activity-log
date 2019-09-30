@@ -23595,3 +23595,4 @@
 | 2019-09-30 12:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | fix: correct decimal precision in billing |
 | 2019-09-30 14:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | perf: implement response compression |
 | 2019-09-30 16:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | test: fix flaky test in async handler |
+| 2019-09-30 19:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | refactor: extract business logic to service layer |
