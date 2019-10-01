@@ -23598,3 +23598,4 @@
 | 2019-09-30 19:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | refactor: extract business logic to service layer |
 | 2019-10-01 11:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2019-10-01 15:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | fix: resolve race condition in queue worker |
+| 2019-10-01 17:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | test: add integration tests for API endpoints |
