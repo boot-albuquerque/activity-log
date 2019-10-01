@@ -23600,3 +23600,4 @@
 | 2019-10-01 15:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | fix: resolve race condition in queue worker |
 | 2019-10-01 17:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2019-10-01 18:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: add composite index |
+| 2019-10-01 19:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | fix: correct null check in user service |
