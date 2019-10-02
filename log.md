@@ -23602,3 +23602,4 @@
 | 2019-10-01 18:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | db: add composite index |
 | 2019-10-01 19:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2019-10-01 19:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | feat: implement JWT refresh token |
+| 2019-10-01 22:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | feat: add search with filters |
