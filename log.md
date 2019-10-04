@@ -23608,3 +23608,4 @@
 | 2019-10-02 20:25 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | test: mock external dependencies in tests |
 | 2019-10-03 15:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | perf: add database indexes |
 | 2019-10-04 15:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
+| 2019-10-04 19:50 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | chore: add Docker Compose for local dev |
