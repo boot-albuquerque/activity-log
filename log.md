@@ -23611,3 +23611,4 @@
 | 2019-10-04 19:50 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | chore: add Docker Compose for local dev |
 | 2019-10-05 17:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2019-10-05 18:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: create order processing service |
+| 2019-10-06 11:33 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
