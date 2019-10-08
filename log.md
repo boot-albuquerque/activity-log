@@ -23617,3 +23617,4 @@
 | 2019-10-07 20:19 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | db: add composite index |
 | 2019-10-08 11:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: handle empty response from external API |
 | 2019-10-08 12:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: resolve N+1 query problem |
+| 2019-10-08 12:39 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | test: add e2e tests for checkout flow |
