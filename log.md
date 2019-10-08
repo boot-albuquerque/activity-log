@@ -23616,3 +23616,4 @@
 | 2019-10-07 07:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | docs: update API documentation |
 | 2019-10-07 20:19 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | db: add composite index |
 | 2019-10-08 11:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: handle empty response from external API |
+| 2019-10-08 12:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: resolve N+1 query problem |
