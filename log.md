@@ -23631,3 +23631,4 @@
 | 2019-10-10 14:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | ci: configure staging environment |
 | 2019-10-10 15:34 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | infra: configure auto-scaling policies |
 | 2019-10-10 16:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | refactor: clean up unused imports |
+| 2019-10-10 19:49 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | feat: add search with filters |
