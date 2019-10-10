@@ -23629,3 +23629,4 @@
 | 2019-10-10 12:16 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | test: improve test coverage to 80% |
 | 2019-10-10 13:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: implement caching layer |
 | 2019-10-10 14:29 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | ci: configure staging environment |
+| 2019-10-10 15:34 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | infra: configure auto-scaling policies |
