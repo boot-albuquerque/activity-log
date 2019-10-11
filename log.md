@@ -23635,3 +23635,4 @@
 | 2019-10-10 21:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/pagination` | docs: document environment variables |
 | 2019-10-10 23:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | test: cover edge cases in validator |
 | 2019-10-11 07:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: reduce bundle size |
+| 2019-10-11 09:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | fix: resolve race condition in queue worker |
