@@ -23639,3 +23639,4 @@
 | 2019-10-11 13:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | infra: update Terraform modules |
 | 2019-10-11 13:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | db: add composite index |
 | 2019-10-11 14:50 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | test: fix flaky test in async handler |
+| 2019-10-11 17:05 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
