@@ -23637,3 +23637,4 @@
 | 2019-10-11 07:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2019-10-11 09:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2019-10-11 13:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | infra: update Terraform modules |
+| 2019-10-11 13:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | db: add composite index |
