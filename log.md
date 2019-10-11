@@ -23636,3 +23636,4 @@
 | 2019-10-10 23:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | test: cover edge cases in validator |
 | 2019-10-11 07:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2019-10-11 09:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2019-10-11 13:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | infra: update Terraform modules |
