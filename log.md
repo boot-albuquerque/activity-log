@@ -23646,3 +23646,4 @@
 | 2019-10-14 09:27 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | feat: add user authentication endpoint |
 | 2019-10-14 12:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: resolve CORS configuration |
 | 2019-10-14 15:13 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | ci: configure staging environment |
+| 2019-10-14 15:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | feat: implement JWT refresh token |
