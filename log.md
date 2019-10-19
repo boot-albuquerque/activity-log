@@ -23661,3 +23661,4 @@
 | 2019-10-18 16:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | test: add unit tests for payment service |
 | 2019-10-18 17:24 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | ci: configure staging environment |
 | 2019-10-18 21:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | docs: update API documentation |
+| 2019-10-19 17:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: correct null check in user service |
