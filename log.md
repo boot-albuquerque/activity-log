@@ -23663,3 +23663,4 @@
 | 2019-10-18 21:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | docs: update API documentation |
 | 2019-10-19 17:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2019-10-19 23:34 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/validation-bug` | docs: add README setup instructions |
+| 2019-10-20 08:02 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
