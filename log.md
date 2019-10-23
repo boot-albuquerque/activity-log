@@ -23671,3 +23671,4 @@
 | 2019-10-21 21:06 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve N+1 query problem |
 | 2019-10-21 22:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2019-10-22 15:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | refactor: move constants to config module |
+| 2019-10-22 23:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
