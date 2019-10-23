@@ -23675,3 +23675,4 @@
 | 2019-10-23 11:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: implement rate limiting middleware |
 | 2019-10-23 12:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2019-10-23 12:41 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | test: add e2e tests for checkout flow |
+| 2019-10-23 17:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: implement soft delete pattern |
