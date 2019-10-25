@@ -23682,3 +23682,4 @@
 | 2019-10-24 07:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: implement rate limiting middleware |
 | 2019-10-24 13:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | refactor: clean up unused imports |
 | 2019-10-24 17:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | fix: correct null check in user service |
+| 2019-10-25 09:46 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | fix: correct null check in user service |
