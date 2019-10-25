@@ -23685,3 +23685,4 @@
 | 2019-10-25 09:46 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | fix: correct null check in user service |
 | 2019-10-25 10:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2019-10-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add pagination to list endpoint |
+| 2019-10-25 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
