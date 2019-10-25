@@ -23686,3 +23686,4 @@
 | 2019-10-25 10:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2019-10-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2019-10-25 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
+| 2019-10-25 13:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | infra: update Terraform modules |
