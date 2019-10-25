@@ -23687,3 +23687,4 @@
 | 2019-10-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2019-10-25 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
 | 2019-10-25 13:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | infra: update Terraform modules |
+| 2019-10-25 17:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
