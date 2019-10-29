@@ -23694,3 +23694,4 @@
 | 2019-10-29 00:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/pagination` | perf: optimize database queries |
 | 2019-10-29 07:53 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: update dependencies |
 | 2019-10-29 11:11 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | security: add input sanitization |
+| 2019-10-29 14:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | feat: add email notification on status change |
