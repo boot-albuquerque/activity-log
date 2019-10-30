@@ -23705,3 +23705,4 @@
 | 2019-10-30 13:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | feat: add file upload support |
 | 2019-10-30 15:25 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | infra: configure auto-scaling policies |
 | 2019-10-30 17:31 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | style: format code according to style guide |
+| 2019-10-30 20:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | chore: add Docker Compose for local dev |
