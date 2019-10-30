@@ -23698,3 +23698,4 @@
 | 2019-10-29 20:09 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | test: add unit tests for payment service |
 | 2019-10-29 22:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2019-10-29 22:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | perf: reduce bundle size |
+| 2019-10-29 23:24 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | chore: add Docker Compose for local dev |
