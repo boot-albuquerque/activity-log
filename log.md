@@ -23722,3 +23722,4 @@
 | 2019-11-01 21:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2019-11-01 22:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | security: fix SQL injection vulnerability |
 | 2019-11-01 23:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | style: format code according to style guide |
+| 2019-11-02 15:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: correct pagination offset calculation |
