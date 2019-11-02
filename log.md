@@ -23721,3 +23721,4 @@
 | 2019-11-01 20:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | feat: implement caching layer |
 | 2019-11-01 21:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2019-11-01 22:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | security: fix SQL injection vulnerability |
+| 2019-11-01 23:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | style: format code according to style guide |
