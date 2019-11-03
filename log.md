@@ -23724,3 +23724,4 @@
 | 2019-11-01 23:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | style: format code according to style guide |
 | 2019-11-02 15:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: correct pagination offset calculation |
 | 2019-11-02 22:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: create health check endpoint |
+| 2019-11-03 09:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add search with filters |
