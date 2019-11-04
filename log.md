@@ -23726,3 +23726,4 @@
 | 2019-11-02 22:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: create health check endpoint |
 | 2019-11-03 09:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add search with filters |
 | 2019-11-03 09:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2019-11-04 11:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | db: add migration for new schema |
