@@ -23729,3 +23729,4 @@
 | 2019-11-04 11:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | db: add migration for new schema |
 | 2019-11-04 12:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/validation-bug` | refactor: improve code readability |
 | 2019-11-04 12:43 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | refactor: adopt repository pattern |
+| 2019-11-04 13:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | docs: add README setup instructions |
