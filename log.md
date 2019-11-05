@@ -23736,3 +23736,4 @@
 | 2019-11-04 15:52 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | perf: reduce bundle size |
 | 2019-11-04 16:15 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | infra: update Terraform modules |
 | 2019-11-05 15:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | feat: add real-time notifications |
+| 2019-11-05 15:39 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: replace raw SQL with query builder |
