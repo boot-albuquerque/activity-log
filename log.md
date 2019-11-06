@@ -23744,3 +23744,4 @@
 | 2019-11-06 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2019-11-06 16:05 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | fix: correct validation error messages |
 | 2019-11-06 17:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
+| 2019-11-06 18:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
