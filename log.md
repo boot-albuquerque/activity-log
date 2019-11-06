@@ -23740,3 +23740,4 @@
 | 2019-11-05 16:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | refactor: adopt repository pattern |
 | 2019-11-06 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add email notification on status change |
 | 2019-11-06 13:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: implement webhook receiver |
+| 2019-11-06 14:37 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
