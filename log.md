@@ -23742,3 +23742,4 @@
 | 2019-11-06 13:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: implement webhook receiver |
 | 2019-11-06 14:37 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2019-11-06 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | perf: optimize database queries |
+| 2019-11-06 16:05 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | fix: correct validation error messages |
