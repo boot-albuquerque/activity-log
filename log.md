@@ -23743,3 +23743,4 @@
 | 2019-11-06 14:37 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2019-11-06 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2019-11-06 16:05 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | fix: correct validation error messages |
+| 2019-11-06 17:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
