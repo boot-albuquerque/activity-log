@@ -23746,3 +23746,4 @@
 | 2019-11-06 17:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2019-11-06 18:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
 | 2019-11-07 07:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | test: add integration tests for API endpoints |
+| 2019-11-07 10:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | feat: add search with filters |
