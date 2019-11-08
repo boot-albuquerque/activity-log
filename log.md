@@ -23751,3 +23751,4 @@
 | 2019-11-08 11:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | fix: correct validation error messages |
 | 2019-11-08 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: correct decimal precision in billing |
 | 2019-11-08 14:18 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | test: add unit tests for payment service |
+| 2019-11-08 14:40 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | fix: handle missing environment variable |
