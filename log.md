@@ -23749,3 +23749,4 @@
 | 2019-11-07 10:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | feat: add search with filters |
 | 2019-11-07 20:45 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct validation error messages |
 | 2019-11-08 11:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | fix: correct validation error messages |
+| 2019-11-08 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: correct decimal precision in billing |
