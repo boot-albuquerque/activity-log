@@ -23759,3 +23759,4 @@
 | 2019-11-13 07:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | feat: implement rate limiting middleware |
 | 2019-11-13 09:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | fix: correct null check in user service |
 | 2019-11-13 10:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | refactor: improve code readability |
+| 2019-11-13 11:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
