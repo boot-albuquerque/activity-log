@@ -23757,3 +23757,4 @@
 | 2019-11-09 09:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | ci: configure staging environment |
 | 2019-11-09 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | fix: handle malformed JSON input |
 | 2019-11-13 07:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | feat: implement rate limiting middleware |
+| 2019-11-13 09:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | fix: correct null check in user service |
