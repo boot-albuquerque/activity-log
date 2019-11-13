@@ -23765,3 +23765,4 @@
 | 2019-11-13 14:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2019-11-13 17:28 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: implement JWT refresh token |
 | 2019-11-13 18:10 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | feat: implement JWT refresh token |
+| 2019-11-13 19:53 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | infra: configure auto-scaling policies |
