@@ -23773,3 +23773,4 @@
 | 2019-11-16 14:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | fix: correct null check in user service |
 | 2019-11-17 23:33 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2019-11-18 00:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | feat: add audit log trail |
+| 2019-11-18 15:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | fix: handle malformed JSON input |
