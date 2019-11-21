@@ -23782,3 +23782,4 @@
 | 2019-11-20 11:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | chore: configure GitHub Actions CI |
 | 2019-11-20 15:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: create admin management interface |
 | 2019-11-21 12:29 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | feat: add export to CSV/Excel |
+| 2019-11-21 12:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | style: format code according to style guide |
