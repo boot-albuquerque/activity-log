@@ -23787,3 +23787,4 @@
 | 2019-11-22 14:03 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2019-11-23 19:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add pagination to list endpoint |
 | 2019-11-24 11:22 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | fix: handle empty response from external API |
+| 2019-11-24 17:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | docs: update API documentation |
