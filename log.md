@@ -23788,3 +23788,4 @@
 | 2019-11-23 19:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add pagination to list endpoint |
 | 2019-11-24 11:22 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2019-11-24 17:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | docs: update API documentation |
+| 2019-11-25 10:58 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | test: mock external dependencies in tests |
