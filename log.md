@@ -23794,3 +23794,4 @@
 | 2019-11-25 19:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | perf: optimize database queries |
 | 2019-11-25 19:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add pagination to list endpoint |
 | 2019-11-26 07:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | feat: add export to CSV/Excel |
+| 2019-11-26 12:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | docs: add README setup instructions |
