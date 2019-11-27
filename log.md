@@ -23797,3 +23797,4 @@
 | 2019-11-26 12:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | docs: add README setup instructions |
 | 2019-11-26 20:07 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
 | 2019-11-27 10:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/race-condition` | feat: add bulk operations support |
+| 2019-11-27 11:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: add search with filters |
