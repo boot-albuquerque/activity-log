@@ -23800,3 +23800,4 @@
 | 2019-11-27 11:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | feat: add search with filters |
 | 2019-11-27 11:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: clean up unused imports |
 | 2019-11-27 14:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
+| 2019-11-27 16:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct null check in user service |
