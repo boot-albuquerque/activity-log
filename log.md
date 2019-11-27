@@ -23801,3 +23801,4 @@
 | 2019-11-27 11:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: clean up unused imports |
 | 2019-11-27 14:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
 | 2019-11-27 16:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct null check in user service |
+| 2019-11-27 18:17 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | fix: handle malformed JSON input |
