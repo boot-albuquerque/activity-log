@@ -23809,3 +23809,4 @@
 | 2019-11-28 14:06 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2019-11-28 15:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | fix: correct cache invalidation logic |
 | 2019-11-28 15:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | refactor: improve code readability |
+| 2019-11-28 16:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle empty response from external API |
