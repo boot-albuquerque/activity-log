@@ -23805,3 +23805,4 @@
 | 2019-11-27 20:42 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | fix: resolve CORS configuration |
 | 2019-11-28 00:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | fix: handle timeout in async operation |
 | 2019-11-28 00:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | infra: add Kubernetes manifests |
+| 2019-11-28 08:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | style: format code according to style guide |
