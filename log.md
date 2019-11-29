@@ -23811,3 +23811,4 @@
 | 2019-11-28 15:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | refactor: improve code readability |
 | 2019-11-28 16:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle empty response from external API |
 | 2019-11-28 17:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: create admin management interface |
+| 2019-11-29 00:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | chore: upgrade to latest Node.js LTS |
