@@ -23815,3 +23815,4 @@
 | 2019-11-29 11:55 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | test: add performance benchmark tests |
 | 2019-11-29 12:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
 | 2019-11-29 14:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | infra: update Terraform modules |
+| 2019-11-29 16:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: correct pagination offset calculation |
