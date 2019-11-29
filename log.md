@@ -23813,3 +23813,4 @@
 | 2019-11-28 17:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2019-11-29 00:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | chore: upgrade to latest Node.js LTS |
 | 2019-11-29 11:55 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | test: add performance benchmark tests |
+| 2019-11-29 12:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
