@@ -23817,3 +23817,4 @@
 | 2019-11-29 14:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | infra: update Terraform modules |
 | 2019-11-29 16:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: correct pagination offset calculation |
 | 2019-11-29 21:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/update-deps` | fix: correct decimal precision in billing |
+| 2019-12-02 09:02 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | chore: update dependencies |
