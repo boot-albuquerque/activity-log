@@ -23819,3 +23819,4 @@
 | 2019-11-29 21:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2019-12-02 09:02 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | chore: update dependencies |
 | 2019-12-02 21:10 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | security: fix SQL injection vulnerability |
+| 2019-12-03 07:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | docs: document environment variables |
