@@ -23826,3 +23826,4 @@
 | 2019-12-03 16:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2019-12-03 21:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | test: improve test coverage to 80% |
 | 2019-12-04 11:16 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | test: improve test coverage to 80% |
+| 2019-12-04 11:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
