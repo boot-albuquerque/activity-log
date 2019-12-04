@@ -23828,3 +23828,4 @@
 | 2019-12-04 11:16 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | test: improve test coverage to 80% |
 | 2019-12-04 11:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2019-12-04 13:25 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | chore: update dependencies |
+| 2019-12-04 15:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | infra: update Terraform modules |
