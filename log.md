@@ -23833,3 +23833,4 @@
 | 2019-12-05 08:12 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | refactor: clean up unused imports |
 | 2019-12-05 13:21 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
 | 2019-12-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | fix: resolve CORS configuration |
+| 2019-12-05 15:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | fix: correct pagination offset calculation |
