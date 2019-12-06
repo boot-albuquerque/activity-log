@@ -23835,3 +23835,4 @@
 | 2019-12-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | fix: resolve CORS configuration |
 | 2019-12-05 15:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | fix: correct pagination offset calculation |
 | 2019-12-05 18:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | fix: correct null check in user service |
+| 2019-12-06 10:32 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | feat: implement rate limiting middleware |
