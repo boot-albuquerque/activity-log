@@ -23846,3 +23846,4 @@
 | 2019-12-08 18:56 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | db: add composite index |
 | 2019-12-09 07:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | chore: update dependencies |
 | 2019-12-09 09:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | test: improve test coverage to 80% |
+| 2019-12-09 09:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | refactor: move constants to config module |
