@@ -23848,3 +23848,4 @@
 | 2019-12-09 09:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | test: improve test coverage to 80% |
 | 2019-12-09 09:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2019-12-09 16:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: add migration for new schema |
+| 2019-12-09 20:49 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | ci: configure staging environment |
