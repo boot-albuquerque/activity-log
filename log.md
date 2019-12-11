@@ -23850,3 +23850,4 @@
 | 2019-12-09 16:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2019-12-09 20:49 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | ci: configure staging environment |
 | 2019-12-09 23:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: correct validation error messages |
+| 2019-12-11 12:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | docs: update API documentation |
