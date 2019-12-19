@@ -23862,3 +23862,4 @@
 | 2019-12-17 17:24 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2019-12-17 22:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | perf: optimize database queries |
 | 2019-12-19 07:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | infra: update Terraform modules |
+| 2019-12-19 08:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | docs: update API documentation |
