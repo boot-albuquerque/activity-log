@@ -23865,3 +23865,4 @@
 | 2019-12-19 08:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | docs: update API documentation |
 | 2019-12-19 11:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | feat: create admin management interface |
 | 2019-12-20 10:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: handle missing environment variable |
+| 2019-12-20 12:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: adopt repository pattern |
