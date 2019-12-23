@@ -23873,3 +23873,4 @@
 | 2019-12-21 16:52 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: resolve N+1 query problem |
 | 2019-12-23 08:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2019-12-23 12:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | refactor: simplify authentication flow |
+| 2019-12-23 13:18 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | test: mock external dependencies in tests |
