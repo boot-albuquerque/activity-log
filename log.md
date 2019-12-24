@@ -23884,3 +23884,4 @@
 | 2019-12-24 10:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: add user authentication endpoint |
 | 2019-12-24 13:16 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2019-12-24 13:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | fix: correct null check in user service |
+| 2019-12-24 15:24 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | docs: add README setup instructions |
