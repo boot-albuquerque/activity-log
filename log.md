@@ -23881,3 +23881,4 @@
 | 2019-12-24 00:11 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2019-12-24 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2019-12-24 08:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | feat: create health check endpoint |
+| 2019-12-24 10:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: add user authentication endpoint |
