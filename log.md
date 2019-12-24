@@ -23882,3 +23882,4 @@
 | 2019-12-24 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2019-12-24 08:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | feat: create health check endpoint |
 | 2019-12-24 10:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: add user authentication endpoint |
+| 2019-12-24 13:16 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/rate-limiting` | security: update SSL certificates config |
