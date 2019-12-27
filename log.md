@@ -23895,3 +23895,4 @@
 | 2019-12-26 08:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2019-12-26 13:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | perf: add database indexes |
 | 2019-12-26 14:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | feat: add pagination to list endpoint |
+| 2019-12-27 08:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
