@@ -23897,3 +23897,4 @@
 | 2019-12-26 14:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2019-12-27 08:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
 | 2019-12-27 11:11 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | feat: create background job processor |
+| 2019-12-27 14:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | infra: add Kubernetes manifests |
