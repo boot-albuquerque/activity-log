@@ -23898,3 +23898,4 @@
 | 2019-12-27 08:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
 | 2019-12-27 11:11 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | feat: create background job processor |
 | 2019-12-27 14:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | infra: add Kubernetes manifests |
+| 2019-12-27 14:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | db: optimize slow queries |
