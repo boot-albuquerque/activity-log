@@ -23900,3 +23900,4 @@
 | 2019-12-27 14:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | infra: add Kubernetes manifests |
 | 2019-12-27 14:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | db: optimize slow queries |
 | 2019-12-27 14:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | refactor: improve code readability |
+| 2019-12-27 16:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: create order processing service |
