@@ -23905,3 +23905,4 @@
 | 2019-12-29 11:22 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2019-12-30 08:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | security: fix SQL injection vulnerability |
 | 2019-12-31 08:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | perf: implement response compression |
+| 2019-12-31 10:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | docs: add README setup instructions |
