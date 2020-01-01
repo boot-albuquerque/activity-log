@@ -23908,3 +23908,4 @@
 | 2019-12-31 10:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | docs: add README setup instructions |
 | 2019-12-31 13:49 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | security: update SSL certificates config |
 | 2019-12-31 18:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | db: add migration for new schema |
+| 2019-12-31 21:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | feat: add pagination to list endpoint |
