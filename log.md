@@ -3784,3 +3784,4 @@
 | 2020-01-02 07:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2020-01-02 10:46 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2020-01-02 12:40 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | feat: create background job processor |
+| 2020-01-02 13:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | feat: implement soft delete pattern |
