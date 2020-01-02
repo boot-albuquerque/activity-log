@@ -3788,3 +3788,4 @@
 | 2020-01-02 13:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: correct decimal precision in billing |
 | 2020-01-02 14:43 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | refactor: clean up unused imports |
 | 2020-01-02 14:47 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | fix: resolve race condition in queue worker |
+| 2020-01-02 14:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | test: improve test coverage to 80% |
