@@ -3792,3 +3792,4 @@
 | 2020-01-02 16:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | feat: implement caching layer |
 | 2020-01-02 17:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | style: format code according to style guide |
 | 2020-01-03 07:40 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | fix: resolve CORS configuration |
+| 2020-01-03 09:09 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | feat: add file upload support |
