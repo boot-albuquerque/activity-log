@@ -3800,3 +3800,4 @@
 | 2020-01-03 20:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2020-01-04 08:08 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | style: format code according to style guide |
 | 2020-01-04 09:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add email notification on status change |
+| 2020-01-06 07:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
