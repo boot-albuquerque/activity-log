@@ -3802,3 +3802,4 @@
 | 2020-01-04 09:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add email notification on status change |
 | 2020-01-06 07:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
 | 2020-01-06 08:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | fix: handle malformed JSON input |
+| 2020-01-06 15:44 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement webhook receiver |
