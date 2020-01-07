@@ -3811,3 +3811,4 @@
 | 2020-01-07 15:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | test: mock external dependencies in tests |
 | 2020-01-07 15:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add email notification on status change |
 | 2020-01-07 15:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2020-01-07 16:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | refactor: consolidate error handling |
