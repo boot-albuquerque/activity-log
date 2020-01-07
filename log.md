@@ -3805,3 +3805,4 @@
 | 2020-01-06 15:44 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement webhook receiver |
 | 2020-01-06 15:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | feat: implement webhook receiver |
 | 2020-01-06 19:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
+| 2020-01-06 23:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: correct decimal precision in billing |
