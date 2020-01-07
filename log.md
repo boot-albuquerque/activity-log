@@ -3807,3 +3807,4 @@
 | 2020-01-06 19:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2020-01-06 23:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: correct decimal precision in billing |
 | 2020-01-07 14:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | infra: add Kubernetes manifests |
+| 2020-01-07 15:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | test: cover edge cases in validator |
