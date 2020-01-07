@@ -3813,3 +3813,4 @@
 | 2020-01-07 15:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2020-01-07 16:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | refactor: consolidate error handling |
 | 2020-01-07 17:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: handle timeout in async operation |
+| 2020-01-07 18:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | feat: add pagination to list endpoint |
