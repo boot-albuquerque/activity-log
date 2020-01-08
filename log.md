@@ -3818,3 +3818,4 @@
 | 2020-01-07 22:35 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
 | 2020-01-08 08:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2020-01-08 11:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | db: add migration for new schema |
+| 2020-01-08 11:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create dashboard metrics endpoint |
