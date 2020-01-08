@@ -3820,3 +3820,4 @@
 | 2020-01-08 11:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | db: add migration for new schema |
 | 2020-01-08 11:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create dashboard metrics endpoint |
 | 2020-01-08 12:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | refactor: clean up unused imports |
+| 2020-01-08 15:36 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/race-condition` | chore: update dependencies |
