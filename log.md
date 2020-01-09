@@ -3829,3 +3829,4 @@
 | 2020-01-09 10:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | style: format code according to style guide |
 | 2020-01-09 11:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-01-09 15:03 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | security: update SSL certificates config |
+| 2020-01-09 15:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: handle missing environment variable |
