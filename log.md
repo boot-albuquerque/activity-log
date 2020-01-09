@@ -3825,3 +3825,4 @@
 | 2020-01-08 18:46 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | security: add input sanitization |
 | 2020-01-09 00:48 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add performance benchmark tests |
 | 2020-01-09 08:33 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2020-01-09 10:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | docs: document environment variables |
