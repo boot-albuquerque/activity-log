@@ -3823,3 +3823,4 @@
 | 2020-01-08 15:36 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/race-condition` | chore: update dependencies |
 | 2020-01-08 15:36 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | fix: correct decimal precision in billing |
 | 2020-01-08 18:46 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | security: add input sanitization |
+| 2020-01-09 00:48 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add performance benchmark tests |
