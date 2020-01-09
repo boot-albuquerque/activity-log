@@ -3827,3 +3827,4 @@
 | 2020-01-09 08:33 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2020-01-09 10:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | docs: document environment variables |
 | 2020-01-09 10:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | style: format code according to style guide |
+| 2020-01-09 11:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add migration for new schema |
