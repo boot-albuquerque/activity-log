@@ -3841,3 +3841,4 @@
 | 2020-01-10 16:28 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | test: cover edge cases in validator |
 | 2020-01-10 18:13 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: add pagination to list endpoint |
 | 2020-01-10 19:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
+| 2020-01-10 19:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | perf: add database indexes |
