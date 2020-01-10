@@ -3830,3 +3830,4 @@
 | 2020-01-09 11:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-01-09 15:03 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2020-01-09 15:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: handle missing environment variable |
+| 2020-01-09 23:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle malformed JSON input |
