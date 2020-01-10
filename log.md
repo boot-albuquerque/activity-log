@@ -3832,3 +3832,4 @@
 | 2020-01-09 15:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: handle missing environment variable |
 | 2020-01-09 23:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle malformed JSON input |
 | 2020-01-10 09:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | feat: add pagination to list endpoint |
+| 2020-01-10 09:26 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | perf: reduce bundle size |
