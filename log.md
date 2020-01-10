@@ -3834,3 +3834,4 @@
 | 2020-01-10 09:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2020-01-10 09:26 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | perf: reduce bundle size |
 | 2020-01-10 11:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
+| 2020-01-10 13:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | fix: handle empty response from external API |
