@@ -3837,3 +3837,4 @@
 | 2020-01-10 13:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | fix: handle empty response from external API |
 | 2020-01-10 13:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | fix: handle malformed JSON input |
 | 2020-01-10 14:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2020-01-10 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | fix: handle malformed JSON input |
