@@ -3843,3 +3843,4 @@
 | 2020-01-10 19:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
 | 2020-01-10 19:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | perf: add database indexes |
 | 2020-01-10 21:52 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | refactor: improve code readability |
+| 2020-01-12 11:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | perf: reduce bundle size |
