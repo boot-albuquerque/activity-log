@@ -3851,3 +3851,4 @@
 | 2020-01-13 13:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add real-time notifications |
 | 2020-01-13 13:25 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: correct null check in user service |
 | 2020-01-13 14:08 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | infra: configure auto-scaling policies |
+| 2020-01-13 14:36 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | feat: create health check endpoint |
