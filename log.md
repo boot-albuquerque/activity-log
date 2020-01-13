@@ -3845,3 +3845,4 @@
 | 2020-01-10 21:52 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | refactor: improve code readability |
 | 2020-01-12 11:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | perf: reduce bundle size |
 | 2020-01-12 14:38 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | style: format code according to style guide |
+| 2020-01-13 00:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | fix: handle empty response from external API |
