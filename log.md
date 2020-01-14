@@ -3862,3 +3862,4 @@
 | 2020-01-14 14:59 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | security: update SSL certificates config |
 | 2020-01-14 16:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | refactor: split large controller into smaller ones |
 | 2020-01-14 17:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | fix: handle missing environment variable |
+| 2020-01-14 18:23 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | feat: implement rate limiting middleware |
