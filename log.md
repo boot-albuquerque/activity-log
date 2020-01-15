@@ -3866,3 +3866,4 @@
 | 2020-01-15 00:02 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | security: update SSL certificates config |
 | 2020-01-15 12:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | perf: implement response compression |
 | 2020-01-15 13:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: configure GitHub Actions CI |
+| 2020-01-15 15:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | perf: optimize database queries |
