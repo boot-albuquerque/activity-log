@@ -3868,3 +3868,4 @@
 | 2020-01-15 13:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: configure GitHub Actions CI |
 | 2020-01-15 15:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | perf: optimize database queries |
 | 2020-01-15 15:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | db: optimize slow queries |
+| 2020-01-15 16:52 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | feat: implement caching layer |
