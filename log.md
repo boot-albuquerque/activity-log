@@ -3872,3 +3872,4 @@
 | 2020-01-15 19:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2020-01-15 21:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: handle edge case in date parsing |
 | 2020-01-16 10:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
+| 2020-01-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: handle empty response from external API |
