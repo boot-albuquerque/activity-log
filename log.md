@@ -3870,3 +3870,4 @@
 | 2020-01-15 15:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | db: optimize slow queries |
 | 2020-01-15 16:52 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | feat: implement caching layer |
 | 2020-01-15 19:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | refactor: split large controller into smaller ones |
+| 2020-01-15 21:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: handle edge case in date parsing |
