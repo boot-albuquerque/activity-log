@@ -3873,3 +3873,4 @@
 | 2020-01-15 21:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: handle edge case in date parsing |
 | 2020-01-16 10:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
 | 2020-01-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: handle empty response from external API |
+| 2020-01-16 14:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | fix: correct cache invalidation logic |
