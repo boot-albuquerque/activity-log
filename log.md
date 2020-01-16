@@ -3877,3 +3877,4 @@
 | 2020-01-16 14:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2020-01-16 15:24 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | ci: configure staging environment |
 | 2020-01-16 17:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | security: add input sanitization |
+| 2020-01-16 18:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | fix: resolve N+1 query problem |
