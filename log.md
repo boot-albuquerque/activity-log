@@ -3875,3 +3875,4 @@
 | 2020-01-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: handle empty response from external API |
 | 2020-01-16 14:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | fix: correct cache invalidation logic |
 | 2020-01-16 14:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | style: fix indentation and whitespace |
+| 2020-01-16 15:24 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | ci: configure staging environment |
