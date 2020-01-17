@@ -3880,3 +3880,4 @@
 | 2020-01-16 18:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2020-01-16 18:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | docs: add README setup instructions |
 | 2020-01-16 21:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | chore: add Docker Compose for local dev |
+| 2020-01-16 22:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | security: fix SQL injection vulnerability |
