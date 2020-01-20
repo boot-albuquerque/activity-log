@@ -3886,3 +3886,4 @@
 | 2020-01-19 08:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | feat: add search with filters |
 | 2020-01-20 00:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2020-01-20 09:11 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | fix: correct validation error messages |
+| 2020-01-20 12:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement soft delete pattern |
