@@ -3884,3 +3884,4 @@
 | 2020-01-17 07:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
 | 2020-01-18 20:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: clean up unused imports |
 | 2020-01-19 08:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | feat: add search with filters |
+| 2020-01-20 00:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | test: fix flaky test in async handler |
