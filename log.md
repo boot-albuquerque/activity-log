@@ -3889,3 +3889,4 @@
 | 2020-01-20 12:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement soft delete pattern |
 | 2020-01-20 13:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | perf: reduce bundle size |
 | 2020-01-20 16:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | security: add input sanitization |
+| 2020-01-20 18:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | refactor: simplify authentication flow |
