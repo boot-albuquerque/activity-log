@@ -3892,3 +3892,4 @@
 | 2020-01-20 18:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | refactor: simplify authentication flow |
 | 2020-01-20 23:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | refactor: improve code readability |
 | 2020-01-21 08:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | security: update SSL certificates config |
+| 2020-01-21 12:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | feat: implement rate limiting middleware |
