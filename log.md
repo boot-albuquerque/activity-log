@@ -3901,3 +3901,4 @@
 | 2020-01-22 13:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | feat: create order processing service |
 | 2020-01-22 14:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2020-01-22 15:01 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | db: add migration for new schema |
+| 2020-01-22 19:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
