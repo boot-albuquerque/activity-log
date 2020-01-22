@@ -3903,3 +3903,4 @@
 | 2020-01-22 15:01 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | db: add migration for new schema |
 | 2020-01-22 19:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2020-01-22 19:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | refactor: move constants to config module |
+| 2020-01-22 19:41 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/rate-limiting` | feat: add email notification on status change |
