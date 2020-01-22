@@ -3899,3 +3899,4 @@
 | 2020-01-21 23:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | fix: correct cache invalidation logic |
 | 2020-01-22 10:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | feat: add file upload support |
 | 2020-01-22 13:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | feat: create order processing service |
+| 2020-01-22 14:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | ci: add automated deployment pipeline |
