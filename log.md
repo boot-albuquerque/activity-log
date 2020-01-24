@@ -3913,3 +3913,4 @@
 | 2020-01-23 19:09 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2020-01-23 19:49 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2020-01-23 20:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | refactor: move constants to config module |
+| 2020-01-23 22:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | refactor: split large controller into smaller ones |
