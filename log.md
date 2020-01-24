@@ -3916,3 +3916,4 @@
 | 2020-01-23 22:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2020-01-23 23:46 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2020-01-24 11:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | fix: resolve memory leak in connection pool |
+| 2020-01-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | security: update SSL certificates config |
