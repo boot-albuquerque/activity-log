@@ -3915,3 +3915,4 @@
 | 2020-01-23 20:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | refactor: move constants to config module |
 | 2020-01-23 22:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2020-01-23 23:46 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | refactor: simplify authentication flow |
+| 2020-01-24 11:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | fix: resolve memory leak in connection pool |
