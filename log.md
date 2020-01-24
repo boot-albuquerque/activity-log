@@ -3919,3 +3919,4 @@
 | 2020-01-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | security: update SSL certificates config |
 | 2020-01-24 12:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
 | 2020-01-24 12:45 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | feat: create order processing service |
+| 2020-01-24 17:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | feat: add search with filters |
