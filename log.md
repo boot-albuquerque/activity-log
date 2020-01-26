@@ -3920,3 +3920,4 @@
 | 2020-01-24 12:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
 | 2020-01-24 12:45 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | feat: create order processing service |
 | 2020-01-24 17:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | feat: add search with filters |
+| 2020-01-26 09:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
