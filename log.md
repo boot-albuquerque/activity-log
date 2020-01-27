@@ -3922,3 +3922,4 @@
 | 2020-01-24 17:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | feat: add search with filters |
 | 2020-01-26 09:03 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2020-01-27 00:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | refactor: move constants to config module |
+| 2020-01-27 15:05 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | docs: update API documentation |
