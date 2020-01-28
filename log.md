@@ -3930,3 +3930,4 @@
 | 2020-01-28 12:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2020-01-28 13:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | infra: add Kubernetes manifests |
 | 2020-01-28 14:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | test: add e2e tests for checkout flow |
+| 2020-01-28 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | fix: correct validation error messages |
