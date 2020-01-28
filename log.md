@@ -3926,3 +3926,4 @@
 | 2020-01-27 16:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2020-01-27 18:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2020-01-27 22:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | fix: correct pagination offset calculation |
+| 2020-01-28 09:30 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/validation-bug` | test: add performance benchmark tests |
