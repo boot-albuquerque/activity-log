@@ -3932,3 +3932,4 @@
 | 2020-01-28 14:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2020-01-28 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | fix: correct validation error messages |
 | 2020-01-28 17:42 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | db: add composite index |
+| 2020-01-29 14:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | fix: resolve CORS configuration |
