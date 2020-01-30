@@ -3946,3 +3946,4 @@
 | 2020-01-30 15:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: implement webhook receiver |
 | 2020-01-30 17:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: add real-time notifications |
 | 2020-01-30 17:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | chore: configure ESLint and Prettier |
+| 2020-01-30 18:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: implement caching layer |
