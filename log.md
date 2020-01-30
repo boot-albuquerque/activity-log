@@ -3941,3 +3941,4 @@
 | 2020-01-30 12:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: handle edge case in date parsing |
 | 2020-01-30 12:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve race condition in queue worker |
 | 2020-01-30 13:35 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | test: cover edge cases in validator |
+| 2020-01-30 13:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: create background job processor |
