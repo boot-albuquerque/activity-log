@@ -3947,3 +3947,4 @@
 | 2020-01-30 17:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: add real-time notifications |
 | 2020-01-30 17:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2020-01-30 18:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: implement caching layer |
+| 2020-01-30 20:54 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | chore: add pre-commit hooks |
