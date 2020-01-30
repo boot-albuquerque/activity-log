@@ -3945,3 +3945,4 @@
 | 2020-01-30 15:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2020-01-30 15:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: implement webhook receiver |
 | 2020-01-30 17:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: add real-time notifications |
+| 2020-01-30 17:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | chore: configure ESLint and Prettier |
