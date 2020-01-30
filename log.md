@@ -3938,3 +3938,4 @@
 | 2020-01-30 10:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | refactor: improve code readability |
 | 2020-01-30 11:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2020-01-30 11:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | ci: configure staging environment |
+| 2020-01-30 12:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: handle edge case in date parsing |
