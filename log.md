@@ -3942,3 +3942,4 @@
 | 2020-01-30 12:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve race condition in queue worker |
 | 2020-01-30 13:35 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2020-01-30 13:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: create background job processor |
+| 2020-01-30 15:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | feat: add OpenAPI documentation |
