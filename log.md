@@ -3936,3 +3936,4 @@
 | 2020-01-30 00:37 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | feat: create order processing service |
 | 2020-01-30 09:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | db: add composite index |
 | 2020-01-30 10:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | refactor: improve code readability |
+| 2020-01-30 11:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | test: add performance benchmark tests |
