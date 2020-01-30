@@ -3939,3 +3939,4 @@
 | 2020-01-30 11:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2020-01-30 11:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | ci: configure staging environment |
 | 2020-01-30 12:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: handle edge case in date parsing |
+| 2020-01-30 12:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve race condition in queue worker |
