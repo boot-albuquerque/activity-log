@@ -3952,3 +3952,4 @@
 | 2020-01-31 13:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | infra: update Terraform modules |
 | 2020-01-31 15:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2020-01-31 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | docs: document environment variables |
+| 2020-01-31 18:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | feat: add real-time notifications |
