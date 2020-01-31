@@ -3950,3 +3950,4 @@
 | 2020-01-30 20:54 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | chore: add pre-commit hooks |
 | 2020-01-30 22:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | security: add input sanitization |
 | 2020-01-31 13:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | infra: update Terraform modules |
+| 2020-01-31 15:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | test: add integration tests for API endpoints |
