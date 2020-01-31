@@ -3949,3 +3949,4 @@
 | 2020-01-30 18:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: implement caching layer |
 | 2020-01-30 20:54 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | chore: add pre-commit hooks |
 | 2020-01-30 22:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | security: add input sanitization |
+| 2020-01-31 13:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | infra: update Terraform modules |
