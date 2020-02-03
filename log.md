@@ -3954,3 +3954,4 @@
 | 2020-01-31 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | docs: document environment variables |
 | 2020-01-31 18:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | feat: add real-time notifications |
 | 2020-01-31 23:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | perf: reduce bundle size |
+| 2020-02-03 00:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add bulk operations support |
