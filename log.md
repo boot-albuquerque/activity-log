@@ -3957,3 +3957,4 @@
 | 2020-02-03 00:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2020-02-04 00:51 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | feat: create order processing service |
 | 2020-02-04 10:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | feat: add bulk operations support |
+| 2020-02-04 14:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: implement webhook receiver |
