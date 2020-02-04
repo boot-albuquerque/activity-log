@@ -3961,3 +3961,4 @@
 | 2020-02-04 14:47 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | fix: correct cache invalidation logic |
 | 2020-02-04 15:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | refactor: extract business logic to service layer |
 | 2020-02-04 15:39 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | feat: implement JWT refresh token |
+| 2020-02-04 16:37 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | security: add input sanitization |
