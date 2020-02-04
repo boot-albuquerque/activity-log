@@ -3963,3 +3963,4 @@
 | 2020-02-04 15:39 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | feat: implement JWT refresh token |
 | 2020-02-04 16:37 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | security: add input sanitization |
 | 2020-02-04 16:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/update-deps` | feat: create background job processor |
+| 2020-02-04 17:34 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
