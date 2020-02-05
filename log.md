@@ -3967,3 +3967,4 @@
 | 2020-02-04 18:36 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2020-02-05 00:09 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2020-02-05 00:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | db: add composite index |
+| 2020-02-05 07:59 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | perf: implement response compression |
