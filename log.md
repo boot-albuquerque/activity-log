@@ -3974,3 +3974,4 @@
 | 2020-02-05 11:28 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2020-02-05 11:46 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | chore: configure GitHub Actions CI |
 | 2020-02-05 12:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | refactor: simplify authentication flow |
+| 2020-02-05 12:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | feat: add email notification on status change |
