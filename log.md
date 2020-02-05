@@ -3966,3 +3966,4 @@
 | 2020-02-04 17:34 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2020-02-04 18:36 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2020-02-05 00:09 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | fix: resolve CORS configuration |
+| 2020-02-05 00:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | db: add composite index |
