@@ -3976,3 +3976,4 @@
 | 2020-02-05 12:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2020-02-05 12:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | feat: add email notification on status change |
 | 2020-02-05 12:47 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | feat: create admin management interface |
+| 2020-02-05 13:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | fix: resolve N+1 query problem |
