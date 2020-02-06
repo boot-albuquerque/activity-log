@@ -3982,3 +3982,4 @@
 | 2020-02-05 19:15 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | feat: add OpenAPI documentation |
 | 2020-02-05 19:55 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | infra: update Terraform modules |
 | 2020-02-05 20:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | feat: add audit log trail |
+| 2020-02-06 12:49 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | test: improve test coverage to 80% |
