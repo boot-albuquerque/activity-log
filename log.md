@@ -3986,3 +3986,4 @@
 | 2020-02-06 17:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | feat: create dashboard metrics endpoint |
 | 2020-02-06 17:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | fix: handle edge case in date parsing |
 | 2020-02-06 17:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | style: format code according to style guide |
+| 2020-02-06 23:17 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | test: mock external dependencies in tests |
