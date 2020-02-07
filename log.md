@@ -3987,3 +3987,4 @@
 | 2020-02-06 17:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | fix: handle edge case in date parsing |
 | 2020-02-06 17:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | style: format code according to style guide |
 | 2020-02-06 23:17 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | test: mock external dependencies in tests |
+| 2020-02-07 08:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: add pagination to list endpoint |
