@@ -3989,3 +3989,4 @@
 | 2020-02-06 23:17 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2020-02-07 08:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: add pagination to list endpoint |
 | 2020-02-07 11:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: add user authentication endpoint |
+| 2020-02-07 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add e2e tests for checkout flow |
