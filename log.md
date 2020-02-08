@@ -3991,3 +3991,4 @@
 | 2020-02-07 11:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: add user authentication endpoint |
 | 2020-02-07 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2020-02-07 22:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: adopt repository pattern |
+| 2020-02-08 14:25 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add user authentication endpoint |
