@@ -3994,3 +3994,4 @@
 | 2020-02-08 14:25 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2020-02-08 22:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | docs: document environment variables |
 | 2020-02-09 10:34 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
+| 2020-02-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
