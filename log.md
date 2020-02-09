@@ -3992,3 +3992,4 @@
 | 2020-02-07 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2020-02-07 22:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: adopt repository pattern |
 | 2020-02-08 14:25 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add user authentication endpoint |
+| 2020-02-08 22:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | docs: document environment variables |
