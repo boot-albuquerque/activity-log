@@ -3995,3 +3995,4 @@
 | 2020-02-08 22:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | docs: document environment variables |
 | 2020-02-09 10:34 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
 | 2020-02-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
+| 2020-02-09 15:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | test: add e2e tests for checkout flow |
