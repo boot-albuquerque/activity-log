@@ -3997,3 +3997,4 @@
 | 2020-02-09 13:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2020-02-09 15:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | test: add e2e tests for checkout flow |
 | 2020-02-09 16:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | test: add unit tests for payment service |
+| 2020-02-09 18:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
