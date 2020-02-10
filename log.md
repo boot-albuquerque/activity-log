@@ -3999,3 +3999,4 @@
 | 2020-02-09 16:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | test: add unit tests for payment service |
 | 2020-02-09 18:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
 | 2020-02-10 00:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: implement rate limiting middleware |
+| 2020-02-10 08:37 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | fix: resolve N+1 query problem |
