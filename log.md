@@ -4006,3 +4006,4 @@
 | 2020-02-11 09:12 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | test: add performance benchmark tests |
 | 2020-02-11 10:38 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | db: add migration for new schema |
 | 2020-02-11 11:03 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: split large controller into smaller ones |
+| 2020-02-11 11:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | feat: implement rate limiting middleware |
