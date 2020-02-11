@@ -4003,3 +4003,4 @@
 | 2020-02-10 13:50 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | perf: implement response compression |
 | 2020-02-10 14:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2020-02-10 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | db: optimize slow queries |
+| 2020-02-11 09:12 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | test: add performance benchmark tests |
