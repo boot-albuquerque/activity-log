@@ -4010,3 +4010,4 @@
 | 2020-02-11 12:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2020-02-11 14:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | refactor: extract business logic to service layer |
 | 2020-02-11 20:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | chore: update dependencies |
+| 2020-02-11 20:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | test: add integration tests for API endpoints |
