@@ -4018,3 +4018,4 @@
 | 2020-02-12 15:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
 | 2020-02-12 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2020-02-12 18:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | ci: configure staging environment |
+| 2020-02-12 19:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | docs: update API documentation |
