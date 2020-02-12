@@ -4012,3 +4012,4 @@
 | 2020-02-11 20:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | chore: update dependencies |
 | 2020-02-11 20:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2020-02-12 09:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | feat: add email notification on status change |
+| 2020-02-12 10:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | style: fix indentation and whitespace |
