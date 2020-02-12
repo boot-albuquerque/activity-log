@@ -4016,3 +4016,4 @@
 | 2020-02-12 14:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: consolidate error handling |
 | 2020-02-12 15:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2020-02-12 15:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
+| 2020-02-12 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
