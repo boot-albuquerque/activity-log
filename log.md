@@ -4014,3 +4014,4 @@
 | 2020-02-12 09:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | feat: add email notification on status change |
 | 2020-02-12 10:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | style: fix indentation and whitespace |
 | 2020-02-12 14:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: consolidate error handling |
+| 2020-02-12 15:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add user authentication endpoint |
