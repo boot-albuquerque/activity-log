@@ -4024,3 +4024,4 @@
 | 2020-02-13 08:47 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2020-02-13 10:01 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | feat: add audit log trail |
 | 2020-02-13 11:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | feat: add export to CSV/Excel |
+| 2020-02-13 14:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | test: fix flaky test in async handler |
