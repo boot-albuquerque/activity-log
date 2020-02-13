@@ -4019,3 +4019,4 @@
 | 2020-02-12 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2020-02-12 18:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | ci: configure staging environment |
 | 2020-02-12 19:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | docs: update API documentation |
+| 2020-02-13 08:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
