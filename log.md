@@ -4021,3 +4021,4 @@
 | 2020-02-12 19:01 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | docs: update API documentation |
 | 2020-02-13 08:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
 | 2020-02-13 08:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2020-02-13 08:47 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | refactor: split large controller into smaller ones |
