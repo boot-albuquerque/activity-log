@@ -4026,3 +4026,4 @@
 | 2020-02-13 11:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | feat: add export to CSV/Excel |
 | 2020-02-13 14:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | test: fix flaky test in async handler |
 | 2020-02-13 17:58 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | test: improve test coverage to 80% |
+| 2020-02-13 19:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | docs: add README setup instructions |
