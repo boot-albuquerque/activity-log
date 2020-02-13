@@ -4022,3 +4022,4 @@
 | 2020-02-13 08:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
 | 2020-02-13 08:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | refactor: split large controller into smaller ones |
 | 2020-02-13 08:47 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | refactor: split large controller into smaller ones |
+| 2020-02-13 10:01 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | feat: add audit log trail |
