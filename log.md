@@ -4032,3 +4032,4 @@
 | 2020-02-14 11:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | feat: create admin management interface |
 | 2020-02-14 11:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2020-02-14 12:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | db: add composite index |
+| 2020-02-14 14:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | refactor: extract business logic to service layer |
