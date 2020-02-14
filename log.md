@@ -4028,3 +4028,4 @@
 | 2020-02-13 17:58 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | test: improve test coverage to 80% |
 | 2020-02-13 19:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | docs: add README setup instructions |
 | 2020-02-14 10:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | security: update SSL certificates config |
+| 2020-02-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | infra: add Kubernetes manifests |
