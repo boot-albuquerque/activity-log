@@ -4030,3 +4030,4 @@
 | 2020-02-14 10:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | security: update SSL certificates config |
 | 2020-02-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | infra: add Kubernetes manifests |
 | 2020-02-14 11:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | feat: create admin management interface |
+| 2020-02-14 11:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | style: format code according to style guide |
