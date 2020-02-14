@@ -4034,3 +4034,4 @@
 | 2020-02-14 12:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | db: add composite index |
 | 2020-02-14 14:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | refactor: extract business logic to service layer |
 | 2020-02-14 16:03 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
+| 2020-02-14 18:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | fix: handle missing environment variable |
