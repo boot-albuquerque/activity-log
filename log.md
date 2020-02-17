@@ -4036,3 +4036,4 @@
 | 2020-02-14 16:03 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
 | 2020-02-14 18:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2020-02-16 13:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: update dependencies |
+| 2020-02-17 00:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add e2e tests for checkout flow |
