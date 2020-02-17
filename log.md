@@ -4047,3 +4047,4 @@
 | 2020-02-17 17:26 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: correct validation error messages |
 | 2020-02-17 17:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | fix: handle timeout in async operation |
 | 2020-02-17 17:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/null-pointer` | fix: handle malformed JSON input |
+| 2020-02-17 18:03 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
