@@ -4039,3 +4039,4 @@
 | 2020-02-17 00:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add e2e tests for checkout flow |
 | 2020-02-17 00:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2020-02-17 07:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: handle edge case in date parsing |
+| 2020-02-17 13:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | feat: add file upload support |
