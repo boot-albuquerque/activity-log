@@ -4038,3 +4038,4 @@
 | 2020-02-16 13:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: update dependencies |
 | 2020-02-17 00:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add e2e tests for checkout flow |
 | 2020-02-17 00:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
+| 2020-02-17 07:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: handle edge case in date parsing |
