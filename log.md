@@ -4051,3 +4051,4 @@
 | 2020-02-17 19:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: add file upload support |
 | 2020-02-17 21:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2020-02-17 21:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | perf: reduce bundle size |
+| 2020-02-19 00:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | perf: implement response compression |
