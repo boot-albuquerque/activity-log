@@ -4054,3 +4054,4 @@
 | 2020-02-19 00:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | perf: implement response compression |
 | 2020-02-19 09:57 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | refactor: replace raw SQL with query builder |
 | 2020-02-19 11:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | ci: configure staging environment |
+| 2020-02-19 12:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: clean up unused imports |
