@@ -4056,3 +4056,4 @@
 | 2020-02-19 11:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | ci: configure staging environment |
 | 2020-02-19 12:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: clean up unused imports |
 | 2020-02-19 14:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: add pagination to list endpoint |
+| 2020-02-19 20:30 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add file upload support |
