@@ -4060,3 +4060,4 @@
 | 2020-02-20 07:51 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | feat: add search with filters |
 | 2020-02-20 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | refactor: simplify authentication flow |
 | 2020-02-20 14:21 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | fix: correct null check in user service |
+| 2020-02-20 14:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | refactor: simplify authentication flow |
