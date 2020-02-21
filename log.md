@@ -4064,3 +4064,4 @@
 | 2020-02-20 14:42 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | feat: create background job processor |
 | 2020-02-21 10:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add pre-commit hooks |
 | 2020-02-21 10:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add user authentication endpoint |
+| 2020-02-21 11:35 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/critical-fix` | perf: optimize database queries |
