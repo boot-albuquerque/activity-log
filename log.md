@@ -4065,3 +4065,4 @@
 | 2020-02-21 10:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add pre-commit hooks |
 | 2020-02-21 10:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add user authentication endpoint |
 | 2020-02-21 11:35 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/critical-fix` | perf: optimize database queries |
+| 2020-02-21 14:10 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
