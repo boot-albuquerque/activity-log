@@ -4062,3 +4062,4 @@
 | 2020-02-20 14:21 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2020-02-20 14:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | refactor: simplify authentication flow |
 | 2020-02-20 14:42 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | feat: create background job processor |
+| 2020-02-21 10:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add pre-commit hooks |
