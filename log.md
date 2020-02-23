@@ -4069,3 +4069,4 @@
 | 2020-02-21 15:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | db: add migration for new schema |
 | 2020-02-21 17:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | infra: update Terraform modules |
 | 2020-02-22 18:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | docs: document environment variables |
+| 2020-02-23 12:25 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | refactor: extract business logic to service layer |
