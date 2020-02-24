@@ -4074,3 +4074,4 @@
 | 2020-02-23 16:12 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/validation-bug` | feat: create admin management interface |
 | 2020-02-23 22:08 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2020-02-24 09:26 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | infra: configure auto-scaling policies |
+| 2020-02-24 09:37 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | infra: update Terraform modules |
