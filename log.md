@@ -4077,3 +4077,4 @@
 | 2020-02-24 09:37 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | infra: update Terraform modules |
 | 2020-02-24 10:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | fix: handle empty response from external API |
 | 2020-02-24 11:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
+| 2020-02-24 12:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | feat: implement rate limiting middleware |
