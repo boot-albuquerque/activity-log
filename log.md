@@ -4082,3 +4082,4 @@
 | 2020-02-24 14:38 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2020-02-24 18:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | fix: handle timeout in async operation |
 | 2020-02-24 18:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | feat: create background job processor |
+| 2020-02-24 19:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | docs: add README setup instructions |
