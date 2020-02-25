@@ -4092,3 +4092,4 @@
 | 2020-02-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | feat: create background job processor |
 | 2020-02-25 13:46 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
 | 2020-02-25 14:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | security: update SSL certificates config |
+| 2020-02-25 14:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
