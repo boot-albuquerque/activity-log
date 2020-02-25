@@ -4083,3 +4083,4 @@
 | 2020-02-24 18:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | fix: handle timeout in async operation |
 | 2020-02-24 18:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | feat: create background job processor |
 | 2020-02-24 19:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | docs: add README setup instructions |
+| 2020-02-24 22:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: simplify authentication flow |
