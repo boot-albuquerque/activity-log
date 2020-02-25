@@ -4086,3 +4086,4 @@
 | 2020-02-24 22:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2020-02-25 00:04 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | db: optimize slow queries |
 | 2020-02-25 08:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: implement JWT refresh token |
+| 2020-02-25 10:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: simplify authentication flow |
