@@ -4088,3 +4088,4 @@
 | 2020-02-25 08:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: implement JWT refresh token |
 | 2020-02-25 10:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2020-02-25 12:33 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | style: format code according to style guide |
+| 2020-02-25 12:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | fix: correct null check in user service |
