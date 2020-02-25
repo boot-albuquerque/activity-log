@@ -4096,3 +4096,4 @@
 | 2020-02-25 15:49 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | feat: add audit log trail |
 | 2020-02-25 15:55 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2020-02-25 16:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | feat: add pagination to list endpoint |
+| 2020-02-25 16:36 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | refactor: move constants to config module |
