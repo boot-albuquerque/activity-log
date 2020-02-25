@@ -4098,3 +4098,4 @@
 | 2020-02-25 16:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | feat: add pagination to list endpoint |
 | 2020-02-25 16:36 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | refactor: move constants to config module |
 | 2020-02-25 19:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: implement caching layer |
+| 2020-02-25 20:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | security: fix SQL injection vulnerability |
