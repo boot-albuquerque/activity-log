@@ -4089,3 +4089,4 @@
 | 2020-02-25 10:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2020-02-25 12:33 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | style: format code according to style guide |
 | 2020-02-25 12:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | fix: correct null check in user service |
+| 2020-02-25 13:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | feat: create background job processor |
