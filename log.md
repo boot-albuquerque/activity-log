@@ -4101,3 +4101,4 @@
 | 2020-02-25 20:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2020-02-26 08:52 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: add audit log trail |
 | 2020-02-26 10:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | docs: document environment variables |
+| 2020-02-26 12:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: implement rate limiting middleware |
