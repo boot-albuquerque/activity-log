@@ -4100,3 +4100,4 @@
 | 2020-02-25 19:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: implement caching layer |
 | 2020-02-25 20:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2020-02-26 08:52 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: add audit log trail |
+| 2020-02-26 10:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | docs: document environment variables |
