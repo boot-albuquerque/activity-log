@@ -4103,3 +4103,4 @@
 | 2020-02-26 10:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | docs: document environment variables |
 | 2020-02-26 12:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: implement rate limiting middleware |
 | 2020-02-26 15:21 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add email notification on status change |
+| 2020-02-27 09:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | fix: correct pagination offset calculation |
