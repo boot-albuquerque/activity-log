@@ -4105,3 +4105,4 @@
 | 2020-02-26 15:21 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add email notification on status change |
 | 2020-02-27 09:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | fix: correct pagination offset calculation |
 | 2020-02-27 14:58 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | feat: create order processing service |
+| 2020-02-27 19:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | refactor: extract business logic to service layer |
