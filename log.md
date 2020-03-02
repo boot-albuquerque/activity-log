@@ -4109,3 +4109,4 @@
 | 2020-02-27 19:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2020-02-28 10:32 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | feat: add file upload support |
 | 2020-03-02 00:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | fix: correct pagination offset calculation |
+| 2020-03-02 09:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: improve test coverage to 80% |
