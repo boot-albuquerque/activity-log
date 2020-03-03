@@ -4118,3 +4118,4 @@
 | 2020-03-03 10:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: add bulk operations support |
 | 2020-03-03 11:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | test: mock external dependencies in tests |
 | 2020-03-03 11:26 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | db: add composite index |
+| 2020-03-03 14:24 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | fix: resolve memory leak in connection pool |
