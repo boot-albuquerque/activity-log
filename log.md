@@ -4126,3 +4126,4 @@
 | 2020-03-05 11:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | style: format code according to style guide |
 | 2020-03-05 12:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: implement caching layer |
 | 2020-03-05 13:42 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | feat: add search with filters |
+| 2020-03-05 18:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | style: fix indentation and whitespace |
