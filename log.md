@@ -4122,3 +4122,4 @@
 | 2020-03-03 15:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2020-03-03 16:19 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2020-03-03 23:23 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: create health check endpoint |
+| 2020-03-05 00:32 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: implement soft delete pattern |
