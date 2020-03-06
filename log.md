@@ -4128,3 +4128,4 @@
 | 2020-03-05 13:42 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | feat: add search with filters |
 | 2020-03-05 18:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | style: fix indentation and whitespace |
 | 2020-03-06 10:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | test: add e2e tests for checkout flow |
+| 2020-03-06 13:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | feat: add audit log trail |
