@@ -4135,3 +4135,4 @@
 | 2020-03-06 17:11 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | perf: optimize database queries |
 | 2020-03-06 18:42 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2020-03-06 19:12 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | test: improve test coverage to 80% |
+| 2020-03-06 20:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | test: add unit tests for payment service |
