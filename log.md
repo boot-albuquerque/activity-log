@@ -4146,3 +4146,4 @@
 | 2020-03-09 15:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: improve code readability |
 | 2020-03-10 10:19 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2020-03-10 11:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: handle malformed JSON input |
+| 2020-03-10 12:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | perf: reduce bundle size |
