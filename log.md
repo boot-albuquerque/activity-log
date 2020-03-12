@@ -4163,3 +4163,4 @@
 | 2020-03-12 14:35 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | feat: create admin management interface |
 | 2020-03-12 16:02 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | feat: implement caching layer |
 | 2020-03-12 16:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | db: add migration for new schema |
+| 2020-03-12 17:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | feat: create health check endpoint |
