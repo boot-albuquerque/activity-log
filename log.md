@@ -4157,3 +4157,4 @@
 | 2020-03-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | refactor: consolidate error handling |
 | 2020-03-11 21:40 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2020-03-11 23:46 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: correct validation error messages |
+| 2020-03-12 08:51 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | feat: add pagination to list endpoint |
