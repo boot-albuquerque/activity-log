@@ -4155,3 +4155,4 @@
 | 2020-03-11 12:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: cover edge cases in validator |
 | 2020-03-11 12:40 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | fix: resolve CORS configuration |
 | 2020-03-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | refactor: consolidate error handling |
+| 2020-03-11 21:40 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | test: fix flaky test in async handler |
