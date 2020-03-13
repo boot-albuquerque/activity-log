@@ -4168,3 +4168,4 @@
 | 2020-03-13 00:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2020-03-13 11:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | test: cover edge cases in validator |
 | 2020-03-13 14:05 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | test: add integration tests for API endpoints |
+| 2020-03-13 17:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: add pagination to list endpoint |
