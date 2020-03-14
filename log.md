@@ -4174,3 +4174,4 @@
 | 2020-03-13 21:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2020-03-13 23:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
 | 2020-03-14 12:44 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | fix: correct null check in user service |
+| 2020-03-14 12:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | refactor: improve code readability |
