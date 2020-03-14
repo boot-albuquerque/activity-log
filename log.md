@@ -4171,3 +4171,4 @@
 | 2020-03-13 17:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2020-03-13 19:20 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | feat: add email notification on status change |
 | 2020-03-13 19:47 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | feat: add search with filters |
+| 2020-03-13 21:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | fix: resolve CORS configuration |
