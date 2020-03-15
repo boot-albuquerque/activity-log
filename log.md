@@ -4178,3 +4178,4 @@
 | 2020-03-14 13:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | test: fix flaky test in async handler |
 | 2020-03-14 15:15 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | refactor: extract business logic to service layer |
 | 2020-03-15 14:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | security: add input sanitization |
+| 2020-03-15 18:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
