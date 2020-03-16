@@ -4186,3 +4186,4 @@
 | 2020-03-16 12:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: handle empty response from external API |
 | 2020-03-16 12:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2020-03-16 13:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
+| 2020-03-16 14:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | feat: create background job processor |
