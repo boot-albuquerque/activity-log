@@ -4182,3 +4182,4 @@
 | 2020-03-15 20:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | feat: create order processing service |
 | 2020-03-15 21:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct pagination offset calculation |
 | 2020-03-16 07:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | infra: configure auto-scaling policies |
+| 2020-03-16 12:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | fix: correct decimal precision in billing |
