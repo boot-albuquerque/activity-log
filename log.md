@@ -4183,3 +4183,4 @@
 | 2020-03-15 21:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct pagination offset calculation |
 | 2020-03-16 07:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | infra: configure auto-scaling policies |
 | 2020-03-16 12:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | fix: correct decimal precision in billing |
+| 2020-03-16 12:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: handle empty response from external API |
