@@ -4180,3 +4180,4 @@
 | 2020-03-15 14:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | security: add input sanitization |
 | 2020-03-15 18:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
 | 2020-03-15 20:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | feat: create order processing service |
+| 2020-03-15 21:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct pagination offset calculation |
