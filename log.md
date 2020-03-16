@@ -4188,3 +4188,4 @@
 | 2020-03-16 13:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
 | 2020-03-16 14:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | feat: create background job processor |
 | 2020-03-16 16:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
+| 2020-03-16 19:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: implement JWT refresh token |
