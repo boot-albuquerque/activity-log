@@ -4191,3 +4191,4 @@
 | 2020-03-16 19:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: implement JWT refresh token |
 | 2020-03-16 20:43 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2020-03-16 23:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | style: fix indentation and whitespace |
+| 2020-03-17 00:18 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | db: optimize slow queries |
