@@ -4193,3 +4193,4 @@
 | 2020-03-16 23:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2020-03-17 00:18 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | db: optimize slow queries |
 | 2020-03-17 08:16 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | chore: add pre-commit hooks |
+| 2020-03-17 10:45 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | docs: add README setup instructions |
