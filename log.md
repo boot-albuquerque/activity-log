@@ -4196,3 +4196,4 @@
 | 2020-03-17 10:45 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | docs: add README setup instructions |
 | 2020-03-17 12:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | test: mock external dependencies in tests |
 | 2020-03-17 14:13 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | test: add e2e tests for checkout flow |
+| 2020-03-17 14:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | security: fix SQL injection vulnerability |
