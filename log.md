@@ -4205,3 +4205,4 @@
 | 2020-03-19 10:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | style: format code according to style guide |
 | 2020-03-19 12:25 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | infra: configure auto-scaling policies |
 | 2020-03-19 14:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | chore: add Docker Compose for local dev |
+| 2020-03-19 15:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: create background job processor |
