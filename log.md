@@ -4201,3 +4201,4 @@
 | 2020-03-19 00:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2020-03-19 07:32 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2020-03-19 09:45 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | fix: resolve deadlock in transaction |
+| 2020-03-19 10:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
