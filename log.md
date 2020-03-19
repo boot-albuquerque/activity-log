@@ -4199,3 +4199,4 @@
 | 2020-03-17 14:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2020-03-17 23:52 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add export to CSV/Excel |
 | 2020-03-19 00:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | chore: configure ESLint and Prettier |
+| 2020-03-19 07:32 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | security: update SSL certificates config |
