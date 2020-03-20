@@ -4212,3 +4212,4 @@
 | 2020-03-20 10:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: add user authentication endpoint |
 | 2020-03-20 10:05 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | chore: configure GitHub Actions CI |
 | 2020-03-20 10:29 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | infra: update Terraform modules |
+| 2020-03-20 11:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | feat: add search with filters |
