@@ -4211,3 +4211,4 @@
 | 2020-03-20 00:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | fix: handle malformed JSON input |
 | 2020-03-20 10:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: add user authentication endpoint |
 | 2020-03-20 10:05 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | chore: configure GitHub Actions CI |
+| 2020-03-20 10:29 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | infra: update Terraform modules |
