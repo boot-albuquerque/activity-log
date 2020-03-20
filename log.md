@@ -4208,3 +4208,4 @@
 | 2020-03-19 15:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: create background job processor |
 | 2020-03-19 16:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: correct pagination offset calculation |
 | 2020-03-19 23:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | fix: resolve deadlock in transaction |
+| 2020-03-20 00:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | fix: handle malformed JSON input |
