@@ -4207,3 +4207,4 @@
 | 2020-03-19 14:22 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | chore: add Docker Compose for local dev |
 | 2020-03-19 15:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | feat: create background job processor |
 | 2020-03-19 16:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: correct pagination offset calculation |
+| 2020-03-19 23:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | fix: resolve deadlock in transaction |
