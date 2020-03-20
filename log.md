@@ -4219,3 +4219,4 @@
 | 2020-03-20 14:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | fix: correct cache invalidation logic |
 | 2020-03-20 14:45 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2020-03-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct validation error messages |
+| 2020-03-20 16:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | test: add performance benchmark tests |
