@@ -4221,3 +4221,4 @@
 | 2020-03-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct validation error messages |
 | 2020-03-20 16:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2020-03-20 17:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | feat: create background job processor |
+| 2020-03-22 10:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | security: add input sanitization |
