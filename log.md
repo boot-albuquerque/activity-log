@@ -4231,3 +4231,4 @@
 | 2020-03-23 15:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | chore: update dependencies |
 | 2020-03-23 15:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | refactor: improve code readability |
 | 2020-03-23 15:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | chore: add pre-commit hooks |
+| 2020-03-23 16:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | chore: configure GitHub Actions CI |
