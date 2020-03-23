@@ -4233,3 +4233,4 @@
 | 2020-03-23 15:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | chore: add pre-commit hooks |
 | 2020-03-23 16:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2020-03-23 17:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
+| 2020-03-23 20:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: resolve N+1 query problem |
