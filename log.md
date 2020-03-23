@@ -4223,3 +4223,4 @@
 | 2020-03-20 17:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | feat: create background job processor |
 | 2020-03-22 10:31 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | security: add input sanitization |
 | 2020-03-23 09:27 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | infra: update Terraform modules |
+| 2020-03-23 09:32 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | test: add unit tests for payment service |
