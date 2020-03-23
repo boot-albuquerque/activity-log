@@ -4227,3 +4227,4 @@
 | 2020-03-23 10:42 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | feat: add bulk operations support |
 | 2020-03-23 12:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add pagination to list endpoint |
 | 2020-03-23 12:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | docs: update API documentation |
+| 2020-03-23 14:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | test: mock external dependencies in tests |
