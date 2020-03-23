@@ -4230,3 +4230,4 @@
 | 2020-03-23 14:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2020-03-23 15:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | chore: update dependencies |
 | 2020-03-23 15:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | refactor: improve code readability |
+| 2020-03-23 15:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | chore: add pre-commit hooks |
