@@ -4244,3 +4244,4 @@
 | 2020-03-24 12:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | style: format code according to style guide |
 | 2020-03-24 14:01 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | perf: add database indexes |
 | 2020-03-24 14:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | security: update SSL certificates config |
+| 2020-03-24 15:00 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: correct decimal precision in billing |
