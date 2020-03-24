@@ -4237,3 +4237,4 @@
 | 2020-03-23 23:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | security: add input sanitization |
 | 2020-03-24 00:30 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2020-03-24 07:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | test: mock external dependencies in tests |
+| 2020-03-24 07:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: implement JWT refresh token |
