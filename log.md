@@ -4246,3 +4246,4 @@
 | 2020-03-24 14:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | security: update SSL certificates config |
 | 2020-03-24 15:00 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: correct decimal precision in billing |
 | 2020-03-24 17:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | perf: reduce bundle size |
+| 2020-03-24 17:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | db: add migration for new schema |
