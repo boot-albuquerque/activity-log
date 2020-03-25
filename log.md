@@ -4255,3 +4255,4 @@
 | 2020-03-25 11:14 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | feat: add OpenAPI documentation |
 | 2020-03-25 16:41 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | fix: correct null check in user service |
 | 2020-03-25 17:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2020-03-25 18:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | style: fix indentation and whitespace |
