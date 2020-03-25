@@ -4253,3 +4253,4 @@
 | 2020-03-25 00:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2020-03-25 10:18 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | feat: create admin management interface |
 | 2020-03-25 11:14 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | feat: add OpenAPI documentation |
+| 2020-03-25 16:41 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | fix: correct null check in user service |
