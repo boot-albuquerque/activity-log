@@ -4257,3 +4257,4 @@
 | 2020-03-25 17:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2020-03-25 18:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2020-03-25 19:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | fix: correct validation error messages |
+| 2020-03-25 23:54 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add pagination to list endpoint |
