@@ -4260,3 +4260,4 @@
 | 2020-03-25 23:54 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add pagination to list endpoint |
 | 2020-03-26 13:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | feat: add email notification on status change |
 | 2020-03-28 19:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | feat: create health check endpoint |
+| 2020-03-29 15:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | perf: add database indexes |
