@@ -4265,3 +4265,4 @@
 | 2020-03-31 00:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | feat: create health check endpoint |
 | 2020-03-31 18:59 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | test: cover edge cases in validator |
 | 2020-03-31 19:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | refactor: replace raw SQL with query builder |
+| 2020-03-31 20:02 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | perf: optimize database queries |
