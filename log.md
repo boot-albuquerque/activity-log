@@ -4263,3 +4263,4 @@
 | 2020-03-29 15:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | perf: add database indexes |
 | 2020-03-29 19:49 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: implement soft delete pattern |
 | 2020-03-31 00:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | feat: create health check endpoint |
+| 2020-03-31 18:59 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | test: cover edge cases in validator |
