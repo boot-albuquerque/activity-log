@@ -4270,3 +4270,4 @@
 | 2020-04-01 10:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: create background job processor |
 | 2020-04-01 12:45 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: implement response compression |
 | 2020-04-01 13:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | test: add performance benchmark tests |
+| 2020-04-01 13:32 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | infra: add Kubernetes manifests |
