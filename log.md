@@ -4276,3 +4276,4 @@
 | 2020-04-01 16:21 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | feat: add real-time notifications |
 | 2020-04-01 18:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2020-04-01 18:33 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | ci: configure staging environment |
+| 2020-04-01 19:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | chore: add Docker Compose for local dev |
