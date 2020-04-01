@@ -4272,3 +4272,4 @@
 | 2020-04-01 13:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | test: add performance benchmark tests |
 | 2020-04-01 13:32 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2020-04-01 13:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | refactor: improve code readability |
+| 2020-04-01 14:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | refactor: extract business logic to service layer |
