@@ -4282,3 +4282,4 @@
 | 2020-04-02 09:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2020-04-02 09:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | ci: configure staging environment |
 | 2020-04-02 15:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | fix: resolve CORS configuration |
+| 2020-04-02 18:47 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | refactor: consolidate error handling |
