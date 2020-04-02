@@ -4280,3 +4280,4 @@
 | 2020-04-01 22:54 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2020-04-01 23:28 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: consolidate error handling |
 | 2020-04-02 09:34 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | fix: correct null check in user service |
+| 2020-04-02 09:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | ci: configure staging environment |
