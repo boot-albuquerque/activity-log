@@ -4289,3 +4289,4 @@
 | 2020-04-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: create dashboard metrics endpoint |
 | 2020-04-03 14:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | docs: add README setup instructions |
 | 2020-04-03 18:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | feat: implement webhook receiver |
+| 2020-04-03 18:33 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | perf: reduce bundle size |
