@@ -4286,3 +4286,4 @@
 | 2020-04-03 09:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | test: cover edge cases in validator |
 | 2020-04-03 10:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: add real-time notifications |
 | 2020-04-03 13:18 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | test: fix flaky test in async handler |
+| 2020-04-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: create dashboard metrics endpoint |
