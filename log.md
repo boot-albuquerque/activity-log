@@ -4295,3 +4295,4 @@
 | 2020-04-06 00:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | chore: update dependencies |
 | 2020-04-06 10:08 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | refactor: simplify authentication flow |
 | 2020-04-06 10:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | style: format code according to style guide |
+| 2020-04-06 10:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | infra: add Kubernetes manifests |
