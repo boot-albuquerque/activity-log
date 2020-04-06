@@ -4301,3 +4301,4 @@
 | 2020-04-06 16:26 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2020-04-06 17:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | docs: add README setup instructions |
 | 2020-04-06 18:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | security: add input sanitization |
+| 2020-04-06 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: implement caching layer |
