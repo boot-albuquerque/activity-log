@@ -4299,3 +4299,4 @@
 | 2020-04-06 12:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: implement rate limiting middleware |
 | 2020-04-06 13:18 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | db: add migration for new schema |
 | 2020-04-06 16:26 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | chore: configure GitHub Actions CI |
+| 2020-04-06 17:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | docs: add README setup instructions |
