@@ -4298,3 +4298,4 @@
 | 2020-04-06 10:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | infra: add Kubernetes manifests |
 | 2020-04-06 12:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: implement rate limiting middleware |
 | 2020-04-06 13:18 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | db: add migration for new schema |
+| 2020-04-06 16:26 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | chore: configure GitHub Actions CI |
