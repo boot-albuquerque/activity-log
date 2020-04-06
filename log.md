@@ -4296,3 +4296,4 @@
 | 2020-04-06 10:08 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | refactor: simplify authentication flow |
 | 2020-04-06 10:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | style: format code according to style guide |
 | 2020-04-06 10:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | infra: add Kubernetes manifests |
+| 2020-04-06 12:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: implement rate limiting middleware |
