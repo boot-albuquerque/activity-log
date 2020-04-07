@@ -4304,3 +4304,4 @@
 | 2020-04-06 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: implement caching layer |
 | 2020-04-07 00:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2020-04-07 00:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: create admin management interface |
+| 2020-04-07 09:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: configure staging environment |
