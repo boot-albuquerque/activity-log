@@ -4302,3 +4302,4 @@
 | 2020-04-06 17:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | docs: add README setup instructions |
 | 2020-04-06 18:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | security: add input sanitization |
 | 2020-04-06 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: implement caching layer |
+| 2020-04-07 00:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | refactor: improve code readability |
