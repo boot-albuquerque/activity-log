@@ -4306,3 +4306,4 @@
 | 2020-04-07 00:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: create admin management interface |
 | 2020-04-07 09:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: configure staging environment |
 | 2020-04-07 09:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | feat: add real-time notifications |
+| 2020-04-07 11:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | feat: create admin management interface |
