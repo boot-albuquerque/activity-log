@@ -4312,3 +4312,4 @@
 | 2020-04-07 13:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/rate-limiting` | fix: correct pagination offset calculation |
 | 2020-04-07 13:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | feat: create dashboard metrics endpoint |
 | 2020-04-07 15:01 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: add export to CSV/Excel |
+| 2020-04-07 15:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | test: fix flaky test in async handler |
