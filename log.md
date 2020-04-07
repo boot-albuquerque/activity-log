@@ -4315,3 +4315,4 @@
 | 2020-04-07 15:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | test: fix flaky test in async handler |
 | 2020-04-07 15:29 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2020-04-07 15:42 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | feat: add search with filters |
+| 2020-04-07 17:09 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | security: fix SQL injection vulnerability |
