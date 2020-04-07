@@ -4309,3 +4309,4 @@
 | 2020-04-07 11:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | feat: create admin management interface |
 | 2020-04-07 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | test: fix flaky test in async handler |
 | 2020-04-07 13:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
+| 2020-04-07 13:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/rate-limiting` | fix: correct pagination offset calculation |
