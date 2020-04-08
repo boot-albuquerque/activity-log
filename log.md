@@ -4322,3 +4322,4 @@
 | 2020-04-08 12:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | test: add integration tests for API endpoints |
 | 2020-04-08 13:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | fix: handle missing environment variable |
 | 2020-04-08 13:35 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | infra: configure auto-scaling policies |
+| 2020-04-08 14:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: add user authentication endpoint |
