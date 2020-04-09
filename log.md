@@ -4327,3 +4327,4 @@
 | 2020-04-09 10:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: mock external dependencies in tests |
 | 2020-04-09 16:32 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement caching layer |
 | 2020-04-09 17:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
+| 2020-04-09 20:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | security: update SSL certificates config |
