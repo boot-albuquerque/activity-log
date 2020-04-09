@@ -4324,3 +4324,4 @@
 | 2020-04-08 13:35 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | infra: configure auto-scaling policies |
 | 2020-04-08 14:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: add user authentication endpoint |
 | 2020-04-08 22:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
+| 2020-04-09 10:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: mock external dependencies in tests |
