@@ -4328,3 +4328,4 @@
 | 2020-04-09 16:32 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement caching layer |
 | 2020-04-09 17:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
 | 2020-04-09 20:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | security: update SSL certificates config |
+| 2020-04-09 23:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
