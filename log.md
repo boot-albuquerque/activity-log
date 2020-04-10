@@ -4333,3 +4333,4 @@
 | 2020-04-10 12:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | test: add unit tests for payment service |
 | 2020-04-10 16:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | security: fix SQL injection vulnerability |
 | 2020-04-10 16:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | fix: handle edge case in date parsing |
+| 2020-04-10 17:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | feat: implement JWT refresh token |
