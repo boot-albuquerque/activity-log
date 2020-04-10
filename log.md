@@ -4331,3 +4331,4 @@
 | 2020-04-09 23:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2020-04-10 11:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | chore: add Docker Compose for local dev |
 | 2020-04-10 12:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | test: add unit tests for payment service |
+| 2020-04-10 16:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | security: fix SQL injection vulnerability |
