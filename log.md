@@ -4336,3 +4336,4 @@
 | 2020-04-10 17:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | feat: implement JWT refresh token |
 | 2020-04-10 19:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2020-04-10 22:08 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2020-04-12 11:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | refactor: consolidate error handling |
