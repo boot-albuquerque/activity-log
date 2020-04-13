@@ -4348,3 +4348,4 @@
 | 2020-04-13 12:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2020-04-13 12:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2020-04-13 14:33 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | db: add composite index |
+| 2020-04-13 17:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | refactor: adopt repository pattern |
