@@ -4343,3 +4343,4 @@
 | 2020-04-13 09:17 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | feat: add bulk operations support |
 | 2020-04-13 10:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: handle timeout in async operation |
 | 2020-04-13 11:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | feat: implement webhook receiver |
+| 2020-04-13 11:31 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: resolve memory leak in connection pool |
