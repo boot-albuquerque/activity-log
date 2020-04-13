@@ -4345,3 +4345,4 @@
 | 2020-04-13 11:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | feat: implement webhook receiver |
 | 2020-04-13 11:31 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2020-04-13 11:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | feat: add file upload support |
+| 2020-04-13 12:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
