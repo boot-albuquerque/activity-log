@@ -4350,3 +4350,4 @@
 | 2020-04-13 14:33 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | db: add composite index |
 | 2020-04-13 17:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | refactor: adopt repository pattern |
 | 2020-04-13 21:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: handle missing environment variable |
+| 2020-04-13 21:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | fix: resolve CORS configuration |
