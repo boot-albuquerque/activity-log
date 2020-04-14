@@ -4369,3 +4369,4 @@
 | 2020-04-14 16:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | refactor: adopt repository pattern |
 | 2020-04-14 16:53 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | infra: update Terraform modules |
 | 2020-04-14 17:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | refactor: consolidate error handling |
+| 2020-04-14 19:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | fix: correct null check in user service |
