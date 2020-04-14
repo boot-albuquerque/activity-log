@@ -4353,3 +4353,4 @@
 | 2020-04-13 21:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | fix: resolve CORS configuration |
 | 2020-04-13 21:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | refactor: adopt repository pattern |
 | 2020-04-13 23:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: implement webhook receiver |
+| 2020-04-14 00:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | ci: configure staging environment |
