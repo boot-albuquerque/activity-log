@@ -4360,3 +4360,4 @@
 | 2020-04-14 10:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | db: add composite index |
 | 2020-04-14 12:24 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: add real-time notifications |
 | 2020-04-14 12:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | perf: optimize database queries |
+| 2020-04-14 12:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add search with filters |
