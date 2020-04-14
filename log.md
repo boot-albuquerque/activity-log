@@ -4362,3 +4362,4 @@
 | 2020-04-14 12:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | perf: optimize database queries |
 | 2020-04-14 12:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add search with filters |
 | 2020-04-14 14:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: handle empty response from external API |
+| 2020-04-14 14:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | fix: handle empty response from external API |
