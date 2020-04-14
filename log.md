@@ -4364,3 +4364,4 @@
 | 2020-04-14 14:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2020-04-14 14:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | fix: handle empty response from external API |
 | 2020-04-14 14:39 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | refactor: reduce cyclomatic complexity |
+| 2020-04-14 16:16 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | docs: add README setup instructions |
