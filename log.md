@@ -4374,3 +4374,4 @@
 | 2020-04-14 21:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2020-04-15 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create order processing service |
 | 2020-04-15 16:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add real-time notifications |
+| 2020-04-15 16:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: resolve race condition in queue worker |
