@@ -4372,3 +4372,4 @@
 | 2020-04-14 19:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2020-04-14 19:39 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2020-04-14 21:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: add user authentication endpoint |
+| 2020-04-15 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create order processing service |
