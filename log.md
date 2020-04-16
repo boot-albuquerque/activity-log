@@ -4376,3 +4376,4 @@
 | 2020-04-15 16:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add real-time notifications |
 | 2020-04-15 16:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: resolve race condition in queue worker |
 | 2020-04-15 20:24 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | test: cover edge cases in validator |
+| 2020-04-16 08:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve race condition in queue worker |
