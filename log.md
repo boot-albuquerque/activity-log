@@ -4380,3 +4380,4 @@
 | 2020-04-16 11:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2020-04-16 12:14 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2020-04-16 12:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: implement rate limiting middleware |
+| 2020-04-16 13:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | db: add composite index |
