@@ -4382,3 +4382,4 @@
 | 2020-04-16 12:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: implement rate limiting middleware |
 | 2020-04-16 13:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | db: add composite index |
 | 2020-04-16 13:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
+| 2020-04-16 18:21 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | refactor: split large controller into smaller ones |
