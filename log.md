@@ -4375,3 +4375,4 @@
 | 2020-04-15 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create order processing service |
 | 2020-04-15 16:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add real-time notifications |
 | 2020-04-15 16:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: resolve race condition in queue worker |
+| 2020-04-15 20:24 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | test: cover edge cases in validator |
