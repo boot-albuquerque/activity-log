@@ -4386,3 +4386,4 @@
 | 2020-04-16 21:04 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | refactor: extract business logic to service layer |
 | 2020-04-16 22:01 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | perf: add database indexes |
 | 2020-04-16 23:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | fix: correct validation error messages |
+| 2020-04-17 10:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add bulk operations support |
