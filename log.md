@@ -4383,3 +4383,4 @@
 | 2020-04-16 13:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | db: add composite index |
 | 2020-04-16 13:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
 | 2020-04-16 18:21 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | refactor: split large controller into smaller ones |
+| 2020-04-16 21:04 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | refactor: extract business logic to service layer |
