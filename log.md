@@ -4391,3 +4391,4 @@
 | 2020-04-17 14:24 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | db: optimize slow queries |
 | 2020-04-17 14:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | perf: add database indexes |
 | 2020-04-17 16:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2020-04-17 18:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: configure ESLint and Prettier |
