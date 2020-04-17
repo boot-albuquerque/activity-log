@@ -4388,3 +4388,4 @@
 | 2020-04-16 23:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | fix: correct validation error messages |
 | 2020-04-17 10:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | feat: add bulk operations support |
 | 2020-04-17 11:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | perf: implement response compression |
+| 2020-04-17 14:24 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | db: optimize slow queries |
