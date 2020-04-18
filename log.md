@@ -4395,3 +4395,4 @@
 | 2020-04-17 18:33 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2020-04-17 18:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2020-04-17 21:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2020-04-17 23:23 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | feat: implement webhook receiver |
