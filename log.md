@@ -4396,3 +4396,4 @@
 | 2020-04-17 18:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2020-04-17 21:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2020-04-17 23:23 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | feat: implement webhook receiver |
+| 2020-04-18 13:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | test: cover edge cases in validator |
