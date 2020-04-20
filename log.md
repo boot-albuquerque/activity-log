@@ -4406,3 +4406,4 @@
 | 2020-04-20 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | refactor: adopt repository pattern |
 | 2020-04-20 12:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | security: add input sanitization |
 | 2020-04-20 13:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/update-deps` | test: mock external dependencies in tests |
+| 2020-04-20 14:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | test: mock external dependencies in tests |
