@@ -4402,3 +4402,4 @@
 | 2020-04-19 13:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | ci: configure staging environment |
 | 2020-04-20 11:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: add automated deployment pipeline |
 | 2020-04-20 11:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | db: add composite index |
+| 2020-04-20 12:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | feat: add email notification on status change |
