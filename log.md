@@ -4400,3 +4400,4 @@
 | 2020-04-18 19:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2020-04-19 12:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | security: add input sanitization |
 | 2020-04-19 13:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | ci: configure staging environment |
+| 2020-04-20 11:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | ci: add automated deployment pipeline |
