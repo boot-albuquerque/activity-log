@@ -4412,3 +4412,4 @@
 | 2020-04-20 20:53 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2020-04-20 21:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | feat: create admin management interface |
 | 2020-04-20 22:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: add Kubernetes manifests |
+| 2020-04-20 23:52 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | security: add input sanitization |
