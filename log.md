@@ -4419,3 +4419,4 @@
 | 2020-04-22 11:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | chore: configure ESLint and Prettier |
 | 2020-04-22 12:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2020-04-22 13:07 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | feat: add export to CSV/Excel |
+| 2020-04-22 14:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | feat: implement rate limiting middleware |
