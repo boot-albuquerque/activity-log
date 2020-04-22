@@ -4421,3 +4421,4 @@
 | 2020-04-22 13:07 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2020-04-22 14:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2020-04-22 14:11 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | refactor: extract business logic to service layer |
+| 2020-04-22 14:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
