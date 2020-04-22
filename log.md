@@ -4414,3 +4414,4 @@
 | 2020-04-20 22:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: add Kubernetes manifests |
 | 2020-04-20 23:52 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | security: add input sanitization |
 | 2020-04-22 10:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: consolidate error handling |
+| 2020-04-22 11:09 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: handle edge case in date parsing |
