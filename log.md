@@ -4417,3 +4417,4 @@
 | 2020-04-22 11:09 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: handle edge case in date parsing |
 | 2020-04-22 11:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/refactor-queries` | fix: handle edge case in date parsing |
 | 2020-04-22 11:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | chore: configure ESLint and Prettier |
+| 2020-04-22 12:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | fix: correct pagination offset calculation |
