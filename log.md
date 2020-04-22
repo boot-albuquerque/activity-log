@@ -4426,3 +4426,4 @@
 | 2020-04-22 15:43 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2020-04-22 15:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: implement webhook receiver |
 | 2020-04-22 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | perf: optimize database queries |
+| 2020-04-22 20:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | refactor: split large controller into smaller ones |
