@@ -4433,3 +4433,4 @@
 | 2020-04-23 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | security: add input sanitization |
 | 2020-04-23 13:47 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2020-04-23 14:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | test: mock external dependencies in tests |
+| 2020-04-23 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: implement JWT refresh token |
