@@ -4431,3 +4431,4 @@
 | 2020-04-22 22:24 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | perf: optimize database queries |
 | 2020-04-23 08:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2020-04-23 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | security: add input sanitization |
+| 2020-04-23 13:47 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
