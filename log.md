@@ -4428,3 +4428,4 @@
 | 2020-04-22 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | perf: optimize database queries |
 | 2020-04-22 20:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | refactor: split large controller into smaller ones |
 | 2020-04-22 20:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
+| 2020-04-22 22:24 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | perf: optimize database queries |
