@@ -4438,3 +4438,4 @@
 | 2020-04-24 13:19 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | fix: handle missing environment variable |
 | 2020-04-24 14:11 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2020-04-24 16:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | chore: update dependencies |
+| 2020-04-24 17:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | refactor: reduce cyclomatic complexity |
