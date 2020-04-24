@@ -4436,3 +4436,4 @@
 | 2020-04-23 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: implement JWT refresh token |
 | 2020-04-23 18:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: create background job processor |
 | 2020-04-24 13:19 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | fix: handle missing environment variable |
+| 2020-04-24 14:11 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle empty response from external API |
