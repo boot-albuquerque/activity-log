@@ -4446,3 +4446,4 @@
 | 2020-04-27 09:52 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | feat: implement caching layer |
 | 2020-04-27 11:06 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/auth-improvements` | refactor: improve code readability |
 | 2020-04-27 11:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | docs: document environment variables |
+| 2020-04-27 12:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: add pagination to list endpoint |
