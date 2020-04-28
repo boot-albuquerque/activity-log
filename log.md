@@ -4450,3 +4450,4 @@
 | 2020-04-27 13:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2020-04-27 14:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2020-04-27 18:50 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | feat: implement JWT refresh token |
+| 2020-04-27 23:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | security: update SSL certificates config |
