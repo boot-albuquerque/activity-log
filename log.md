@@ -4451,3 +4451,4 @@
 | 2020-04-27 14:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2020-04-27 18:50 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | feat: implement JWT refresh token |
 | 2020-04-27 23:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | security: update SSL certificates config |
+| 2020-04-28 09:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct decimal precision in billing |
