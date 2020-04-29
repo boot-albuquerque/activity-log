@@ -4464,3 +4464,4 @@
 | 2020-04-29 10:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2020-04-29 11:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | security: add input sanitization |
 | 2020-04-29 12:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | refactor: adopt repository pattern |
+| 2020-04-29 12:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | docs: add README setup instructions |
