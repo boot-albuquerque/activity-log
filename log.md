@@ -4469,3 +4469,4 @@
 | 2020-04-29 14:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | perf: optimize database queries |
 | 2020-04-29 16:09 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2020-04-29 18:52 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | chore: update dependencies |
+| 2020-04-29 18:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | test: add integration tests for API endpoints |
