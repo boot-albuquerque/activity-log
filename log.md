@@ -4466,3 +4466,4 @@
 | 2020-04-29 12:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | refactor: adopt repository pattern |
 | 2020-04-29 12:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | docs: add README setup instructions |
 | 2020-04-29 12:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: resolve race condition in queue worker |
+| 2020-04-29 14:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | perf: optimize database queries |
