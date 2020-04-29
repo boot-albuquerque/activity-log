@@ -4460,3 +4460,4 @@
 | 2020-04-28 18:21 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2020-04-28 18:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: add file upload support |
 | 2020-04-29 07:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle edge case in date parsing |
+| 2020-04-29 09:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | docs: update API documentation |
