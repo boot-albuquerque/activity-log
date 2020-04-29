@@ -4462,3 +4462,4 @@
 | 2020-04-29 07:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2020-04-29 09:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | docs: update API documentation |
 | 2020-04-29 10:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | refactor: simplify authentication flow |
+| 2020-04-29 11:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | security: add input sanitization |
