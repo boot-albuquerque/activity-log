@@ -4474,3 +4474,4 @@
 | 2020-04-29 23:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | feat: implement webhook receiver |
 | 2020-04-30 13:02 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | feat: create order processing service |
 | 2020-04-30 13:36 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | feat: add real-time notifications |
+| 2020-04-30 15:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | chore: add pre-commit hooks |
