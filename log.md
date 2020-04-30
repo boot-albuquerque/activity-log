@@ -4471,3 +4471,4 @@
 | 2020-04-29 18:52 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | chore: update dependencies |
 | 2020-04-29 18:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2020-04-29 21:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | refactor: move constants to config module |
+| 2020-04-29 23:23 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | feat: implement webhook receiver |
