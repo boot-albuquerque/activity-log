@@ -4482,3 +4482,4 @@
 | 2020-05-01 10:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: create admin management interface |
 | 2020-05-01 13:37 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-05-01 15:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: add real-time notifications |
+| 2020-05-01 15:34 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | fix: correct validation error messages |
