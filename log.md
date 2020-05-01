@@ -4479,3 +4479,4 @@
 | 2020-04-30 18:15 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | db: optimize slow queries |
 | 2020-04-30 19:16 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2020-05-01 10:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/pagination` | test: fix flaky test in async handler |
+| 2020-05-01 10:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: create admin management interface |
