@@ -4481,3 +4481,4 @@
 | 2020-05-01 10:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/pagination` | test: fix flaky test in async handler |
 | 2020-05-01 10:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: create admin management interface |
 | 2020-05-01 13:37 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | db: add migration for new schema |
+| 2020-05-01 15:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: add real-time notifications |
