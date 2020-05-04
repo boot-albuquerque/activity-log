@@ -4484,3 +4484,4 @@
 | 2020-05-01 15:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: add real-time notifications |
 | 2020-05-01 15:34 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | fix: correct validation error messages |
 | 2020-05-03 07:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add file upload support |
+| 2020-05-03 23:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | chore: update dependencies |
