@@ -4491,3 +4491,4 @@
 | 2020-05-04 12:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: create order processing service |
 | 2020-05-04 14:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | docs: document environment variables |
 | 2020-05-04 14:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | feat: add export to CSV/Excel |
+| 2020-05-04 15:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle malformed JSON input |
