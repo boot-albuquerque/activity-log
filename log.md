@@ -4489,3 +4489,4 @@
 | 2020-05-04 11:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | feat: add bulk operations support |
 | 2020-05-04 11:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: extract business logic to service layer |
 | 2020-05-04 12:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: create order processing service |
+| 2020-05-04 14:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | docs: document environment variables |
