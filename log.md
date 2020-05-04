@@ -4490,3 +4490,4 @@
 | 2020-05-04 11:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: extract business logic to service layer |
 | 2020-05-04 12:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: create order processing service |
 | 2020-05-04 14:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | docs: document environment variables |
+| 2020-05-04 14:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | feat: add export to CSV/Excel |
