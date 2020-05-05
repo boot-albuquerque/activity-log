@@ -4498,3 +4498,4 @@
 | 2020-05-05 07:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | test: add performance benchmark tests |
 | 2020-05-05 08:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add bulk operations support |
 | 2020-05-05 09:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | docs: add README setup instructions |
+| 2020-05-05 13:33 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | feat: add export to CSV/Excel |
