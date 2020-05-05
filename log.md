@@ -4504,3 +4504,4 @@
 | 2020-05-05 16:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | db: add migration for new schema |
 | 2020-05-05 17:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | perf: optimize database queries |
 | 2020-05-05 18:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | style: fix indentation and whitespace |
+| 2020-05-05 18:56 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | refactor: consolidate error handling |
