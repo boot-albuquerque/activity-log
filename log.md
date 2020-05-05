@@ -4497,3 +4497,4 @@
 | 2020-05-05 00:55 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2020-05-05 07:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | test: add performance benchmark tests |
 | 2020-05-05 08:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add bulk operations support |
+| 2020-05-05 09:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | docs: add README setup instructions |
