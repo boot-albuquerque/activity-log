@@ -4499,3 +4499,4 @@
 | 2020-05-05 08:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add bulk operations support |
 | 2020-05-05 09:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | docs: add README setup instructions |
 | 2020-05-05 13:33 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | feat: add export to CSV/Excel |
+| 2020-05-05 13:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
