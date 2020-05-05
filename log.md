@@ -4495,3 +4495,4 @@
 | 2020-05-05 00:52 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2020-05-05 00:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | refactor: split large controller into smaller ones |
 | 2020-05-05 00:55 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: correct decimal precision in billing |
+| 2020-05-05 07:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | test: add performance benchmark tests |
