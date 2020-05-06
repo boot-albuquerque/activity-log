@@ -4506,3 +4506,4 @@
 | 2020-05-05 18:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | style: fix indentation and whitespace |
 | 2020-05-05 18:56 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | refactor: consolidate error handling |
 | 2020-05-05 23:30 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2020-05-05 23:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
