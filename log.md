@@ -4513,3 +4513,4 @@
 | 2020-05-06 23:20 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2020-05-07 09:44 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2020-05-07 12:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | security: add input sanitization |
+| 2020-05-07 12:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | feat: implement soft delete pattern |
