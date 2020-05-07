@@ -4519,3 +4519,4 @@
 | 2020-05-07 17:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | fix: handle timeout in async operation |
 | 2020-05-07 18:59 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2020-05-07 20:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | refactor: simplify authentication flow |
+| 2020-05-07 20:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add email notification on status change |
