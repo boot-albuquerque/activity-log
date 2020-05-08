@@ -4525,3 +4525,4 @@
 | 2020-05-08 00:35 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | db: add migration for new schema |
 | 2020-05-08 00:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | docs: document environment variables |
 | 2020-05-08 09:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: correct validation error messages |
+| 2020-05-08 10:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | fix: handle empty response from external API |
