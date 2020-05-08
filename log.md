@@ -4521,3 +4521,4 @@
 | 2020-05-07 20:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | refactor: simplify authentication flow |
 | 2020-05-07 20:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add email notification on status change |
 | 2020-05-07 23:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | refactor: move constants to config module |
+| 2020-05-07 23:49 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | feat: create health check endpoint |
