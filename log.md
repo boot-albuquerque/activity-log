@@ -4523,3 +4523,4 @@
 | 2020-05-07 23:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | refactor: move constants to config module |
 | 2020-05-07 23:49 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | feat: create health check endpoint |
 | 2020-05-08 00:35 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | db: add migration for new schema |
+| 2020-05-08 00:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | docs: document environment variables |
