@@ -4527,3 +4527,4 @@
 | 2020-05-08 09:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: correct validation error messages |
 | 2020-05-08 10:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | fix: handle empty response from external API |
 | 2020-05-08 12:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | feat: implement JWT refresh token |
+| 2020-05-08 12:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | db: add migration for new schema |
