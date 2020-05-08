@@ -4529,3 +4529,4 @@
 | 2020-05-08 12:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | feat: implement JWT refresh token |
 | 2020-05-08 12:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | db: add migration for new schema |
 | 2020-05-08 13:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | feat: add real-time notifications |
+| 2020-05-08 14:30 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | fix: resolve memory leak in connection pool |
