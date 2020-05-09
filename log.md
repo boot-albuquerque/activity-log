@@ -4533,3 +4533,4 @@
 | 2020-05-08 16:13 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: add unit tests for payment service |
 | 2020-05-08 17:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/auth-improvements` | feat: add search with filters |
 | 2020-05-08 17:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
+| 2020-05-08 20:45 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: create background job processor |
