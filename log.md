@@ -4535,3 +4535,4 @@
 | 2020-05-08 17:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
 | 2020-05-08 20:45 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: create background job processor |
 | 2020-05-08 21:46 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | test: add performance benchmark tests |
+| 2020-05-09 12:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | test: improve test coverage to 80% |
