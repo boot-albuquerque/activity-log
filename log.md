@@ -4538,3 +4538,4 @@
 | 2020-05-09 12:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | test: improve test coverage to 80% |
 | 2020-05-09 14:44 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | feat: create admin management interface |
 | 2020-05-10 12:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add audit log trail |
+| 2020-05-10 19:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | style: format code according to style guide |
