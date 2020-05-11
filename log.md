@@ -4545,3 +4545,4 @@
 | 2020-05-11 12:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | db: add migration for new schema |
 | 2020-05-11 12:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2020-05-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | fix: correct cache invalidation logic |
+| 2020-05-11 13:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: add email notification on status change |
