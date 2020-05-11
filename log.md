@@ -4547,3 +4547,4 @@
 | 2020-05-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | fix: correct cache invalidation logic |
 | 2020-05-11 13:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: add email notification on status change |
 | 2020-05-11 15:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | perf: optimize database queries |
+| 2020-05-11 16:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/null-pointer` | ci: configure staging environment |
