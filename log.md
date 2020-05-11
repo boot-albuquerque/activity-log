@@ -4540,3 +4540,4 @@
 | 2020-05-10 12:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add audit log trail |
 | 2020-05-10 19:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | style: format code according to style guide |
 | 2020-05-11 08:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | fix: correct pagination offset calculation |
+| 2020-05-11 09:53 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
