@@ -4544,3 +4544,4 @@
 | 2020-05-11 09:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | feat: create health check endpoint |
 | 2020-05-11 12:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | db: add migration for new schema |
 | 2020-05-11 12:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: correct null check in user service |
+| 2020-05-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | fix: correct cache invalidation logic |
