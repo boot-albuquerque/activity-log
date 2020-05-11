@@ -4541,3 +4541,4 @@
 | 2020-05-10 19:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | style: format code according to style guide |
 | 2020-05-11 08:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | fix: correct pagination offset calculation |
 | 2020-05-11 09:53 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
+| 2020-05-11 09:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | feat: create health check endpoint |
