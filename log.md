@@ -4551,3 +4551,4 @@
 | 2020-05-11 18:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2020-05-12 11:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | infra: add Kubernetes manifests |
 | 2020-05-12 12:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: add unit tests for payment service |
+| 2020-05-12 16:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | chore: upgrade to latest Node.js LTS |
