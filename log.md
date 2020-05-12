@@ -4549,3 +4549,4 @@
 | 2020-05-11 15:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | perf: optimize database queries |
 | 2020-05-11 16:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/null-pointer` | ci: configure staging environment |
 | 2020-05-11 18:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | feat: add user authentication endpoint |
+| 2020-05-12 11:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | infra: add Kubernetes manifests |
