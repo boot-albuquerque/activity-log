@@ -4553,3 +4553,4 @@
 | 2020-05-12 12:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: add unit tests for payment service |
 | 2020-05-12 16:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2020-05-12 17:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | fix: correct cache invalidation logic |
+| 2020-05-12 17:28 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: correct null check in user service |
