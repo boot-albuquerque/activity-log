@@ -4556,3 +4556,4 @@
 | 2020-05-12 17:28 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: correct null check in user service |
 | 2020-05-12 17:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | feat: add bulk operations support |
 | 2020-05-13 00:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | security: add input sanitization |
+| 2020-05-13 14:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle malformed JSON input |
