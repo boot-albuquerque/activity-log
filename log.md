@@ -4558,3 +4558,4 @@
 | 2020-05-13 00:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | security: add input sanitization |
 | 2020-05-13 14:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle malformed JSON input |
 | 2020-05-13 15:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add audit log trail |
+| 2020-05-13 18:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | test: fix flaky test in async handler |
