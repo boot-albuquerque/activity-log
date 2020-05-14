@@ -4559,3 +4559,4 @@
 | 2020-05-13 14:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle malformed JSON input |
 | 2020-05-13 15:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add audit log trail |
 | 2020-05-13 18:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | test: fix flaky test in async handler |
+| 2020-05-13 23:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: create admin management interface |
