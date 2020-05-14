@@ -4562,3 +4562,4 @@
 | 2020-05-13 23:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | feat: create admin management interface |
 | 2020-05-14 07:24 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | db: add migration for new schema |
 | 2020-05-14 10:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | infra: add Kubernetes manifests |
+| 2020-05-14 11:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | feat: add export to CSV/Excel |
