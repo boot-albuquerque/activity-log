@@ -4571,3 +4571,4 @@
 | 2020-05-15 14:08 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | refactor: improve code readability |
 | 2020-05-15 15:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add bulk operations support |
 | 2020-05-15 17:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
+| 2020-05-15 18:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | db: add migration for new schema |
