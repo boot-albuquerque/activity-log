@@ -4578,3 +4578,4 @@
 | 2020-05-16 12:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | perf: reduce bundle size |
 | 2020-05-16 13:39 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | feat: implement webhook receiver |
 | 2020-05-16 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | perf: add database indexes |
+| 2020-05-16 18:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | chore: upgrade to latest Node.js LTS |
