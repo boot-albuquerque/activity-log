@@ -4577,3 +4577,4 @@
 | 2020-05-16 00:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2020-05-16 12:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | perf: reduce bundle size |
 | 2020-05-16 13:39 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | feat: implement webhook receiver |
+| 2020-05-16 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | perf: add database indexes |
