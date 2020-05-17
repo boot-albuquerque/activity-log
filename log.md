@@ -4580,3 +4580,4 @@
 | 2020-05-16 14:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | perf: add database indexes |
 | 2020-05-16 18:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | chore: upgrade to latest Node.js LTS |
 | 2020-05-17 11:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | perf: add database indexes |
+| 2020-05-17 12:30 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | docs: update API documentation |
