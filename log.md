@@ -4586,3 +4586,4 @@
 | 2020-05-18 07:56 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2020-05-18 09:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2020-05-18 10:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
+| 2020-05-18 10:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: adopt repository pattern |
