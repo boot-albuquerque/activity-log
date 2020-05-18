@@ -4584,3 +4584,4 @@
 | 2020-05-17 13:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2020-05-17 14:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | security: update SSL certificates config |
 | 2020-05-18 07:56 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle empty response from external API |
+| 2020-05-18 09:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: simplify authentication flow |
