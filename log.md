@@ -4591,3 +4591,4 @@
 | 2020-05-18 14:05 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2020-05-18 14:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | style: format code according to style guide |
 | 2020-05-18 14:19 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | feat: add OpenAPI documentation |
+| 2020-05-18 14:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | test: add performance benchmark tests |
