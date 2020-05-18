@@ -4587,3 +4587,4 @@
 | 2020-05-18 09:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2020-05-18 10:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
 | 2020-05-18 10:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: adopt repository pattern |
+| 2020-05-18 13:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | fix: handle empty response from external API |
