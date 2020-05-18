@@ -4588,3 +4588,4 @@
 | 2020-05-18 10:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: mock external dependencies in tests |
 | 2020-05-18 10:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: adopt repository pattern |
 | 2020-05-18 13:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | fix: handle empty response from external API |
+| 2020-05-18 14:05 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | fix: handle malformed JSON input |
