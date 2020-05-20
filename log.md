@@ -4595,3 +4595,4 @@
 | 2020-05-18 14:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2020-05-20 10:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2020-05-20 10:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | feat: create background job processor |
+| 2020-05-20 14:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
