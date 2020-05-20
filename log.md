@@ -4597,3 +4597,4 @@
 | 2020-05-20 10:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | feat: create background job processor |
 | 2020-05-20 14:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
 | 2020-05-20 14:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: add audit log trail |
+| 2020-05-20 19:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: handle missing environment variable |
