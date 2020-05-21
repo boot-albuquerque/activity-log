@@ -4599,3 +4599,4 @@
 | 2020-05-20 14:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: add audit log trail |
 | 2020-05-20 19:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: handle missing environment variable |
 | 2020-05-21 11:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | security: update SSL certificates config |
+| 2020-05-21 11:54 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: add search with filters |
