@@ -4600,3 +4600,4 @@
 | 2020-05-20 19:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | fix: handle missing environment variable |
 | 2020-05-21 11:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | security: update SSL certificates config |
 | 2020-05-21 11:54 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: add search with filters |
+| 2020-05-21 12:12 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | perf: reduce bundle size |
