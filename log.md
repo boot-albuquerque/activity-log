@@ -4605,3 +4605,4 @@
 | 2020-05-21 18:51 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
 | 2020-05-22 07:42 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | feat: add audit log trail |
 | 2020-05-22 11:30 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | feat: implement JWT refresh token |
+| 2020-05-22 12:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
