@@ -4608,3 +4608,4 @@
 | 2020-05-22 12:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
 | 2020-05-22 13:03 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | test: cover edge cases in validator |
 | 2020-05-22 14:16 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | db: add composite index |
+| 2020-05-22 14:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | test: add integration tests for API endpoints |
