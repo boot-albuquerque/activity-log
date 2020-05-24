@@ -4611,3 +4611,4 @@
 | 2020-05-22 14:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | test: add integration tests for API endpoints |
 | 2020-05-22 23:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
 | 2020-05-24 10:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2020-05-24 11:24 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | chore: configure GitHub Actions CI |
