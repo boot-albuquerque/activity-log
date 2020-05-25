@@ -4614,3 +4614,4 @@
 | 2020-05-24 11:24 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2020-05-25 10:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2020-05-25 11:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | perf: add database indexes |
+| 2020-05-25 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
