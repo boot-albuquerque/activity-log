@@ -4617,3 +4617,4 @@
 | 2020-05-25 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2020-05-25 12:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2020-05-25 15:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | test: add e2e tests for checkout flow |
+| 2020-05-25 15:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: handle malformed JSON input |
