@@ -4619,3 +4619,4 @@
 | 2020-05-25 15:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | test: add e2e tests for checkout flow |
 | 2020-05-25 15:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: handle malformed JSON input |
 | 2020-05-25 22:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: add user authentication endpoint |
+| 2020-05-25 22:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | fix: resolve N+1 query problem |
