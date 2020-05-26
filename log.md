@@ -4622,3 +4622,4 @@
 | 2020-05-25 22:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | fix: resolve N+1 query problem |
 | 2020-05-25 22:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | feat: implement JWT refresh token |
 | 2020-05-25 23:04 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | chore: add pre-commit hooks |
+| 2020-05-26 12:14 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: resolve memory leak in connection pool |
