@@ -4627,3 +4627,4 @@
 | 2020-05-27 00:13 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | infra: add Kubernetes manifests |
 | 2020-05-27 07:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | feat: implement caching layer |
 | 2020-05-27 11:02 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2020-05-27 12:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: implement JWT refresh token |
