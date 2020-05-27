@@ -4625,3 +4625,4 @@
 | 2020-05-26 12:14 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: resolve memory leak in connection pool |
 | 2020-05-26 15:46 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | ci: add automated deployment pipeline |
 | 2020-05-27 00:13 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | infra: add Kubernetes manifests |
+| 2020-05-27 07:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | feat: implement caching layer |
