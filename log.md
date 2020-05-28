@@ -4630,3 +4630,4 @@
 | 2020-05-27 12:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: implement JWT refresh token |
 | 2020-05-27 23:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2020-05-28 00:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: improve test coverage to 80% |
+| 2020-05-28 09:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add audit log trail |
