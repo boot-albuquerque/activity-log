@@ -4639,3 +4639,4 @@
 | 2020-05-28 14:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | feat: add bulk operations support |
 | 2020-05-28 16:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | docs: document environment variables |
 | 2020-05-28 18:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | chore: add Docker Compose for local dev |
+| 2020-05-28 18:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | refactor: move constants to config module |
