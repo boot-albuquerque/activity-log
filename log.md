@@ -4637,3 +4637,4 @@
 | 2020-05-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement soft delete pattern |
 | 2020-05-28 14:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | refactor: reduce cyclomatic complexity |
 | 2020-05-28 14:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | feat: add bulk operations support |
+| 2020-05-28 16:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | docs: document environment variables |
