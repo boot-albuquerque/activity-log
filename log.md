@@ -4635,3 +4635,4 @@
 | 2020-05-28 11:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2020-05-28 11:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | security: fix SQL injection vulnerability |
 | 2020-05-28 13:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement soft delete pattern |
+| 2020-05-28 14:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | refactor: reduce cyclomatic complexity |
