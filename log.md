@@ -4642,3 +4642,4 @@
 | 2020-05-28 18:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | refactor: move constants to config module |
 | 2020-05-28 18:44 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/typo-response` | feat: create background job processor |
 | 2020-05-28 20:14 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | ci: configure staging environment |
+| 2020-05-28 21:40 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | ci: configure staging environment |
