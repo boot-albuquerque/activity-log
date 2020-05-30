@@ -4653,3 +4653,4 @@
 | 2020-05-29 16:07 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: create background job processor |
 | 2020-05-29 17:14 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | feat: add real-time notifications |
 | 2020-05-29 17:45 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | test: add e2e tests for checkout flow |
+| 2020-05-29 22:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | docs: document environment variables |
