@@ -4659,3 +4659,4 @@
 | 2020-06-01 10:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2020-06-01 13:31 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve CORS configuration |
 | 2020-06-01 13:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | fix: correct validation error messages |
+| 2020-06-01 15:52 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | test: cover edge cases in validator |
