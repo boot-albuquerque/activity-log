@@ -4656,3 +4656,4 @@
 | 2020-05-29 22:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | docs: document environment variables |
 | 2020-05-31 20:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | feat: add real-time notifications |
 | 2020-06-01 09:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | chore: update dependencies |
+| 2020-06-01 10:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | fix: handle timeout in async operation |
