@@ -4664,3 +4664,4 @@
 | 2020-06-02 12:09 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: implement soft delete pattern |
 | 2020-06-02 12:52 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: implement webhook receiver |
 | 2020-06-02 13:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | fix: correct null check in user service |
+| 2020-06-02 13:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | test: cover edge cases in validator |
