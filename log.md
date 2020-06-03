@@ -4666,3 +4666,4 @@
 | 2020-06-02 13:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | fix: correct null check in user service |
 | 2020-06-02 13:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | test: cover edge cases in validator |
 | 2020-06-02 18:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle missing environment variable |
+| 2020-06-02 23:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | infra: update Terraform modules |
