@@ -4672,3 +4672,4 @@
 | 2020-06-03 09:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: implement soft delete pattern |
 | 2020-06-03 11:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | security: add input sanitization |
 | 2020-06-03 12:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | feat: create order processing service |
+| 2020-06-03 13:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | fix: correct null check in user service |
