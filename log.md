@@ -4668,3 +4668,4 @@
 | 2020-06-02 18:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle missing environment variable |
 | 2020-06-02 23:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | infra: update Terraform modules |
 | 2020-06-03 00:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | test: add integration tests for API endpoints |
+| 2020-06-03 07:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: resolve race condition in queue worker |
