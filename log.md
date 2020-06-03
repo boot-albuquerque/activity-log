@@ -4678,3 +4678,4 @@
 | 2020-06-03 15:53 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/pagination` | fix: resolve race condition in queue worker |
 | 2020-06-03 16:11 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | feat: add email notification on status change |
 | 2020-06-03 17:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: add bulk operations support |
+| 2020-06-03 18:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | feat: implement rate limiting middleware |
