@@ -4679,3 +4679,4 @@
 | 2020-06-03 16:11 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | feat: add email notification on status change |
 | 2020-06-03 17:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: add bulk operations support |
 | 2020-06-03 18:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | feat: implement rate limiting middleware |
+| 2020-06-03 19:44 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: implement rate limiting middleware |
