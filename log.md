@@ -4686,3 +4686,4 @@
 | 2020-06-04 12:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: add bulk operations support |
 | 2020-06-04 13:57 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct decimal precision in billing |
 | 2020-06-04 15:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | feat: add real-time notifications |
+| 2020-06-04 16:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: correct null check in user service |
