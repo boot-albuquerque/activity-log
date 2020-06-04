@@ -4684,3 +4684,4 @@
 | 2020-06-03 20:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: add unit tests for payment service |
 | 2020-06-04 00:44 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | feat: create background job processor |
 | 2020-06-04 12:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: add bulk operations support |
+| 2020-06-04 13:57 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct decimal precision in billing |
