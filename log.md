@@ -4690,3 +4690,4 @@
 | 2020-06-04 18:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | security: add input sanitization |
 | 2020-06-06 12:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2020-06-06 13:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | feat: add real-time notifications |
+| 2020-06-06 14:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | infra: add Kubernetes manifests |
