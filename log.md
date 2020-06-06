@@ -4688,3 +4688,4 @@
 | 2020-06-04 15:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | feat: add real-time notifications |
 | 2020-06-04 16:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: correct null check in user service |
 | 2020-06-04 18:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | security: add input sanitization |
+| 2020-06-06 12:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | style: fix indentation and whitespace |
