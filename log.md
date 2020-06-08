@@ -4694,3 +4694,4 @@
 | 2020-06-06 17:59 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | style: fix indentation and whitespace |
 | 2020-06-06 22:49 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | refactor: improve code readability |
 | 2020-06-07 10:18 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | test: cover edge cases in validator |
+| 2020-06-08 08:54 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: implement rate limiting middleware |
