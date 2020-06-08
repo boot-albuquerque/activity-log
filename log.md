@@ -4697,3 +4697,4 @@
 | 2020-06-08 08:54 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: implement rate limiting middleware |
 | 2020-06-08 12:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2020-06-08 13:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | infra: configure auto-scaling policies |
+| 2020-06-08 13:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: implement soft delete pattern |
