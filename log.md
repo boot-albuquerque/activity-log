@@ -4700,3 +4700,4 @@
 | 2020-06-08 13:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: implement soft delete pattern |
 | 2020-06-08 13:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | fix: correct null check in user service |
 | 2020-06-08 14:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: implement webhook receiver |
+| 2020-06-08 17:08 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | docs: update API documentation |
