@@ -4702,3 +4702,4 @@
 | 2020-06-08 14:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: implement webhook receiver |
 | 2020-06-08 17:08 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | docs: update API documentation |
 | 2020-06-09 09:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | style: format code according to style guide |
+| 2020-06-09 11:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | docs: add README setup instructions |
