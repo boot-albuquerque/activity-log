@@ -4703,3 +4703,4 @@
 | 2020-06-08 17:08 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | docs: update API documentation |
 | 2020-06-09 09:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | style: format code according to style guide |
 | 2020-06-09 11:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | docs: add README setup instructions |
+| 2020-06-09 16:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | chore: add pre-commit hooks |
