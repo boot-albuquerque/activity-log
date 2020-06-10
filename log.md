@@ -4706,3 +4706,4 @@
 | 2020-06-09 16:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2020-06-09 17:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: create background job processor |
 | 2020-06-09 22:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve N+1 query problem |
+| 2020-06-10 00:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: create admin management interface |
