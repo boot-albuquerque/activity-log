@@ -4705,3 +4705,4 @@
 | 2020-06-09 11:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | docs: add README setup instructions |
 | 2020-06-09 16:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2020-06-09 17:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: create background job processor |
+| 2020-06-09 22:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve N+1 query problem |
