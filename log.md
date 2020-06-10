@@ -4712,3 +4712,4 @@
 | 2020-06-10 12:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | docs: add README setup instructions |
 | 2020-06-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | fix: correct null check in user service |
 | 2020-06-10 13:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | test: add unit tests for payment service |
+| 2020-06-10 15:42 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | test: add e2e tests for checkout flow |
