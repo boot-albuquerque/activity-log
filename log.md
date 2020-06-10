@@ -4710,3 +4710,4 @@
 | 2020-06-10 09:51 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | refactor: consolidate error handling |
 | 2020-06-10 10:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | refactor: clean up unused imports |
 | 2020-06-10 12:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | docs: add README setup instructions |
+| 2020-06-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | fix: correct null check in user service |
