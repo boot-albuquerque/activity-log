@@ -4714,3 +4714,4 @@
 | 2020-06-10 13:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | test: add unit tests for payment service |
 | 2020-06-10 15:42 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2020-06-10 21:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | infra: configure auto-scaling policies |
+| 2020-06-11 07:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
