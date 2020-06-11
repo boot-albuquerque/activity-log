@@ -4713,3 +4713,4 @@
 | 2020-06-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | fix: correct null check in user service |
 | 2020-06-10 13:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | test: add unit tests for payment service |
 | 2020-06-10 15:42 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2020-06-10 21:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | infra: configure auto-scaling policies |
