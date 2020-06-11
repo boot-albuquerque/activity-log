@@ -4716,3 +4716,4 @@
 | 2020-06-10 21:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | infra: configure auto-scaling policies |
 | 2020-06-11 07:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
 | 2020-06-11 11:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: add pre-commit hooks |
+| 2020-06-11 12:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: handle edge case in date parsing |
