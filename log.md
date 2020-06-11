@@ -4721,3 +4721,4 @@
 | 2020-06-11 13:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2020-06-11 14:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | chore: configure ESLint and Prettier |
 | 2020-06-11 14:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2020-06-11 16:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | feat: create admin management interface |
