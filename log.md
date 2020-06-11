@@ -4718,3 +4718,4 @@
 | 2020-06-11 11:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: add pre-commit hooks |
 | 2020-06-11 12:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: handle edge case in date parsing |
 | 2020-06-11 13:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/cleanup` | fix: correct null check in user service |
+| 2020-06-11 13:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | test: improve test coverage to 80% |
