@@ -4731,3 +4731,4 @@
 | 2020-06-11 23:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | chore: add pre-commit hooks |
 | 2020-06-12 07:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2020-06-12 08:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
+| 2020-06-12 12:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: resolve CORS configuration |
