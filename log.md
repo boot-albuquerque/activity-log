@@ -4732,3 +4732,4 @@
 | 2020-06-12 07:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2020-06-12 08:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
 | 2020-06-12 12:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: resolve CORS configuration |
+| 2020-06-12 14:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: resolve race condition in queue worker |
