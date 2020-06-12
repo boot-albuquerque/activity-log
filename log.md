@@ -4726,3 +4726,4 @@
 | 2020-06-11 17:41 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | style: fix indentation and whitespace |
 | 2020-06-11 18:37 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | ci: configure staging environment |
 | 2020-06-11 19:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2020-06-11 22:32 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | feat: add email notification on status change |
