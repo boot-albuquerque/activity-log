@@ -4734,3 +4734,4 @@
 | 2020-06-12 12:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2020-06-12 14:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2020-06-12 15:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | test: mock external dependencies in tests |
+| 2020-06-12 15:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
