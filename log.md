@@ -4737,3 +4737,4 @@
 | 2020-06-12 15:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
 | 2020-06-12 17:00 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | test: add e2e tests for checkout flow |
 | 2020-06-12 23:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | test: add performance benchmark tests |
+| 2020-06-14 22:33 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: add OpenAPI documentation |
