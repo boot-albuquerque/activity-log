@@ -4747,3 +4747,4 @@
 | 2020-06-15 16:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | feat: create admin management interface |
 | 2020-06-15 16:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | test: cover edge cases in validator |
 | 2020-06-15 18:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | test: mock external dependencies in tests |
+| 2020-06-15 20:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | feat: add pagination to list endpoint |
