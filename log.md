@@ -4753,3 +4753,4 @@
 | 2020-06-16 00:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | security: add input sanitization |
 | 2020-06-16 10:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2020-06-16 13:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | feat: create background job processor |
+| 2020-06-16 20:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add audit log trail |
