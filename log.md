@@ -4751,3 +4751,4 @@
 | 2020-06-15 20:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
 | 2020-06-16 00:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2020-06-16 00:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | security: add input sanitization |
+| 2020-06-16 10:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
