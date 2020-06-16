@@ -4749,3 +4749,4 @@
 | 2020-06-15 18:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2020-06-15 20:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | feat: add pagination to list endpoint |
 | 2020-06-15 20:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
+| 2020-06-16 00:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
