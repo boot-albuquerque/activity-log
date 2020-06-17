@@ -4756,3 +4756,4 @@
 | 2020-06-16 20:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add audit log trail |
 | 2020-06-16 22:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: split large controller into smaller ones |
 | 2020-06-17 00:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | perf: add database indexes |
+| 2020-06-17 10:05 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | test: fix flaky test in async handler |
