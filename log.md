@@ -4759,3 +4759,4 @@
 | 2020-06-17 10:05 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2020-06-17 10:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | perf: reduce bundle size |
 | 2020-06-17 12:12 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | feat: create order processing service |
+| 2020-06-17 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | refactor: split large controller into smaller ones |
