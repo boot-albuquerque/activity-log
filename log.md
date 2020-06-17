@@ -4762,3 +4762,4 @@
 | 2020-06-17 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | refactor: split large controller into smaller ones |
 | 2020-06-17 13:35 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2020-06-17 14:28 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve N+1 query problem |
+| 2020-06-17 14:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | test: add integration tests for API endpoints |
