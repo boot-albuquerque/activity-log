@@ -4755,3 +4755,4 @@
 | 2020-06-16 13:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | feat: create background job processor |
 | 2020-06-16 20:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add audit log trail |
 | 2020-06-16 22:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | refactor: split large controller into smaller ones |
+| 2020-06-17 00:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | perf: add database indexes |
