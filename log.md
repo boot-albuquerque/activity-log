@@ -4771,3 +4771,4 @@
 | 2020-06-18 08:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2020-06-18 09:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2020-06-18 12:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | db: add migration for new schema |
+| 2020-06-18 13:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: simplify authentication flow |
