@@ -4772,3 +4772,4 @@
 | 2020-06-18 09:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2020-06-18 12:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | db: add migration for new schema |
 | 2020-06-18 13:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: simplify authentication flow |
+| 2020-06-18 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add email notification on status change |
