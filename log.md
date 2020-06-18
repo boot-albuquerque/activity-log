@@ -4769,3 +4769,4 @@
 | 2020-06-17 22:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | infra: update Terraform modules |
 | 2020-06-18 00:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2020-06-18 08:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2020-06-18 09:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | feat: add pagination to list endpoint |
