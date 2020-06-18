@@ -4766,3 +4766,4 @@
 | 2020-06-17 14:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: improve code readability |
 | 2020-06-17 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | refactor: improve code readability |
 | 2020-06-17 20:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: adopt repository pattern |
+| 2020-06-17 22:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | infra: update Terraform modules |
