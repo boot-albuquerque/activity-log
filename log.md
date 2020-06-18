@@ -4765,3 +4765,4 @@
 | 2020-06-17 14:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | test: add integration tests for API endpoints |
 | 2020-06-17 14:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: improve code readability |
 | 2020-06-17 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | refactor: improve code readability |
+| 2020-06-17 20:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: adopt repository pattern |
