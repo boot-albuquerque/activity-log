@@ -4778,3 +4778,4 @@
 | 2020-06-19 09:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve deadlock in transaction |
 | 2020-06-19 09:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: add audit log trail |
 | 2020-06-19 11:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | feat: implement webhook receiver |
+| 2020-06-19 11:52 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | security: update SSL certificates config |
