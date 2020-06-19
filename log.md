@@ -4783,3 +4783,4 @@
 | 2020-06-19 13:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | feat: implement caching layer |
 | 2020-06-19 14:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | feat: create health check endpoint |
 | 2020-06-19 16:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | feat: add real-time notifications |
+| 2020-06-19 20:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | test: fix flaky test in async handler |
