@@ -4775,3 +4775,4 @@
 | 2020-06-18 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add email notification on status change |
 | 2020-06-18 19:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
 | 2020-06-19 09:20 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add user authentication endpoint |
+| 2020-06-19 09:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: resolve deadlock in transaction |
