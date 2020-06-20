@@ -4785,3 +4785,4 @@
 | 2020-06-19 16:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | feat: add real-time notifications |
 | 2020-06-19 20:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2020-06-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | docs: document environment variables |
+| 2020-06-20 16:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: resolve deadlock in transaction |
