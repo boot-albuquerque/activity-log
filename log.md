@@ -4786,3 +4786,4 @@
 | 2020-06-19 20:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2020-06-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | docs: document environment variables |
 | 2020-06-20 16:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: resolve deadlock in transaction |
+| 2020-06-21 15:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | feat: implement webhook receiver |
