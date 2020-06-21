@@ -4787,3 +4787,4 @@
 | 2020-06-20 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | docs: document environment variables |
 | 2020-06-20 16:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: resolve deadlock in transaction |
 | 2020-06-21 15:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | feat: implement webhook receiver |
+| 2020-06-21 19:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: resolve N+1 query problem |
