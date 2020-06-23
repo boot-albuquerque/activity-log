@@ -4792,3 +4792,4 @@
 | 2020-06-22 11:06 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: handle timeout in async operation |
 | 2020-06-22 18:19 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2020-06-22 20:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | perf: add database indexes |
+| 2020-06-23 10:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | chore: add pre-commit hooks |
