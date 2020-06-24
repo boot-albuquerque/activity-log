@@ -4796,3 +4796,4 @@
 | 2020-06-23 11:25 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | feat: create order processing service |
 | 2020-06-23 12:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | perf: reduce bundle size |
 | 2020-06-23 23:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | fix: resolve deadlock in transaction |
+| 2020-06-24 00:14 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | test: add performance benchmark tests |
