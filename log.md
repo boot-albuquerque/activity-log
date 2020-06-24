@@ -4804,3 +4804,4 @@
 | 2020-06-24 13:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | security: fix SQL injection vulnerability |
 | 2020-06-24 14:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | feat: add user authentication endpoint |
 | 2020-06-24 15:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | perf: optimize database queries |
+| 2020-06-24 15:31 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | docs: document environment variables |
