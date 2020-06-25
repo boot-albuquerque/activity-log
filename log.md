@@ -4809,3 +4809,4 @@
 | 2020-06-24 22:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | feat: add file upload support |
 | 2020-06-25 07:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: add unit tests for payment service |
 | 2020-06-25 08:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: handle missing environment variable |
+| 2020-06-25 09:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | chore: configure ESLint and Prettier |
