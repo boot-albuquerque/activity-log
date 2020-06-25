@@ -4816,3 +4816,4 @@
 | 2020-06-25 12:47 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
 | 2020-06-25 14:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2020-06-25 14:15 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | db: add composite index |
+| 2020-06-25 14:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | refactor: move constants to config module |
