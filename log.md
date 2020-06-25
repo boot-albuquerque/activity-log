@@ -4807,3 +4807,4 @@
 | 2020-06-24 15:31 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | docs: document environment variables |
 | 2020-06-24 18:27 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | fix: resolve CORS configuration |
 | 2020-06-24 22:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | feat: add file upload support |
+| 2020-06-25 07:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: add unit tests for payment service |
