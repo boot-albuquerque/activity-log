@@ -4822,3 +4822,4 @@
 | 2020-06-25 18:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | feat: create health check endpoint |
 | 2020-06-25 20:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | infra: update Terraform modules |
 | 2020-06-25 21:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | refactor: simplify authentication flow |
+| 2020-06-25 22:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | style: fix indentation and whitespace |
