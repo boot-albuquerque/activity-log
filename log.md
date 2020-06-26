@@ -4826,3 +4826,4 @@
 | 2020-06-26 07:02 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
 | 2020-06-26 08:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle malformed JSON input |
 | 2020-06-26 12:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | fix: handle empty response from external API |
+| 2020-06-26 12:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | feat: add bulk operations support |
