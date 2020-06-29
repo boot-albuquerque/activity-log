@@ -4831,3 +4831,4 @@
 | 2020-06-26 20:07 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | fix: handle missing environment variable |
 | 2020-06-26 23:09 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2020-06-27 14:57 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | refactor: move constants to config module |
+| 2020-06-29 11:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | test: improve test coverage to 80% |
