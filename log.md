@@ -4834,3 +4834,4 @@
 | 2020-06-29 11:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | test: improve test coverage to 80% |
 | 2020-06-29 12:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2020-06-29 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
+| 2020-06-29 19:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
