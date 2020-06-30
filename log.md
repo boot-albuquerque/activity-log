@@ -4838,3 +4838,4 @@
 | 2020-06-30 00:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
 | 2020-06-30 13:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | ci: configure staging environment |
 | 2020-06-30 14:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add search with filters |
+| 2020-06-30 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add OpenAPI documentation |
