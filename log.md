@@ -4835,3 +4835,4 @@
 | 2020-06-29 12:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2020-06-29 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | chore: add Docker Compose for local dev |
 | 2020-06-29 19:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
+| 2020-06-30 00:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
