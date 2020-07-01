@@ -4847,3 +4847,4 @@
 | 2020-07-01 13:59 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct pagination offset calculation |
 | 2020-07-01 14:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | fix: resolve CORS configuration |
 | 2020-07-01 14:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | ci: configure staging environment |
+| 2020-07-01 15:15 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | docs: document environment variables |
