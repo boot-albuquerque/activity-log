@@ -4843,3 +4843,4 @@
 | 2020-07-01 10:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
 | 2020-07-01 10:57 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | chore: add Docker Compose for local dev |
 | 2020-07-01 12:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | security: update SSL certificates config |
+| 2020-07-01 13:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add real-time notifications |
