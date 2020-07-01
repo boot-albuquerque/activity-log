@@ -4839,3 +4839,4 @@
 | 2020-06-30 13:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | ci: configure staging environment |
 | 2020-06-30 14:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add search with filters |
 | 2020-06-30 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add OpenAPI documentation |
+| 2020-06-30 23:45 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | feat: add user authentication endpoint |
