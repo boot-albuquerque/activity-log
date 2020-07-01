@@ -4840,3 +4840,4 @@
 | 2020-06-30 14:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add search with filters |
 | 2020-06-30 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2020-06-30 23:45 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | feat: add user authentication endpoint |
+| 2020-07-01 10:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
