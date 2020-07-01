@@ -4849,3 +4849,4 @@
 | 2020-07-01 14:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | ci: configure staging environment |
 | 2020-07-01 15:15 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | docs: document environment variables |
 | 2020-07-01 16:52 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2020-07-01 17:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | test: add integration tests for API endpoints |
