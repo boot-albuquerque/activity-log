@@ -4852,3 +4852,4 @@
 | 2020-07-01 17:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | test: add integration tests for API endpoints |
 | 2020-07-01 17:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
 | 2020-07-01 18:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | feat: implement soft delete pattern |
+| 2020-07-01 19:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
