@@ -4841,3 +4841,4 @@
 | 2020-06-30 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2020-06-30 23:45 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | feat: add user authentication endpoint |
 | 2020-07-01 10:00 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
+| 2020-07-01 10:57 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | chore: add Docker Compose for local dev |
