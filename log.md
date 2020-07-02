@@ -4860,3 +4860,4 @@
 | 2020-07-02 13:37 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | infra: update Terraform modules |
 | 2020-07-02 13:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | feat: implement caching layer |
 | 2020-07-02 14:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | refactor: consolidate error handling |
+| 2020-07-02 16:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | docs: document environment variables |
