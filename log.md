@@ -4856,3 +4856,4 @@
 | 2020-07-01 20:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: simplify authentication flow |
 | 2020-07-01 20:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | infra: update Terraform modules |
 | 2020-07-02 07:10 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: handle edge case in date parsing |
+| 2020-07-02 08:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | test: add unit tests for payment service |
