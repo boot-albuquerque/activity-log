@@ -4859,3 +4859,4 @@
 | 2020-07-02 08:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | test: add unit tests for payment service |
 | 2020-07-02 13:37 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | infra: update Terraform modules |
 | 2020-07-02 13:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | feat: implement caching layer |
+| 2020-07-02 14:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | refactor: consolidate error handling |
