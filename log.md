@@ -4862,3 +4862,4 @@
 | 2020-07-02 14:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | refactor: consolidate error handling |
 | 2020-07-02 16:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | docs: document environment variables |
 | 2020-07-03 00:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: implement webhook receiver |
+| 2020-07-03 08:54 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | test: add integration tests for API endpoints |
