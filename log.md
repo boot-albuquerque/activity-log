@@ -4868,3 +4868,4 @@
 | 2020-07-03 10:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | test: improve test coverage to 80% |
 | 2020-07-03 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-07-03 13:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | fix: handle empty response from external API |
+| 2020-07-03 15:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | chore: add Docker Compose for local dev |
