@@ -4869,3 +4869,4 @@
 | 2020-07-03 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-07-03 13:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | fix: handle empty response from external API |
 | 2020-07-03 15:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | chore: add Docker Compose for local dev |
+| 2020-07-03 16:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/pagination` | fix: handle timeout in async operation |
