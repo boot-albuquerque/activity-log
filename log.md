@@ -4866,3 +4866,4 @@
 | 2020-07-03 09:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | feat: create order processing service |
 | 2020-07-03 09:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | feat: implement soft delete pattern |
 | 2020-07-03 10:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | test: improve test coverage to 80% |
+| 2020-07-03 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | db: add migration for new schema |
