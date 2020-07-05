@@ -4872,3 +4872,4 @@
 | 2020-07-03 16:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/pagination` | fix: handle timeout in async operation |
 | 2020-07-03 18:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | fix: correct null check in user service |
 | 2020-07-03 23:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
+| 2020-07-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: implement caching layer |
