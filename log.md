@@ -4879,3 +4879,4 @@
 | 2020-07-07 14:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: add file upload support |
 | 2020-07-07 15:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2020-07-07 19:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | db: add migration for new schema |
+| 2020-07-07 19:28 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | security: update SSL certificates config |
