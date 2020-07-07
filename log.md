@@ -4876,3 +4876,4 @@
 | 2020-07-06 22:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2020-07-07 11:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
 | 2020-07-07 13:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
+| 2020-07-07 14:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: add file upload support |
