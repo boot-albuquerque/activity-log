@@ -4874,3 +4874,4 @@
 | 2020-07-03 23:30 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
 | 2020-07-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: implement caching layer |
 | 2020-07-06 22:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: implement webhook receiver |
+| 2020-07-07 11:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
