@@ -4886,3 +4886,4 @@
 | 2020-07-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | docs: document environment variables |
 | 2020-07-08 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: implement rate limiting middleware |
 | 2020-07-08 16:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | style: fix indentation and whitespace |
+| 2020-07-08 17:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | refactor: clean up unused imports |
