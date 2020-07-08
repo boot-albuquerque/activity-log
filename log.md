@@ -4880,3 +4880,4 @@
 | 2020-07-07 15:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2020-07-07 19:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2020-07-07 19:28 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | security: update SSL certificates config |
+| 2020-07-07 21:36 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | test: add performance benchmark tests |
