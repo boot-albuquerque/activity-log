@@ -4885,3 +4885,4 @@
 | 2020-07-08 11:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | security: update SSL certificates config |
 | 2020-07-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | docs: document environment variables |
 | 2020-07-08 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: implement rate limiting middleware |
+| 2020-07-08 16:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | style: fix indentation and whitespace |
