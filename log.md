@@ -4893,3 +4893,4 @@
 | 2020-07-10 11:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: create admin management interface |
 | 2020-07-10 15:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct decimal precision in billing |
 | 2020-07-10 15:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2020-07-10 17:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | feat: implement JWT refresh token |
