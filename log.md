@@ -4891,3 +4891,4 @@
 | 2020-07-09 19:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | test: improve test coverage to 80% |
 | 2020-07-09 23:01 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2020-07-10 11:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: create admin management interface |
+| 2020-07-10 15:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct decimal precision in billing |
