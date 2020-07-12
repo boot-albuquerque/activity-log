@@ -4896,3 +4896,4 @@
 | 2020-07-10 17:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | feat: implement JWT refresh token |
 | 2020-07-10 22:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | fix: handle missing environment variable |
 | 2020-07-12 14:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | fix: handle missing environment variable |
+| 2020-07-12 20:04 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
