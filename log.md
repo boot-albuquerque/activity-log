@@ -4900,3 +4900,4 @@
 | 2020-07-14 09:34 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | ci: configure staging environment |
 | 2020-07-14 13:42 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: add search with filters |
 | 2020-07-14 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | style: format code according to style guide |
+| 2020-07-14 18:52 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: correct validation error messages |
