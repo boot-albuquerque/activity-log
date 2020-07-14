@@ -4898,3 +4898,4 @@
 | 2020-07-12 14:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | fix: handle missing environment variable |
 | 2020-07-12 20:04 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
 | 2020-07-14 09:34 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | ci: configure staging environment |
+| 2020-07-14 13:42 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: add search with filters |
