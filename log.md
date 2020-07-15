@@ -4902,3 +4902,4 @@
 | 2020-07-14 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | style: format code according to style guide |
 | 2020-07-14 18:52 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: correct validation error messages |
 | 2020-07-14 21:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
+| 2020-07-15 08:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: handle malformed JSON input |
