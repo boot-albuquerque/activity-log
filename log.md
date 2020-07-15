@@ -4903,3 +4903,4 @@
 | 2020-07-14 18:52 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | fix: correct validation error messages |
 | 2020-07-14 21:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2020-07-15 08:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: handle malformed JSON input |
+| 2020-07-15 12:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | test: add e2e tests for checkout flow |
