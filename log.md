@@ -4906,3 +4906,4 @@
 | 2020-07-15 12:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2020-07-15 13:52 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: create dashboard metrics endpoint |
 | 2020-07-15 17:29 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | test: add e2e tests for checkout flow |
+| 2020-07-16 10:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | ci: configure staging environment |
