@@ -4914,3 +4914,4 @@
 | 2020-07-16 15:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: move constants to config module |
 | 2020-07-16 17:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | refactor: split large controller into smaller ones |
 | 2020-07-16 18:21 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: handle edge case in date parsing |
+| 2020-07-16 20:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | feat: add pagination to list endpoint |
