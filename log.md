@@ -4911,3 +4911,4 @@
 | 2020-07-16 11:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | security: update SSL certificates config |
 | 2020-07-16 14:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2020-07-16 14:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | security: add input sanitization |
+| 2020-07-16 15:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: move constants to config module |
