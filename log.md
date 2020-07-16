@@ -4909,3 +4909,4 @@
 | 2020-07-16 10:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | ci: configure staging environment |
 | 2020-07-16 10:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | db: add migration for new schema |
 | 2020-07-16 11:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | security: update SSL certificates config |
+| 2020-07-16 14:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | fix: handle malformed JSON input |
