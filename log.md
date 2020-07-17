@@ -4921,3 +4921,4 @@
 | 2020-07-16 23:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | db: optimize slow queries |
 | 2020-07-17 10:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2020-07-17 10:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add unit tests for payment service |
+| 2020-07-17 16:02 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | feat: implement rate limiting middleware |
