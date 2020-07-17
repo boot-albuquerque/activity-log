@@ -4919,3 +4919,4 @@
 | 2020-07-16 21:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | docs: document environment variables |
 | 2020-07-16 23:58 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2020-07-16 23:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | db: optimize slow queries |
+| 2020-07-17 10:02 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | fix: resolve deadlock in transaction |
