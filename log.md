@@ -4930,3 +4930,4 @@
 | 2020-07-19 10:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2020-07-19 13:23 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | db: add composite index |
 | 2020-07-19 13:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | security: add input sanitization |
+| 2020-07-20 00:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | docs: document environment variables |
