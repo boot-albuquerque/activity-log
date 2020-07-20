@@ -4932,3 +4932,4 @@
 | 2020-07-19 13:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | security: add input sanitization |
 | 2020-07-20 00:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | docs: document environment variables |
 | 2020-07-20 11:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
+| 2020-07-20 11:20 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | fix: correct decimal precision in billing |
