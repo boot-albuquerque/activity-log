@@ -4934,3 +4934,4 @@
 | 2020-07-20 11:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
 | 2020-07-20 11:20 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | fix: correct decimal precision in billing |
 | 2020-07-20 12:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | ci: add automated deployment pipeline |
+| 2020-07-20 13:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: fix flaky test in async handler |
