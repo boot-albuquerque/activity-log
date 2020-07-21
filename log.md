@@ -4940,3 +4940,4 @@
 | 2020-07-20 17:09 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | feat: create health check endpoint |
 | 2020-07-20 17:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | chore: update dependencies |
 | 2020-07-20 22:21 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | db: add migration for new schema |
+| 2020-07-20 23:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | fix: handle empty response from external API |
