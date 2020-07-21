@@ -4942,3 +4942,4 @@
 | 2020-07-20 22:21 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | db: add migration for new schema |
 | 2020-07-20 23:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | fix: handle empty response from external API |
 | 2020-07-21 00:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/cleanup` | security: update SSL certificates config |
+| 2020-07-21 10:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | feat: implement rate limiting middleware |
