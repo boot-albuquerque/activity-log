@@ -4945,3 +4945,4 @@
 | 2020-07-21 10:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | feat: implement rate limiting middleware |
 | 2020-07-21 10:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: add unit tests for payment service |
 | 2020-07-21 17:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | chore: configure GitHub Actions CI |
+| 2020-07-21 18:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | refactor: replace raw SQL with query builder |
