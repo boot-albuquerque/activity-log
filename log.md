@@ -4950,3 +4950,4 @@
 | 2020-07-21 22:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | db: add composite index |
 | 2020-07-21 22:56 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2020-07-22 10:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: correct validation error messages |
+| 2020-07-22 12:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
