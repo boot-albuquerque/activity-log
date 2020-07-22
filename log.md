@@ -4947,3 +4947,4 @@
 | 2020-07-21 17:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | chore: configure GitHub Actions CI |
 | 2020-07-21 18:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | refactor: replace raw SQL with query builder |
 | 2020-07-21 20:01 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | feat: implement caching layer |
+| 2020-07-21 22:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | db: add composite index |
