@@ -4953,3 +4953,4 @@
 | 2020-07-22 12:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2020-07-22 14:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | refactor: improve code readability |
 | 2020-07-22 14:32 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | refactor: simplify authentication flow |
+| 2020-07-22 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | refactor: simplify authentication flow |
