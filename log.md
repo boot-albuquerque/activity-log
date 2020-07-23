@@ -4956,3 +4956,4 @@
 | 2020-07-22 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | refactor: simplify authentication flow |
 | 2020-07-22 23:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | chore: add Docker Compose for local dev |
 | 2020-07-23 00:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | feat: add real-time notifications |
+| 2020-07-23 11:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | infra: add Kubernetes manifests |
