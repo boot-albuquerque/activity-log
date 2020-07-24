@@ -4963,3 +4963,4 @@
 | 2020-07-24 12:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2020-07-24 12:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: create background job processor |
 | 2020-07-24 13:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | style: fix indentation and whitespace |
+| 2020-07-24 14:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | fix: handle empty response from external API |
