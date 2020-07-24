@@ -4967,3 +4967,4 @@
 | 2020-07-24 14:59 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | perf: implement response compression |
 | 2020-07-24 16:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | fix: resolve N+1 query problem |
 | 2020-07-24 18:20 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | feat: add file upload support |
+| 2020-07-24 18:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | security: update SSL certificates config |
