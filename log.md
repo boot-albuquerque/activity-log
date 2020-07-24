@@ -4959,3 +4959,4 @@
 | 2020-07-23 11:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2020-07-24 00:51 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2020-07-24 07:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: implement JWT refresh token |
+| 2020-07-24 09:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | db: add composite index |
