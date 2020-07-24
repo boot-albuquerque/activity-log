@@ -4958,3 +4958,4 @@
 | 2020-07-23 00:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | feat: add real-time notifications |
 | 2020-07-23 11:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2020-07-24 00:51 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | feat: add email notification on status change |
+| 2020-07-24 07:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: implement JWT refresh token |
