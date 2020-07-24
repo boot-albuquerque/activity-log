@@ -4969,3 +4969,4 @@
 | 2020-07-24 18:20 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | feat: add file upload support |
 | 2020-07-24 18:20 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2020-07-24 18:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | fix: handle edge case in date parsing |
+| 2020-07-24 20:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | fix: resolve deadlock in transaction |
