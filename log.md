@@ -4981,3 +4981,4 @@
 | 2020-07-28 10:34 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | refactor: adopt repository pattern |
 | 2020-07-28 12:46 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2020-07-28 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | feat: add search with filters |
+| 2020-07-28 14:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: cover edge cases in validator |
