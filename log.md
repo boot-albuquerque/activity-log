@@ -4984,3 +4984,4 @@
 | 2020-07-28 14:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: cover edge cases in validator |
 | 2020-07-28 15:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | fix: correct null check in user service |
 | 2020-07-28 15:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | test: mock external dependencies in tests |
+| 2020-07-28 16:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: correct decimal precision in billing |
