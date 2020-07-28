@@ -4976,3 +4976,4 @@
 | 2020-07-27 16:34 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2020-07-27 16:40 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | style: format code according to style guide |
 | 2020-07-27 17:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | fix: resolve CORS configuration |
+| 2020-07-27 21:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | fix: handle malformed JSON input |
