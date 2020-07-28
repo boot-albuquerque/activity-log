@@ -4982,3 +4982,4 @@
 | 2020-07-28 12:46 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2020-07-28 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | feat: add search with filters |
 | 2020-07-28 14:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | test: cover edge cases in validator |
+| 2020-07-28 15:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | fix: correct null check in user service |
