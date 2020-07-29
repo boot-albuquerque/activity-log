@@ -4986,3 +4986,4 @@
 | 2020-07-28 15:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | test: mock external dependencies in tests |
 | 2020-07-28 16:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: correct decimal precision in billing |
 | 2020-07-28 17:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | test: add integration tests for API endpoints |
+| 2020-07-28 23:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | fix: resolve N+1 query problem |
