@@ -4992,3 +4992,4 @@
 | 2020-07-29 15:15 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2020-07-29 15:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | refactor: move constants to config module |
 | 2020-07-29 16:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2020-07-29 17:08 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add pagination to list endpoint |
