@@ -4993,3 +4993,4 @@
 | 2020-07-29 15:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | refactor: move constants to config module |
 | 2020-07-29 16:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
 | 2020-07-29 17:08 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add pagination to list endpoint |
+| 2020-07-29 20:48 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | chore: add pre-commit hooks |
