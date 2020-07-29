@@ -4990,3 +4990,4 @@
 | 2020-07-29 10:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | ci: configure staging environment |
 | 2020-07-29 12:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: add export to CSV/Excel |
 | 2020-07-29 15:15 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | test: mock external dependencies in tests |
+| 2020-07-29 15:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | refactor: move constants to config module |
