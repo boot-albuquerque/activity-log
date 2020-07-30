@@ -4998,3 +4998,4 @@
 | 2020-07-30 00:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2020-07-30 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | security: update SSL certificates config |
 | 2020-07-30 12:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | perf: implement response compression |
+| 2020-07-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | fix: correct decimal precision in billing |
