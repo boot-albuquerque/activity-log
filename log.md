@@ -5002,3 +5002,4 @@
 | 2020-07-30 14:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | style: fix indentation and whitespace |
 | 2020-07-30 15:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | refactor: move constants to config module |
 | 2020-07-30 15:30 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | feat: create background job processor |
+| 2020-07-30 15:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | infra: update Terraform modules |
