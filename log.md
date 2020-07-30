@@ -4996,3 +4996,4 @@
 | 2020-07-29 20:48 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2020-07-29 21:04 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: resolve deadlock in transaction |
 | 2020-07-30 00:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2020-07-30 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | security: update SSL certificates config |
