@@ -5003,3 +5003,4 @@
 | 2020-07-30 15:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | refactor: move constants to config module |
 | 2020-07-30 15:30 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | feat: create background job processor |
 | 2020-07-30 15:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | infra: update Terraform modules |
+| 2020-07-30 19:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: add user authentication endpoint |
