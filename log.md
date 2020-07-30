@@ -5001,3 +5001,4 @@
 | 2020-07-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2020-07-30 14:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | style: fix indentation and whitespace |
 | 2020-07-30 15:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | refactor: move constants to config module |
+| 2020-07-30 15:30 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | feat: create background job processor |
