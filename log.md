@@ -5005,3 +5005,4 @@
 | 2020-07-30 15:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | infra: update Terraform modules |
 | 2020-07-30 19:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2020-07-30 23:48 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | fix: correct validation error messages |
+| 2020-07-31 18:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | fix: resolve CORS configuration |
