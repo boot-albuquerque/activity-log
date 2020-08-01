@@ -5008,3 +5008,4 @@
 | 2020-07-31 18:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | fix: resolve CORS configuration |
 | 2020-08-01 13:45 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add email notification on status change |
 | 2020-08-01 13:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | fix: resolve memory leak in connection pool |
+| 2020-08-01 15:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | style: format code according to style guide |
