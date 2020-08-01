@@ -5006,3 +5006,4 @@
 | 2020-07-30 19:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2020-07-30 23:48 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | fix: correct validation error messages |
 | 2020-07-31 18:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | fix: resolve CORS configuration |
+| 2020-08-01 13:45 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add email notification on status change |
