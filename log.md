@@ -5011,3 +5011,4 @@
 | 2020-08-01 15:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2020-08-01 23:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | infra: add Kubernetes manifests |
 | 2020-08-02 14:00 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | fix: handle malformed JSON input |
+| 2020-08-03 15:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
