@@ -5014,3 +5014,4 @@
 | 2020-08-03 15:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
 | 2020-08-04 10:33 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | chore: update dependencies |
 | 2020-08-04 10:45 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | docs: add README setup instructions |
+| 2020-08-04 14:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: move constants to config module |
