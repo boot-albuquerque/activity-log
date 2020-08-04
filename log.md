@@ -5015,3 +5015,4 @@
 | 2020-08-04 10:33 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | chore: update dependencies |
 | 2020-08-04 10:45 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | docs: add README setup instructions |
 | 2020-08-04 14:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: move constants to config module |
+| 2020-08-04 19:45 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: handle empty response from external API |
