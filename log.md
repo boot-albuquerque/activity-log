@@ -5021,3 +5021,4 @@
 | 2020-08-05 12:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: add OpenAPI documentation |
 | 2020-08-05 13:00 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | db: add composite index |
 | 2020-08-05 14:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | test: add e2e tests for checkout flow |
+| 2020-08-05 16:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | db: add composite index |
