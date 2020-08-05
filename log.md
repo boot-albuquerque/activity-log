@@ -5018,3 +5018,4 @@
 | 2020-08-04 19:45 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: handle empty response from external API |
 | 2020-08-04 23:46 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | ci: add automated deployment pipeline |
 | 2020-08-05 09:09 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
+| 2020-08-05 12:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: add OpenAPI documentation |
