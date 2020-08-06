@@ -5024,3 +5024,4 @@
 | 2020-08-05 16:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | db: add composite index |
 | 2020-08-05 16:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2020-08-05 23:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | fix: correct validation error messages |
+| 2020-08-06 00:40 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | chore: configure ESLint and Prettier |
