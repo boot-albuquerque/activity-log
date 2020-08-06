@@ -5026,3 +5026,4 @@
 | 2020-08-05 23:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | fix: correct validation error messages |
 | 2020-08-06 00:40 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | chore: configure ESLint and Prettier |
 | 2020-08-06 09:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | style: format code according to style guide |
+| 2020-08-06 10:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | feat: create health check endpoint |
