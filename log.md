@@ -5033,3 +5033,4 @@
 | 2020-08-06 13:57 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: resolve N+1 query problem |
 | 2020-08-06 15:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
 | 2020-08-06 15:56 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | fix: handle edge case in date parsing |
+| 2020-08-06 18:22 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: handle empty response from external API |
