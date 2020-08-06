@@ -5023,3 +5023,4 @@
 | 2020-08-05 14:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | test: add e2e tests for checkout flow |
 | 2020-08-05 16:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | db: add composite index |
 | 2020-08-05 16:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | security: update SSL certificates config |
+| 2020-08-05 23:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/typo-response` | fix: correct validation error messages |
