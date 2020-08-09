@@ -5035,3 +5035,4 @@
 | 2020-08-06 15:56 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | fix: handle edge case in date parsing |
 | 2020-08-06 18:22 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: handle empty response from external API |
 | 2020-08-07 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/pagination` | refactor: adopt repository pattern |
+| 2020-08-09 09:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
