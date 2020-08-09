@@ -5036,3 +5036,4 @@
 | 2020-08-06 18:22 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: handle empty response from external API |
 | 2020-08-07 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/pagination` | refactor: adopt repository pattern |
 | 2020-08-09 09:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
+| 2020-08-09 15:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | test: mock external dependencies in tests |
