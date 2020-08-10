@@ -5038,3 +5038,4 @@
 | 2020-08-09 09:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
 | 2020-08-09 15:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2020-08-10 08:01 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | fix: handle edge case in date parsing |
+| 2020-08-10 08:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: add bulk operations support |
