@@ -5042,3 +5042,4 @@
 | 2020-08-10 12:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | feat: create dashboard metrics endpoint |
 | 2020-08-10 14:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2020-08-10 21:59 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | ci: configure staging environment |
+| 2020-08-11 11:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | security: add input sanitization |
