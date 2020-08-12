@@ -5048,3 +5048,4 @@
 | 2020-08-11 15:42 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | infra: configure auto-scaling policies |
 | 2020-08-11 18:05 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | refactor: reduce cyclomatic complexity |
 | 2020-08-11 20:42 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | feat: create admin management interface |
+| 2020-08-11 22:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | feat: create admin management interface |
