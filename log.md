@@ -5050,3 +5050,4 @@
 | 2020-08-11 20:42 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | feat: create admin management interface |
 | 2020-08-11 22:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | feat: create admin management interface |
 | 2020-08-12 08:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | infra: update Terraform modules |
+| 2020-08-12 10:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: handle timeout in async operation |
