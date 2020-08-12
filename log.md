@@ -5054,3 +5054,4 @@
 | 2020-08-12 11:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: handle malformed JSON input |
 | 2020-08-12 12:43 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2020-08-12 16:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | chore: add Docker Compose for local dev |
+| 2020-08-12 18:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | style: format code according to style guide |
