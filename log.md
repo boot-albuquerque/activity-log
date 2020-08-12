@@ -5052,3 +5052,4 @@
 | 2020-08-12 08:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | infra: update Terraform modules |
 | 2020-08-12 10:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: handle timeout in async operation |
 | 2020-08-12 11:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: handle malformed JSON input |
+| 2020-08-12 12:43 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
