@@ -5057,3 +5057,4 @@
 | 2020-08-12 18:47 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | style: format code according to style guide |
 | 2020-08-12 19:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | test: cover edge cases in validator |
 | 2020-08-13 08:53 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2020-08-13 10:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | docs: update API documentation |
