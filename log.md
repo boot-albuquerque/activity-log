@@ -5059,3 +5059,4 @@
 | 2020-08-13 08:53 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | fix: correct validation error messages |
 | 2020-08-13 10:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | docs: update API documentation |
 | 2020-08-13 11:44 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add audit log trail |
+| 2020-08-13 13:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | fix: correct pagination offset calculation |
