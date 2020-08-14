@@ -5065,3 +5065,4 @@
 | 2020-08-14 11:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
 | 2020-08-14 13:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | chore: add Docker Compose for local dev |
 | 2020-08-14 14:21 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | chore: add pre-commit hooks |
+| 2020-08-14 15:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | chore: configure ESLint and Prettier |
