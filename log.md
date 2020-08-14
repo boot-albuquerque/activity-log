@@ -5063,3 +5063,4 @@
 | 2020-08-13 13:51 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | docs: update API documentation |
 | 2020-08-13 20:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | test: add integration tests for API endpoints |
 | 2020-08-14 11:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
+| 2020-08-14 13:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | chore: add Docker Compose for local dev |
