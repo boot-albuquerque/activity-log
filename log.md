@@ -5068,3 +5068,4 @@
 | 2020-08-14 15:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | chore: configure ESLint and Prettier |
 | 2020-08-14 21:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | docs: add README setup instructions |
 | 2020-08-15 16:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | fix: correct decimal precision in billing |
+| 2020-08-15 20:16 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: implement soft delete pattern |
