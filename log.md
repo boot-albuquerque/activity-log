@@ -5066,3 +5066,4 @@
 | 2020-08-14 13:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | chore: add Docker Compose for local dev |
 | 2020-08-14 14:21 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | chore: add pre-commit hooks |
 | 2020-08-14 15:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/update-deps` | chore: configure ESLint and Prettier |
+| 2020-08-14 21:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | docs: add README setup instructions |
