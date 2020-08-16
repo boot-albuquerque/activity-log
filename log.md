@@ -5070,3 +5070,4 @@
 | 2020-08-15 16:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | fix: correct decimal precision in billing |
 | 2020-08-15 20:16 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2020-08-16 14:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | refactor: adopt repository pattern |
+| 2020-08-16 16:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: create admin management interface |
