@@ -5074,3 +5074,4 @@
 | 2020-08-16 23:36 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | feat: add real-time notifications |
 | 2020-08-16 23:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2020-08-17 11:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve CORS configuration |
+| 2020-08-17 13:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | chore: configure ESLint and Prettier |
