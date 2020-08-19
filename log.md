@@ -5080,3 +5080,4 @@
 | 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | style: format code according to style guide |
 | 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | db: add composite index |
 | 2020-08-19 14:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | security: add input sanitization |
+| 2020-08-19 18:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | fix: resolve CORS configuration |
