@@ -5077,3 +5077,4 @@
 | 2020-08-17 13:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | chore: configure ESLint and Prettier |
 | 2020-08-19 07:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
 | 2020-08-19 09:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | style: format code according to style guide |
