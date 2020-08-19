@@ -5075,3 +5075,4 @@
 | 2020-08-16 23:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2020-08-17 11:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2020-08-17 13:29 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | chore: configure ESLint and Prettier |
+| 2020-08-19 07:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
