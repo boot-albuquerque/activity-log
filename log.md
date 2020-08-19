@@ -5079,3 +5079,4 @@
 | 2020-08-19 09:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | style: format code according to style guide |
 | 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | db: add composite index |
+| 2020-08-19 14:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | security: add input sanitization |
