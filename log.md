@@ -5081,3 +5081,4 @@
 | 2020-08-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | db: add composite index |
 | 2020-08-19 14:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | security: add input sanitization |
 | 2020-08-19 18:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | fix: resolve CORS configuration |
+| 2020-08-19 22:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
