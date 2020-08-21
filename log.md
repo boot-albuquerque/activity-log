@@ -5084,3 +5084,4 @@
 | 2020-08-19 22:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2020-08-20 15:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2020-08-21 08:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | feat: implement JWT refresh token |
+| 2020-08-21 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | feat: add OpenAPI documentation |
