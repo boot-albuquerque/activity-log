@@ -5089,3 +5089,4 @@
 | 2020-08-21 12:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2020-08-21 13:33 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | test: add performance benchmark tests |
 | 2020-08-21 14:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: add search with filters |
+| 2020-08-21 17:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | fix: resolve deadlock in transaction |
