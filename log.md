@@ -5087,3 +5087,4 @@
 | 2020-08-21 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | feat: add OpenAPI documentation |
 | 2020-08-21 12:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2020-08-21 12:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2020-08-21 13:33 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | test: add performance benchmark tests |
