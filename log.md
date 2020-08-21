@@ -5088,3 +5088,4 @@
 | 2020-08-21 12:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2020-08-21 12:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2020-08-21 13:33 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | test: add performance benchmark tests |
+| 2020-08-21 14:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: add search with filters |
