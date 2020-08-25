@@ -5093,3 +5093,4 @@
 | 2020-08-23 18:07 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | docs: add README setup instructions |
 | 2020-08-25 09:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | chore: add pre-commit hooks |
 | 2020-08-25 11:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | security: fix SQL injection vulnerability |
+| 2020-08-25 13:59 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | fix: correct cache invalidation logic |
