@@ -5094,3 +5094,4 @@
 | 2020-08-25 09:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | chore: add pre-commit hooks |
 | 2020-08-25 11:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | security: fix SQL injection vulnerability |
 | 2020-08-25 13:59 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | fix: correct cache invalidation logic |
+| 2020-08-25 14:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
