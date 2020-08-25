@@ -5092,3 +5092,4 @@
 | 2020-08-21 17:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | fix: resolve deadlock in transaction |
 | 2020-08-23 18:07 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | docs: add README setup instructions |
 | 2020-08-25 09:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | chore: add pre-commit hooks |
+| 2020-08-25 11:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | security: fix SQL injection vulnerability |
