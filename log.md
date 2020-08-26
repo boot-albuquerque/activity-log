@@ -5099,3 +5099,4 @@
 | 2020-08-25 21:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2020-08-26 12:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: add real-time notifications |
 | 2020-08-26 12:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | chore: configure ESLint and Prettier |
+| 2020-08-26 13:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | chore: add pre-commit hooks |
