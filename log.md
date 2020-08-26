@@ -5098,3 +5098,4 @@
 | 2020-08-25 18:54 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | ci: configure staging environment |
 | 2020-08-25 21:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2020-08-26 12:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: add real-time notifications |
+| 2020-08-26 12:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | chore: configure ESLint and Prettier |
