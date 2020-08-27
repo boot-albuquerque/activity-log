@@ -5106,3 +5106,4 @@
 | 2020-08-27 11:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2020-08-27 13:11 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/pagination` | fix: handle malformed JSON input |
 | 2020-08-27 13:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | fix: correct validation error messages |
+| 2020-08-27 15:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | feat: add OpenAPI documentation |
