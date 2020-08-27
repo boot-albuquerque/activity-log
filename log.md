@@ -5103,3 +5103,4 @@
 | 2020-08-26 13:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | fix: handle missing environment variable |
 | 2020-08-27 08:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | fix: correct pagination offset calculation |
 | 2020-08-27 10:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
+| 2020-08-27 11:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
