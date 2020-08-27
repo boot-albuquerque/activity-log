@@ -5101,3 +5101,4 @@
 | 2020-08-26 12:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2020-08-26 13:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2020-08-26 13:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | fix: handle missing environment variable |
+| 2020-08-27 08:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | fix: correct pagination offset calculation |
