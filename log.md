@@ -5108,3 +5108,4 @@
 | 2020-08-27 13:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | fix: correct validation error messages |
 | 2020-08-27 15:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2020-08-27 17:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | docs: update API documentation |
+| 2020-08-27 18:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | refactor: improve code readability |
