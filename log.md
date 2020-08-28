@@ -5110,3 +5110,4 @@
 | 2020-08-27 17:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | docs: update API documentation |
 | 2020-08-27 18:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | refactor: improve code readability |
 | 2020-08-27 20:27 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle timeout in async operation |
+| 2020-08-27 22:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: split large controller into smaller ones |
