@@ -5115,3 +5115,4 @@
 | 2020-08-29 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2020-08-29 13:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2020-08-29 15:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: correct cache invalidation logic |
+| 2020-08-29 16:40 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | db: add migration for new schema |
