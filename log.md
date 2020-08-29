@@ -5114,3 +5114,4 @@
 | 2020-08-27 23:47 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | security: update SSL certificates config |
 | 2020-08-29 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2020-08-29 13:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
+| 2020-08-29 15:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: correct cache invalidation logic |
