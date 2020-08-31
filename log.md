@@ -5116,3 +5116,4 @@
 | 2020-08-29 13:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
 | 2020-08-29 15:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: correct cache invalidation logic |
 | 2020-08-29 16:40 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | db: add migration for new schema |
+| 2020-08-31 00:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | test: add performance benchmark tests |
