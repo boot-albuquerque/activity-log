@@ -5123,3 +5123,4 @@
 | 2020-08-31 12:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2020-08-31 15:11 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | refactor: improve code readability |
 | 2020-08-31 15:31 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | ci: add automated deployment pipeline |
+| 2020-08-31 16:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | test: add performance benchmark tests |
