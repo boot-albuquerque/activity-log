@@ -5118,3 +5118,4 @@
 | 2020-08-29 16:40 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | db: add migration for new schema |
 | 2020-08-31 00:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | test: add performance benchmark tests |
 | 2020-08-31 00:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | test: add unit tests for payment service |
+| 2020-08-31 09:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | chore: update dependencies |
