@@ -5120,3 +5120,4 @@
 | 2020-08-31 00:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | test: add unit tests for payment service |
 | 2020-08-31 09:13 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | chore: update dependencies |
 | 2020-08-31 09:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | refactor: improve code readability |
+| 2020-08-31 12:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
