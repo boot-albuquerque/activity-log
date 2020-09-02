@@ -5126,3 +5126,4 @@
 | 2020-08-31 16:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2020-08-31 17:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: update API documentation |
 | 2020-08-31 23:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: correct null check in user service |
+| 2020-09-02 07:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | fix: handle empty response from external API |
