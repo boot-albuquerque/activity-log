@@ -5134,3 +5134,4 @@
 | 2020-09-02 14:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle edge case in date parsing |
 | 2020-09-02 15:55 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2020-09-02 16:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2020-09-02 17:23 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: handle missing environment variable |
