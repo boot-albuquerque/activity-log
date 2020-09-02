@@ -5130,3 +5130,4 @@
 | 2020-09-02 10:39 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | refactor: replace raw SQL with query builder |
 | 2020-09-02 13:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: correct validation error messages |
 | 2020-09-02 13:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | chore: add pre-commit hooks |
+| 2020-09-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | security: add input sanitization |
