@@ -5131,3 +5131,4 @@
 | 2020-09-02 13:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: correct validation error messages |
 | 2020-09-02 13:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | chore: add pre-commit hooks |
 | 2020-09-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | security: add input sanitization |
+| 2020-09-02 14:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle edge case in date parsing |
