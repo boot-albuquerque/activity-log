@@ -5137,3 +5137,4 @@
 | 2020-09-02 17:23 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: handle missing environment variable |
 | 2020-09-02 17:43 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add file upload support |
 | 2020-09-02 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add email notification on status change |
+| 2020-09-03 00:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | feat: create dashboard metrics endpoint |
