@@ -5139,3 +5139,4 @@
 | 2020-09-02 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add email notification on status change |
 | 2020-09-03 00:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2020-09-03 17:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | feat: implement rate limiting middleware |
+| 2020-09-03 18:38 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | perf: add database indexes |
