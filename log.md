@@ -5147,3 +5147,4 @@
 | 2020-09-04 12:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: create order processing service |
 | 2020-09-04 13:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | db: optimize slow queries |
 | 2020-09-04 14:07 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | db: optimize slow queries |
+| 2020-09-04 14:28 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | test: cover edge cases in validator |
