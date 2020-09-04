@@ -5148,3 +5148,4 @@
 | 2020-09-04 13:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | db: optimize slow queries |
 | 2020-09-04 14:07 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | db: optimize slow queries |
 | 2020-09-04 14:28 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | test: cover edge cases in validator |
+| 2020-09-04 14:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | perf: implement response compression |
