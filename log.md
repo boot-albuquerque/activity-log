@@ -5144,3 +5144,4 @@
 | 2020-09-04 10:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2020-09-04 10:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2020-09-04 11:06 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | fix: correct cache invalidation logic |
+| 2020-09-04 12:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | feat: create order processing service |
