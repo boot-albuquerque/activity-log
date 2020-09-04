@@ -5141,3 +5141,4 @@
 | 2020-09-03 17:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2020-09-03 18:38 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/memory-leak` | perf: add database indexes |
 | 2020-09-03 21:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2020-09-04 10:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add OpenAPI documentation |
