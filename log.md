@@ -5155,3 +5155,4 @@
 | 2020-09-04 20:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | test: improve test coverage to 80% |
 | 2020-09-04 21:36 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | fix: resolve memory leak in connection pool |
 | 2020-09-05 21:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | refactor: move constants to config module |
+| 2020-09-05 22:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: create background job processor |
