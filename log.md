@@ -5157,3 +5157,4 @@
 | 2020-09-05 21:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2020-09-05 22:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: create background job processor |
 | 2020-09-07 00:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2020-09-07 12:34 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | fix: handle missing environment variable |
