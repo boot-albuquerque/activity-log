@@ -5163,3 +5163,4 @@
 | 2020-09-07 15:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
 | 2020-09-07 17:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | fix: resolve race condition in queue worker |
 | 2020-09-07 18:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: add OpenAPI documentation |
+| 2020-09-07 20:54 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/pagination` | feat: create dashboard metrics endpoint |
