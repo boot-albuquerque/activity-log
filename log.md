@@ -5161,3 +5161,4 @@
 | 2020-09-07 12:49 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | chore: add pre-commit hooks |
 | 2020-09-07 13:06 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | security: add input sanitization |
 | 2020-09-07 15:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
+| 2020-09-07 17:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | fix: resolve race condition in queue worker |
