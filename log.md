@@ -5164,3 +5164,4 @@
 | 2020-09-07 17:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | fix: resolve race condition in queue worker |
 | 2020-09-07 18:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: add OpenAPI documentation |
 | 2020-09-07 20:54 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/pagination` | feat: create dashboard metrics endpoint |
+| 2020-09-08 11:15 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | ci: configure staging environment |
