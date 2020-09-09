@@ -5176,3 +5176,4 @@
 | 2020-09-09 14:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | db: add migration for new schema |
 | 2020-09-09 16:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | refactor: split large controller into smaller ones |
 | 2020-09-09 16:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | test: mock external dependencies in tests |
+| 2020-09-09 17:06 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | fix: correct null check in user service |
