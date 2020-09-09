@@ -5172,3 +5172,4 @@
 | 2020-09-09 13:30 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2020-09-09 13:43 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2020-09-09 13:43 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | perf: reduce bundle size |
+| 2020-09-09 14:11 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: consolidate error handling |
