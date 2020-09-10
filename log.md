@@ -5183,3 +5183,4 @@
 | 2020-09-10 07:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2020-09-10 13:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | fix: handle empty response from external API |
 | 2020-09-10 13:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: correct cache invalidation logic |
+| 2020-09-10 14:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: create order processing service |
