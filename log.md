@@ -5179,3 +5179,4 @@
 | 2020-09-09 17:06 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2020-09-09 19:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | fix: correct null check in user service |
 | 2020-09-09 21:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: add README setup instructions |
+| 2020-09-09 23:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | chore: update dependencies |
