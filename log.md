@@ -5181,3 +5181,4 @@
 | 2020-09-09 21:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2020-09-09 23:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | chore: update dependencies |
 | 2020-09-10 07:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | feat: add pagination to list endpoint |
+| 2020-09-10 13:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | fix: handle empty response from external API |
