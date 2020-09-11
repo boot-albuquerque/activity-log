@@ -5187,3 +5187,4 @@
 | 2020-09-10 14:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2020-09-10 19:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
 | 2020-09-10 20:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: resolve N+1 query problem |
+| 2020-09-11 16:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: handle missing environment variable |
