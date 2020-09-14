@@ -5191,3 +5191,4 @@
 | 2020-09-14 09:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
 | 2020-09-14 10:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: add audit log trail |
 | 2020-09-14 12:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: implement webhook receiver |
+| 2020-09-14 17:58 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | test: fix flaky test in async handler |
