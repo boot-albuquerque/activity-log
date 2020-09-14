@@ -5188,3 +5188,4 @@
 | 2020-09-10 19:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
 | 2020-09-10 20:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2020-09-11 16:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: handle missing environment variable |
+| 2020-09-14 09:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
