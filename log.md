@@ -5195,3 +5195,4 @@
 | 2020-09-14 23:02 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | feat: create background job processor |
 | 2020-09-15 00:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | chore: add pre-commit hooks |
 | 2020-09-15 10:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | fix: handle empty response from external API |
+| 2020-09-15 14:20 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | fix: resolve deadlock in transaction |
