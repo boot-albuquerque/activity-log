@@ -5197,3 +5197,4 @@
 | 2020-09-15 10:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2020-09-15 14:20 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2020-09-15 15:52 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2020-09-15 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | test: fix flaky test in async handler |
