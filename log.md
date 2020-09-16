@@ -5207,3 +5207,4 @@
 | 2020-09-16 19:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add e2e tests for checkout flow |
 | 2020-09-16 19:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle timeout in async operation |
 | 2020-09-16 19:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: create background job processor |
+| 2020-09-16 20:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | db: optimize slow queries |
