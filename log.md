@@ -5203,3 +5203,4 @@
 | 2020-09-16 15:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-09-16 15:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | perf: reduce bundle size |
 | 2020-09-16 16:47 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | chore: configure ESLint and Prettier |
+| 2020-09-16 18:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add migration for new schema |
