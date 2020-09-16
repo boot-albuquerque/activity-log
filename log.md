@@ -5199,3 +5199,4 @@
 | 2020-09-15 15:52 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2020-09-15 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | test: fix flaky test in async handler |
 | 2020-09-15 18:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | style: format code according to style guide |
+| 2020-09-16 00:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: implement webhook receiver |
