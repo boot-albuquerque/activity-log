@@ -5205,3 +5205,4 @@
 | 2020-09-16 16:47 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2020-09-16 18:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add migration for new schema |
 | 2020-09-16 19:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add e2e tests for checkout flow |
+| 2020-09-16 19:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle timeout in async operation |
