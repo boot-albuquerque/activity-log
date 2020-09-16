@@ -5206,3 +5206,4 @@
 | 2020-09-16 18:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add migration for new schema |
 | 2020-09-16 19:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add e2e tests for checkout flow |
 | 2020-09-16 19:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle timeout in async operation |
+| 2020-09-16 19:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: create background job processor |
