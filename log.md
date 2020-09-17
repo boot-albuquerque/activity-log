@@ -5216,3 +5216,4 @@
 | 2020-09-17 14:17 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2020-09-17 15:41 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2020-09-17 17:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | fix: correct validation error messages |
+| 2020-09-17 19:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | security: add input sanitization |
