@@ -5217,3 +5217,4 @@
 | 2020-09-17 15:41 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2020-09-17 17:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | fix: correct validation error messages |
 | 2020-09-17 19:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | security: add input sanitization |
+| 2020-09-17 19:34 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | refactor: improve code readability |
