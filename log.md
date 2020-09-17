@@ -5214,3 +5214,4 @@
 | 2020-09-17 11:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | test: improve test coverage to 80% |
 | 2020-09-17 13:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: create admin management interface |
 | 2020-09-17 14:17 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | db: optimize slow queries |
+| 2020-09-17 15:41 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | feat: create health check endpoint |
