@@ -5213,3 +5213,4 @@
 | 2020-09-17 11:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2020-09-17 11:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | test: improve test coverage to 80% |
 | 2020-09-17 13:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: create admin management interface |
+| 2020-09-17 14:17 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | db: optimize slow queries |
