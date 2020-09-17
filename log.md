@@ -5209,3 +5209,4 @@
 | 2020-09-16 19:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: create background job processor |
 | 2020-09-16 20:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | db: optimize slow queries |
 | 2020-09-16 22:32 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | refactor: split large controller into smaller ones |
+| 2020-09-17 10:24 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | chore: configure GitHub Actions CI |
