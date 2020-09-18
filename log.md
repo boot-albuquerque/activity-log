@@ -5223,3 +5223,4 @@
 | 2020-09-17 22:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | perf: add database indexes |
 | 2020-09-18 08:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2020-09-18 09:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | fix: correct null check in user service |
+| 2020-09-18 09:51 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: correct validation error messages |
