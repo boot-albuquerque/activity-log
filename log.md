@@ -5231,3 +5231,4 @@
 | 2020-09-18 13:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | test: fix flaky test in async handler |
 | 2020-09-18 14:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | test: improve test coverage to 80% |
 | 2020-09-18 14:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | perf: reduce bundle size |
+| 2020-09-18 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | feat: add export to CSV/Excel |
