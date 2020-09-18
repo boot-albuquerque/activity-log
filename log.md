@@ -5227,3 +5227,4 @@
 | 2020-09-18 10:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2020-09-18 11:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2020-09-18 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | refactor: adopt repository pattern |
+| 2020-09-18 13:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add email notification on status change |
