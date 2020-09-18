@@ -5219,3 +5219,4 @@
 | 2020-09-17 19:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | security: add input sanitization |
 | 2020-09-17 19:34 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | refactor: improve code readability |
 | 2020-09-17 19:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | fix: correct validation error messages |
+| 2020-09-17 21:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | test: cover edge cases in validator |
