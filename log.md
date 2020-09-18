@@ -5229,3 +5229,4 @@
 | 2020-09-18 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | refactor: adopt repository pattern |
 | 2020-09-18 13:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add email notification on status change |
 | 2020-09-18 13:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | test: fix flaky test in async handler |
+| 2020-09-18 14:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | test: improve test coverage to 80% |
