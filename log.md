@@ -5221,3 +5221,4 @@
 | 2020-09-17 19:36 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | fix: correct validation error messages |
 | 2020-09-17 21:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | test: cover edge cases in validator |
 | 2020-09-17 22:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | perf: add database indexes |
+| 2020-09-18 08:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | fix: correct pagination offset calculation |
