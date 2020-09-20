@@ -5233,3 +5233,4 @@
 | 2020-09-18 14:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | perf: reduce bundle size |
 | 2020-09-18 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2020-09-18 21:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle timeout in async operation |
+| 2020-09-20 09:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | ci: add automated deployment pipeline |
