@@ -5235,3 +5235,4 @@
 | 2020-09-18 21:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2020-09-20 09:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2020-09-21 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | ci: configure staging environment |
+| 2020-09-21 14:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | feat: add export to CSV/Excel |
