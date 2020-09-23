@@ -5239,3 +5239,4 @@
 | 2020-09-23 10:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | refactor: split large controller into smaller ones |
 | 2020-09-23 11:05 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | docs: document environment variables |
 | 2020-09-23 12:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | fix: resolve race condition in queue worker |
+| 2020-09-23 13:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | test: add performance benchmark tests |
