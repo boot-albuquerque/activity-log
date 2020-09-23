@@ -5241,3 +5241,4 @@
 | 2020-09-23 12:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | fix: resolve race condition in queue worker |
 | 2020-09-23 13:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | test: add performance benchmark tests |
 | 2020-09-23 13:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | chore: add pre-commit hooks |
+| 2020-09-23 14:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | ci: configure staging environment |
