@@ -5244,3 +5244,4 @@
 | 2020-09-23 14:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | ci: configure staging environment |
 | 2020-09-23 16:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | refactor: extract business logic to service layer |
 | 2020-09-23 18:08 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | perf: add database indexes |
+| 2020-09-23 18:18 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | fix: correct pagination offset calculation |
