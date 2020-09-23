@@ -5236,3 +5236,4 @@
 | 2020-09-20 09:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2020-09-21 12:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | ci: configure staging environment |
 | 2020-09-21 14:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | feat: add export to CSV/Excel |
+| 2020-09-23 10:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | refactor: split large controller into smaller ones |
