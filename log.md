@@ -5250,3 +5250,4 @@
 | 2020-09-24 09:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | fix: resolve memory leak in connection pool |
 | 2020-09-24 10:43 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2020-09-24 10:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | fix: handle timeout in async operation |
+| 2020-09-24 11:47 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | feat: create background job processor |
