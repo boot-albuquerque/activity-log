@@ -5254,3 +5254,4 @@
 | 2020-09-24 13:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2020-09-24 14:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | refactor: extract business logic to service layer |
 | 2020-09-24 15:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
+| 2020-09-24 15:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | chore: update dependencies |
