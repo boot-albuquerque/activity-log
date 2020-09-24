@@ -5251,3 +5251,4 @@
 | 2020-09-24 10:43 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2020-09-24 10:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2020-09-24 11:47 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | feat: create background job processor |
+| 2020-09-24 13:56 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
