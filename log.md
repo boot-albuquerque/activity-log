@@ -5256,3 +5256,4 @@
 | 2020-09-24 15:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2020-09-24 15:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | chore: update dependencies |
 | 2020-09-24 17:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | refactor: split large controller into smaller ones |
+| 2020-09-24 19:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | refactor: consolidate error handling |
