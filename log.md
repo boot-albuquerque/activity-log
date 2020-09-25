@@ -5259,3 +5259,4 @@
 | 2020-09-24 19:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | refactor: consolidate error handling |
 | 2020-09-24 19:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: correct cache invalidation logic |
 | 2020-09-24 21:19 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | refactor: move constants to config module |
+| 2020-09-25 09:17 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | security: update SSL certificates config |
