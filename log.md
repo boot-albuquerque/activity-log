@@ -5269,3 +5269,4 @@
 | 2020-09-25 13:12 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/pagination` | fix: handle timeout in async operation |
 | 2020-09-25 14:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: create admin management interface |
 | 2020-09-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | security: fix SQL injection vulnerability |
+| 2020-09-25 18:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | fix: resolve CORS configuration |
