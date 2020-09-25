@@ -5258,3 +5258,4 @@
 | 2020-09-24 17:42 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | refactor: split large controller into smaller ones |
 | 2020-09-24 19:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | refactor: consolidate error handling |
 | 2020-09-24 19:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: correct cache invalidation logic |
+| 2020-09-24 21:19 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | refactor: move constants to config module |
