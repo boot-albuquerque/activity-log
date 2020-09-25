@@ -5263,3 +5263,4 @@
 | 2020-09-25 09:26 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: implement webhook receiver |
 | 2020-09-25 10:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | refactor: reduce cyclomatic complexity |
 | 2020-09-25 11:09 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | test: improve test coverage to 80% |
+| 2020-09-25 11:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | feat: add audit log trail |
