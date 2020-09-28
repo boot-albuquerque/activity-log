@@ -5275,3 +5275,4 @@
 | 2020-09-28 09:06 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2020-09-28 12:31 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | db: add migration for new schema |
 | 2020-09-28 13:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | feat: add email notification on status change |
+| 2020-09-28 14:53 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
