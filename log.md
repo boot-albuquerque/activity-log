@@ -5273,3 +5273,4 @@
 | 2020-09-27 21:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement soft delete pattern |
 | 2020-09-28 08:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2020-09-28 09:06 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
+| 2020-09-28 12:31 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | db: add migration for new schema |
