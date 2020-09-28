@@ -5270,3 +5270,4 @@
 | 2020-09-25 14:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: create admin management interface |
 | 2020-09-25 15:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | security: fix SQL injection vulnerability |
 | 2020-09-25 18:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | fix: resolve CORS configuration |
+| 2020-09-27 21:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement soft delete pattern |
