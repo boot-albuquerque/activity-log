@@ -5284,3 +5284,4 @@
 | 2020-09-28 22:40 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2020-09-29 13:15 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | feat: create admin management interface |
 | 2020-09-29 18:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | security: update SSL certificates config |
+| 2020-09-29 19:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | fix: correct decimal precision in billing |
