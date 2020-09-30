@@ -5291,3 +5291,4 @@
 | 2020-09-30 09:47 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: handle timeout in async operation |
 | 2020-09-30 12:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: handle timeout in async operation |
 | 2020-09-30 13:51 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
+| 2020-09-30 15:25 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | feat: add real-time notifications |
