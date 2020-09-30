@@ -5286,3 +5286,4 @@
 | 2020-09-29 18:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | security: update SSL certificates config |
 | 2020-09-29 19:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | fix: correct decimal precision in billing |
 | 2020-09-29 19:20 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2020-09-30 09:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: handle missing environment variable |
