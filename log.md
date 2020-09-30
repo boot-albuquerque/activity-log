@@ -5295,3 +5295,4 @@
 | 2020-09-30 16:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: handle missing environment variable |
 | 2020-09-30 16:05 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | docs: document environment variables |
 | 2020-09-30 18:10 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | chore: update dependencies |
+| 2020-09-30 18:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | infra: update Terraform modules |
