@@ -5289,3 +5289,4 @@
 | 2020-09-30 09:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: handle missing environment variable |
 | 2020-09-30 09:38 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | refactor: extract business logic to service layer |
 | 2020-09-30 09:47 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: handle timeout in async operation |
+| 2020-09-30 12:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: handle timeout in async operation |
