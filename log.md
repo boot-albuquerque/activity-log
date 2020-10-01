@@ -5301,3 +5301,4 @@
 | 2020-09-30 22:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2020-10-01 00:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2020-10-01 09:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | feat: add real-time notifications |
+| 2020-10-01 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | test: add unit tests for payment service |
