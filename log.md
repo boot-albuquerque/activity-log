@@ -5299,3 +5299,4 @@
 | 2020-09-30 18:34 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/race-condition` | fix: correct pagination offset calculation |
 | 2020-09-30 20:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2020-09-30 22:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | db: add migration for new schema |
+| 2020-10-01 00:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
