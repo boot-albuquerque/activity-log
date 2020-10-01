@@ -5309,3 +5309,4 @@
 | 2020-10-01 15:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2020-10-01 18:23 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | refactor: consolidate error handling |
 | 2020-10-01 18:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | infra: update Terraform modules |
+| 2020-10-01 19:37 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | test: fix flaky test in async handler |
