@@ -5303,3 +5303,4 @@
 | 2020-10-01 09:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | feat: add real-time notifications |
 | 2020-10-01 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2020-10-01 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | refactor: extract business logic to service layer |
+| 2020-10-01 14:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | feat: create order processing service |
