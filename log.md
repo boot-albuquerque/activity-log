@@ -5305,3 +5305,4 @@
 | 2020-10-01 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | refactor: extract business logic to service layer |
 | 2020-10-01 14:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | feat: create order processing service |
 | 2020-10-01 14:28 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | style: format code according to style guide |
+| 2020-10-01 14:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: implement caching layer |
