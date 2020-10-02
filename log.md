@@ -5311,3 +5311,4 @@
 | 2020-10-01 18:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | infra: update Terraform modules |
 | 2020-10-01 19:37 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2020-10-01 22:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | ci: configure staging environment |
+| 2020-10-02 00:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | refactor: adopt repository pattern |
