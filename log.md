@@ -5313,3 +5313,4 @@
 | 2020-10-01 22:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | ci: configure staging environment |
 | 2020-10-02 00:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | refactor: adopt repository pattern |
 | 2020-10-02 00:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | test: add performance benchmark tests |
+| 2020-10-02 12:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: add e2e tests for checkout flow |
