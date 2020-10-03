@@ -5317,3 +5317,4 @@
 | 2020-10-02 15:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2020-10-02 16:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | feat: implement caching layer |
 | 2020-10-02 20:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: correct pagination offset calculation |
+| 2020-10-03 09:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: handle empty response from external API |
