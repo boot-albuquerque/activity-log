@@ -5316,3 +5316,4 @@
 | 2020-10-02 12:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: add e2e tests for checkout flow |
 | 2020-10-02 15:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2020-10-02 16:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | feat: implement caching layer |
+| 2020-10-02 20:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: correct pagination offset calculation |
