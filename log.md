@@ -5320,3 +5320,4 @@
 | 2020-10-03 09:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2020-10-03 21:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/null-pointer` | feat: add bulk operations support |
 | 2020-10-04 13:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | feat: create dashboard metrics endpoint |
+| 2020-10-05 00:03 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: handle edge case in date parsing |
