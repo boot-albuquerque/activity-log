@@ -5337,3 +5337,4 @@
 | 2020-10-07 13:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | feat: add search with filters |
 | 2020-10-07 14:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: configure ESLint and Prettier |
 | 2020-10-07 14:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | perf: reduce bundle size |
+| 2020-10-07 16:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | perf: add database indexes |
