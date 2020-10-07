@@ -5339,3 +5339,4 @@
 | 2020-10-07 14:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | perf: reduce bundle size |
 | 2020-10-07 16:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | perf: add database indexes |
 | 2020-10-07 18:41 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | feat: implement rate limiting middleware |
+| 2020-10-07 19:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | chore: add pre-commit hooks |
