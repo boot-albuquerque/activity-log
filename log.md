@@ -5335,3 +5335,4 @@
 | 2020-10-07 12:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: add search with filters |
 | 2020-10-07 13:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2020-10-07 13:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | feat: add search with filters |
+| 2020-10-07 14:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: configure ESLint and Prettier |
