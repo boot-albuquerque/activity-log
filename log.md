@@ -5332,3 +5332,4 @@
 | 2020-10-06 20:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | style: format code according to style guide |
 | 2020-10-06 22:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2020-10-07 11:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: add search with filters |
+| 2020-10-07 12:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: add search with filters |
