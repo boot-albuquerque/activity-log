@@ -5330,3 +5330,4 @@
 | 2020-10-06 16:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | feat: add file upload support |
 | 2020-10-06 18:56 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | test: cover edge cases in validator |
 | 2020-10-06 20:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | style: format code according to style guide |
+| 2020-10-06 22:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | feat: implement rate limiting middleware |
