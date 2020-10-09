@@ -5343,3 +5343,4 @@
 | 2020-10-07 20:05 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | refactor: improve code readability |
 | 2020-10-07 20:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: correct validation error messages |
 | 2020-10-07 22:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | db: add migration for new schema |
+| 2020-10-09 16:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add audit log trail |
