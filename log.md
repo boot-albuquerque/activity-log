@@ -5346,3 +5346,4 @@
 | 2020-10-09 16:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add audit log trail |
 | 2020-10-10 23:00 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | fix: handle edge case in date parsing |
 | 2020-10-12 00:52 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | feat: implement JWT refresh token |
+| 2020-10-12 10:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | test: improve test coverage to 80% |
