@@ -5351,3 +5351,4 @@
 | 2020-10-12 21:27 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2020-10-12 22:25 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | test: mock external dependencies in tests |
 | 2020-10-13 08:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | perf: implement response compression |
+| 2020-10-13 09:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | docs: document environment variables |
