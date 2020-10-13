@@ -5348,3 +5348,4 @@
 | 2020-10-12 00:52 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | feat: implement JWT refresh token |
 | 2020-10-12 10:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2020-10-12 11:56 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | style: format code according to style guide |
+| 2020-10-12 21:27 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: implement JWT refresh token |
