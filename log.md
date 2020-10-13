@@ -5353,3 +5353,4 @@
 | 2020-10-13 08:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | perf: implement response compression |
 | 2020-10-13 09:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | docs: document environment variables |
 | 2020-10-13 09:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: correct decimal precision in billing |
+| 2020-10-13 10:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
