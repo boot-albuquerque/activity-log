@@ -5367,3 +5367,4 @@
 | 2020-10-14 15:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | fix: resolve CORS configuration |
 | 2020-10-14 15:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | security: update SSL certificates config |
 | 2020-10-14 15:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | chore: add pre-commit hooks |
+| 2020-10-14 17:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | chore: add pre-commit hooks |
