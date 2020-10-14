@@ -5363,3 +5363,4 @@
 | 2020-10-14 09:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2020-10-14 10:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | docs: add README setup instructions |
 | 2020-10-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
+| 2020-10-14 11:40 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | security: update SSL certificates config |
