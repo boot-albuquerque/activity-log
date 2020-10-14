@@ -5357,3 +5357,4 @@
 | 2020-10-13 12:18 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: add file upload support |
 | 2020-10-13 17:14 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | security: update SSL certificates config |
 | 2020-10-13 23:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: add real-time notifications |
+| 2020-10-13 23:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: implement rate limiting middleware |
