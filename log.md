@@ -5356,3 +5356,4 @@
 | 2020-10-13 10:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2020-10-13 12:18 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: add file upload support |
 | 2020-10-13 17:14 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | security: update SSL certificates config |
+| 2020-10-13 23:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: add real-time notifications |
