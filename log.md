@@ -5360,3 +5360,4 @@
 | 2020-10-13 23:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2020-10-14 07:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | infra: update Terraform modules |
 | 2020-10-14 08:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: add email notification on status change |
+| 2020-10-14 09:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: implement webhook receiver |
