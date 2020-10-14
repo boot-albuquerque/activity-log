@@ -5362,3 +5362,4 @@
 | 2020-10-14 08:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: add email notification on status change |
 | 2020-10-14 09:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2020-10-14 10:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | docs: add README setup instructions |
+| 2020-10-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
