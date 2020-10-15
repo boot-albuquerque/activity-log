@@ -5371,3 +5371,4 @@
 | 2020-10-14 17:32 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2020-10-14 18:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | fix: handle edge case in date parsing |
 | 2020-10-14 19:46 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | fix: correct null check in user service |
+| 2020-10-14 22:03 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | feat: add pagination to list endpoint |
