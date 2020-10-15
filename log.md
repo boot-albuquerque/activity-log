@@ -5375,3 +5375,4 @@
 | 2020-10-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add real-time notifications |
 | 2020-10-15 00:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | fix: resolve race condition in queue worker |
 | 2020-10-15 08:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | test: cover edge cases in validator |
+| 2020-10-15 10:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | test: fix flaky test in async handler |
