@@ -5378,3 +5378,4 @@
 | 2020-10-15 10:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2020-10-15 11:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2020-10-15 14:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: add real-time notifications |
+| 2020-10-15 14:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | ci: configure staging environment |
