@@ -5373,3 +5373,4 @@
 | 2020-10-14 19:46 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2020-10-14 22:03 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | feat: add pagination to list endpoint |
 | 2020-10-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add real-time notifications |
+| 2020-10-15 00:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | fix: resolve race condition in queue worker |
