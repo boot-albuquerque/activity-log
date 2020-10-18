@@ -5379,3 +5379,4 @@
 | 2020-10-15 11:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2020-10-15 14:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: add real-time notifications |
 | 2020-10-15 14:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | ci: configure staging environment |
+| 2020-10-18 17:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | fix: resolve N+1 query problem |
