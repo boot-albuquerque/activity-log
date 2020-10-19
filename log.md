@@ -5382,3 +5382,4 @@
 | 2020-10-18 17:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2020-10-19 08:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | refactor: improve code readability |
 | 2020-10-19 12:47 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | feat: add OpenAPI documentation |
+| 2020-10-19 13:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | refactor: improve code readability |
