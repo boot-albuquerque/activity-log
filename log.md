@@ -5384,3 +5384,4 @@
 | 2020-10-19 12:47 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | feat: add OpenAPI documentation |
 | 2020-10-19 13:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | refactor: improve code readability |
 | 2020-10-19 16:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | security: update SSL certificates config |
+| 2020-10-19 23:27 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: add email notification on status change |
