@@ -5389,3 +5389,4 @@
 | 2020-10-20 17:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | feat: create background job processor |
 | 2020-10-21 00:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | docs: document environment variables |
 | 2020-10-21 00:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: add pagination to list endpoint |
+| 2020-10-21 09:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | test: cover edge cases in validator |
