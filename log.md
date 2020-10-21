@@ -5390,3 +5390,4 @@
 | 2020-10-21 00:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | docs: document environment variables |
 | 2020-10-21 00:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: add pagination to list endpoint |
 | 2020-10-21 09:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | test: cover edge cases in validator |
+| 2020-10-21 10:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | db: add migration for new schema |
