@@ -5392,3 +5392,4 @@
 | 2020-10-21 09:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | test: cover edge cases in validator |
 | 2020-10-21 10:35 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | db: add migration for new schema |
 | 2020-10-21 10:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: add pagination to list endpoint |
+| 2020-10-21 12:51 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | infra: update Terraform modules |
