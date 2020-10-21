@@ -5388,3 +5388,4 @@
 | 2020-10-20 07:58 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | refactor: improve code readability |
 | 2020-10-20 17:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | feat: create background job processor |
 | 2020-10-21 00:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | docs: document environment variables |
+| 2020-10-21 00:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: add pagination to list endpoint |
