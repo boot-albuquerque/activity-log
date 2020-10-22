@@ -5404,3 +5404,4 @@
 | 2020-10-22 13:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2020-10-22 14:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2020-10-22 16:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | fix: handle empty response from external API |
+| 2020-10-22 17:44 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | test: add e2e tests for checkout flow |
