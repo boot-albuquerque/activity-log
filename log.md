@@ -5400,3 +5400,4 @@
 | 2020-10-22 00:20 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
 | 2020-10-22 00:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2020-10-22 09:59 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | refactor: adopt repository pattern |
+| 2020-10-22 13:16 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add OpenAPI documentation |
