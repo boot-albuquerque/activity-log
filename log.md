@@ -5398,3 +5398,4 @@
 | 2020-10-21 17:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | refactor: consolidate error handling |
 | 2020-10-21 22:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | feat: create background job processor |
 | 2020-10-22 00:20 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
+| 2020-10-22 00:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | chore: add pre-commit hooks |
