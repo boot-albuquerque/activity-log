@@ -5412,3 +5412,4 @@
 | 2020-10-24 08:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle edge case in date parsing |
 | 2020-10-25 13:09 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | refactor: reduce cyclomatic complexity |
 | 2020-10-25 19:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement webhook receiver |
+| 2020-10-26 10:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: correct decimal precision in billing |
