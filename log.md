@@ -5423,3 +5423,4 @@
 | 2020-10-27 16:32 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | fix: correct null check in user service |
 | 2020-10-27 17:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: add file upload support |
 | 2020-10-27 18:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
+| 2020-10-27 20:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | chore: configure ESLint and Prettier |
