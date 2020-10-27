@@ -5418,3 +5418,4 @@
 | 2020-10-26 16:03 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | fix: handle empty response from external API |
 | 2020-10-26 16:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | security: add input sanitization |
 | 2020-10-27 11:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | fix: correct cache invalidation logic |
+| 2020-10-27 13:53 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | fix: resolve CORS configuration |
