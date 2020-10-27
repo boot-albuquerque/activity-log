@@ -5417,3 +5417,4 @@
 | 2020-10-26 11:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2020-10-26 16:03 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | fix: handle empty response from external API |
 | 2020-10-26 16:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | security: add input sanitization |
+| 2020-10-27 11:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | fix: correct cache invalidation logic |
