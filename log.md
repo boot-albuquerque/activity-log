@@ -5430,3 +5430,4 @@
 | 2020-10-28 13:19 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement caching layer |
 | 2020-10-28 13:49 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | test: improve test coverage to 80% |
 | 2020-10-28 14:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | feat: create background job processor |
+| 2020-10-28 14:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | feat: implement JWT refresh token |
