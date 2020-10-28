@@ -5427,3 +5427,4 @@
 | 2020-10-27 21:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2020-10-28 07:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | chore: configure GitHub Actions CI |
 | 2020-10-28 12:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add e2e tests for checkout flow |
+| 2020-10-28 13:19 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement caching layer |
