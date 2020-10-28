@@ -5428,3 +5428,4 @@
 | 2020-10-28 07:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | chore: configure GitHub Actions CI |
 | 2020-10-28 12:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add e2e tests for checkout flow |
 | 2020-10-28 13:19 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: implement caching layer |
+| 2020-10-28 13:49 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | test: improve test coverage to 80% |
