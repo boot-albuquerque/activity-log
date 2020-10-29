@@ -5437,3 +5437,4 @@
 | 2020-10-28 23:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: create background job processor |
 | 2020-10-29 00:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2020-10-29 09:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | refactor: move constants to config module |
+| 2020-10-29 11:31 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
