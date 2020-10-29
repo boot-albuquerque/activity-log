@@ -5435,3 +5435,4 @@
 | 2020-10-28 16:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2020-10-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: add pagination to list endpoint |
 | 2020-10-28 23:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: create background job processor |
+| 2020-10-29 00:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: correct null check in user service |
