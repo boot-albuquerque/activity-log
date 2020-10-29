@@ -5441,3 +5441,4 @@
 | 2020-10-29 12:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | security: fix SQL injection vulnerability |
 | 2020-10-29 13:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2020-10-29 14:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | test: add integration tests for API endpoints |
+| 2020-10-29 16:09 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v1.0` | feat: add OpenAPI documentation |
