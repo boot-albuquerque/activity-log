@@ -5434,3 +5434,4 @@
 | 2020-10-28 15:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: handle edge case in date parsing |
 | 2020-10-28 16:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2020-10-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: add pagination to list endpoint |
+| 2020-10-28 23:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: create background job processor |
