@@ -5438,3 +5438,4 @@
 | 2020-10-29 00:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2020-10-29 09:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2020-10-29 11:31 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
+| 2020-10-29 12:12 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | security: fix SQL injection vulnerability |
