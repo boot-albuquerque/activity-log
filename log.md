@@ -5445,3 +5445,4 @@
 | 2020-10-29 19:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | docs: add README setup instructions |
 | 2020-10-30 09:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | docs: update API documentation |
 | 2020-10-30 12:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | fix: handle malformed JSON input |
+| 2020-10-30 12:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | test: add e2e tests for checkout flow |
