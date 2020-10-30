@@ -5447,3 +5447,4 @@
 | 2020-10-30 12:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | fix: handle malformed JSON input |
 | 2020-10-30 12:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | test: add e2e tests for checkout flow |
 | 2020-10-30 14:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: extract business logic to service layer |
+| 2020-10-30 17:57 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | test: cover edge cases in validator |
