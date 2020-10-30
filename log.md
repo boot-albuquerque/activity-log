@@ -5448,3 +5448,4 @@
 | 2020-10-30 12:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | test: add e2e tests for checkout flow |
 | 2020-10-30 14:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: extract business logic to service layer |
 | 2020-10-30 17:57 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | test: cover edge cases in validator |
+| 2020-10-30 18:39 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: create dashboard metrics endpoint |
