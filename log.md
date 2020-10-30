@@ -5450,3 +5450,4 @@
 | 2020-10-30 17:57 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | test: cover edge cases in validator |
 | 2020-10-30 18:39 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2020-10-30 18:39 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | fix: handle timeout in async operation |
+| 2020-10-30 19:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | refactor: split large controller into smaller ones |
