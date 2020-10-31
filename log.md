@@ -5453,3 +5453,4 @@
 | 2020-10-30 19:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | refactor: split large controller into smaller ones |
 | 2020-10-30 19:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | docs: document environment variables |
 | 2020-10-30 22:57 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle malformed JSON input |
+| 2020-10-31 00:31 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | fix: resolve race condition in queue worker |
