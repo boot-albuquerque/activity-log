@@ -5457,3 +5457,4 @@
 | 2020-11-02 00:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | test: improve test coverage to 80% |
 | 2020-11-02 08:41 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2020-11-02 09:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | refactor: improve code readability |
+| 2020-11-02 12:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | chore: add pre-commit hooks |
