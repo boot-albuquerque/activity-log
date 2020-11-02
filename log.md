@@ -5458,3 +5458,4 @@
 | 2020-11-02 08:41 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2020-11-02 09:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | refactor: improve code readability |
 | 2020-11-02 12:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | chore: add pre-commit hooks |
+| 2020-11-02 12:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | security: add input sanitization |
