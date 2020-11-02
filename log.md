@@ -5454,3 +5454,4 @@
 | 2020-10-30 19:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | docs: document environment variables |
 | 2020-10-30 22:57 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle malformed JSON input |
 | 2020-10-31 00:31 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | fix: resolve race condition in queue worker |
+| 2020-11-02 00:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | test: improve test coverage to 80% |
