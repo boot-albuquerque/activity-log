@@ -5469,3 +5469,4 @@
 | 2020-11-03 14:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle timeout in async operation |
 | 2020-11-03 14:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: implement rate limiting middleware |
 | 2020-11-03 15:23 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | fix: correct decimal precision in billing |
+| 2020-11-03 16:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | perf: optimize database queries |
