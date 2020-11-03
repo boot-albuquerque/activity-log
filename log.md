@@ -5467,3 +5467,4 @@
 | 2020-11-03 10:33 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: correct decimal precision in billing |
 | 2020-11-03 11:39 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | infra: configure auto-scaling policies |
 | 2020-11-03 14:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle timeout in async operation |
+| 2020-11-03 14:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: implement rate limiting middleware |
