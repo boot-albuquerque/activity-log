@@ -5461,3 +5461,4 @@
 | 2020-11-02 12:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | security: add input sanitization |
 | 2020-11-02 15:32 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | fix: correct null check in user service |
 | 2020-11-02 19:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: split large controller into smaller ones |
+| 2020-11-03 00:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | feat: create background job processor |
