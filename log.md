@@ -5471,3 +5471,4 @@
 | 2020-11-03 15:23 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | fix: correct decimal precision in billing |
 | 2020-11-03 16:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | perf: optimize database queries |
 | 2020-11-03 16:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
+| 2020-11-03 20:24 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | test: mock external dependencies in tests |
