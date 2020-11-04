@@ -5476,3 +5476,4 @@
 | 2020-11-04 11:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/add-caching` | security: add input sanitization |
 | 2020-11-04 11:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2020-11-04 12:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
+| 2020-11-04 13:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: simplify authentication flow |
