@@ -5472,3 +5472,4 @@
 | 2020-11-03 16:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | perf: optimize database queries |
 | 2020-11-03 16:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
 | 2020-11-03 20:24 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | test: mock external dependencies in tests |
+| 2020-11-03 21:03 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
