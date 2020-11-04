@@ -5478,3 +5478,4 @@
 | 2020-11-04 12:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
 | 2020-11-04 13:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | refactor: simplify authentication flow |
 | 2020-11-04 14:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: configure GitHub Actions CI |
+| 2020-11-04 15:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | perf: add database indexes |
