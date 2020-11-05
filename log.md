@@ -5480,3 +5480,4 @@
 | 2020-11-04 14:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: configure GitHub Actions CI |
 | 2020-11-04 15:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | perf: add database indexes |
 | 2020-11-04 15:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | fix: correct validation error messages |
+| 2020-11-05 11:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: handle empty response from external API |
