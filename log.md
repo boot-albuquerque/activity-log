@@ -5485,3 +5485,4 @@
 | 2020-11-06 13:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2020-11-06 15:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2020-11-06 18:47 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: resolve memory leak in connection pool |
+| 2020-11-06 20:43 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | infra: configure auto-scaling policies |
