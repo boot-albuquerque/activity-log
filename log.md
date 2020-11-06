@@ -5481,3 +5481,4 @@
 | 2020-11-04 15:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | perf: add database indexes |
 | 2020-11-04 15:53 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | fix: correct validation error messages |
 | 2020-11-05 11:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: handle empty response from external API |
+| 2020-11-06 11:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | refactor: adopt repository pattern |
