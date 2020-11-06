@@ -5483,3 +5483,4 @@
 | 2020-11-05 11:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: handle empty response from external API |
 | 2020-11-06 11:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2020-11-06 13:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | test: add e2e tests for checkout flow |
+| 2020-11-06 15:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | chore: add pre-commit hooks |
