@@ -5489,3 +5489,4 @@
 | 2020-11-07 09:06 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | infra: update Terraform modules |
 | 2020-11-07 16:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: add search with filters |
 | 2020-11-07 21:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | fix: resolve race condition in queue worker |
+| 2020-11-07 23:59 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | test: add integration tests for API endpoints |
