@@ -5499,3 +5499,4 @@
 | 2020-11-09 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | test: add integration tests for API endpoints |
 | 2020-11-09 12:44 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | ci: configure staging environment |
 | 2020-11-09 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | refactor: clean up unused imports |
+| 2020-11-09 14:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | db: optimize slow queries |
