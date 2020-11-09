@@ -5493,3 +5493,4 @@
 | 2020-11-08 09:26 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | feat: add email notification on status change |
 | 2020-11-09 00:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | style: format code according to style guide |
 | 2020-11-09 07:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add search with filters |
+| 2020-11-09 08:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: create admin management interface |
