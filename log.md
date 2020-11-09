@@ -5496,3 +5496,4 @@
 | 2020-11-09 08:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: create admin management interface |
 | 2020-11-09 09:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2020-11-09 09:44 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | ci: configure staging environment |
+| 2020-11-09 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | test: add integration tests for API endpoints |
