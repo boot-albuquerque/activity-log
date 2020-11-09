@@ -5494,3 +5494,4 @@
 | 2020-11-09 00:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | style: format code according to style guide |
 | 2020-11-09 07:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add search with filters |
 | 2020-11-09 08:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: create admin management interface |
+| 2020-11-09 09:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | chore: add pre-commit hooks |
