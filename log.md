@@ -5501,3 +5501,4 @@
 | 2020-11-09 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | refactor: clean up unused imports |
 | 2020-11-09 14:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | db: optimize slow queries |
 | 2020-11-09 14:59 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | docs: update API documentation |
+| 2020-11-09 17:49 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | refactor: replace raw SQL with query builder |
