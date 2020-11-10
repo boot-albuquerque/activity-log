@@ -5513,3 +5513,4 @@
 | 2020-11-10 16:34 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | feat: implement soft delete pattern |
 | 2020-11-10 17:50 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | chore: add pre-commit hooks |
 | 2020-11-10 20:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | fix: resolve race condition in queue worker |
+| 2020-11-10 20:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | perf: optimize database queries |
