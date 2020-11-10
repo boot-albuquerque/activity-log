@@ -5504,3 +5504,4 @@
 | 2020-11-09 17:49 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2020-11-09 18:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | style: fix indentation and whitespace |
 | 2020-11-09 19:01 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | test: fix flaky test in async handler |
+| 2020-11-09 20:41 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | feat: create admin management interface |
