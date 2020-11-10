@@ -5511,3 +5511,4 @@
 | 2020-11-10 14:34 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | fix: handle timeout in async operation |
 | 2020-11-10 15:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | test: fix flaky test in async handler |
 | 2020-11-10 16:34 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | feat: implement soft delete pattern |
+| 2020-11-10 17:50 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | chore: add pre-commit hooks |
