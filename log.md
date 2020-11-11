@@ -5519,3 +5519,4 @@
 | 2020-11-10 23:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: add performance benchmark tests |
 | 2020-11-11 08:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2020-11-11 12:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | chore: upgrade to latest Node.js LTS |
+| 2020-11-11 12:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | docs: document environment variables |
