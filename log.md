@@ -5516,3 +5516,4 @@
 | 2020-11-10 20:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | perf: optimize database queries |
 | 2020-11-10 21:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | style: fix indentation and whitespace |
 | 2020-11-10 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: move constants to config module |
+| 2020-11-10 23:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: add performance benchmark tests |
