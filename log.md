@@ -5515,3 +5515,4 @@
 | 2020-11-10 20:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | fix: resolve race condition in queue worker |
 | 2020-11-10 20:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | perf: optimize database queries |
 | 2020-11-10 21:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | style: fix indentation and whitespace |
+| 2020-11-10 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: move constants to config module |
