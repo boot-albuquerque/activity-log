@@ -5517,3 +5517,4 @@
 | 2020-11-10 21:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | style: fix indentation and whitespace |
 | 2020-11-10 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: move constants to config module |
 | 2020-11-10 23:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | test: add performance benchmark tests |
+| 2020-11-11 08:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | test: add integration tests for API endpoints |
