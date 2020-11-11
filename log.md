@@ -5520,3 +5520,4 @@
 | 2020-11-11 08:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2020-11-11 12:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | chore: upgrade to latest Node.js LTS |
 | 2020-11-11 12:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | docs: document environment variables |
+| 2020-11-11 17:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | db: add composite index |
