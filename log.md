@@ -5522,3 +5522,4 @@
 | 2020-11-11 12:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | docs: document environment variables |
 | 2020-11-11 17:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/cleanup` | db: add composite index |
 | 2020-11-11 20:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | style: format code according to style guide |
+| 2020-11-11 23:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | refactor: improve code readability |
