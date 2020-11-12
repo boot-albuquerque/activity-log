@@ -5524,3 +5524,4 @@
 | 2020-11-11 20:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | style: format code according to style guide |
 | 2020-11-11 23:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | refactor: improve code readability |
 | 2020-11-12 12:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add email notification on status change |
+| 2020-11-12 13:16 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | infra: add Kubernetes manifests |
