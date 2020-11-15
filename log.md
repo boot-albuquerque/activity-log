@@ -5535,3 +5535,4 @@
 | 2020-11-15 00:04 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | chore: add Docker Compose for local dev |
 | 2020-11-15 11:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v1.0` | feat: add audit log trail |
 | 2020-11-15 12:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | feat: implement caching layer |
+| 2020-11-15 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | security: add input sanitization |
