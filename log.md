@@ -5542,3 +5542,4 @@
 | 2020-11-16 08:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | docs: document environment variables |
 | 2020-11-16 09:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2020-11-16 14:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: add audit log trail |
+| 2020-11-16 14:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct decimal precision in billing |
