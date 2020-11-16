@@ -5540,3 +5540,4 @@
 | 2020-11-15 17:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2020-11-15 19:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | perf: reduce bundle size |
 | 2020-11-16 08:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | docs: document environment variables |
+| 2020-11-16 09:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | fix: correct pagination offset calculation |
