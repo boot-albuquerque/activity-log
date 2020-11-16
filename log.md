@@ -5539,3 +5539,4 @@
 | 2020-11-15 16:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: add Docker Compose for local dev |
 | 2020-11-15 17:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2020-11-15 19:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | perf: reduce bundle size |
+| 2020-11-16 08:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | docs: document environment variables |
