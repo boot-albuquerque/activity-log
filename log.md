@@ -5546,3 +5546,4 @@
 | 2020-11-16 15:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | refactor: consolidate error handling |
 | 2020-11-16 17:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: mock external dependencies in tests |
 | 2020-11-16 22:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
+| 2020-11-16 22:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: add audit log trail |
