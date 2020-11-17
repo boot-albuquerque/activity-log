@@ -5549,3 +5549,4 @@
 | 2020-11-16 22:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: add audit log trail |
 | 2020-11-17 11:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2020-11-17 11:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add real-time notifications |
+| 2020-11-17 12:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | feat: add file upload support |
