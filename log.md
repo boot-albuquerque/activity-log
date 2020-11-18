@@ -5551,3 +5551,4 @@
 | 2020-11-17 11:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add real-time notifications |
 | 2020-11-17 12:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | feat: add file upload support |
 | 2020-11-17 15:17 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | feat: implement webhook receiver |
+| 2020-11-17 23:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | fix: handle missing environment variable |
