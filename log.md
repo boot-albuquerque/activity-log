@@ -5556,3 +5556,4 @@
 | 2020-11-19 09:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | security: add input sanitization |
 | 2020-11-19 12:33 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | docs: add README setup instructions |
 | 2020-11-19 13:29 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | test: add e2e tests for checkout flow |
+| 2020-11-19 13:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | db: add composite index |
