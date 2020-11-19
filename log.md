@@ -5561,3 +5561,4 @@
 | 2020-11-19 16:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | db: add migration for new schema |
 | 2020-11-19 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: reduce cyclomatic complexity |
 | 2020-11-19 19:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | style: format code according to style guide |
+| 2020-11-19 19:02 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | perf: implement response compression |
