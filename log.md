@@ -5559,3 +5559,4 @@
 | 2020-11-19 13:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | db: add composite index |
 | 2020-11-19 14:35 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: add input sanitization |
 | 2020-11-19 16:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | db: add migration for new schema |
+| 2020-11-19 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: reduce cyclomatic complexity |
