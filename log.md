@@ -5558,3 +5558,4 @@
 | 2020-11-19 13:29 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2020-11-19 13:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | db: add composite index |
 | 2020-11-19 14:35 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: add input sanitization |
+| 2020-11-19 16:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | db: add migration for new schema |
