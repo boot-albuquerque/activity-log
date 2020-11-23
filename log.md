@@ -5572,3 +5572,4 @@
 | 2020-11-23 10:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add file upload support |
 | 2020-11-23 11:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | style: fix indentation and whitespace |
 | 2020-11-23 11:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2020-11-23 11:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | perf: add database indexes |
