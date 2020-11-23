@@ -5574,3 +5574,4 @@
 | 2020-11-23 11:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | db: optimize slow queries |
 | 2020-11-23 11:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | perf: add database indexes |
 | 2020-11-23 13:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle empty response from external API |
+| 2020-11-23 16:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | chore: upgrade to latest Node.js LTS |
