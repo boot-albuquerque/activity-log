@@ -5569,3 +5569,4 @@
 | 2020-11-20 21:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2020-11-21 19:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2020-11-23 10:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | infra: add Kubernetes manifests |
+| 2020-11-23 10:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add file upload support |
