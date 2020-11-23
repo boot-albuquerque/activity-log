@@ -5571,3 +5571,4 @@
 | 2020-11-23 10:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | infra: add Kubernetes manifests |
 | 2020-11-23 10:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add file upload support |
 | 2020-11-23 11:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | style: fix indentation and whitespace |
+| 2020-11-23 11:41 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | db: optimize slow queries |
