@@ -5575,3 +5575,4 @@
 | 2020-11-23 11:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | perf: add database indexes |
 | 2020-11-23 13:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle empty response from external API |
 | 2020-11-23 16:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | chore: upgrade to latest Node.js LTS |
+| 2020-11-23 23:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | security: fix SQL injection vulnerability |
