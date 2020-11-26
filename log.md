@@ -5576,3 +5576,4 @@
 | 2020-11-23 13:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle empty response from external API |
 | 2020-11-23 16:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | chore: upgrade to latest Node.js LTS |
 | 2020-11-23 23:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | security: fix SQL injection vulnerability |
+| 2020-11-26 07:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | infra: add Kubernetes manifests |
