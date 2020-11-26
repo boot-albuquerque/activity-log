@@ -5582,3 +5582,4 @@
 | 2020-11-26 10:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2020-11-26 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | db: add migration for new schema |
 | 2020-11-26 12:15 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | fix: handle malformed JSON input |
+| 2020-11-26 12:35 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | feat: create health check endpoint |
