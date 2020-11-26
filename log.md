@@ -5580,3 +5580,4 @@
 | 2020-11-26 09:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2020-11-26 10:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | fix: correct validation error messages |
 | 2020-11-26 10:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2020-11-26 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | db: add migration for new schema |
