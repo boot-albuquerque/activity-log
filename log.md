@@ -5579,3 +5579,4 @@
 | 2020-11-26 07:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | infra: add Kubernetes manifests |
 | 2020-11-26 09:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2020-11-26 10:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | fix: correct validation error messages |
+| 2020-11-26 10:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: add pagination to list endpoint |
