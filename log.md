@@ -5594,3 +5594,4 @@
 | 2020-11-27 22:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add real-time notifications |
 | 2020-11-28 10:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: create order processing service |
 | 2020-11-28 12:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | fix: handle missing environment variable |
+| 2020-11-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | feat: add file upload support |
