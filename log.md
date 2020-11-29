@@ -5597,3 +5597,4 @@
 | 2020-11-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | feat: add file upload support |
 | 2020-11-28 18:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2020-11-29 07:27 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | test: improve test coverage to 80% |
+| 2020-11-29 13:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | fix: correct decimal precision in billing |
