@@ -5598,3 +5598,4 @@
 | 2020-11-28 18:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2020-11-29 07:27 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | test: improve test coverage to 80% |
 | 2020-11-29 13:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | fix: correct decimal precision in billing |
+| 2020-11-29 13:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | fix: correct null check in user service |
