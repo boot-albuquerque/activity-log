@@ -5601,3 +5601,4 @@
 | 2020-11-29 13:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | fix: correct null check in user service |
 | 2020-11-29 14:10 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | infra: add Kubernetes manifests |
 | 2020-11-29 22:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | feat: add bulk operations support |
+| 2020-11-30 12:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add search with filters |
