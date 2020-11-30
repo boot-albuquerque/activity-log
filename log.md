@@ -5603,3 +5603,4 @@
 | 2020-11-29 22:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | feat: add bulk operations support |
 | 2020-11-30 12:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add search with filters |
 | 2020-11-30 12:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
+| 2020-11-30 15:16 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | docs: add README setup instructions |
