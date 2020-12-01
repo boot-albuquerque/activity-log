@@ -5615,3 +5615,4 @@
 | 2020-12-01 15:57 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | db: add migration for new schema |
 | 2020-12-01 18:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | test: add performance benchmark tests |
 | 2020-12-01 19:32 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | perf: reduce bundle size |
+| 2020-12-01 20:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | perf: optimize database queries |
