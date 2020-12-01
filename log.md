@@ -5607,3 +5607,4 @@
 | 2020-11-30 21:11 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2020-12-01 07:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | security: add input sanitization |
 | 2020-12-01 09:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: add file upload support |
+| 2020-12-01 10:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: add user authentication endpoint |
