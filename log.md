@@ -5606,3 +5606,4 @@
 | 2020-11-30 15:16 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | docs: add README setup instructions |
 | 2020-11-30 21:11 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2020-12-01 07:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | security: add input sanitization |
+| 2020-12-01 09:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: add file upload support |
