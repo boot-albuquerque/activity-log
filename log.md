@@ -5609,3 +5609,4 @@
 | 2020-12-01 09:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: add file upload support |
 | 2020-12-01 10:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: add user authentication endpoint |
 | 2020-12-01 12:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | perf: reduce bundle size |
+| 2020-12-01 14:45 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | test: mock external dependencies in tests |
