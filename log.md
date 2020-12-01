@@ -5612,3 +5612,4 @@
 | 2020-12-01 14:45 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2020-12-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/critical-fix` | test: add performance benchmark tests |
 | 2020-12-01 15:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | perf: implement response compression |
+| 2020-12-01 15:57 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | db: add migration for new schema |
