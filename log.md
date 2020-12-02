@@ -5619,3 +5619,4 @@
 | 2020-12-02 10:57 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | feat: implement caching layer |
 | 2020-12-02 11:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | test: mock external dependencies in tests |
 | 2020-12-02 13:23 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: add pagination to list endpoint |
+| 2020-12-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | fix: correct cache invalidation logic |
