@@ -5631,3 +5631,4 @@
 | 2020-12-03 09:32 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | chore: add Docker Compose for local dev |
 | 2020-12-03 10:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | fix: handle malformed JSON input |
 | 2020-12-03 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | fix: handle empty response from external API |
+| 2020-12-03 13:20 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: add e2e tests for checkout flow |
