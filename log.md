@@ -5625,3 +5625,4 @@
 | 2020-12-03 00:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | style: format code according to style guide |
 | 2020-12-03 08:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | perf: add database indexes |
 | 2020-12-03 08:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2020-12-03 08:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | infra: update Terraform modules |
