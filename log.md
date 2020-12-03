@@ -5628,3 +5628,4 @@
 | 2020-12-03 08:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | infra: update Terraform modules |
 | 2020-12-03 09:18 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: create background job processor |
 | 2020-12-03 09:21 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | refactor: adopt repository pattern |
+| 2020-12-03 09:32 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | chore: add Docker Compose for local dev |
