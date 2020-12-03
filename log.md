@@ -5623,3 +5623,4 @@
 | 2020-12-02 14:48 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | docs: update API documentation |
 | 2020-12-02 21:08 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | test: add integration tests for API endpoints |
 | 2020-12-03 00:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | style: format code according to style guide |
+| 2020-12-03 08:25 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | perf: add database indexes |
