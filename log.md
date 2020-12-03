@@ -5622,3 +5622,4 @@
 | 2020-12-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | fix: correct cache invalidation logic |
 | 2020-12-02 14:48 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | docs: update API documentation |
 | 2020-12-02 21:08 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | test: add integration tests for API endpoints |
+| 2020-12-03 00:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | style: format code according to style guide |
