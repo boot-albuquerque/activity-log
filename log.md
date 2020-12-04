@@ -5633,3 +5633,4 @@
 | 2020-12-03 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | fix: handle empty response from external API |
 | 2020-12-03 13:20 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: add e2e tests for checkout flow |
 | 2020-12-03 21:29 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | fix: handle timeout in async operation |
+| 2020-12-03 22:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: consolidate error handling |
