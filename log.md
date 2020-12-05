@@ -5635,3 +5635,4 @@
 | 2020-12-03 21:29 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | fix: handle timeout in async operation |
 | 2020-12-03 22:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: consolidate error handling |
 | 2020-12-03 23:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | fix: resolve race condition in queue worker |
+| 2020-12-05 14:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | infra: update Terraform modules |
