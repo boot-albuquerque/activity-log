@@ -5637,3 +5637,4 @@
 | 2020-12-03 23:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | fix: resolve race condition in queue worker |
 | 2020-12-05 14:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2020-12-06 00:10 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | docs: document environment variables |
+| 2020-12-06 12:58 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: handle timeout in async operation |
