@@ -5639,3 +5639,4 @@
 | 2020-12-06 00:10 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | docs: document environment variables |
 | 2020-12-06 12:58 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: handle timeout in async operation |
 | 2020-12-07 00:16 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: implement soft delete pattern |
+| 2020-12-07 00:25 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | infra: configure auto-scaling policies |
