@@ -5642,3 +5642,4 @@
 | 2020-12-07 00:25 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | infra: configure auto-scaling policies |
 | 2020-12-07 10:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2020-12-07 11:01 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | feat: add export to CSV/Excel |
+| 2020-12-07 12:32 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | perf: optimize database queries |
