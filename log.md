@@ -5652,3 +5652,4 @@
 | 2020-12-08 00:21 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2020-12-08 10:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: create admin management interface |
 | 2020-12-08 12:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | refactor: move constants to config module |
+| 2020-12-08 12:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | feat: add email notification on status change |
