@@ -5653,3 +5653,4 @@
 | 2020-12-08 10:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: create admin management interface |
 | 2020-12-08 12:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | refactor: move constants to config module |
 | 2020-12-08 12:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | feat: add email notification on status change |
+| 2020-12-08 13:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: implement rate limiting middleware |
