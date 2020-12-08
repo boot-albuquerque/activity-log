@@ -5648,3 +5648,4 @@
 | 2020-12-07 16:23 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | fix: handle missing environment variable |
 | 2020-12-07 17:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | docs: document environment variables |
 | 2020-12-07 19:49 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | refactor: improve code readability |
+| 2020-12-08 00:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: replace raw SQL with query builder |
