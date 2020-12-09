@@ -5657,3 +5657,4 @@
 | 2020-12-08 14:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: resolve race condition in queue worker |
 | 2020-12-08 19:00 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2020-12-08 20:09 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2020-12-08 21:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | refactor: replace raw SQL with query builder |
