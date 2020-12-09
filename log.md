@@ -5659,3 +5659,4 @@
 | 2020-12-08 20:09 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | feat: implement soft delete pattern |
 | 2020-12-08 21:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | refactor: replace raw SQL with query builder |
 | 2020-12-08 23:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | feat: implement webhook receiver |
+| 2020-12-08 23:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | refactor: simplify authentication flow |
