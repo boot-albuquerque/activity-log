@@ -5663,3 +5663,4 @@
 | 2020-12-09 08:54 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2020-12-09 10:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | fix: correct validation error messages |
 | 2020-12-09 10:49 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: create background job processor |
+| 2020-12-09 14:14 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add email notification on status change |
