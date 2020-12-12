@@ -5666,3 +5666,4 @@
 | 2020-12-09 14:14 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add email notification on status change |
 | 2020-12-09 17:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | db: add composite index |
 | 2020-12-09 23:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | feat: implement soft delete pattern |
+| 2020-12-12 00:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | docs: document environment variables |
