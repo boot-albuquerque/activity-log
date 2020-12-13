@@ -5668,3 +5668,4 @@
 | 2020-12-09 23:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | feat: implement soft delete pattern |
 | 2020-12-12 00:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | docs: document environment variables |
 | 2020-12-12 12:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: create health check endpoint |
+| 2020-12-13 11:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
