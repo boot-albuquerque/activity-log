@@ -5677,3 +5677,4 @@
 | 2020-12-14 08:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/critical-fix` | chore: update dependencies |
 | 2020-12-14 10:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2020-12-14 11:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | feat: add search with filters |
+| 2020-12-14 12:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | fix: resolve N+1 query problem |
