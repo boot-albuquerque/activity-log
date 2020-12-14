@@ -5676,3 +5676,4 @@
 | 2020-12-14 07:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | refactor: extract business logic to service layer |
 | 2020-12-14 08:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/critical-fix` | chore: update dependencies |
 | 2020-12-14 10:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | refactor: move constants to config module |
+| 2020-12-14 11:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | feat: add search with filters |
