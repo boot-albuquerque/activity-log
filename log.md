@@ -5682,3 +5682,4 @@
 | 2020-12-14 13:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add audit log trail |
 | 2020-12-14 14:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
 | 2020-12-14 14:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | refactor: adopt repository pattern |
+| 2020-12-14 14:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: handle empty response from external API |
