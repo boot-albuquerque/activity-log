@@ -5679,3 +5679,4 @@
 | 2020-12-14 11:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | feat: add search with filters |
 | 2020-12-14 12:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | fix: resolve N+1 query problem |
 | 2020-12-14 13:00 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2020-12-14 13:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add audit log trail |
