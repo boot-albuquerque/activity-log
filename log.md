@@ -5689,3 +5689,4 @@
 | 2020-12-14 15:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2020-12-14 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2020-12-14 16:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | chore: update dependencies |
+| 2020-12-14 18:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | fix: correct validation error messages |
