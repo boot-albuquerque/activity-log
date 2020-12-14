@@ -5671,3 +5671,4 @@
 | 2020-12-13 11:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
 | 2020-12-13 17:23 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | docs: update API documentation |
 | 2020-12-13 23:13 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | refactor: split large controller into smaller ones |
+| 2020-12-13 23:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | refactor: split large controller into smaller ones |
