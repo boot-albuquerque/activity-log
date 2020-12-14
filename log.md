@@ -5685,3 +5685,4 @@
 | 2020-12-14 14:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2020-12-14 14:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
 | 2020-12-14 14:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | fix: handle missing environment variable |
+| 2020-12-14 15:31 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: add export to CSV/Excel |
