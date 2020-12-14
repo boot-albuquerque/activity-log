@@ -5672,3 +5672,4 @@
 | 2020-12-13 17:23 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | docs: update API documentation |
 | 2020-12-13 23:13 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | refactor: split large controller into smaller ones |
 | 2020-12-13 23:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | refactor: split large controller into smaller ones |
+| 2020-12-14 00:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | chore: configure ESLint and Prettier |
