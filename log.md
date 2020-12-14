@@ -5684,3 +5684,4 @@
 | 2020-12-14 14:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | refactor: adopt repository pattern |
 | 2020-12-14 14:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2020-12-14 14:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
+| 2020-12-14 14:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | fix: handle missing environment variable |
