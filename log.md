@@ -5691,3 +5691,4 @@
 | 2020-12-14 16:45 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | chore: update dependencies |
 | 2020-12-14 18:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | fix: correct validation error messages |
 | 2020-12-14 18:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | test: cover edge cases in validator |
+| 2020-12-14 20:42 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | refactor: simplify authentication flow |
