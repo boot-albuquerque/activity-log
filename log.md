@@ -5687,3 +5687,4 @@
 | 2020-12-14 14:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | fix: handle missing environment variable |
 | 2020-12-14 15:31 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: add export to CSV/Excel |
 | 2020-12-14 15:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: resolve deadlock in transaction |
+| 2020-12-14 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
