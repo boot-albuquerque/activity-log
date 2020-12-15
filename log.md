@@ -5693,3 +5693,4 @@
 | 2020-12-14 18:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | test: cover edge cases in validator |
 | 2020-12-14 20:42 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | refactor: simplify authentication flow |
 | 2020-12-14 22:38 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
+| 2020-12-14 23:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: implement webhook receiver |
