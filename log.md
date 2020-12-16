@@ -5697,3 +5697,4 @@
 | 2020-12-15 00:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | chore: configure GitHub Actions CI |
 | 2020-12-15 23:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | perf: optimize database queries |
 | 2020-12-16 00:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | style: fix indentation and whitespace |
+| 2020-12-16 08:54 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | chore: add pre-commit hooks |
