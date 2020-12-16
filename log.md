@@ -5701,3 +5701,4 @@
 | 2020-12-16 09:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | test: add integration tests for API endpoints |
 | 2020-12-16 10:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: add email notification on status change |
 | 2020-12-16 11:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: add user authentication endpoint |
+| 2020-12-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | feat: add pagination to list endpoint |
