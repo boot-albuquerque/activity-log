@@ -5706,3 +5706,4 @@
 | 2020-12-16 15:16 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add user authentication endpoint |
 | 2020-12-16 15:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | feat: add bulk operations support |
 | 2020-12-16 19:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | security: fix SQL injection vulnerability |
+| 2020-12-16 19:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: add audit log trail |
