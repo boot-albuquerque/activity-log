@@ -5703,3 +5703,4 @@
 | 2020-12-16 11:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: add user authentication endpoint |
 | 2020-12-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2020-12-16 14:59 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
+| 2020-12-16 15:16 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add user authentication endpoint |
