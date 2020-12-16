@@ -5699,3 +5699,4 @@
 | 2020-12-16 00:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | style: fix indentation and whitespace |
 | 2020-12-16 08:54 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | chore: add pre-commit hooks |
 | 2020-12-16 09:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | test: add integration tests for API endpoints |
+| 2020-12-16 10:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: add email notification on status change |
