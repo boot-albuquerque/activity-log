@@ -5710,3 +5710,4 @@
 | 2020-12-16 19:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | docs: add README setup instructions |
 | 2020-12-16 22:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2020-12-17 08:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: create order processing service |
+| 2020-12-17 09:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: correct pagination offset calculation |
