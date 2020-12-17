@@ -5715,3 +5715,4 @@
 | 2020-12-17 17:08 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | security: fix SQL injection vulnerability |
 | 2020-12-17 18:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | test: cover edge cases in validator |
 | 2020-12-17 19:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve deadlock in transaction |
+| 2020-12-17 20:04 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | refactor: improve code readability |
