@@ -5723,3 +5723,4 @@
 | 2020-12-18 11:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | feat: implement soft delete pattern |
 | 2020-12-18 12:56 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | docs: add README setup instructions |
 | 2020-12-18 17:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | feat: add OpenAPI documentation |
+| 2020-12-18 20:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | perf: add database indexes |
