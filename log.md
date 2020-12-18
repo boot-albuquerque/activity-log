@@ -5719,3 +5719,4 @@
 | 2020-12-17 20:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | db: add migration for new schema |
 | 2020-12-18 08:19 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | db: add composite index |
 | 2020-12-18 09:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2020-12-18 10:06 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/auth-improvements` | fix: correct pagination offset calculation |
