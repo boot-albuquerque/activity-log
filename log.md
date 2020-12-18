@@ -5722,3 +5722,4 @@
 | 2020-12-18 10:06 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/auth-improvements` | fix: correct pagination offset calculation |
 | 2020-12-18 11:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | feat: implement soft delete pattern |
 | 2020-12-18 12:56 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | docs: add README setup instructions |
+| 2020-12-18 17:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | feat: add OpenAPI documentation |
