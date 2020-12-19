@@ -5728,3 +5728,4 @@
 | 2020-12-18 22:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: handle malformed JSON input |
 | 2020-12-18 22:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: resolve race condition in queue worker |
 | 2020-12-19 11:42 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
+| 2020-12-19 14:15 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add performance benchmark tests |
