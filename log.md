@@ -5726,3 +5726,4 @@
 | 2020-12-18 20:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | perf: add database indexes |
 | 2020-12-18 20:35 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2020-12-18 22:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: handle malformed JSON input |
+| 2020-12-18 22:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: resolve race condition in queue worker |
