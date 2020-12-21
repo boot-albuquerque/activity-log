@@ -5731,3 +5731,4 @@
 | 2020-12-19 14:15 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add performance benchmark tests |
 | 2020-12-21 00:26 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | db: optimize slow queries |
 | 2020-12-21 07:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | fix: handle missing environment variable |
+| 2020-12-21 12:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | feat: implement rate limiting middleware |
