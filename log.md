@@ -5737,3 +5737,4 @@
 | 2020-12-22 09:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | refactor: simplify authentication flow |
 | 2020-12-22 10:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2020-12-22 11:22 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: implement JWT refresh token |
+| 2020-12-22 12:27 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | perf: reduce bundle size |
