@@ -5741,3 +5741,4 @@
 | 2020-12-22 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | chore: add pre-commit hooks |
 | 2020-12-22 13:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/pagination` | fix: handle timeout in async operation |
 | 2020-12-22 14:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | refactor: extract business logic to service layer |
+| 2020-12-22 14:17 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | test: add e2e tests for checkout flow |
