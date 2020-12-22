@@ -5745,3 +5745,4 @@
 | 2020-12-22 15:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | docs: document environment variables |
 | 2020-12-22 18:33 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | feat: implement caching layer |
 | 2020-12-22 18:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | fix: resolve CORS configuration |
+| 2020-12-22 20:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | test: add e2e tests for checkout flow |
