@@ -5739,3 +5739,4 @@
 | 2020-12-22 11:22 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2020-12-22 12:27 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | perf: reduce bundle size |
 | 2020-12-22 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | chore: add pre-commit hooks |
+| 2020-12-22 13:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/pagination` | fix: handle timeout in async operation |
