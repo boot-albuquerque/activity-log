@@ -5747,3 +5747,4 @@
 | 2020-12-22 18:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | fix: resolve CORS configuration |
 | 2020-12-22 20:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | test: add e2e tests for checkout flow |
 | 2020-12-23 09:46 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | perf: reduce bundle size |
+| 2020-12-23 11:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add pagination to list endpoint |
