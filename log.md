@@ -5749,3 +5749,4 @@
 | 2020-12-23 09:46 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | perf: reduce bundle size |
 | 2020-12-23 11:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add pagination to list endpoint |
 | 2020-12-23 12:18 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | infra: add Kubernetes manifests |
+| 2020-12-23 17:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
