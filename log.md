@@ -5750,3 +5750,4 @@
 | 2020-12-23 11:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add pagination to list endpoint |
 | 2020-12-23 12:18 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v3.0` | infra: add Kubernetes manifests |
 | 2020-12-23 17:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
+| 2020-12-23 18:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | fix: resolve race condition in queue worker |
