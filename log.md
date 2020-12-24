@@ -5752,3 +5752,4 @@
 | 2020-12-23 17:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2020-12-23 18:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | fix: resolve race condition in queue worker |
 | 2020-12-23 18:42 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | refactor: move constants to config module |
+| 2020-12-24 09:30 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | fix: resolve CORS configuration |
