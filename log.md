@@ -5754,3 +5754,4 @@
 | 2020-12-23 18:42 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | refactor: move constants to config module |
 | 2020-12-24 09:30 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | fix: resolve CORS configuration |
 | 2020-12-24 16:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | style: fix indentation and whitespace |
+| 2020-12-24 18:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | infra: configure auto-scaling policies |
