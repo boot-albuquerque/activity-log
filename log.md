@@ -5759,3 +5759,4 @@
 | 2020-12-25 09:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | fix: resolve N+1 query problem |
 | 2020-12-25 14:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2020-12-25 14:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: implement JWT refresh token |
+| 2020-12-25 17:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: create health check endpoint |
