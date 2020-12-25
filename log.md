@@ -5757,3 +5757,4 @@
 | 2020-12-24 18:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | infra: configure auto-scaling policies |
 | 2020-12-24 22:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | feat: implement webhook receiver |
 | 2020-12-25 09:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | fix: resolve N+1 query problem |
+| 2020-12-25 14:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add export to CSV/Excel |
