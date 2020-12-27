@@ -5761,3 +5761,4 @@
 | 2020-12-25 14:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: implement JWT refresh token |
 | 2020-12-25 17:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | feat: create health check endpoint |
 | 2020-12-26 00:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: create admin management interface |
+| 2020-12-26 22:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
