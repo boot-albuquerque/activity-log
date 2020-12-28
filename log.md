@@ -5766,3 +5766,4 @@
 | 2020-12-28 07:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2020-12-28 09:37 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2020-12-28 15:42 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
+| 2020-12-28 18:35 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | fix: correct decimal precision in billing |
