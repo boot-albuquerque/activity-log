@@ -5763,3 +5763,4 @@
 | 2020-12-26 00:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: create admin management interface |
 | 2020-12-26 22:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | security: fix SQL injection vulnerability |
 | 2020-12-27 15:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | refactor: extract business logic to service layer |
+| 2020-12-28 07:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add export to CSV/Excel |
