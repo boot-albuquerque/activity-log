@@ -5776,3 +5776,4 @@
 | 2020-12-29 20:27 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: correct null check in user service |
 | 2020-12-30 11:09 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | feat: add audit log trail |
 | 2020-12-30 11:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | feat: add OpenAPI documentation |
+| 2020-12-30 12:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | ci: add automated deployment pipeline |
