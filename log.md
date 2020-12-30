@@ -5775,3 +5775,4 @@
 | 2020-12-29 18:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | chore: update dependencies |
 | 2020-12-29 20:27 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: correct null check in user service |
 | 2020-12-30 11:09 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | feat: add audit log trail |
+| 2020-12-30 11:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | feat: add OpenAPI documentation |
