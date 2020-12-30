@@ -5778,3 +5778,4 @@
 | 2020-12-30 11:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | feat: add OpenAPI documentation |
 | 2020-12-30 12:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2020-12-30 12:33 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | infra: configure auto-scaling policies |
+| 2020-12-30 14:44 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | db: optimize slow queries |
