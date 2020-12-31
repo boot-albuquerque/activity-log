@@ -5781,3 +5781,4 @@
 | 2020-12-30 14:44 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | db: optimize slow queries |
 | 2020-12-30 22:10 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | feat: implement caching layer |
 | 2020-12-30 23:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
+| 2020-12-30 23:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add OpenAPI documentation |
