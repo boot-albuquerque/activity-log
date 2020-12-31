@@ -5783,3 +5783,4 @@
 | 2020-12-30 23:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
 | 2020-12-30 23:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add OpenAPI documentation |
 | 2020-12-31 12:03 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: create admin management interface |
+| 2020-12-31 12:35 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | refactor: adopt repository pattern |
