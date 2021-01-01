@@ -5785,3 +5785,4 @@
 | 2020-12-31 12:03 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2020-12-31 12:35 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2021-01-01 14:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: create admin management interface |
+| 2021-01-01 15:52 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | chore: add Docker Compose for local dev |
