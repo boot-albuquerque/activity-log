@@ -5790,3 +5790,4 @@
 | 2021-01-03 08:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | fix: resolve race condition in queue worker |
 | 2021-01-03 09:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | chore: add Docker Compose for local dev |
 | 2021-01-03 14:43 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
+| 2021-01-03 19:44 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | security: add input sanitization |
