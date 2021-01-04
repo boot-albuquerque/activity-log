@@ -5794,3 +5794,4 @@
 | 2021-01-04 08:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2021-01-04 10:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | docs: update API documentation |
 | 2021-01-04 12:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | security: fix SQL injection vulnerability |
+| 2021-01-04 13:07 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | fix: resolve deadlock in transaction |
