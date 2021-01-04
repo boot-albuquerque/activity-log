@@ -5791,3 +5791,4 @@
 | 2021-01-03 09:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | chore: add Docker Compose for local dev |
 | 2021-01-03 14:43 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
 | 2021-01-03 19:44 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | security: add input sanitization |
+| 2021-01-04 08:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | feat: implement rate limiting middleware |
