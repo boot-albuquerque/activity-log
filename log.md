@@ -5798,3 +5798,4 @@
 | 2021-01-04 15:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | refactor: clean up unused imports |
 | 2021-01-04 15:50 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | feat: create admin management interface |
 | 2021-01-04 18:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | perf: implement response compression |
+| 2021-01-05 10:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: correct cache invalidation logic |
