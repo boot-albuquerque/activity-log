@@ -5801,3 +5801,4 @@
 | 2021-01-05 10:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: correct cache invalidation logic |
 | 2021-01-05 12:09 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2021-01-05 12:38 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | feat: add user authentication endpoint |
+| 2021-01-05 13:03 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
