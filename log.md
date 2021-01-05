@@ -5805,3 +5805,4 @@
 | 2021-01-05 15:15 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2021-01-05 16:03 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2021-01-05 16:50 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
+| 2021-01-05 18:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | fix: resolve race condition in queue worker |
