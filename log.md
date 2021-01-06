@@ -5819,3 +5819,4 @@
 | 2021-01-06 13:48 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve CORS configuration |
 | 2021-01-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: correct validation error messages |
 | 2021-01-06 15:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | fix: resolve race condition in queue worker |
+| 2021-01-06 15:52 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
