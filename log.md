@@ -5817,3 +5817,4 @@
 | 2021-01-06 13:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2021-01-06 13:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | feat: create dashboard metrics endpoint |
 | 2021-01-06 13:48 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve CORS configuration |
+| 2021-01-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: correct validation error messages |
