@@ -5811,3 +5811,4 @@
 | 2021-01-06 09:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2021-01-06 10:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2021-01-06 11:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | perf: implement response compression |
+| 2021-01-06 11:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | refactor: adopt repository pattern |
