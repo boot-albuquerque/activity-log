@@ -5812,3 +5812,4 @@
 | 2021-01-06 10:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2021-01-06 11:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | perf: implement response compression |
 | 2021-01-06 11:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | refactor: adopt repository pattern |
+| 2021-01-06 12:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | docs: update API documentation |
