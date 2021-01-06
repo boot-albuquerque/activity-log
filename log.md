@@ -5816,3 +5816,4 @@
 | 2021-01-06 13:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | feat: create dashboard metrics endpoint |
 | 2021-01-06 13:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2021-01-06 13:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | feat: create dashboard metrics endpoint |
+| 2021-01-06 13:48 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve CORS configuration |
