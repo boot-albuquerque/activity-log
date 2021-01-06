@@ -5808,3 +5808,4 @@
 | 2021-01-05 18:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | fix: resolve race condition in queue worker |
 | 2021-01-05 19:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: add file upload support |
 | 2021-01-05 20:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | fix: handle missing environment variable |
+| 2021-01-06 09:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | feat: implement soft delete pattern |
