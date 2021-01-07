@@ -5827,3 +5827,4 @@
 | 2021-01-06 21:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | docs: update API documentation |
 | 2021-01-07 00:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | feat: create health check endpoint |
 | 2021-01-07 07:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: add user authentication endpoint |
+| 2021-01-07 08:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | fix: resolve N+1 query problem |
