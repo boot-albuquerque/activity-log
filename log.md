@@ -5838,3 +5838,4 @@
 | 2021-01-07 18:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | docs: document environment variables |
 | 2021-01-07 18:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | db: add composite index |
 | 2021-01-07 18:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | test: fix flaky test in async handler |
+| 2021-01-07 19:46 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | fix: correct null check in user service |
