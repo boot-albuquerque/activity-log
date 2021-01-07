@@ -5836,3 +5836,4 @@
 | 2021-01-07 16:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | ci: configure staging environment |
 | 2021-01-07 16:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2021-01-07 18:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | docs: document environment variables |
+| 2021-01-07 18:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | db: add composite index |
