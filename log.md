@@ -5835,3 +5835,4 @@
 | 2021-01-07 16:12 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | db: add migration for new schema |
 | 2021-01-07 16:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | ci: configure staging environment |
 | 2021-01-07 16:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | fix: correct decimal precision in billing |
+| 2021-01-07 18:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | docs: document environment variables |
