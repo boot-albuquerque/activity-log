@@ -5825,3 +5825,4 @@
 | 2021-01-06 19:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: implement soft delete pattern |
 | 2021-01-06 21:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | security: fix SQL injection vulnerability |
 | 2021-01-06 21:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | docs: update API documentation |
+| 2021-01-07 00:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | feat: create health check endpoint |
