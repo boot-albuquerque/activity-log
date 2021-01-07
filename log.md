@@ -5831,3 +5831,4 @@
 | 2021-01-07 10:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | security: update SSL certificates config |
 | 2021-01-07 12:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | feat: implement caching layer |
 | 2021-01-07 13:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | refactor: move constants to config module |
+| 2021-01-07 14:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
