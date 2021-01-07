@@ -5828,3 +5828,4 @@
 | 2021-01-07 00:01 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | feat: create health check endpoint |
 | 2021-01-07 07:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2021-01-07 08:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | fix: resolve N+1 query problem |
+| 2021-01-07 10:41 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | security: update SSL certificates config |
