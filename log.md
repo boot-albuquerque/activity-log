@@ -5832,3 +5832,4 @@
 | 2021-01-07 12:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | feat: implement caching layer |
 | 2021-01-07 13:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | refactor: move constants to config module |
 | 2021-01-07 14:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
+| 2021-01-07 16:12 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | db: add migration for new schema |
