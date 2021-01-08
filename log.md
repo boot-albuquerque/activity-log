@@ -5844,3 +5844,4 @@
 | 2021-01-08 10:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2021-01-08 10:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | test: add unit tests for payment service |
 | 2021-01-08 11:59 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | perf: add database indexes |
+| 2021-01-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | chore: configure ESLint and Prettier |
