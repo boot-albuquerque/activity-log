@@ -5849,3 +5849,4 @@
 | 2021-01-08 14:50 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2021-01-08 14:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: add real-time notifications |
 | 2021-01-08 15:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | perf: reduce bundle size |
+| 2021-01-08 15:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
