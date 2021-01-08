@@ -5841,3 +5841,4 @@
 | 2021-01-07 19:46 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2021-01-07 20:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/cleanup` | security: add input sanitization |
 | 2021-01-08 09:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | feat: add export to CSV/Excel |
+| 2021-01-08 10:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | fix: resolve N+1 query problem |
