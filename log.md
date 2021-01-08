@@ -5847,3 +5847,4 @@
 | 2021-01-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | chore: configure ESLint and Prettier |
 | 2021-01-08 13:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | style: format code according to style guide |
 | 2021-01-08 14:50 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
+| 2021-01-08 14:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: add real-time notifications |
