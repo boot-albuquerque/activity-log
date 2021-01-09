@@ -5852,3 +5852,4 @@
 | 2021-01-08 15:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
 | 2021-01-08 20:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | feat: add audit log trail |
 | 2021-01-08 20:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | infra: add Kubernetes manifests |
+| 2021-01-08 23:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
