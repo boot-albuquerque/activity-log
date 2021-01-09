@@ -5854,3 +5854,4 @@
 | 2021-01-08 20:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2021-01-08 23:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
 | 2021-01-09 13:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | perf: optimize database queries |
+| 2021-01-09 14:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | db: optimize slow queries |
