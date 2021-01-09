@@ -5857,3 +5857,4 @@
 | 2021-01-09 14:42 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | db: optimize slow queries |
 | 2021-01-09 16:07 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | refactor: replace raw SQL with query builder |
 | 2021-01-09 17:28 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | fix: correct pagination offset calculation |
+| 2021-01-09 19:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | chore: configure GitHub Actions CI |
