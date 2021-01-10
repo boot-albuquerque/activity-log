@@ -5859,3 +5859,4 @@
 | 2021-01-09 17:28 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2021-01-09 19:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2021-01-10 00:37 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | db: optimize slow queries |
+| 2021-01-10 09:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | infra: update Terraform modules |
