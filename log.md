@@ -5862,3 +5862,4 @@
 | 2021-01-10 09:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | infra: update Terraform modules |
 | 2021-01-10 13:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: adopt repository pattern |
 | 2021-01-10 19:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | refactor: replace raw SQL with query builder |
+| 2021-01-10 21:42 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | perf: optimize database queries |
