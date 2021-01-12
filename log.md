@@ -5863,3 +5863,4 @@
 | 2021-01-10 13:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: adopt repository pattern |
 | 2021-01-10 19:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | refactor: replace raw SQL with query builder |
 | 2021-01-10 21:42 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | perf: optimize database queries |
+| 2021-01-11 22:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | feat: implement soft delete pattern |
