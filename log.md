@@ -5867,3 +5867,4 @@
 | 2021-01-12 11:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add real-time notifications |
 | 2021-01-13 00:57 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2021-01-13 10:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | test: improve test coverage to 80% |
+| 2021-01-13 11:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | refactor: clean up unused imports |
