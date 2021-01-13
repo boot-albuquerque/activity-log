@@ -5869,3 +5869,4 @@
 | 2021-01-13 10:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | test: improve test coverage to 80% |
 | 2021-01-13 11:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | refactor: clean up unused imports |
 | 2021-01-13 13:35 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | feat: implement webhook receiver |
+| 2021-01-13 13:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | feat: implement JWT refresh token |
