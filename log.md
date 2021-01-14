@@ -5879,3 +5879,4 @@
 | 2021-01-13 20:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/critical-fix` | feat: create background job processor |
 | 2021-01-13 22:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | refactor: move constants to config module |
 | 2021-01-14 08:04 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2021-01-14 09:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/auth-improvements` | perf: implement response compression |
