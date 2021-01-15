@@ -5887,3 +5887,4 @@
 | 2021-01-14 18:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | style: fix indentation and whitespace |
 | 2021-01-14 20:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2021-01-14 20:21 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | fix: correct null check in user service |
+| 2021-01-14 21:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | chore: configure GitHub Actions CI |
