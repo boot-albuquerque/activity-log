@@ -5890,3 +5890,4 @@
 | 2021-01-14 21:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2021-01-15 07:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2021-01-15 17:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | perf: reduce bundle size |
+| 2021-01-15 18:52 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
