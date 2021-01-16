@@ -5891,3 +5891,4 @@
 | 2021-01-15 07:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2021-01-15 17:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | perf: reduce bundle size |
 | 2021-01-15 18:52 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
+| 2021-01-15 21:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | fix: handle empty response from external API |
