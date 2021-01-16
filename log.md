@@ -5892,3 +5892,4 @@
 | 2021-01-15 17:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | perf: reduce bundle size |
 | 2021-01-15 18:52 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
 | 2021-01-15 21:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | fix: handle empty response from external API |
+| 2021-01-15 23:10 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | fix: correct decimal precision in billing |
