@@ -5905,3 +5905,4 @@
 | 2021-01-18 12:37 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | fix: resolve deadlock in transaction |
 | 2021-01-18 13:12 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | fix: resolve memory leak in connection pool |
 | 2021-01-18 13:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | refactor: reduce cyclomatic complexity |
+| 2021-01-18 16:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | security: add input sanitization |
