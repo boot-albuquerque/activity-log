@@ -5897,3 +5897,4 @@
 | 2021-01-17 11:58 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2021-01-17 14:59 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | feat: add bulk operations support |
 | 2021-01-18 00:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | style: fix indentation and whitespace |
+| 2021-01-18 09:42 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | fix: resolve memory leak in connection pool |
