@@ -5908,3 +5908,4 @@
 | 2021-01-18 16:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | security: add input sanitization |
 | 2021-01-18 21:18 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
 | 2021-01-18 21:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | ci: configure staging environment |
+| 2021-01-19 00:01 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | test: cover edge cases in validator |
