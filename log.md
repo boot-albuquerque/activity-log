@@ -5920,3 +5920,4 @@
 | 2021-01-20 15:29 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | security: add input sanitization |
 | 2021-01-20 15:46 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | ci: configure staging environment |
 | 2021-01-20 23:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: correct null check in user service |
+| 2021-01-21 08:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement webhook receiver |
