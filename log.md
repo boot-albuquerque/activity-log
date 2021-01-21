@@ -5922,3 +5922,4 @@
 | 2021-01-20 23:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: correct null check in user service |
 | 2021-01-21 08:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement webhook receiver |
 | 2021-01-21 10:58 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | docs: update API documentation |
+| 2021-01-21 12:38 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | ci: add automated deployment pipeline |
