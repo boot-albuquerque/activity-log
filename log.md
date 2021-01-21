@@ -5919,3 +5919,4 @@
 | 2021-01-20 09:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2021-01-20 15:29 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | security: add input sanitization |
 | 2021-01-20 15:46 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | ci: configure staging environment |
+| 2021-01-20 23:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: correct null check in user service |
