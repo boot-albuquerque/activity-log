@@ -5925,3 +5925,4 @@
 | 2021-01-21 12:38 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | ci: add automated deployment pipeline |
 | 2021-01-21 14:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | ci: configure staging environment |
 | 2021-01-21 15:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | db: add migration for new schema |
+| 2021-01-21 16:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | style: fix indentation and whitespace |
