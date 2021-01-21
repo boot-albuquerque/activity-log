@@ -5927,3 +5927,4 @@
 | 2021-01-21 15:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | db: add migration for new schema |
 | 2021-01-21 16:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | style: fix indentation and whitespace |
 | 2021-01-21 16:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add OpenAPI documentation |
+| 2021-01-21 17:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | db: add migration for new schema |
