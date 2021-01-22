@@ -5932,3 +5932,4 @@
 | 2021-01-21 19:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | ci: add automated deployment pipeline |
 | 2021-01-21 23:15 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | perf: reduce bundle size |
 | 2021-01-22 07:41 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | refactor: reduce cyclomatic complexity |
+| 2021-01-22 10:57 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/null-pointer` | fix: handle malformed JSON input |
