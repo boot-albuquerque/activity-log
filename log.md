@@ -5935,3 +5935,4 @@
 | 2021-01-22 10:57 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2021-01-22 13:39 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | perf: reduce bundle size |
 | 2021-01-22 13:44 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | db: add composite index |
+| 2021-01-22 15:01 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | feat: implement caching layer |
