@@ -5931,3 +5931,4 @@
 | 2021-01-21 17:34 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/typo-response` | feat: add email notification on status change |
 | 2021-01-21 19:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | ci: add automated deployment pipeline |
 | 2021-01-21 23:15 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | perf: reduce bundle size |
+| 2021-01-22 07:41 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | refactor: reduce cyclomatic complexity |
