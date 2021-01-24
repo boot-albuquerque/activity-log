@@ -5942,3 +5942,4 @@
 | 2021-01-23 19:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | refactor: reduce cyclomatic complexity |
 | 2021-01-23 21:12 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | fix: handle edge case in date parsing |
 | 2021-01-24 00:10 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | style: format code according to style guide |
+| 2021-01-24 09:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
