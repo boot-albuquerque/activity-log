@@ -5946,3 +5946,4 @@
 | 2021-01-24 15:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
 | 2021-01-24 21:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2021-01-24 22:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | refactor: simplify authentication flow |
+| 2021-01-25 11:19 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: resolve N+1 query problem |
