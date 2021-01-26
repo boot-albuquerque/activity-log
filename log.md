@@ -5954,3 +5954,4 @@
 | 2021-01-25 16:10 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | feat: implement rate limiting middleware |
 | 2021-01-25 20:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: handle malformed JSON input |
 | 2021-01-25 23:07 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | feat: implement soft delete pattern |
+| 2021-01-26 08:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | perf: reduce bundle size |
