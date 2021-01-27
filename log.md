@@ -5961,3 +5961,4 @@
 | 2021-01-27 12:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | security: update SSL certificates config |
 | 2021-01-27 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: upgrade to latest Node.js LTS |
 | 2021-01-27 14:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | feat: implement caching layer |
+| 2021-01-27 14:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: implement rate limiting middleware |
