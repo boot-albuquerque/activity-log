@@ -5959,3 +5959,4 @@
 | 2021-01-27 00:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2021-01-27 10:54 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | perf: optimize database queries |
 | 2021-01-27 12:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | security: update SSL certificates config |
+| 2021-01-27 13:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: upgrade to latest Node.js LTS |
