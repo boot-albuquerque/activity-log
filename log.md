@@ -5964,3 +5964,4 @@
 | 2021-01-27 14:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: implement rate limiting middleware |
 | 2021-01-27 15:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: move constants to config module |
 | 2021-01-27 15:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
+| 2021-01-27 15:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
