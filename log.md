@@ -5957,3 +5957,4 @@
 | 2021-01-26 08:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | perf: reduce bundle size |
 | 2021-01-26 12:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | db: add composite index |
 | 2021-01-27 00:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | security: update SSL certificates config |
+| 2021-01-27 10:54 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | perf: optimize database queries |
