@@ -5966,3 +5966,4 @@
 | 2021-01-27 15:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2021-01-27 15:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2021-01-27 18:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | feat: add OpenAPI documentation |
+| 2021-01-27 19:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | refactor: split large controller into smaller ones |
