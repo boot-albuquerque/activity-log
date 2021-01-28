@@ -5970,3 +5970,4 @@
 | 2021-01-28 13:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | fix: handle timeout in async operation |
 | 2021-01-28 13:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | chore: add Docker Compose for local dev |
 | 2021-01-28 16:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
+| 2021-01-28 17:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add user authentication endpoint |
