@@ -5968,3 +5968,4 @@
 | 2021-01-27 18:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | feat: add OpenAPI documentation |
 | 2021-01-27 19:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | refactor: split large controller into smaller ones |
 | 2021-01-28 13:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | fix: handle timeout in async operation |
+| 2021-01-28 13:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | chore: add Docker Compose for local dev |
