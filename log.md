@@ -5975,3 +5975,4 @@
 | 2021-01-28 21:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2021-01-29 10:38 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | chore: update dependencies |
 | 2021-01-29 13:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | fix: correct null check in user service |
+| 2021-01-29 15:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | infra: add Kubernetes manifests |
