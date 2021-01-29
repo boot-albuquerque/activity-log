@@ -5971,3 +5971,4 @@
 | 2021-01-28 13:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | chore: add Docker Compose for local dev |
 | 2021-01-28 16:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
 | 2021-01-28 17:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add user authentication endpoint |
+| 2021-01-28 20:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | perf: add database indexes |
