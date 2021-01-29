@@ -5976,3 +5976,4 @@
 | 2021-01-29 10:38 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | chore: update dependencies |
 | 2021-01-29 13:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | fix: correct null check in user service |
 | 2021-01-29 15:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | infra: add Kubernetes manifests |
+| 2021-01-29 16:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | feat: create order processing service |
