@@ -5982,3 +5982,4 @@
 | 2021-01-29 22:18 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | fix: handle edge case in date parsing |
 | 2021-01-30 13:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: create admin management interface |
 | 2021-01-30 14:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | chore: add pre-commit hooks |
+| 2021-01-30 15:17 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
