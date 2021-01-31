@@ -5984,3 +5984,4 @@
 | 2021-01-30 14:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | chore: add pre-commit hooks |
 | 2021-01-30 15:17 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2021-01-30 19:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: implement soft delete pattern |
+| 2021-01-31 13:35 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | feat: create health check endpoint |
