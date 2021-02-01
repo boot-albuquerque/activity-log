@@ -5985,3 +5985,4 @@
 | 2021-01-30 15:17 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2021-01-30 19:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: implement soft delete pattern |
 | 2021-01-31 13:35 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | feat: create health check endpoint |
+| 2021-02-01 16:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | db: optimize slow queries |
