@@ -5995,3 +5995,4 @@
 | 2021-02-02 16:15 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | db: add migration for new schema |
 | 2021-02-02 17:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: add file upload support |
 | 2021-02-02 18:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | refactor: adopt repository pattern |
+| 2021-02-02 18:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | security: fix SQL injection vulnerability |
