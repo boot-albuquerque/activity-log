@@ -5990,3 +5990,4 @@
 | 2021-02-02 10:25 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | db: add migration for new schema |
 | 2021-02-02 10:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | style: fix indentation and whitespace |
 | 2021-02-02 11:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | feat: add audit log trail |
+| 2021-02-02 11:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | security: add input sanitization |
