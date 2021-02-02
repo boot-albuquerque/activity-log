@@ -5993,3 +5993,4 @@
 | 2021-02-02 11:10 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | security: add input sanitization |
 | 2021-02-02 13:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2021-02-02 16:15 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | db: add migration for new schema |
+| 2021-02-02 17:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: add file upload support |
