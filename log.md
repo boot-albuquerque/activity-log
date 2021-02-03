@@ -6000,3 +6000,4 @@
 | 2021-02-02 23:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | feat: add audit log trail |
 | 2021-02-03 10:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: extract business logic to service layer |
 | 2021-02-03 10:23 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
+| 2021-02-03 10:35 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | db: add migration for new schema |
