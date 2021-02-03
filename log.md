@@ -6004,3 +6004,4 @@
 | 2021-02-03 11:45 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | refactor: split large controller into smaller ones |
 | 2021-02-03 12:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: add file upload support |
 | 2021-02-03 13:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | fix: correct validation error messages |
+| 2021-02-03 15:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | db: add migration for new schema |
