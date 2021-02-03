@@ -5999,3 +5999,4 @@
 | 2021-02-02 18:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | perf: reduce bundle size |
 | 2021-02-02 23:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | feat: add audit log trail |
 | 2021-02-03 10:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: extract business logic to service layer |
+| 2021-02-03 10:23 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
