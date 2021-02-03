@@ -5997,3 +5997,4 @@
 | 2021-02-02 18:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | refactor: adopt repository pattern |
 | 2021-02-02 18:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | security: fix SQL injection vulnerability |
 | 2021-02-02 18:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | perf: reduce bundle size |
+| 2021-02-02 23:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | feat: add audit log trail |
