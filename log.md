@@ -6007,3 +6007,4 @@
 | 2021-02-03 15:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | db: add migration for new schema |
 | 2021-02-03 15:32 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add pagination to list endpoint |
 | 2021-02-03 16:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | db: add migration for new schema |
+| 2021-02-03 17:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | db: add composite index |
