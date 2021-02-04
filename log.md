@@ -6009,3 +6009,4 @@
 | 2021-02-03 16:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | db: add migration for new schema |
 | 2021-02-03 17:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | db: add composite index |
 | 2021-02-03 19:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | feat: create order processing service |
+| 2021-02-04 08:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add audit log trail |
