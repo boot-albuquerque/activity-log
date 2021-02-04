@@ -6013,3 +6013,4 @@
 | 2021-02-04 09:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2021-02-04 10:03 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2021-02-04 15:30 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: implement caching layer |
+| 2021-02-04 17:31 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | security: add input sanitization |
