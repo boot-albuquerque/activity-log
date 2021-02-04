@@ -6011,3 +6011,4 @@
 | 2021-02-03 19:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | feat: create order processing service |
 | 2021-02-04 08:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add audit log trail |
 | 2021-02-04 09:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: create health check endpoint |
+| 2021-02-04 10:03 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | chore: add pre-commit hooks |
