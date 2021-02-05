@@ -6024,3 +6024,4 @@
 | 2021-02-05 17:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/add-caching` | infra: update Terraform modules |
 | 2021-02-05 18:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add OpenAPI documentation |
 | 2021-02-05 19:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | db: optimize slow queries |
+| 2021-02-05 19:43 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: add export to CSV/Excel |
