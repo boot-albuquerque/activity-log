@@ -6022,3 +6022,4 @@
 | 2021-02-05 13:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add file upload support |
 | 2021-02-05 16:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | feat: add user authentication endpoint |
 | 2021-02-05 17:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/add-caching` | infra: update Terraform modules |
+| 2021-02-05 18:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add OpenAPI documentation |
