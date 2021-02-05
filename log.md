@@ -6015,3 +6015,4 @@
 | 2021-02-04 15:30 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: implement caching layer |
 | 2021-02-04 17:31 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | security: add input sanitization |
 | 2021-02-04 17:47 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | feat: create admin management interface |
+| 2021-02-05 08:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | security: fix SQL injection vulnerability |
