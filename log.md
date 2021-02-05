@@ -6019,3 +6019,4 @@
 | 2021-02-05 10:11 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2021-02-05 10:24 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2021-02-05 11:05 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | refactor: clean up unused imports |
+| 2021-02-05 13:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add file upload support |
