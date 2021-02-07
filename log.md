@@ -6028,3 +6028,4 @@
 | 2021-02-05 23:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | feat: create health check endpoint |
 | 2021-02-05 23:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
 | 2021-02-06 14:22 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | test: add e2e tests for checkout flow |
+| 2021-02-07 12:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | docs: document environment variables |
