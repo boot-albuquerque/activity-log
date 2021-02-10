@@ -6030,3 +6030,4 @@
 | 2021-02-06 14:22 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/null-pointer` | test: add e2e tests for checkout flow |
 | 2021-02-07 12:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | docs: document environment variables |
 | 2021-02-07 20:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | feat: create health check endpoint |
+| 2021-02-10 13:10 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | refactor: extract business logic to service layer |
