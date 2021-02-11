@@ -6041,3 +6041,4 @@
 | 2021-02-11 13:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | test: fix flaky test in async handler |
 | 2021-02-11 14:37 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | feat: add export to CSV/Excel |
 | 2021-02-11 14:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | refactor: extract business logic to service layer |
+| 2021-02-11 15:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | style: format code according to style guide |
