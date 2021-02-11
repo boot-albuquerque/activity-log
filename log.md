@@ -6038,3 +6038,4 @@
 | 2021-02-11 11:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2021-02-11 13:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | perf: add database indexes |
 | 2021-02-11 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct validation error messages |
+| 2021-02-11 13:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | test: fix flaky test in async handler |
