@@ -6043,3 +6043,4 @@
 | 2021-02-11 14:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2021-02-11 15:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | style: format code according to style guide |
 | 2021-02-11 16:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | perf: implement response compression |
+| 2021-02-11 16:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: implement JWT refresh token |
