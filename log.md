@@ -6047,3 +6047,4 @@
 | 2021-02-12 00:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2021-02-12 13:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle empty response from external API |
 | 2021-02-12 14:09 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | fix: handle edge case in date parsing |
+| 2021-02-12 14:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | fix: handle empty response from external API |
