@@ -6045,3 +6045,4 @@
 | 2021-02-11 16:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | perf: implement response compression |
 | 2021-02-11 16:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: implement JWT refresh token |
 | 2021-02-12 00:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
+| 2021-02-12 13:06 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle empty response from external API |
