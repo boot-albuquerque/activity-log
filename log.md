@@ -6050,3 +6050,4 @@
 | 2021-02-12 14:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | fix: handle empty response from external API |
 | 2021-02-12 14:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | infra: update Terraform modules |
 | 2021-02-12 15:51 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | refactor: clean up unused imports |
+| 2021-02-12 21:06 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | test: add unit tests for payment service |
