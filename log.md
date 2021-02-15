@@ -6055,3 +6055,4 @@
 | 2021-02-15 00:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | style: format code according to style guide |
 | 2021-02-15 09:17 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | feat: create health check endpoint |
 | 2021-02-15 10:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add pagination to list endpoint |
+| 2021-02-15 14:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
