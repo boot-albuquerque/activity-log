@@ -6053,3 +6053,4 @@
 | 2021-02-12 21:06 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | test: add unit tests for payment service |
 | 2021-02-14 14:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: correct validation error messages |
 | 2021-02-15 00:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | style: format code according to style guide |
+| 2021-02-15 09:17 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | feat: create health check endpoint |
