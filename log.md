@@ -6057,3 +6057,4 @@
 | 2021-02-15 10:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add pagination to list endpoint |
 | 2021-02-15 14:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
 | 2021-02-15 14:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | ci: configure staging environment |
+| 2021-02-15 16:10 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | feat: add file upload support |
