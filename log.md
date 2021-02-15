@@ -6059,3 +6059,4 @@
 | 2021-02-15 14:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | ci: configure staging environment |
 | 2021-02-15 16:10 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | feat: add file upload support |
 | 2021-02-15 16:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | infra: update Terraform modules |
+| 2021-02-15 17:30 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | fix: handle malformed JSON input |
