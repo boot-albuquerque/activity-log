@@ -6061,3 +6061,4 @@
 | 2021-02-15 16:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | infra: update Terraform modules |
 | 2021-02-15 17:30 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | fix: handle malformed JSON input |
 | 2021-02-15 18:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: improve code readability |
+| 2021-02-15 23:53 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | feat: add file upload support |
