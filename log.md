@@ -6066,3 +6066,4 @@
 | 2021-02-17 14:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
 | 2021-02-17 16:32 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2021-02-17 16:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve N+1 query problem |
+| 2021-02-17 16:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | feat: add search with filters |
