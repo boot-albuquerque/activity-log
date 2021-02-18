@@ -6070,3 +6070,4 @@
 | 2021-02-17 23:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add migration for new schema |
 | 2021-02-18 08:29 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | security: update SSL certificates config |
 | 2021-02-18 09:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
+| 2021-02-18 09:59 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | db: optimize slow queries |
