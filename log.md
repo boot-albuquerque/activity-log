@@ -6078,3 +6078,4 @@
 | 2021-02-18 18:32 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: create order processing service |
 | 2021-02-18 19:27 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | ci: configure staging environment |
 | 2021-02-18 20:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | refactor: consolidate error handling |
+| 2021-02-18 20:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | fix: correct null check in user service |
