@@ -6073,3 +6073,4 @@
 | 2021-02-18 09:59 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | db: optimize slow queries |
 | 2021-02-18 10:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add audit log trail |
 | 2021-02-18 12:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | feat: add pagination to list endpoint |
+| 2021-02-18 16:58 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | perf: optimize database queries |
