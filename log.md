@@ -6074,3 +6074,4 @@
 | 2021-02-18 10:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add audit log trail |
 | 2021-02-18 12:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | feat: add pagination to list endpoint |
 | 2021-02-18 16:58 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | perf: optimize database queries |
+| 2021-02-18 17:42 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | refactor: replace raw SQL with query builder |
