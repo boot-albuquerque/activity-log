@@ -6068,3 +6068,4 @@
 | 2021-02-17 16:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve N+1 query problem |
 | 2021-02-17 16:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | feat: add search with filters |
 | 2021-02-17 23:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | db: add migration for new schema |
+| 2021-02-18 08:29 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | security: update SSL certificates config |
