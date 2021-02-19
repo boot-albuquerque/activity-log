@@ -6079,3 +6079,4 @@
 | 2021-02-18 19:27 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | ci: configure staging environment |
 | 2021-02-18 20:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | refactor: consolidate error handling |
 | 2021-02-18 20:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | fix: correct null check in user service |
+| 2021-02-19 18:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
