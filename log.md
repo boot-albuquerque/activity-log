@@ -6082,3 +6082,4 @@
 | 2021-02-19 18:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2021-02-21 15:28 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | ci: configure staging environment |
 | 2021-02-22 11:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | fix: correct decimal precision in billing |
+| 2021-02-22 12:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | fix: resolve deadlock in transaction |
