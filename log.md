@@ -6087,3 +6087,4 @@
 | 2021-02-22 14:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | test: add unit tests for payment service |
 | 2021-02-22 15:26 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | style: fix indentation and whitespace |
 | 2021-02-22 16:27 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | fix: handle missing environment variable |
+| 2021-02-22 17:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | refactor: simplify authentication flow |
