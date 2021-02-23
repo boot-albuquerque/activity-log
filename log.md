@@ -6094,3 +6094,4 @@
 | 2021-02-23 09:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: create background job processor |
 | 2021-02-23 11:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | feat: implement soft delete pattern |
 | 2021-02-23 13:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | fix: correct null check in user service |
+| 2021-02-23 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: handle missing environment variable |
