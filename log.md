@@ -6090,3 +6090,4 @@
 | 2021-02-22 17:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | refactor: simplify authentication flow |
 | 2021-02-22 17:37 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2021-02-22 20:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | refactor: adopt repository pattern |
+| 2021-02-22 23:32 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | test: add unit tests for payment service |
