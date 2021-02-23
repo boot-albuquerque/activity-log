@@ -6095,3 +6095,4 @@
 | 2021-02-23 11:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | feat: implement soft delete pattern |
 | 2021-02-23 13:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | fix: correct null check in user service |
 | 2021-02-23 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: handle missing environment variable |
+| 2021-02-23 17:18 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | test: fix flaky test in async handler |
