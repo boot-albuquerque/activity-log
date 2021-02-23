@@ -6092,3 +6092,4 @@
 | 2021-02-22 20:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | refactor: adopt repository pattern |
 | 2021-02-22 23:32 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | test: add unit tests for payment service |
 | 2021-02-23 09:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: create background job processor |
+| 2021-02-23 11:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | feat: implement soft delete pattern |
