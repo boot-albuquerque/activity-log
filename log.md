@@ -6096,3 +6096,4 @@
 | 2021-02-23 13:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | fix: correct null check in user service |
 | 2021-02-23 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: handle missing environment variable |
 | 2021-02-23 17:18 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | test: fix flaky test in async handler |
+| 2021-02-23 23:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | ci: configure staging environment |
