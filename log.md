@@ -6098,3 +6098,4 @@
 | 2021-02-23 17:18 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2021-02-23 23:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | ci: configure staging environment |
 | 2021-02-24 00:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | feat: add audit log trail |
+| 2021-02-24 00:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | fix: handle missing environment variable |
