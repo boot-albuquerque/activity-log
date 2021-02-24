@@ -6100,3 +6100,4 @@
 | 2021-02-24 00:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | feat: add audit log trail |
 | 2021-02-24 00:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | fix: handle missing environment variable |
 | 2021-02-24 10:32 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | security: fix SQL injection vulnerability |
+| 2021-02-24 12:25 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | fix: correct validation error messages |
