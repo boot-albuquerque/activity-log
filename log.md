@@ -6108,3 +6108,4 @@
 | 2021-02-25 13:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: add file upload support |
 | 2021-02-25 13:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | docs: document environment variables |
 | 2021-02-25 13:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | perf: implement response compression |
+| 2021-02-25 17:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | fix: resolve deadlock in transaction |
