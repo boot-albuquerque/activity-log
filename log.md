@@ -6106,3 +6106,4 @@
 | 2021-02-24 16:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: add user authentication endpoint |
 | 2021-02-25 10:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | infra: update Terraform modules |
 | 2021-02-25 13:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: add file upload support |
+| 2021-02-25 13:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | docs: document environment variables |
