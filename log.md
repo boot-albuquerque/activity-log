@@ -6113,3 +6113,4 @@
 | 2021-02-25 22:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
 | 2021-02-26 09:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2021-02-26 14:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | db: optimize slow queries |
+| 2021-02-26 15:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | infra: add Kubernetes manifests |
