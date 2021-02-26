@@ -6111,3 +6111,4 @@
 | 2021-02-25 17:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2021-02-25 18:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2021-02-25 22:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
+| 2021-02-26 09:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | ci: add automated deployment pipeline |
