@@ -6116,3 +6116,4 @@
 | 2021-02-26 15:58 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2021-02-26 16:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | perf: optimize database queries |
 | 2021-02-26 20:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | refactor: move constants to config module |
+| 2021-02-26 21:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: split large controller into smaller ones |
