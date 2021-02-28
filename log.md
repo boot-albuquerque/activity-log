@@ -6118,3 +6118,4 @@
 | 2021-02-26 20:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | refactor: move constants to config module |
 | 2021-02-26 21:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: split large controller into smaller ones |
 | 2021-02-27 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | security: update SSL certificates config |
+| 2021-02-28 10:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | docs: document environment variables |
