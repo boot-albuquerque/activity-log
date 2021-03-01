@@ -6123,3 +6123,4 @@
 | 2021-03-01 00:41 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2021-03-01 09:05 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: consolidate error handling |
 | 2021-03-01 11:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | fix: correct cache invalidation logic |
+| 2021-03-01 11:38 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: replace raw SQL with query builder |
