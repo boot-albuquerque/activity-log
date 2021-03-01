@@ -6120,3 +6120,4 @@
 | 2021-02-27 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | security: update SSL certificates config |
 | 2021-02-28 10:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | docs: document environment variables |
 | 2021-03-01 00:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | security: fix SQL injection vulnerability |
+| 2021-03-01 00:41 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/clean-architecture` | db: add migration for new schema |
