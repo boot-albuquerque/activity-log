@@ -6127,3 +6127,4 @@
 | 2021-03-01 15:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2021-03-01 16:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | infra: configure auto-scaling policies |
 | 2021-03-01 22:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | chore: configure ESLint and Prettier |
+| 2021-03-02 12:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | refactor: move constants to config module |
