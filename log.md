@@ -6138,3 +6138,4 @@
 | 2021-03-03 12:50 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | ci: add automated deployment pipeline |
 | 2021-03-03 13:18 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2021-03-03 13:21 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | ci: add automated deployment pipeline |
+| 2021-03-03 14:56 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | docs: add README setup instructions |
