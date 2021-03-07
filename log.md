@@ -6148,3 +6148,4 @@
 | 2021-03-07 13:16 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: create health check endpoint |
 | 2021-03-07 13:27 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | fix: correct decimal precision in billing |
 | 2021-03-07 15:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | fix: correct cache invalidation logic |
+| 2021-03-07 15:52 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | fix: handle malformed JSON input |
