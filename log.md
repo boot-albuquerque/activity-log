@@ -6145,3 +6145,4 @@
 | 2021-03-05 21:22 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
 | 2021-03-06 10:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: add audit log trail |
 | 2021-03-06 21:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct validation error messages |
+| 2021-03-07 13:16 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: create health check endpoint |
