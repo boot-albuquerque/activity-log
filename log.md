@@ -6159,3 +6159,4 @@
 | 2021-03-10 18:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2021-03-10 19:15 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | security: add input sanitization |
 | 2021-03-11 08:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | refactor: move constants to config module |
+| 2021-03-11 12:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement soft delete pattern |
