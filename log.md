@@ -6163,3 +6163,4 @@
 | 2021-03-11 12:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | test: mock external dependencies in tests |
 | 2021-03-11 13:34 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | perf: optimize database queries |
 | 2021-03-11 19:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | feat: add file upload support |
+| 2021-03-12 12:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | feat: implement soft delete pattern |
