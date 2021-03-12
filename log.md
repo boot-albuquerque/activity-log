@@ -6166,3 +6166,4 @@
 | 2021-03-12 12:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | feat: implement soft delete pattern |
 | 2021-03-12 12:58 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2021-03-12 14:39 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | security: fix SQL injection vulnerability |
+| 2021-03-12 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: add automated deployment pipeline |
