@@ -6169,3 +6169,4 @@
 | 2021-03-12 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: add automated deployment pipeline |
 | 2021-03-12 20:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | perf: add database indexes |
 | 2021-03-13 17:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | perf: add database indexes |
+| 2021-03-13 19:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | security: fix SQL injection vulnerability |
