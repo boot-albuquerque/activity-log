@@ -6168,3 +6168,4 @@
 | 2021-03-12 14:39 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | security: fix SQL injection vulnerability |
 | 2021-03-12 20:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: add automated deployment pipeline |
 | 2021-03-12 20:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | perf: add database indexes |
+| 2021-03-13 17:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | perf: add database indexes |
