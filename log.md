@@ -6171,3 +6171,4 @@
 | 2021-03-13 17:55 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | perf: add database indexes |
 | 2021-03-13 19:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | security: fix SQL injection vulnerability |
 | 2021-03-14 09:20 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2021-03-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | fix: correct null check in user service |
