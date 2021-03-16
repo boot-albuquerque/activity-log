@@ -6176,3 +6176,4 @@
 | 2021-03-15 18:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: create background job processor |
 | 2021-03-15 21:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
 | 2021-03-15 22:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | test: mock external dependencies in tests |
+| 2021-03-16 00:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | perf: implement response compression |
