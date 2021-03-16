@@ -6178,3 +6178,4 @@
 | 2021-03-15 22:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | test: mock external dependencies in tests |
 | 2021-03-16 00:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | perf: implement response compression |
 | 2021-03-16 07:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | chore: configure ESLint and Prettier |
+| 2021-03-16 10:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: implement rate limiting middleware |
