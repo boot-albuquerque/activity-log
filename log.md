@@ -6174,3 +6174,4 @@
 | 2021-03-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | fix: correct null check in user service |
 | 2021-03-15 12:28 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | fix: resolve CORS configuration |
 | 2021-03-15 18:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: create background job processor |
+| 2021-03-15 21:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
