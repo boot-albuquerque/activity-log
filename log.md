@@ -6181,3 +6181,4 @@
 | 2021-03-16 10:07 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: implement rate limiting middleware |
 | 2021-03-16 18:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2021-03-16 22:10 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | docs: document environment variables |
+| 2021-03-17 11:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | feat: add export to CSV/Excel |
