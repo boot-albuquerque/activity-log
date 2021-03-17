@@ -6183,3 +6183,4 @@
 | 2021-03-16 22:10 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | docs: document environment variables |
 | 2021-03-17 11:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2021-03-17 17:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | fix: handle empty response from external API |
+| 2021-03-17 18:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | feat: add pagination to list endpoint |
