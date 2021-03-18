@@ -6186,3 +6186,4 @@
 | 2021-03-17 18:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | feat: add pagination to list endpoint |
 | 2021-03-17 19:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | test: add performance benchmark tests |
 | 2021-03-17 19:18 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | test: add integration tests for API endpoints |
+| 2021-03-17 20:12 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | refactor: adopt repository pattern |
