@@ -6189,3 +6189,4 @@
 | 2021-03-17 20:12 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2021-03-17 22:18 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | test: improve test coverage to 80% |
 | 2021-03-18 00:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | chore: configure GitHub Actions CI |
+| 2021-03-18 12:04 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | feat: add export to CSV/Excel |
