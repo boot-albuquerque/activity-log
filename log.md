@@ -6194,3 +6194,4 @@
 | 2021-03-18 18:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | docs: add README setup instructions |
 | 2021-03-18 22:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | security: update SSL certificates config |
 | 2021-03-18 22:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | infra: configure auto-scaling policies |
+| 2021-03-19 10:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | security: fix SQL injection vulnerability |
