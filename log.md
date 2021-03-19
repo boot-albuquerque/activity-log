@@ -6196,3 +6196,4 @@
 | 2021-03-18 22:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | infra: configure auto-scaling policies |
 | 2021-03-19 10:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | security: fix SQL injection vulnerability |
 | 2021-03-19 12:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: add pagination to list endpoint |
+| 2021-03-19 13:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | chore: configure ESLint and Prettier |
