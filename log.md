@@ -6210,3 +6210,4 @@
 | 2021-03-21 23:27 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | perf: add database indexes |
 | 2021-03-22 09:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | feat: add real-time notifications |
 | 2021-03-22 13:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | style: fix indentation and whitespace |
+| 2021-03-22 13:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
