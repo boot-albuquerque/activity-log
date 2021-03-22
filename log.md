@@ -6211,3 +6211,4 @@
 | 2021-03-22 09:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | feat: add real-time notifications |
 | 2021-03-22 13:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2021-03-22 13:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
+| 2021-03-22 16:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add search with filters |
