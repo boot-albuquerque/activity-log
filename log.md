@@ -6207,3 +6207,4 @@
 | 2021-03-20 18:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | feat: implement webhook receiver |
 | 2021-03-20 23:04 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2021-03-21 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | security: add input sanitization |
+| 2021-03-21 23:27 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | perf: add database indexes |
