@@ -6213,3 +6213,4 @@
 | 2021-03-22 13:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | db: add migration for new schema |
 | 2021-03-22 16:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add search with filters |
 | 2021-03-22 18:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | test: add performance benchmark tests |
+| 2021-03-23 00:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
