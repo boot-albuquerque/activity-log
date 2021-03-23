@@ -6220,3 +6220,4 @@
 | 2021-03-23 11:08 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | feat: create admin management interface |
 | 2021-03-23 11:45 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2021-03-23 12:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: implement rate limiting middleware |
+| 2021-03-23 13:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | fix: correct decimal precision in billing |
