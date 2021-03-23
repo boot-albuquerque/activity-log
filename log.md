@@ -6217,3 +6217,4 @@
 | 2021-03-23 07:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | db: add migration for new schema |
 | 2021-03-23 07:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | security: update SSL certificates config |
 | 2021-03-23 10:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | feat: implement soft delete pattern |
+| 2021-03-23 11:08 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | feat: create admin management interface |
