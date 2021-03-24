@@ -6223,3 +6223,4 @@
 | 2021-03-23 13:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | fix: correct decimal precision in billing |
 | 2021-03-23 14:03 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | feat: add search with filters |
 | 2021-03-23 22:56 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | feat: implement caching layer |
+| 2021-03-24 11:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | db: add composite index |
