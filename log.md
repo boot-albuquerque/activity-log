@@ -6228,3 +6228,4 @@
 | 2021-03-25 11:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: implement webhook receiver |
 | 2021-03-25 12:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2021-03-25 12:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | test: add unit tests for payment service |
+| 2021-03-25 14:35 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | security: update SSL certificates config |
