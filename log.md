@@ -6226,3 +6226,4 @@
 | 2021-03-24 11:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | db: add composite index |
 | 2021-03-25 00:12 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | feat: add bulk operations support |
 | 2021-03-25 11:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: implement webhook receiver |
+| 2021-03-25 12:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | refactor: adopt repository pattern |
