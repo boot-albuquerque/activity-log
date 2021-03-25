@@ -6231,3 +6231,4 @@
 | 2021-03-25 14:35 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2021-03-25 14:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | fix: correct pagination offset calculation |
 | 2021-03-25 15:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
+| 2021-03-25 16:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | test: cover edge cases in validator |
