@@ -6235,3 +6235,4 @@
 | 2021-03-25 21:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2021-03-25 21:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2021-03-26 08:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | ci: configure staging environment |
+| 2021-03-26 13:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | refactor: adopt repository pattern |
