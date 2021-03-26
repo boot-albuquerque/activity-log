@@ -6237,3 +6237,4 @@
 | 2021-03-26 08:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | ci: configure staging environment |
 | 2021-03-26 13:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | refactor: adopt repository pattern |
 | 2021-03-26 13:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | chore: add Docker Compose for local dev |
+| 2021-03-26 15:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | feat: add search with filters |
