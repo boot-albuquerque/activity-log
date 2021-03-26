@@ -6236,3 +6236,4 @@
 | 2021-03-25 21:36 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2021-03-26 08:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | ci: configure staging environment |
 | 2021-03-26 13:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | refactor: adopt repository pattern |
+| 2021-03-26 13:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | chore: add Docker Compose for local dev |
