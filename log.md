@@ -6232,3 +6232,4 @@
 | 2021-03-25 14:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | fix: correct pagination offset calculation |
 | 2021-03-25 15:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
 | 2021-03-25 16:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | test: cover edge cases in validator |
+| 2021-03-25 21:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | perf: reduce bundle size |
