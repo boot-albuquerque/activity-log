@@ -6244,3 +6244,4 @@
 | 2021-03-27 09:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: add e2e tests for checkout flow |
 | 2021-03-27 10:36 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2021-03-27 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
+| 2021-03-27 16:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | test: add e2e tests for checkout flow |
