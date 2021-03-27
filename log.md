@@ -6240,3 +6240,4 @@
 | 2021-03-26 15:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | feat: add search with filters |
 | 2021-03-26 16:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2021-03-26 21:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/rate-limiting` | test: add unit tests for payment service |
+| 2021-03-26 22:59 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
