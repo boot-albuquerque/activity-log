@@ -6246,3 +6246,4 @@
 | 2021-03-27 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | refactor: replace raw SQL with query builder |
 | 2021-03-27 16:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | test: add e2e tests for checkout flow |
 | 2021-03-27 17:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | fix: handle edge case in date parsing |
+| 2021-03-27 22:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | feat: create order processing service |
