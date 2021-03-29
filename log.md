@@ -6251,3 +6251,4 @@
 | 2021-03-28 13:39 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: implement caching layer |
 | 2021-03-29 00:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | test: mock external dependencies in tests |
 | 2021-03-29 08:18 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | fix: resolve N+1 query problem |
+| 2021-03-29 09:07 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | feat: implement JWT refresh token |
