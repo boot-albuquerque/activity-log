@@ -6255,3 +6255,4 @@
 | 2021-03-29 09:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | db: optimize slow queries |
 | 2021-03-29 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | refactor: extract business logic to service layer |
 | 2021-03-29 14:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add email notification on status change |
+| 2021-03-29 16:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | feat: implement rate limiting middleware |
