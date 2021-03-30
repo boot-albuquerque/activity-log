@@ -6257,3 +6257,4 @@
 | 2021-03-29 14:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add email notification on status change |
 | 2021-03-29 16:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | feat: implement rate limiting middleware |
 | 2021-03-29 20:29 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | refactor: simplify authentication flow |
+| 2021-03-29 21:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | ci: configure staging environment |
