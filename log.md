@@ -6265,3 +6265,4 @@
 | 2021-03-30 08:26 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | fix: resolve CORS configuration |
 | 2021-03-30 09:24 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | fix: handle malformed JSON input |
 | 2021-03-30 10:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | feat: add OpenAPI documentation |
+| 2021-03-30 16:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/add-caching` | fix: resolve race condition in queue worker |
