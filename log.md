@@ -6271,3 +6271,4 @@
 | 2021-03-31 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2021-03-31 14:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: add pre-commit hooks |
 | 2021-03-31 14:24 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2021-03-31 16:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct pagination offset calculation |
