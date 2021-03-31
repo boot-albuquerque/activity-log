@@ -6268,3 +6268,4 @@
 | 2021-03-30 16:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2021-03-30 22:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | refactor: move constants to config module |
 | 2021-03-30 23:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | test: add integration tests for API endpoints |
+| 2021-03-31 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: correct pagination offset calculation |
