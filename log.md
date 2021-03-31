@@ -6269,3 +6269,4 @@
 | 2021-03-30 22:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | refactor: move constants to config module |
 | 2021-03-30 23:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2021-03-31 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | fix: correct pagination offset calculation |
+| 2021-03-31 14:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: add pre-commit hooks |
