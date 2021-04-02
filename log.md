@@ -6277,3 +6277,4 @@
 | 2021-04-01 21:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | feat: implement rate limiting middleware |
 | 2021-04-02 00:59 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | chore: update dependencies |
 | 2021-04-02 09:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | feat: implement JWT refresh token |
+| 2021-04-02 12:25 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | chore: add pre-commit hooks |
