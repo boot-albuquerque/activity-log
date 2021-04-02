@@ -6279,3 +6279,4 @@
 | 2021-04-02 09:37 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2021-04-02 12:25 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | chore: add pre-commit hooks |
 | 2021-04-02 13:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | perf: implement response compression |
+| 2021-04-02 13:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: correct cache invalidation logic |
