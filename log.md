@@ -6283,3 +6283,4 @@
 | 2021-04-02 13:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | feat: create order processing service |
 | 2021-04-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | feat: add OpenAPI documentation |
 | 2021-04-02 15:15 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add audit log trail |
+| 2021-04-02 16:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | fix: correct null check in user service |
