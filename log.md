@@ -6281,3 +6281,4 @@
 | 2021-04-02 13:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | perf: implement response compression |
 | 2021-04-02 13:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: correct cache invalidation logic |
 | 2021-04-02 13:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | feat: create order processing service |
+| 2021-04-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | feat: add OpenAPI documentation |
