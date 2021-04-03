@@ -6284,3 +6284,4 @@
 | 2021-04-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | feat: add OpenAPI documentation |
 | 2021-04-02 15:15 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add audit log trail |
 | 2021-04-02 16:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | fix: correct null check in user service |
+| 2021-04-02 22:07 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | infra: add Kubernetes manifests |
