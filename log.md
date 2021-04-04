@@ -6288,3 +6288,4 @@
 | 2021-04-04 07:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | infra: update Terraform modules |
 | 2021-04-04 09:50 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | feat: implement soft delete pattern |
 | 2021-04-04 09:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | perf: optimize database queries |
+| 2021-04-04 15:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | ci: add automated deployment pipeline |
