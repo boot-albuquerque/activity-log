@@ -6287,3 +6287,4 @@
 | 2021-04-02 22:07 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2021-04-04 07:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | infra: update Terraform modules |
 | 2021-04-04 09:50 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | feat: implement soft delete pattern |
+| 2021-04-04 09:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | perf: optimize database queries |
