@@ -6293,3 +6293,4 @@
 | 2021-04-05 13:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2021-04-05 13:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | feat: add search with filters |
 | 2021-04-05 14:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | perf: add database indexes |
+| 2021-04-05 17:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | docs: document environment variables |
