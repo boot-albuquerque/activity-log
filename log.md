@@ -6290,3 +6290,4 @@
 | 2021-04-04 09:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | perf: optimize database queries |
 | 2021-04-04 15:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | ci: add automated deployment pipeline |
 | 2021-04-05 09:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | docs: document environment variables |
+| 2021-04-05 13:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
