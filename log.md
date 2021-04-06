@@ -6301,3 +6301,4 @@
 | 2021-04-06 10:09 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: implement soft delete pattern |
 | 2021-04-06 10:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: resolve race condition in queue worker |
 | 2021-04-06 12:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | feat: add OpenAPI documentation |
+| 2021-04-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | chore: update dependencies |
