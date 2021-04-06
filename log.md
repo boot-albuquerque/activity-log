@@ -6303,3 +6303,4 @@
 | 2021-04-06 12:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2021-04-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | chore: update dependencies |
 | 2021-04-06 17:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: fix flaky test in async handler |
+| 2021-04-06 17:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: handle empty response from external API |
