@@ -6298,3 +6298,4 @@
 | 2021-04-05 18:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2021-04-06 09:17 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: add OpenAPI documentation |
 | 2021-04-06 09:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | style: fix indentation and whitespace |
+| 2021-04-06 10:09 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: implement soft delete pattern |
