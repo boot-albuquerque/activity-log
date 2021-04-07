@@ -6308,3 +6308,4 @@
 | 2021-04-07 14:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2021-04-07 14:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | db: optimize slow queries |
 | 2021-04-07 16:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2021-04-07 17:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: resolve deadlock in transaction |
