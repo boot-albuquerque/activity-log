@@ -6305,3 +6305,4 @@
 | 2021-04-06 17:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: fix flaky test in async handler |
 | 2021-04-06 17:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2021-04-07 07:52 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | test: improve test coverage to 80% |
+| 2021-04-07 14:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement rate limiting middleware |
