@@ -6307,3 +6307,4 @@
 | 2021-04-07 07:52 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | test: improve test coverage to 80% |
 | 2021-04-07 14:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2021-04-07 14:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | db: optimize slow queries |
+| 2021-04-07 16:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
