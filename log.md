@@ -6324,3 +6324,4 @@
 | 2021-04-09 11:26 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | db: add migration for new schema |
 | 2021-04-09 12:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2021-04-09 15:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | infra: configure auto-scaling policies |
+| 2021-04-09 16:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: implement caching layer |
