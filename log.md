@@ -6326,3 +6326,4 @@
 | 2021-04-09 15:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | infra: configure auto-scaling policies |
 | 2021-04-09 16:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: implement caching layer |
 | 2021-04-09 18:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | chore: add pre-commit hooks |
+| 2021-04-09 22:47 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
