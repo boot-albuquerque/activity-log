@@ -6331,3 +6331,4 @@
 | 2021-04-12 13:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: improve test coverage to 80% |
 | 2021-04-12 13:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: configure ESLint and Prettier |
 | 2021-04-12 13:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add OpenAPI documentation |
+| 2021-04-12 13:30 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
