@@ -6328,3 +6328,4 @@
 | 2021-04-09 18:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | chore: add pre-commit hooks |
 | 2021-04-09 22:47 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
 | 2021-04-12 12:12 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | security: fix SQL injection vulnerability |
+| 2021-04-12 13:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: improve test coverage to 80% |
