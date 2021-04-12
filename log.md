@@ -6335,3 +6335,4 @@
 | 2021-04-12 14:50 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2021-04-12 16:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | feat: implement JWT refresh token |
 | 2021-04-12 18:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | refactor: move constants to config module |
+| 2021-04-12 18:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | refactor: reduce cyclomatic complexity |
