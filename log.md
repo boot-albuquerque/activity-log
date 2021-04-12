@@ -6332,3 +6332,4 @@
 | 2021-04-12 13:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: configure ESLint and Prettier |
 | 2021-04-12 13:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: add OpenAPI documentation |
 | 2021-04-12 13:30 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
+| 2021-04-12 14:50 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: add pagination to list endpoint |
