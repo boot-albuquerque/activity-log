@@ -6337,3 +6337,4 @@
 | 2021-04-12 18:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | refactor: move constants to config module |
 | 2021-04-12 18:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | refactor: reduce cyclomatic complexity |
 | 2021-04-12 20:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | test: add performance benchmark tests |
+| 2021-04-12 22:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | refactor: split large controller into smaller ones |
