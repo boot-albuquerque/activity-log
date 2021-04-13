@@ -6341,3 +6341,4 @@
 | 2021-04-12 23:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | db: add migration for new schema |
 | 2021-04-13 07:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | refactor: consolidate error handling |
 | 2021-04-13 08:42 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | refactor: move constants to config module |
+| 2021-04-13 11:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: create dashboard metrics endpoint |
