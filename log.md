@@ -6344,3 +6344,4 @@
 | 2021-04-13 11:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: create dashboard metrics endpoint |
 | 2021-04-13 12:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2021-04-13 12:49 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | chore: add pre-commit hooks |
+| 2021-04-13 12:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: add pagination to list endpoint |
