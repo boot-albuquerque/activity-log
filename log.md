@@ -6339,3 +6339,4 @@
 | 2021-04-12 20:15 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | test: add performance benchmark tests |
 | 2021-04-12 22:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | refactor: split large controller into smaller ones |
 | 2021-04-12 23:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | db: add migration for new schema |
+| 2021-04-13 07:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | refactor: consolidate error handling |
