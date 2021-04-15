@@ -6352,3 +6352,4 @@
 | 2021-04-15 09:59 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | docs: update API documentation |
 | 2021-04-15 12:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: extract business logic to service layer |
 | 2021-04-15 13:13 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | feat: implement rate limiting middleware |
+| 2021-04-15 17:26 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | test: add unit tests for payment service |
