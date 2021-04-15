@@ -6347,3 +6347,4 @@
 | 2021-04-13 12:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | feat: add pagination to list endpoint |
 | 2021-04-13 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | feat: create health check endpoint |
 | 2021-04-14 14:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: create health check endpoint |
+| 2021-04-15 08:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | test: add performance benchmark tests |
