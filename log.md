@@ -6356,3 +6356,4 @@
 | 2021-04-15 18:11 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: add Docker Compose for local dev |
 | 2021-04-15 21:52 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: create order processing service |
 | 2021-04-15 21:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | perf: implement response compression |
+| 2021-04-15 22:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | feat: add email notification on status change |
