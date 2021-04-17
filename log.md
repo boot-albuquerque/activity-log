@@ -6358,3 +6358,4 @@
 | 2021-04-15 21:59 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | perf: implement response compression |
 | 2021-04-15 22:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | feat: add email notification on status change |
 | 2021-04-17 08:09 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | feat: create health check endpoint |
+| 2021-04-17 10:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | test: mock external dependencies in tests |
