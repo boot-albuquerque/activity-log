@@ -6365,3 +6365,4 @@
 | 2021-04-20 00:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2021-04-20 07:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | infra: add Kubernetes manifests |
 | 2021-04-20 11:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: add database indexes |
+| 2021-04-20 14:05 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | security: add input sanitization |
