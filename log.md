@@ -6366,3 +6366,4 @@
 | 2021-04-20 07:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | infra: add Kubernetes manifests |
 | 2021-04-20 11:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: add database indexes |
 | 2021-04-20 14:05 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | security: add input sanitization |
+| 2021-04-20 15:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | perf: optimize database queries |
