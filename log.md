@@ -6370,3 +6370,4 @@
 | 2021-04-20 16:11 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | fix: handle empty response from external API |
 | 2021-04-20 16:49 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add export to CSV/Excel |
 | 2021-04-20 17:53 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: create health check endpoint |
+| 2021-04-20 19:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | feat: add export to CSV/Excel |
