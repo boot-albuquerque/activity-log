@@ -6373,3 +6373,4 @@
 | 2021-04-20 19:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | feat: add export to CSV/Excel |
 | 2021-04-20 19:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
 | 2021-04-20 22:09 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
+| 2021-04-22 16:11 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/typo-response` | chore: configure ESLint and Prettier |
