@@ -6377,3 +6377,4 @@
 | 2021-04-23 10:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | security: add input sanitization |
 | 2021-04-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | feat: create background job processor |
 | 2021-04-23 14:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | infra: update Terraform modules |
+| 2021-04-23 19:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | fix: correct pagination offset calculation |
