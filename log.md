@@ -6378,3 +6378,4 @@
 | 2021-04-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | feat: create background job processor |
 | 2021-04-23 14:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2021-04-23 19:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | fix: correct pagination offset calculation |
+| 2021-04-23 23:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | test: add unit tests for payment service |
