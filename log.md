@@ -6381,3 +6381,4 @@
 | 2021-04-23 23:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | test: add unit tests for payment service |
 | 2021-04-25 13:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add search with filters |
 | 2021-04-26 10:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | perf: add database indexes |
+| 2021-04-26 11:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | test: add performance benchmark tests |
