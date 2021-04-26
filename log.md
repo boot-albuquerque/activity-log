@@ -6384,3 +6384,4 @@
 | 2021-04-26 11:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | test: add performance benchmark tests |
 | 2021-04-26 12:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | docs: add README setup instructions |
 | 2021-04-26 14:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | test: add e2e tests for checkout flow |
+| 2021-04-26 15:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | refactor: extract business logic to service layer |
