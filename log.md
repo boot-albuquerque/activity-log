@@ -6382,3 +6382,4 @@
 | 2021-04-25 13:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | feat: add search with filters |
 | 2021-04-26 10:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | perf: add database indexes |
 | 2021-04-26 11:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | test: add performance benchmark tests |
+| 2021-04-26 12:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | docs: add README setup instructions |
