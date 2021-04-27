@@ -6400,3 +6400,4 @@
 | 2021-04-27 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: correct validation error messages |
 | 2021-04-27 15:24 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | db: add migration for new schema |
 | 2021-04-27 16:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: move constants to config module |
+| 2021-04-27 18:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | security: add input sanitization |
