@@ -6396,3 +6396,4 @@
 | 2021-04-27 12:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | feat: create order processing service |
 | 2021-04-27 13:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | db: add migration for new schema |
 | 2021-04-27 13:17 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | docs: add README setup instructions |
+| 2021-04-27 13:36 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | chore: update dependencies |
