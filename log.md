@@ -6390,3 +6390,4 @@
 | 2021-04-26 22:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: handle edge case in date parsing |
 | 2021-04-27 09:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | fix: resolve memory leak in connection pool |
 | 2021-04-27 09:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | docs: document environment variables |
+| 2021-04-27 09:49 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | security: add input sanitization |
