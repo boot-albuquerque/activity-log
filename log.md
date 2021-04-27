@@ -6388,3 +6388,4 @@
 | 2021-04-26 19:41 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2021-04-26 21:15 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | fix: correct cache invalidation logic |
 | 2021-04-26 22:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: handle edge case in date parsing |
+| 2021-04-27 09:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | fix: resolve memory leak in connection pool |
