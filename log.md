@@ -6398,3 +6398,4 @@
 | 2021-04-27 13:17 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | docs: add README setup instructions |
 | 2021-04-27 13:36 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | chore: update dependencies |
 | 2021-04-27 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: correct validation error messages |
+| 2021-04-27 15:24 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | db: add migration for new schema |
