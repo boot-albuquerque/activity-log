@@ -6402,3 +6402,4 @@
 | 2021-04-27 16:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: move constants to config module |
 | 2021-04-27 18:27 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | security: add input sanitization |
 | 2021-04-27 19:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | test: improve test coverage to 80% |
+| 2021-04-27 23:42 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | fix: resolve race condition in queue worker |
