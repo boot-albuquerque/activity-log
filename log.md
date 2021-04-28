@@ -6408,3 +6408,4 @@
 | 2021-04-28 10:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | db: add composite index |
 | 2021-04-28 11:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: create admin management interface |
 | 2021-04-28 18:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | test: add e2e tests for checkout flow |
+| 2021-04-28 19:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add email notification on status change |
