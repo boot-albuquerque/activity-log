@@ -6413,3 +6413,4 @@
 | 2021-04-28 20:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: handle missing environment variable |
 | 2021-04-29 00:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: add search with filters |
 | 2021-04-29 00:36 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | db: add composite index |
+| 2021-04-29 10:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: implement JWT refresh token |
