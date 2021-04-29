@@ -6411,3 +6411,4 @@
 | 2021-04-28 19:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add email notification on status change |
 | 2021-04-28 20:17 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | feat: add email notification on status change |
 | 2021-04-28 20:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: handle missing environment variable |
+| 2021-04-29 00:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: add search with filters |
