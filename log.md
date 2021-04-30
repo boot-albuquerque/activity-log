@@ -6418,3 +6418,4 @@
 | 2021-04-29 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | perf: reduce bundle size |
 | 2021-04-29 21:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | test: fix flaky test in async handler |
 | 2021-04-30 00:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | refactor: move constants to config module |
+| 2021-04-30 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | test: mock external dependencies in tests |
