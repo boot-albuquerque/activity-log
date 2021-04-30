@@ -6416,3 +6416,4 @@
 | 2021-04-29 10:44 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: implement JWT refresh token |
 | 2021-04-29 11:37 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: clean up unused imports |
 | 2021-04-29 13:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | perf: reduce bundle size |
+| 2021-04-29 21:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | test: fix flaky test in async handler |
