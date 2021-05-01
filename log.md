@@ -6423,3 +6423,4 @@
 | 2021-04-30 16:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | security: add input sanitization |
 | 2021-04-30 17:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2021-04-30 18:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | chore: configure GitHub Actions CI |
+| 2021-04-30 22:39 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | db: add migration for new schema |
