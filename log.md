@@ -6427,3 +6427,4 @@
 | 2021-05-02 07:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2021-05-02 10:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | db: add migration for new schema |
 | 2021-05-02 15:08 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: create dashboard metrics endpoint |
+| 2021-05-02 18:13 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | feat: add audit log trail |
