@@ -6424,3 +6424,4 @@
 | 2021-04-30 17:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2021-04-30 18:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2021-04-30 22:39 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | db: add migration for new schema |
+| 2021-05-02 07:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: correct null check in user service |
