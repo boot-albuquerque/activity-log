@@ -6439,3 +6439,4 @@
 | 2021-05-04 13:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
 | 2021-05-04 14:19 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
 | 2021-05-04 18:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | test: fix flaky test in async handler |
+| 2021-05-04 20:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: implement soft delete pattern |
