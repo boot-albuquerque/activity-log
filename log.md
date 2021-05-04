@@ -6436,3 +6436,4 @@
 | 2021-05-04 11:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2021-05-04 11:40 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | test: fix flaky test in async handler |
 | 2021-05-04 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement caching layer |
+| 2021-05-04 13:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: resolve race condition in queue worker |
