@@ -6432,3 +6432,4 @@
 | 2021-05-04 00:35 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2021-05-04 07:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | fix: handle timeout in async operation |
 | 2021-05-04 09:49 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: handle timeout in async operation |
+| 2021-05-04 10:39 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
