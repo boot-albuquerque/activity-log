@@ -6429,3 +6429,4 @@
 | 2021-05-02 15:08 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: create dashboard metrics endpoint |
 | 2021-05-02 18:13 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | feat: add audit log trail |
 | 2021-05-02 21:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | feat: implement rate limiting middleware |
+| 2021-05-04 00:35 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
