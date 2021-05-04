@@ -6435,3 +6435,4 @@
 | 2021-05-04 10:39 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
 | 2021-05-04 11:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2021-05-04 11:40 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | test: fix flaky test in async handler |
+| 2021-05-04 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement caching layer |
