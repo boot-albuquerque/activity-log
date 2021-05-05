@@ -6449,3 +6449,4 @@
 | 2021-05-05 13:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: correct decimal precision in billing |
 | 2021-05-05 14:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add pagination to list endpoint |
 | 2021-05-05 14:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | test: add performance benchmark tests |
+| 2021-05-05 15:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | fix: resolve N+1 query problem |
