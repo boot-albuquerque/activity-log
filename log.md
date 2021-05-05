@@ -6447,3 +6447,4 @@
 | 2021-05-05 08:50 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2021-05-05 12:02 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | feat: implement caching layer |
 | 2021-05-05 13:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: correct decimal precision in billing |
+| 2021-05-05 14:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add pagination to list endpoint |
