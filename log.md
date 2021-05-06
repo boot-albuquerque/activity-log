@@ -6454,3 +6454,4 @@
 | 2021-05-05 20:03 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2021-05-05 21:41 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | docs: update API documentation |
 | 2021-05-05 23:10 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: create health check endpoint |
+| 2021-05-06 09:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | ci: configure staging environment |
