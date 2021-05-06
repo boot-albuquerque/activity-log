@@ -6459,3 +6459,4 @@
 | 2021-05-06 12:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2021-05-06 12:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: correct null check in user service |
 | 2021-05-06 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: add OpenAPI documentation |
+| 2021-05-06 16:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add integration tests for API endpoints |
