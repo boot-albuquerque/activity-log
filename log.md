@@ -6461,3 +6461,4 @@
 | 2021-05-06 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2021-05-06 16:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | test: add integration tests for API endpoints |
 | 2021-05-06 17:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2021-05-06 18:35 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | ci: configure staging environment |
