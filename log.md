@@ -6457,3 +6457,4 @@
 | 2021-05-06 09:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | ci: configure staging environment |
 | 2021-05-06 11:45 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | feat: add file upload support |
 | 2021-05-06 12:23 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2021-05-06 12:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | fix: correct null check in user service |
