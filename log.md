@@ -6465,3 +6465,4 @@
 | 2021-05-06 20:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: implement soft delete pattern |
 | 2021-05-06 21:09 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2021-05-07 10:43 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2021-05-07 11:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: correct cache invalidation logic |
