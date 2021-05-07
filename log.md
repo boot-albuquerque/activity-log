@@ -6463,3 +6463,4 @@
 | 2021-05-06 17:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | test: fix flaky test in async handler |
 | 2021-05-06 18:35 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | ci: configure staging environment |
 | 2021-05-06 20:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: implement soft delete pattern |
+| 2021-05-06 21:09 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | style: fix indentation and whitespace |
