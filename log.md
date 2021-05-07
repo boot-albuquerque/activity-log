@@ -6469,3 +6469,4 @@
 | 2021-05-07 13:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add real-time notifications |
 | 2021-05-07 13:55 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | fix: handle missing environment variable |
 | 2021-05-07 16:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2021-05-07 16:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | feat: implement webhook receiver |
