@@ -6475,3 +6475,4 @@
 | 2021-05-11 00:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | fix: handle edge case in date parsing |
 | 2021-05-11 00:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | feat: add audit log trail |
 | 2021-05-11 00:35 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: handle edge case in date parsing |
+| 2021-05-11 12:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | style: fix indentation and whitespace |
