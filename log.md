@@ -6472,3 +6472,4 @@
 | 2021-05-07 16:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | feat: implement webhook receiver |
 | 2021-05-07 19:37 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | feat: add export to CSV/Excel |
 | 2021-05-07 23:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | feat: create admin management interface |
+| 2021-05-11 00:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | fix: handle edge case in date parsing |
