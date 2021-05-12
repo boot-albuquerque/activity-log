@@ -6479,3 +6479,4 @@
 | 2021-05-11 14:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | fix: correct cache invalidation logic |
 | 2021-05-11 16:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2021-05-11 17:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | fix: correct null check in user service |
+| 2021-05-12 00:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: move constants to config module |
