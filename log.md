@@ -6484,3 +6484,4 @@
 | 2021-05-12 10:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | db: optimize slow queries |
 | 2021-05-12 16:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: handle malformed JSON input |
 | 2021-05-12 17:43 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: resolve memory leak in connection pool |
+| 2021-05-12 17:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | security: update SSL certificates config |
