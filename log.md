@@ -6481,3 +6481,4 @@
 | 2021-05-11 17:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | fix: correct null check in user service |
 | 2021-05-12 00:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: move constants to config module |
 | 2021-05-12 07:54 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | style: fix indentation and whitespace |
+| 2021-05-12 10:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | db: optimize slow queries |
