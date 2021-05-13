@@ -6485,3 +6485,4 @@
 | 2021-05-12 16:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: handle malformed JSON input |
 | 2021-05-12 17:43 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: resolve memory leak in connection pool |
 | 2021-05-12 17:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | security: update SSL certificates config |
+| 2021-05-12 22:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | perf: optimize database queries |
