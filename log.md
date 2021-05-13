@@ -6487,3 +6487,4 @@
 | 2021-05-12 17:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | security: update SSL certificates config |
 | 2021-05-12 22:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | perf: optimize database queries |
 | 2021-05-13 11:43 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | fix: correct pagination offset calculation |
+| 2021-05-13 17:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | fix: correct validation error messages |
