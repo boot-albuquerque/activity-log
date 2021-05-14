@@ -6495,3 +6495,4 @@
 | 2021-05-14 10:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | fix: correct pagination offset calculation |
 | 2021-05-14 11:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2021-05-14 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
+| 2021-05-14 13:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | feat: create order processing service |
