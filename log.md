@@ -6492,3 +6492,4 @@
 | 2021-05-14 08:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | feat: create background job processor |
 | 2021-05-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2021-05-14 10:22 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2021-05-14 10:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | fix: correct pagination offset calculation |
