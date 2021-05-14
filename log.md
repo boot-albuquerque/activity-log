@@ -6494,3 +6494,4 @@
 | 2021-05-14 10:22 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2021-05-14 10:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | fix: correct pagination offset calculation |
 | 2021-05-14 11:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | test: improve test coverage to 80% |
+| 2021-05-14 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
