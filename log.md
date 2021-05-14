@@ -6491,3 +6491,4 @@
 | 2021-05-14 07:05 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | fix: handle missing environment variable |
 | 2021-05-14 08:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | feat: create background job processor |
 | 2021-05-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
+| 2021-05-14 10:22 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | refactor: replace raw SQL with query builder |
