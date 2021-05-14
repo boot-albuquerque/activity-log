@@ -6490,3 +6490,4 @@
 | 2021-05-13 17:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | fix: correct validation error messages |
 | 2021-05-14 07:05 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | fix: handle missing environment variable |
 | 2021-05-14 08:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | feat: create background job processor |
+| 2021-05-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
