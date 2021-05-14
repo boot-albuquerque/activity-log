@@ -6497,3 +6497,4 @@
 | 2021-05-14 12:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
 | 2021-05-14 13:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | feat: create order processing service |
 | 2021-05-14 13:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2021-05-14 14:17 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: resolve race condition in queue worker |
