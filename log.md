@@ -6498,3 +6498,4 @@
 | 2021-05-14 13:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | feat: create order processing service |
 | 2021-05-14 13:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2021-05-14 14:17 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: resolve race condition in queue worker |
+| 2021-05-14 23:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | feat: implement soft delete pattern |
