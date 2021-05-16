@@ -6499,3 +6499,4 @@
 | 2021-05-14 13:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2021-05-14 14:17 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: resolve race condition in queue worker |
 | 2021-05-14 23:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | feat: implement soft delete pattern |
+| 2021-05-16 08:36 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | test: add integration tests for API endpoints |
