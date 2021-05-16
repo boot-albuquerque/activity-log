@@ -6501,3 +6501,4 @@
 | 2021-05-14 23:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | feat: implement soft delete pattern |
 | 2021-05-16 08:36 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | test: add integration tests for API endpoints |
 | 2021-05-16 11:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | perf: add database indexes |
+| 2021-05-16 11:34 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: add integration tests for API endpoints |
