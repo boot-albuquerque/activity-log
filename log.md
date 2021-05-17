@@ -6503,3 +6503,4 @@
 | 2021-05-16 11:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | perf: add database indexes |
 | 2021-05-16 11:34 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | test: add integration tests for API endpoints |
 | 2021-05-16 17:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | chore: configure ESLint and Prettier |
+| 2021-05-17 15:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: implement soft delete pattern |
