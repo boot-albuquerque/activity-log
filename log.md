@@ -6506,3 +6506,4 @@
 | 2021-05-17 15:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: implement soft delete pattern |
 | 2021-05-19 12:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | fix: correct pagination offset calculation |
 | 2021-05-19 12:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: add real-time notifications |
+| 2021-05-19 14:33 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: add real-time notifications |
