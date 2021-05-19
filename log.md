@@ -6508,3 +6508,4 @@
 | 2021-05-19 12:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: add real-time notifications |
 | 2021-05-19 14:33 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | feat: add real-time notifications |
 | 2021-05-19 16:18 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: resolve race condition in queue worker |
+| 2021-05-19 16:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: move constants to config module |
