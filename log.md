@@ -6516,3 +6516,4 @@
 | 2021-05-19 20:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | perf: add database indexes |
 | 2021-05-20 09:55 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | fix: resolve memory leak in connection pool |
 | 2021-05-20 09:56 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: create dashboard metrics endpoint |
+| 2021-05-20 10:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle empty response from external API |
