@@ -6519,3 +6519,4 @@
 | 2021-05-20 10:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2021-05-20 15:12 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | ci: configure staging environment |
 | 2021-05-20 15:33 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | ci: configure staging environment |
+| 2021-05-20 22:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | feat: add export to CSV/Excel |
