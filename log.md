@@ -6531,3 +6531,4 @@
 | 2021-05-24 15:27 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | docs: update API documentation |
 | 2021-05-24 15:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add file upload support |
 | 2021-05-24 17:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | refactor: split large controller into smaller ones |
+| 2021-05-24 18:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: add pagination to list endpoint |
