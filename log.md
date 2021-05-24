@@ -6527,3 +6527,4 @@
 | 2021-05-24 07:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2021-05-24 11:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | security: add input sanitization |
 | 2021-05-24 11:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | ci: configure staging environment |
+| 2021-05-24 14:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: handle timeout in async operation |
