@@ -6526,3 +6526,4 @@
 | 2021-05-21 20:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | test: mock external dependencies in tests |
 | 2021-05-24 07:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2021-05-24 11:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | security: add input sanitization |
+| 2021-05-24 11:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | ci: configure staging environment |
