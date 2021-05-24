@@ -6524,3 +6524,4 @@
 | 2021-05-21 15:00 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | infra: update Terraform modules |
 | 2021-05-21 15:10 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | feat: create dashboard metrics endpoint |
 | 2021-05-21 20:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | test: mock external dependencies in tests |
+| 2021-05-24 07:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | fix: correct null check in user service |
