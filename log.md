@@ -6528,3 +6528,4 @@
 | 2021-05-24 11:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | security: add input sanitization |
 | 2021-05-24 11:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | ci: configure staging environment |
 | 2021-05-24 14:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: handle timeout in async operation |
+| 2021-05-24 15:27 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | docs: update API documentation |
