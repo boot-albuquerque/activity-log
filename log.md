@@ -6535,3 +6535,4 @@
 | 2021-05-24 20:26 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2021-05-24 21:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: implement rate limiting middleware |
 | 2021-05-25 00:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | feat: add pagination to list endpoint |
+| 2021-05-25 14:40 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | feat: create background job processor |
