@@ -6537,3 +6537,4 @@
 | 2021-05-25 00:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | feat: add pagination to list endpoint |
 | 2021-05-25 14:40 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | feat: create background job processor |
 | 2021-05-25 15:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | test: improve test coverage to 80% |
+| 2021-05-25 16:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | test: add performance benchmark tests |
