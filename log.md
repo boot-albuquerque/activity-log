@@ -6539,3 +6539,4 @@
 | 2021-05-25 15:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | test: improve test coverage to 80% |
 | 2021-05-25 16:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | test: add performance benchmark tests |
 | 2021-05-25 19:39 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
+| 2021-05-25 20:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | db: add migration for new schema |
