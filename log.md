@@ -6541,3 +6541,4 @@
 | 2021-05-25 19:39 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2021-05-25 20:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | db: add migration for new schema |
 | 2021-05-25 21:52 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | feat: implement caching layer |
+| 2021-05-25 22:44 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | fix: correct validation error messages |
