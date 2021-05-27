@@ -6544,3 +6544,4 @@
 | 2021-05-25 22:44 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | fix: correct validation error messages |
 | 2021-05-26 12:32 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2021-05-27 00:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: correct null check in user service |
+| 2021-05-27 09:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: add pre-commit hooks |
