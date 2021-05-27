@@ -6551,3 +6551,4 @@
 | 2021-05-27 12:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | ci: add automated deployment pipeline |
 | 2021-05-27 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2021-05-27 14:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: handle timeout in async operation |
+| 2021-05-27 15:25 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | ci: configure staging environment |
