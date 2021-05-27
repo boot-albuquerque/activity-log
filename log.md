@@ -6550,3 +6550,4 @@
 | 2021-05-27 12:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | ci: configure staging environment |
 | 2021-05-27 12:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | ci: add automated deployment pipeline |
 | 2021-05-27 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add unit tests for payment service |
+| 2021-05-27 14:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: handle timeout in async operation |
