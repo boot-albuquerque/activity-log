@@ -6549,3 +6549,4 @@
 | 2021-05-27 12:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | security: add input sanitization |
 | 2021-05-27 12:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | ci: configure staging environment |
 | 2021-05-27 12:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | ci: add automated deployment pipeline |
+| 2021-05-27 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | test: add unit tests for payment service |
