@@ -6558,3 +6558,4 @@
 | 2021-05-27 16:42 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | infra: add Kubernetes manifests |
 | 2021-05-27 17:32 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | security: fix SQL injection vulnerability |
 | 2021-05-27 19:47 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | fix: resolve deadlock in transaction |
+| 2021-05-27 19:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | feat: implement soft delete pattern |
