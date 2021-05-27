@@ -6548,3 +6548,4 @@
 | 2021-05-27 11:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2021-05-27 12:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | security: add input sanitization |
 | 2021-05-27 12:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | ci: configure staging environment |
+| 2021-05-27 12:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | ci: add automated deployment pipeline |
