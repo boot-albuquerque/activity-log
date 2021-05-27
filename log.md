@@ -6547,3 +6547,4 @@
 | 2021-05-27 09:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: add pre-commit hooks |
 | 2021-05-27 11:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2021-05-27 12:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | security: add input sanitization |
+| 2021-05-27 12:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | ci: configure staging environment |
