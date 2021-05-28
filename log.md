@@ -6564,3 +6564,4 @@
 | 2021-05-28 08:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2021-05-28 10:28 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | ci: configure staging environment |
 | 2021-05-28 13:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | chore: configure ESLint and Prettier |
+| 2021-05-28 16:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | feat: add search with filters |
