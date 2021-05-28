@@ -6561,3 +6561,4 @@
 | 2021-05-27 19:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | feat: implement soft delete pattern |
 | 2021-05-27 20:33 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | chore: update dependencies |
 | 2021-05-27 21:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | feat: implement JWT refresh token |
+| 2021-05-28 08:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | fix: resolve race condition in queue worker |
