@@ -6568,3 +6568,4 @@
 | 2021-05-28 18:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: document environment variables |
 | 2021-05-28 22:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create health check endpoint |
 | 2021-05-29 08:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | feat: create health check endpoint |
+| 2021-05-29 15:10 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: handle malformed JSON input |
