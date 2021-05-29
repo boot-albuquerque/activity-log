@@ -6566,3 +6566,4 @@
 | 2021-05-28 13:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | chore: configure ESLint and Prettier |
 | 2021-05-28 16:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | feat: add search with filters |
 | 2021-05-28 18:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: document environment variables |
+| 2021-05-28 22:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create health check endpoint |
