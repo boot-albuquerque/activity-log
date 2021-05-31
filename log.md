@@ -6572,3 +6572,4 @@
 | 2021-05-30 16:02 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2021-05-30 22:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | test: add performance benchmark tests |
 | 2021-05-31 10:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: implement JWT refresh token |
+| 2021-05-31 19:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
