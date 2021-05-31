@@ -6571,3 +6571,4 @@
 | 2021-05-29 15:10 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: handle malformed JSON input |
 | 2021-05-30 16:02 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2021-05-30 22:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | test: add performance benchmark tests |
+| 2021-05-31 10:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: implement JWT refresh token |
