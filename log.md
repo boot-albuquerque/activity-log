@@ -6570,3 +6570,4 @@
 | 2021-05-29 08:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | feat: create health check endpoint |
 | 2021-05-29 15:10 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: handle malformed JSON input |
 | 2021-05-30 16:02 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
+| 2021-05-30 22:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | test: add performance benchmark tests |
