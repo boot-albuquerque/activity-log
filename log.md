@@ -6575,3 +6575,4 @@
 | 2021-05-31 19:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2021-05-31 20:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
 | 2021-05-31 21:08 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: resolve deadlock in transaction |
+| 2021-05-31 23:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | docs: document environment variables |
