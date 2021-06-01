@@ -6576,3 +6576,4 @@
 | 2021-05-31 20:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
 | 2021-05-31 21:08 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: resolve deadlock in transaction |
 | 2021-05-31 23:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | docs: document environment variables |
+| 2021-06-01 12:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | refactor: adopt repository pattern |
