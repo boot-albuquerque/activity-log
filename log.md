@@ -6587,3 +6587,4 @@
 | 2021-06-02 14:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
 | 2021-06-02 15:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | fix: handle malformed JSON input |
 | 2021-06-02 15:34 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | test: cover edge cases in validator |
+| 2021-06-02 16:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | test: add unit tests for payment service |
