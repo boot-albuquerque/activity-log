@@ -6584,3 +6584,4 @@
 | 2021-06-02 10:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: add search with filters |
 | 2021-06-02 10:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: add search with filters |
 | 2021-06-02 13:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | security: fix SQL injection vulnerability |
+| 2021-06-02 14:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
