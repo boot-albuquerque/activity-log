@@ -6581,3 +6581,4 @@
 | 2021-06-01 17:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2021-06-01 20:52 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | fix: handle missing environment variable |
 | 2021-06-01 22:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | fix: correct pagination offset calculation |
+| 2021-06-02 10:32 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | feat: add search with filters |
