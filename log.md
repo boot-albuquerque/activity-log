@@ -6589,3 +6589,4 @@
 | 2021-06-02 15:34 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | test: cover edge cases in validator |
 | 2021-06-02 16:35 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | test: add unit tests for payment service |
 | 2021-06-02 18:20 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | refactor: consolidate error handling |
+| 2021-06-02 23:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
