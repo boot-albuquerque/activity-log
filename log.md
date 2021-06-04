@@ -6592,3 +6592,4 @@
 | 2021-06-02 23:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2021-06-02 23:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: create health check endpoint |
 | 2021-06-02 23:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | refactor: consolidate error handling |
+| 2021-06-04 08:14 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: resolve CORS configuration |
