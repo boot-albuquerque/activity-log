@@ -6596,3 +6596,4 @@
 | 2021-06-04 11:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | perf: implement response compression |
 | 2021-06-04 12:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2021-06-04 14:55 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | docs: add README setup instructions |
+| 2021-06-04 17:36 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
