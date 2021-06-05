@@ -6597,3 +6597,4 @@
 | 2021-06-04 12:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2021-06-04 14:55 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2021-06-04 17:36 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
+| 2021-06-05 20:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | docs: document environment variables |
