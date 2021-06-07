@@ -6603,3 +6603,4 @@
 | 2021-06-07 14:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | test: improve test coverage to 80% |
 | 2021-06-07 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2021-06-07 17:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: move constants to config module |
+| 2021-06-07 18:30 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | test: mock external dependencies in tests |
