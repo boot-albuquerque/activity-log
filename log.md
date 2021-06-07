@@ -6601,3 +6601,4 @@
 | 2021-06-07 09:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2021-06-07 13:43 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | docs: document environment variables |
 | 2021-06-07 14:19 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | test: improve test coverage to 80% |
+| 2021-06-07 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | test: mock external dependencies in tests |
