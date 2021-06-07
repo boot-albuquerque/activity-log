@@ -6599,3 +6599,4 @@
 | 2021-06-04 17:36 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
 | 2021-06-05 20:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | docs: document environment variables |
 | 2021-06-07 09:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | test: improve test coverage to 80% |
+| 2021-06-07 13:43 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | docs: document environment variables |
