@@ -6604,3 +6604,4 @@
 | 2021-06-07 15:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2021-06-07 17:20 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: move constants to config module |
 | 2021-06-07 18:30 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | test: mock external dependencies in tests |
+| 2021-06-07 20:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | security: add input sanitization |
