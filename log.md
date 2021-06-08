@@ -6608,3 +6608,4 @@
 | 2021-06-07 20:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2021-06-08 08:37 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | perf: implement response compression |
 | 2021-06-08 10:18 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | security: update SSL certificates config |
+| 2021-06-08 10:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
