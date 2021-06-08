@@ -6611,3 +6611,4 @@
 | 2021-06-08 10:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
 | 2021-06-08 14:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2021-06-08 16:27 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | style: format code according to style guide |
+| 2021-06-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | db: add migration for new schema |
