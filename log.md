@@ -6609,3 +6609,4 @@
 | 2021-06-08 08:37 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | perf: implement response compression |
 | 2021-06-08 10:18 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | security: update SSL certificates config |
 | 2021-06-08 10:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
+| 2021-06-08 14:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
