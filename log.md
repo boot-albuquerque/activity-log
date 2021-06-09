@@ -6614,3 +6614,4 @@
 | 2021-06-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2021-06-08 17:18 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | perf: implement response compression |
 | 2021-06-08 20:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add audit log trail |
+| 2021-06-09 09:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | security: add input sanitization |
