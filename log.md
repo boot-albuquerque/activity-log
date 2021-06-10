@@ -6619,3 +6619,4 @@
 | 2021-06-10 16:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | perf: implement response compression |
 | 2021-06-10 18:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2021-06-10 19:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve N+1 query problem |
+| 2021-06-10 20:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct validation error messages |
