@@ -6616,3 +6616,4 @@
 | 2021-06-08 20:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2021-06-09 09:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | security: add input sanitization |
 | 2021-06-09 20:03 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: implement webhook receiver |
+| 2021-06-10 16:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | perf: implement response compression |
