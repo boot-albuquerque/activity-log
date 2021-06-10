@@ -6617,3 +6617,4 @@
 | 2021-06-09 09:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | security: add input sanitization |
 | 2021-06-09 20:03 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2021-06-10 16:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | perf: implement response compression |
+| 2021-06-10 18:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | feat: implement soft delete pattern |
