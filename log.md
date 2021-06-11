@@ -6626,3 +6626,4 @@
 | 2021-06-11 12:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | test: mock external dependencies in tests |
 | 2021-06-11 13:09 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: create health check endpoint |
 | 2021-06-11 16:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | fix: resolve CORS configuration |
+| 2021-06-11 18:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: add bulk operations support |
