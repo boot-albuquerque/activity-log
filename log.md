@@ -6621,3 +6621,4 @@
 | 2021-06-10 19:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2021-06-10 20:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct validation error messages |
 | 2021-06-10 22:29 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
+| 2021-06-10 23:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | ci: add automated deployment pipeline |
