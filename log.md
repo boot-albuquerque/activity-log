@@ -6628,3 +6628,4 @@
 | 2021-06-11 16:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2021-06-11 18:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: add bulk operations support |
 | 2021-06-11 18:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | ci: add automated deployment pipeline |
+| 2021-06-11 20:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | docs: add README setup instructions |
