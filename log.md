@@ -6624,3 +6624,4 @@
 | 2021-06-10 23:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2021-06-11 10:05 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/extract-service` | refactor: improve code readability |
 | 2021-06-11 12:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | test: mock external dependencies in tests |
+| 2021-06-11 13:09 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: create health check endpoint |
