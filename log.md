@@ -6631,3 +6631,4 @@
 | 2021-06-11 20:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | docs: add README setup instructions |
 | 2021-06-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: improve code readability |
 | 2021-06-11 22:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | fix: handle missing environment variable |
+| 2021-06-11 23:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: implement rate limiting middleware |
