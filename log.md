@@ -6632,3 +6632,4 @@
 | 2021-06-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: improve code readability |
 | 2021-06-11 22:01 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | fix: handle missing environment variable |
 | 2021-06-11 23:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: implement rate limiting middleware |
+| 2021-06-12 08:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | refactor: reduce cyclomatic complexity |
