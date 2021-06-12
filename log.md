@@ -6635,3 +6635,4 @@
 | 2021-06-12 08:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | refactor: reduce cyclomatic complexity |
 | 2021-06-12 12:45 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | style: fix indentation and whitespace |
 | 2021-06-12 15:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | test: add performance benchmark tests |
+| 2021-06-12 20:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: add bulk operations support |
