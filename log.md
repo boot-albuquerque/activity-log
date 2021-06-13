@@ -6638,3 +6638,4 @@
 | 2021-06-12 20:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: add bulk operations support |
 | 2021-06-13 09:40 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/refactor-queries` | feat: create admin management interface |
 | 2021-06-13 11:22 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
+| 2021-06-13 15:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: resolve CORS configuration |
