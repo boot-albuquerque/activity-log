@@ -6642,3 +6642,4 @@
 | 2021-06-13 16:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | infra: update Terraform modules |
 | 2021-06-13 19:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: clean up unused imports |
 | 2021-06-14 00:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | fix: handle missing environment variable |
+| 2021-06-14 12:25 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | perf: implement response compression |
