@@ -6652,3 +6652,4 @@
 | 2021-06-15 10:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: resolve N+1 query problem |
 | 2021-06-15 10:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2021-06-15 10:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: update dependencies |
+| 2021-06-15 12:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: resolve deadlock in transaction |
