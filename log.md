@@ -6646,3 +6646,4 @@
 | 2021-06-14 14:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | fix: correct cache invalidation logic |
 | 2021-06-14 17:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: fix flaky test in async handler |
 | 2021-06-14 19:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: implement soft delete pattern |
+| 2021-06-14 21:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | docs: update API documentation |
