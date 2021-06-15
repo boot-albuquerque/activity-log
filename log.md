@@ -6648,3 +6648,4 @@
 | 2021-06-14 19:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: implement soft delete pattern |
 | 2021-06-14 21:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | docs: update API documentation |
 | 2021-06-15 00:02 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | perf: reduce bundle size |
+| 2021-06-15 00:20 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | fix: correct decimal precision in billing |
