@@ -6650,3 +6650,4 @@
 | 2021-06-15 00:02 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | perf: reduce bundle size |
 | 2021-06-15 00:20 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2021-06-15 10:13 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: resolve N+1 query problem |
+| 2021-06-15 10:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | test: fix flaky test in async handler |
