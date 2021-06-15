@@ -6653,3 +6653,4 @@
 | 2021-06-15 10:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2021-06-15 10:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: update dependencies |
 | 2021-06-15 12:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: resolve deadlock in transaction |
+| 2021-06-15 13:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | security: add input sanitization |
