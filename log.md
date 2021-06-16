@@ -6660,3 +6660,4 @@
 | 2021-06-16 15:11 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: correct cache invalidation logic |
 | 2021-06-16 15:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | feat: implement JWT refresh token |
 | 2021-06-16 15:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: add audit log trail |
+| 2021-06-16 18:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | perf: add database indexes |
