@@ -6657,3 +6657,4 @@
 | 2021-06-15 14:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | feat: add user authentication endpoint |
 | 2021-06-16 11:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2021-06-16 14:47 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | docs: add README setup instructions |
+| 2021-06-16 15:11 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | fix: correct cache invalidation logic |
