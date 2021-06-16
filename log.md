@@ -6663,3 +6663,4 @@
 | 2021-06-16 18:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | perf: add database indexes |
 | 2021-06-16 19:35 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | chore: update dependencies |
 | 2021-06-16 19:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | ci: configure staging environment |
+| 2021-06-16 20:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: implement caching layer |
