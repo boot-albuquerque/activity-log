@@ -6655,3 +6655,4 @@
 | 2021-06-15 12:16 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: resolve deadlock in transaction |
 | 2021-06-15 13:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | security: add input sanitization |
 | 2021-06-15 14:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | feat: add user authentication endpoint |
+| 2021-06-16 11:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | fix: resolve N+1 query problem |
