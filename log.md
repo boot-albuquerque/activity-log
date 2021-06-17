@@ -6666,3 +6666,4 @@
 | 2021-06-16 20:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: implement caching layer |
 | 2021-06-16 21:15 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2021-06-16 21:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: add file upload support |
+| 2021-06-16 22:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | fix: correct decimal precision in billing |
