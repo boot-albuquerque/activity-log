@@ -6665,3 +6665,4 @@
 | 2021-06-16 19:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | ci: configure staging environment |
 | 2021-06-16 20:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: implement caching layer |
 | 2021-06-16 21:15 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
+| 2021-06-16 21:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: add file upload support |
