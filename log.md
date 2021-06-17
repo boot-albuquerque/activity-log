@@ -6675,3 +6675,4 @@
 | 2021-06-17 09:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | feat: add real-time notifications |
 | 2021-06-17 10:17 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: implement JWT refresh token |
 | 2021-06-17 10:17 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: resolve N+1 query problem |
+| 2021-06-17 13:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: add export to CSV/Excel |
