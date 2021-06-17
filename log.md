@@ -6668,3 +6668,4 @@
 | 2021-06-16 21:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: add file upload support |
 | 2021-06-16 22:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | fix: correct decimal precision in billing |
 | 2021-06-16 23:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: add email notification on status change |
+| 2021-06-17 08:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | test: add e2e tests for checkout flow |
