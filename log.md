@@ -6670,3 +6670,4 @@
 | 2021-06-16 23:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: add email notification on status change |
 | 2021-06-17 08:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2021-06-17 09:03 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | test: fix flaky test in async handler |
+| 2021-06-17 09:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle edge case in date parsing |
