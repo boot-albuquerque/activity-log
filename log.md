@@ -6680,3 +6680,4 @@
 | 2021-06-17 18:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | refactor: move constants to config module |
 | 2021-06-18 08:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2021-06-18 11:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | test: mock external dependencies in tests |
+| 2021-06-18 13:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | feat: implement caching layer |
