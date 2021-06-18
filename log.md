@@ -6678,3 +6678,4 @@
 | 2021-06-17 13:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2021-06-17 17:53 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | feat: add search with filters |
 | 2021-06-17 18:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | refactor: move constants to config module |
+| 2021-06-18 08:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | refactor: adopt repository pattern |
