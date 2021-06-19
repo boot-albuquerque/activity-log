@@ -6682,3 +6682,4 @@
 | 2021-06-18 11:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | test: mock external dependencies in tests |
 | 2021-06-18 13:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | feat: implement caching layer |
 | 2021-06-18 15:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | test: cover edge cases in validator |
+| 2021-06-19 07:29 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: add email notification on status change |
