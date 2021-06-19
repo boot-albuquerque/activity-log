@@ -6684,3 +6684,4 @@
 | 2021-06-18 15:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | test: cover edge cases in validator |
 | 2021-06-19 07:29 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: add email notification on status change |
 | 2021-06-19 08:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
+| 2021-06-19 08:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: implement soft delete pattern |
