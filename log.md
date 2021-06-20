@@ -6687,3 +6687,4 @@
 | 2021-06-19 08:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: implement soft delete pattern |
 | 2021-06-19 10:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | test: improve test coverage to 80% |
 | 2021-06-19 11:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: add database indexes |
+| 2021-06-20 14:04 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct pagination offset calculation |
