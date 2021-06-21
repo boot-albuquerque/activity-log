@@ -6699,3 +6699,4 @@
 | 2021-06-21 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement soft delete pattern |
 | 2021-06-21 14:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | feat: add audit log trail |
 | 2021-06-21 16:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2021-06-21 18:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: resolve memory leak in connection pool |
