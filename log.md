@@ -6698,3 +6698,4 @@
 | 2021-06-21 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: add email notification on status change |
 | 2021-06-21 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement soft delete pattern |
 | 2021-06-21 14:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | feat: add audit log trail |
+| 2021-06-21 16:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | db: optimize slow queries |
