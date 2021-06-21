@@ -6688,3 +6688,4 @@
 | 2021-06-19 10:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/critical-fix` | test: improve test coverage to 80% |
 | 2021-06-19 11:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | perf: add database indexes |
 | 2021-06-20 14:04 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct pagination offset calculation |
+| 2021-06-21 07:21 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | feat: add OpenAPI documentation |
