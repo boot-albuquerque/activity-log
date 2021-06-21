@@ -6693,3 +6693,4 @@
 | 2021-06-21 10:46 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | security: add input sanitization |
 | 2021-06-21 10:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | infra: configure auto-scaling policies |
 | 2021-06-21 11:09 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | feat: implement caching layer |
+| 2021-06-21 12:26 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | test: add unit tests for payment service |
