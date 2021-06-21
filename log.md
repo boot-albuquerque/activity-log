@@ -6696,3 +6696,4 @@
 | 2021-06-21 12:26 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | test: add unit tests for payment service |
 | 2021-06-21 12:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | refactor: clean up unused imports |
 | 2021-06-21 13:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: add email notification on status change |
+| 2021-06-21 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement soft delete pattern |
