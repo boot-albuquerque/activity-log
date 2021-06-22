@@ -6707,3 +6707,4 @@
 | 2021-06-22 00:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | perf: reduce bundle size |
 | 2021-06-22 09:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | fix: handle empty response from external API |
 | 2021-06-22 10:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add OpenAPI documentation |
+| 2021-06-22 12:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | refactor: split large controller into smaller ones |
