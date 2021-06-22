@@ -6703,3 +6703,4 @@
 | 2021-06-21 19:30 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | ci: configure staging environment |
 | 2021-06-21 20:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: simplify authentication flow |
 | 2021-06-21 21:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | ci: add automated deployment pipeline |
+| 2021-06-21 22:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | docs: document environment variables |
