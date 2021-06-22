@@ -6705,3 +6705,4 @@
 | 2021-06-21 21:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | ci: add automated deployment pipeline |
 | 2021-06-21 22:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | docs: document environment variables |
 | 2021-06-22 00:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | perf: reduce bundle size |
+| 2021-06-22 09:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | fix: handle empty response from external API |
