@@ -6708,3 +6708,4 @@
 | 2021-06-22 09:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | fix: handle empty response from external API |
 | 2021-06-22 10:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add OpenAPI documentation |
 | 2021-06-22 12:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | refactor: split large controller into smaller ones |
+| 2021-06-22 14:39 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | ci: configure staging environment |
