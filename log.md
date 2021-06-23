@@ -6720,3 +6720,4 @@
 | 2021-06-23 13:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: handle empty response from external API |
 | 2021-06-23 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | db: optimize slow queries |
 | 2021-06-23 17:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | db: add migration for new schema |
+| 2021-06-23 18:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
