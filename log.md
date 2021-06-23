@@ -6713,3 +6713,4 @@
 | 2021-06-22 15:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2021-06-22 22:32 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: create health check endpoint |
+| 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add pagination to list endpoint |
