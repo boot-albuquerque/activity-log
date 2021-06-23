@@ -6714,3 +6714,4 @@
 | 2021-06-22 22:32 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: create health check endpoint |
 | 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add pagination to list endpoint |
+| 2021-06-23 10:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | test: add e2e tests for checkout flow |
