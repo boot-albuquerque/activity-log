@@ -6718,3 +6718,4 @@
 | 2021-06-23 11:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | feat: create background job processor |
 | 2021-06-23 12:11 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | feat: implement caching layer |
 | 2021-06-23 13:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: handle empty response from external API |
+| 2021-06-23 14:37 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | db: optimize slow queries |
