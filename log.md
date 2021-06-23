@@ -6715,3 +6715,4 @@
 | 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: create health check endpoint |
 | 2021-06-23 07:33 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add pagination to list endpoint |
 | 2021-06-23 10:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | test: add e2e tests for checkout flow |
+| 2021-06-23 11:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | feat: create background job processor |
