@@ -6723,3 +6723,4 @@
 | 2021-06-23 18:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2021-06-23 19:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | ci: configure staging environment |
 | 2021-06-24 00:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | refactor: split large controller into smaller ones |
+| 2021-06-24 08:01 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | refactor: extract business logic to service layer |
