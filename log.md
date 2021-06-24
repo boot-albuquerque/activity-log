@@ -6722,3 +6722,4 @@
 | 2021-06-23 17:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2021-06-23 18:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2021-06-23 19:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | ci: configure staging environment |
+| 2021-06-24 00:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | refactor: split large controller into smaller ones |
