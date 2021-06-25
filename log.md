@@ -6739,3 +6739,4 @@
 | 2021-06-25 00:09 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add OpenAPI documentation |
 | 2021-06-25 09:39 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | perf: implement response compression |
 | 2021-06-25 10:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: create admin management interface |
+| 2021-06-25 10:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | fix: handle edge case in date parsing |
