@@ -6743,3 +6743,4 @@
 | 2021-06-25 10:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | infra: update Terraform modules |
 | 2021-06-25 10:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | chore: upgrade to latest Node.js LTS |
 | 2021-06-25 12:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: create admin management interface |
+| 2021-06-25 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve deadlock in transaction |
