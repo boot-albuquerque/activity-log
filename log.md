@@ -6750,3 +6750,4 @@
 | 2021-06-25 16:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2021-06-25 16:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2021-06-25 17:04 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
+| 2021-06-25 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: update dependencies |
