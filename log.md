@@ -6747,3 +6747,4 @@
 | 2021-06-25 14:50 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | test: add integration tests for API endpoints |
 | 2021-06-25 15:21 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2021-06-25 15:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | refactor: split large controller into smaller ones |
+| 2021-06-25 16:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | fix: resolve deadlock in transaction |
