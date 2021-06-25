@@ -6733,3 +6733,4 @@
 | 2021-06-24 19:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add export to CSV/Excel |
 | 2021-06-24 19:42 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | feat: implement caching layer |
 | 2021-06-24 22:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
+| 2021-06-24 23:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | ci: configure staging environment |
