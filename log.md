@@ -6749,3 +6749,4 @@
 | 2021-06-25 15:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | refactor: split large controller into smaller ones |
 | 2021-06-25 16:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2021-06-25 16:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: implement rate limiting middleware |
+| 2021-06-25 17:04 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
