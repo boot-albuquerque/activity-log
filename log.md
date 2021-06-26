@@ -6751,3 +6751,4 @@
 | 2021-06-25 16:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2021-06-25 17:04 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2021-06-25 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: update dependencies |
+| 2021-06-26 00:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: add user authentication endpoint |
