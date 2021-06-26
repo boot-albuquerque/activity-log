@@ -6752,3 +6752,4 @@
 | 2021-06-25 17:04 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2021-06-25 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: update dependencies |
 | 2021-06-26 00:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: add user authentication endpoint |
+| 2021-06-26 13:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | fix: correct validation error messages |
