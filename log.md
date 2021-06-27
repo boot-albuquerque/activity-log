@@ -6754,3 +6754,4 @@
 | 2021-06-26 00:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2021-06-26 13:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | fix: correct validation error messages |
 | 2021-06-27 00:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: mock external dependencies in tests |
+| 2021-06-27 09:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | perf: add database indexes |
