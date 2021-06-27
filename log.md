@@ -6757,3 +6757,4 @@
 | 2021-06-27 09:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | perf: add database indexes |
 | 2021-06-27 10:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | test: add e2e tests for checkout flow |
 | 2021-06-27 12:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | test: add performance benchmark tests |
+| 2021-06-27 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | refactor: extract business logic to service layer |
