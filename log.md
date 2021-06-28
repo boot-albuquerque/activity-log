@@ -6758,3 +6758,4 @@
 | 2021-06-27 10:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | test: add e2e tests for checkout flow |
 | 2021-06-27 12:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | test: add performance benchmark tests |
 | 2021-06-27 18:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | refactor: extract business logic to service layer |
+| 2021-06-28 00:09 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | fix: correct validation error messages |
