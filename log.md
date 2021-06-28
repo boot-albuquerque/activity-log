@@ -6762,3 +6762,4 @@
 | 2021-06-28 00:59 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | refactor: move constants to config module |
 | 2021-06-28 07:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2021-06-28 14:53 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add audit log trail |
+| 2021-06-28 15:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: reduce cyclomatic complexity |
