@@ -6763,3 +6763,4 @@
 | 2021-06-28 07:26 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2021-06-28 14:53 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | feat: add audit log trail |
 | 2021-06-28 15:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: reduce cyclomatic complexity |
+| 2021-06-28 15:54 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
