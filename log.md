@@ -6766,3 +6766,4 @@
 | 2021-06-28 15:54 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
 | 2021-06-28 19:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | security: add input sanitization |
 | 2021-06-28 21:26 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | test: add unit tests for payment service |
+| 2021-06-29 07:25 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | docs: update API documentation |
