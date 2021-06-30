@@ -6775,3 +6775,4 @@
 | 2021-06-30 00:25 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create dashboard metrics endpoint |
 | 2021-06-30 07:15 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
 | 2021-06-30 08:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | feat: implement soft delete pattern |
+| 2021-06-30 12:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | infra: add Kubernetes manifests |
