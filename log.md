@@ -6783,3 +6783,4 @@
 | 2021-06-30 20:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: resolve CORS configuration |
 | 2021-06-30 21:32 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | style: fix indentation and whitespace |
 | 2021-07-01 17:39 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | docs: update API documentation |
+| 2021-07-01 18:16 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | refactor: adopt repository pattern |
