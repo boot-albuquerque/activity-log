@@ -6793,3 +6793,4 @@
 | 2021-07-04 16:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | chore: update dependencies |
 | 2021-07-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | style: format code according to style guide |
 | 2021-07-05 10:12 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: implement rate limiting middleware |
+| 2021-07-05 12:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | infra: configure auto-scaling policies |
