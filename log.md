@@ -6791,3 +6791,4 @@
 | 2021-07-03 10:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: add user authentication endpoint |
 | 2021-07-03 23:35 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | docs: update API documentation |
 | 2021-07-04 16:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | chore: update dependencies |
+| 2021-07-05 09:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | style: format code according to style guide |
