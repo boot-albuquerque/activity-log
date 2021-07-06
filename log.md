@@ -6798,3 +6798,4 @@
 | 2021-07-06 07:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2021-07-06 11:18 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2021-07-06 11:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | docs: add README setup instructions |
+| 2021-07-06 13:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | chore: add Docker Compose for local dev |
