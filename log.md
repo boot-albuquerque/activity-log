@@ -6797,3 +6797,4 @@
 | 2021-07-05 19:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: add user authentication endpoint |
 | 2021-07-06 07:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2021-07-06 11:18 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | chore: add pre-commit hooks |
+| 2021-07-06 11:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | docs: add README setup instructions |
