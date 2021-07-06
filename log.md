@@ -6800,3 +6800,4 @@
 | 2021-07-06 11:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | docs: add README setup instructions |
 | 2021-07-06 13:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2021-07-06 17:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | test: add unit tests for payment service |
+| 2021-07-06 19:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: create health check endpoint |
