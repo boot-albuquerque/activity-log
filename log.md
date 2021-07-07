@@ -6802,3 +6802,4 @@
 | 2021-07-06 17:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2021-07-06 19:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: create health check endpoint |
 | 2021-07-06 21:11 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | test: cover edge cases in validator |
+| 2021-07-07 09:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | refactor: simplify authentication flow |
