@@ -6813,3 +6813,4 @@
 | 2021-07-08 20:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2021-07-08 22:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add user authentication endpoint |
 | 2021-07-09 13:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | refactor: reduce cyclomatic complexity |
+| 2021-07-09 14:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | feat: add audit log trail |
