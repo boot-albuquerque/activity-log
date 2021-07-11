@@ -6816,3 +6816,4 @@
 | 2021-07-09 14:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | feat: add audit log trail |
 | 2021-07-09 21:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2021-07-09 22:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | refactor: adopt repository pattern |
+| 2021-07-11 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
