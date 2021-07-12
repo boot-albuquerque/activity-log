@@ -6822,3 +6822,4 @@
 | 2021-07-11 21:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2021-07-12 09:32 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | refactor: improve code readability |
 | 2021-07-12 13:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | perf: reduce bundle size |
+| 2021-07-12 14:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | fix: correct pagination offset calculation |
