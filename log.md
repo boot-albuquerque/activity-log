@@ -6824,3 +6824,4 @@
 | 2021-07-12 13:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | perf: reduce bundle size |
 | 2021-07-12 14:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | fix: correct pagination offset calculation |
 | 2021-07-12 14:02 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: implement webhook receiver |
+| 2021-07-12 14:46 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | perf: optimize database queries |
