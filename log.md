@@ -6819,3 +6819,4 @@
 | 2021-07-11 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | test: add e2e tests for checkout flow |
 | 2021-07-11 19:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | refactor: replace raw SQL with query builder |
 | 2021-07-11 20:08 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | chore: configure ESLint and Prettier |
+| 2021-07-11 21:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | test: add integration tests for API endpoints |
