@@ -6828,3 +6828,4 @@
 | 2021-07-12 15:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2021-07-12 19:27 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
 | 2021-07-13 00:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: correct validation error messages |
+| 2021-07-13 07:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | infra: add Kubernetes manifests |
