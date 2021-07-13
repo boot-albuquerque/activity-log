@@ -6830,3 +6830,4 @@
 | 2021-07-13 00:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | fix: correct validation error messages |
 | 2021-07-13 07:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2021-07-13 08:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | chore: update dependencies |
+| 2021-07-13 12:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: add unit tests for payment service |
