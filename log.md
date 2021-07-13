@@ -6831,3 +6831,4 @@
 | 2021-07-13 07:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2021-07-13 08:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | chore: update dependencies |
 | 2021-07-13 12:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: add unit tests for payment service |
+| 2021-07-13 14:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: resolve N+1 query problem |
