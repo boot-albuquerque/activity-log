@@ -6837,3 +6837,4 @@
 | 2021-07-15 00:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | docs: update API documentation |
 | 2021-07-15 08:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2021-07-15 12:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | fix: correct null check in user service |
+| 2021-07-15 12:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | db: add composite index |
