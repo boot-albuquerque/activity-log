@@ -6841,3 +6841,4 @@
 | 2021-07-15 14:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: resolve CORS configuration |
 | 2021-07-15 14:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2021-07-15 14:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | docs: document environment variables |
+| 2021-07-15 16:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: add OpenAPI documentation |
