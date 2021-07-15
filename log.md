@@ -6843,3 +6843,4 @@
 | 2021-07-15 14:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | docs: document environment variables |
 | 2021-07-15 16:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2021-07-15 17:49 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | fix: correct validation error messages |
+| 2021-07-15 17:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: handle edge case in date parsing |
