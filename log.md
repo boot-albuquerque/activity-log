@@ -6839,3 +6839,4 @@
 | 2021-07-15 12:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2021-07-15 12:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | db: add composite index |
 | 2021-07-15 14:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: resolve CORS configuration |
+| 2021-07-15 14:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
