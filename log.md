@@ -6838,3 +6838,4 @@
 | 2021-07-15 08:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2021-07-15 12:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2021-07-15 12:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | db: add composite index |
+| 2021-07-15 14:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: resolve CORS configuration |
