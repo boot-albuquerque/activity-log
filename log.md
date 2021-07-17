@@ -6848,3 +6848,4 @@
 | 2021-07-16 14:06 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | feat: create health check endpoint |
 | 2021-07-16 20:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2021-07-17 10:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | chore: upgrade to latest Node.js LTS |
+| 2021-07-17 12:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct validation error messages |
