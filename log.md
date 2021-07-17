@@ -6850,3 +6850,4 @@
 | 2021-07-17 10:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2021-07-17 12:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct validation error messages |
 | 2021-07-17 15:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | fix: correct pagination offset calculation |
+| 2021-07-17 16:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | test: fix flaky test in async handler |
