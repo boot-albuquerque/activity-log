@@ -6854,3 +6854,4 @@
 | 2021-07-19 00:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | fix: handle empty response from external API |
 | 2021-07-19 09:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | test: fix flaky test in async handler |
 | 2021-07-19 09:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: correct pagination offset calculation |
+| 2021-07-19 14:56 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: improve test coverage to 80% |
