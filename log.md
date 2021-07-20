@@ -6856,3 +6856,4 @@
 | 2021-07-19 09:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: correct pagination offset calculation |
 | 2021-07-19 14:56 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2021-07-19 17:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | feat: add audit log trail |
+| 2021-07-19 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | fix: correct null check in user service |
