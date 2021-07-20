@@ -6864,3 +6864,4 @@
 | 2021-07-20 10:44 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | infra: update Terraform modules |
 | 2021-07-20 11:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/race-condition` | feat: create dashboard metrics endpoint |
 | 2021-07-20 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | chore: update dependencies |
+| 2021-07-20 16:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | refactor: adopt repository pattern |
