@@ -6858,3 +6858,4 @@
 | 2021-07-19 17:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | feat: add audit log trail |
 | 2021-07-19 22:43 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | fix: correct null check in user service |
 | 2021-07-19 23:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
+| 2021-07-19 23:51 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/refactor-queries` | infra: configure auto-scaling policies |
