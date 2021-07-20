@@ -6860,3 +6860,4 @@
 | 2021-07-19 23:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2021-07-19 23:51 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2021-07-20 07:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | test: add e2e tests for checkout flow |
+| 2021-07-20 09:38 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/null-pointer` | feat: add search with filters |
