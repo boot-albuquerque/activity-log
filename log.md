@@ -6871,3 +6871,4 @@
 | 2021-07-22 00:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | fix: resolve memory leak in connection pool |
 | 2021-07-22 10:34 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: implement webhook receiver |
 | 2021-07-22 12:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | refactor: consolidate error handling |
+| 2021-07-22 15:53 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | feat: add email notification on status change |
