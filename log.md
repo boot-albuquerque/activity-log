@@ -6869,3 +6869,4 @@
 | 2021-07-21 13:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | db: add composite index |
 | 2021-07-21 21:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | chore: configure GitHub Actions CI |
 | 2021-07-22 00:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | fix: resolve memory leak in connection pool |
+| 2021-07-22 10:34 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: implement webhook receiver |
