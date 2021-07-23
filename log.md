@@ -6877,3 +6877,4 @@
 | 2021-07-23 11:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | fix: handle missing environment variable |
 | 2021-07-23 11:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2021-07-23 12:04 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | test: mock external dependencies in tests |
+| 2021-07-23 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
