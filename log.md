@@ -6875,3 +6875,4 @@
 | 2021-07-22 18:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | ci: configure staging environment |
 | 2021-07-23 00:18 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2021-07-23 11:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | fix: handle missing environment variable |
+| 2021-07-23 11:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
