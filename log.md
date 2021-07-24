@@ -6881,3 +6881,4 @@
 | 2021-07-23 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | ci: add automated deployment pipeline |
 | 2021-07-23 15:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | infra: update Terraform modules |
 | 2021-07-23 20:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2021-07-24 00:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | db: optimize slow queries |
