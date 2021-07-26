@@ -6885,3 +6885,4 @@
 | 2021-07-24 20:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | refactor: adopt repository pattern |
 | 2021-07-25 18:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2021-07-25 23:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | chore: add pre-commit hooks |
+| 2021-07-26 09:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | test: add integration tests for API endpoints |
