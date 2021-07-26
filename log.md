@@ -6887,3 +6887,4 @@
 | 2021-07-25 23:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | chore: add pre-commit hooks |
 | 2021-07-26 09:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | test: add integration tests for API endpoints |
 | 2021-07-26 11:28 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v2.0` | test: add performance benchmark tests |
+| 2021-07-26 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: extract business logic to service layer |
