@@ -6890,3 +6890,4 @@
 | 2021-07-26 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2021-07-26 15:57 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | feat: create background job processor |
 | 2021-07-26 16:50 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | test: add performance benchmark tests |
+| 2021-07-26 16:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | feat: implement soft delete pattern |
