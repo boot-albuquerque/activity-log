@@ -6896,3 +6896,4 @@
 | 2021-07-27 22:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add file upload support |
 | 2021-07-27 22:27 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | fix: correct decimal precision in billing |
 | 2021-07-28 09:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | security: add input sanitization |
+| 2021-07-28 09:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | fix: correct cache invalidation logic |
