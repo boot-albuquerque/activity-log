@@ -6894,3 +6894,4 @@
 | 2021-07-27 15:10 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: handle malformed JSON input |
 | 2021-07-27 20:14 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2021-07-27 22:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add file upload support |
+| 2021-07-27 22:27 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | fix: correct decimal precision in billing |
