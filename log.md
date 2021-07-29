@@ -6902,3 +6902,4 @@
 | 2021-07-28 21:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | fix: correct cache invalidation logic |
 | 2021-07-29 08:31 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | db: add composite index |
 | 2021-07-29 12:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
+| 2021-07-29 16:43 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add unit tests for payment service |
