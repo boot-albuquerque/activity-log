@@ -6903,3 +6903,4 @@
 | 2021-07-29 08:31 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | db: add composite index |
 | 2021-07-29 12:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
 | 2021-07-29 16:43 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add unit tests for payment service |
+| 2021-07-29 16:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: create dashboard metrics endpoint |
