@@ -6900,3 +6900,4 @@
 | 2021-07-28 11:53 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: create background job processor |
 | 2021-07-28 14:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | ci: configure staging environment |
 | 2021-07-28 21:22 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | fix: correct cache invalidation logic |
+| 2021-07-29 08:31 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | db: add composite index |
