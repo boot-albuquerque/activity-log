@@ -6914,3 +6914,4 @@
 | 2021-07-30 18:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | infra: add Kubernetes manifests |
 | 2021-07-30 18:33 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | db: add composite index |
 | 2021-07-30 18:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2021-07-30 19:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: create admin management interface |
