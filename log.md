@@ -6907,3 +6907,4 @@
 | 2021-07-29 20:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | docs: update API documentation |
 | 2021-07-30 00:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2021-07-30 12:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | refactor: clean up unused imports |
+| 2021-07-30 13:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: implement soft delete pattern |
