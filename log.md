@@ -6905,3 +6905,4 @@
 | 2021-07-29 16:43 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add unit tests for payment service |
 | 2021-07-29 16:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: create dashboard metrics endpoint |
 | 2021-07-29 20:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | docs: update API documentation |
+| 2021-07-30 00:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: correct null check in user service |
