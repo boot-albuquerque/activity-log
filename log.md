@@ -6920,3 +6920,4 @@
 | 2021-08-02 10:19 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2021-08-02 12:36 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | chore: update dependencies |
 | 2021-08-02 12:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | feat: add real-time notifications |
+| 2021-08-02 12:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add email notification on status change |
