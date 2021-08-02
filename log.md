@@ -6924,3 +6924,4 @@
 | 2021-08-02 13:53 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2021-08-02 14:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: update dependencies |
 | 2021-08-02 18:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | docs: add README setup instructions |
+| 2021-08-02 18:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | test: mock external dependencies in tests |
