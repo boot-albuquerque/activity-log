@@ -6916,3 +6916,4 @@
 | 2021-07-30 18:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: correct pagination offset calculation |
 | 2021-07-30 19:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: create admin management interface |
 | 2021-08-01 20:10 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: create admin management interface |
+| 2021-08-02 08:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | db: add composite index |
