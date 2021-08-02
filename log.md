@@ -6917,3 +6917,4 @@
 | 2021-07-30 19:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | feat: create admin management interface |
 | 2021-08-01 20:10 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: create admin management interface |
 | 2021-08-02 08:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | db: add composite index |
+| 2021-08-02 10:19 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | feat: add user authentication endpoint |
