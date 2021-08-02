@@ -6923,3 +6923,4 @@
 | 2021-08-02 12:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: add email notification on status change |
 | 2021-08-02 13:53 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2021-08-02 14:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: update dependencies |
+| 2021-08-02 18:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | docs: add README setup instructions |
