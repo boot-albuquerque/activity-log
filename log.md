@@ -6928,3 +6928,4 @@
 | 2021-08-02 19:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | perf: reduce bundle size |
 | 2021-08-02 20:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: implement JWT refresh token |
 | 2021-08-02 20:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2021-08-03 10:12 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | refactor: extract business logic to service layer |
