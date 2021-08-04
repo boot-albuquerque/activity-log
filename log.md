@@ -6939,3 +6939,4 @@
 | 2021-08-04 11:44 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2021-08-04 14:17 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | db: add migration for new schema |
 | 2021-08-04 14:54 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | infra: update Terraform modules |
+| 2021-08-04 15:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: resolve memory leak in connection pool |
