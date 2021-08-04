@@ -6937,3 +6937,4 @@
 | 2021-08-03 19:07 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | chore: upgrade to latest Node.js LTS |
 | 2021-08-04 09:31 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
 | 2021-08-04 11:44 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: handle empty response from external API |
+| 2021-08-04 14:17 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | db: add migration for new schema |
