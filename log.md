@@ -6948,3 +6948,4 @@
 | 2021-08-05 09:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
 | 2021-08-05 11:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | style: format code according to style guide |
 | 2021-08-05 11:55 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | test: fix flaky test in async handler |
+| 2021-08-05 13:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | refactor: replace raw SQL with query builder |
