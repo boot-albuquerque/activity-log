@@ -6951,3 +6951,4 @@
 | 2021-08-05 13:17 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | refactor: replace raw SQL with query builder |
 | 2021-08-05 14:17 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | perf: optimize database queries |
 | 2021-08-05 16:14 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/new-endpoint` | refactor: extract business logic to service layer |
+| 2021-08-05 19:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | feat: add search with filters |
