@@ -6945,3 +6945,4 @@
 | 2021-08-04 20:56 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement caching layer |
 | 2021-08-04 21:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2021-08-04 21:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | docs: update API documentation |
+| 2021-08-05 09:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
