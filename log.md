@@ -6954,3 +6954,4 @@
 | 2021-08-05 19:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | feat: add search with filters |
 | 2021-08-06 13:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | refactor: clean up unused imports |
 | 2021-08-07 20:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | test: add performance benchmark tests |
+| 2021-08-07 21:16 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | test: add integration tests for API endpoints |
