@@ -6958,3 +6958,4 @@
 | 2021-08-08 17:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | perf: implement response compression |
 | 2021-08-09 10:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | fix: resolve CORS configuration |
 | 2021-08-09 13:44 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
+| 2021-08-09 15:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add email notification on status change |
