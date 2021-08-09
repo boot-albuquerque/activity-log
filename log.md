@@ -6959,3 +6959,4 @@
 | 2021-08-09 10:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | fix: resolve CORS configuration |
 | 2021-08-09 13:44 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
 | 2021-08-09 15:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add email notification on status change |
+| 2021-08-09 18:36 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | fix: handle missing environment variable |
