@@ -6956,3 +6956,4 @@
 | 2021-08-07 20:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2021-08-07 21:16 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | test: add integration tests for API endpoints |
 | 2021-08-08 17:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | perf: implement response compression |
+| 2021-08-09 10:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | fix: resolve CORS configuration |
