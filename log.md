@@ -6963,3 +6963,4 @@
 | 2021-08-10 11:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: correct pagination offset calculation |
 | 2021-08-10 14:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | chore: update dependencies |
 | 2021-08-10 14:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | db: add migration for new schema |
+| 2021-08-10 17:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | feat: add bulk operations support |
