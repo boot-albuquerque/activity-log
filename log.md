@@ -6969,3 +6969,4 @@
 | 2021-08-11 11:48 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | chore: add pre-commit hooks |
 | 2021-08-11 13:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | infra: configure auto-scaling policies |
 | 2021-08-11 15:32 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: implement webhook receiver |
+| 2021-08-11 16:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | chore: add Docker Compose for local dev |
