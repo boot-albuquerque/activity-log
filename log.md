@@ -6977,3 +6977,4 @@
 | 2021-08-12 15:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2021-08-12 17:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | refactor: replace raw SQL with query builder |
 | 2021-08-12 17:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: correct validation error messages |
+| 2021-08-12 19:14 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | db: add composite index |
