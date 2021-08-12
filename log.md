@@ -6974,3 +6974,4 @@
 | 2021-08-11 19:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
 | 2021-08-12 14:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add user authentication endpoint |
 | 2021-08-12 14:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | refactor: move constants to config module |
+| 2021-08-12 15:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
