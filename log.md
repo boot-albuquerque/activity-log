@@ -6980,3 +6980,4 @@
 | 2021-08-12 19:14 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | db: add composite index |
 | 2021-08-12 19:25 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2021-08-12 19:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | fix: resolve CORS configuration |
+| 2021-08-13 00:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement webhook receiver |
