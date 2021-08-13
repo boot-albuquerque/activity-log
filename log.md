@@ -6981,3 +6981,4 @@
 | 2021-08-12 19:25 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2021-08-12 19:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2021-08-13 00:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement webhook receiver |
+| 2021-08-13 00:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | ci: add automated deployment pipeline |
