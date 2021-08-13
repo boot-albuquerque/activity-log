@@ -6983,3 +6983,4 @@
 | 2021-08-13 00:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement webhook receiver |
 | 2021-08-13 00:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | ci: add automated deployment pipeline |
 | 2021-08-13 09:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | docs: add README setup instructions |
+| 2021-08-13 09:22 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | test: add e2e tests for checkout flow |
