@@ -6996,3 +6996,4 @@
 | 2021-08-16 15:27 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | perf: reduce bundle size |
 | 2021-08-16 15:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve CORS configuration |
 | 2021-08-16 15:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | chore: add pre-commit hooks |
+| 2021-08-16 16:05 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
