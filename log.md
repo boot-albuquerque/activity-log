@@ -6990,3 +6990,4 @@
 | 2021-08-14 09:41 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | feat: add real-time notifications |
 | 2021-08-14 16:48 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | perf: add database indexes |
 | 2021-08-16 08:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | test: add e2e tests for checkout flow |
+| 2021-08-16 08:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | fix: resolve memory leak in connection pool |
