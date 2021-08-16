@@ -7000,3 +7000,4 @@
 | 2021-08-16 16:26 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | fix: resolve deadlock in transaction |
 | 2021-08-16 17:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2021-08-16 17:49 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | test: improve test coverage to 80% |
+| 2021-08-16 19:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
