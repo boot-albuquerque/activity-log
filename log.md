@@ -7013,3 +7013,4 @@
 | 2021-08-17 12:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: handle missing environment variable |
 | 2021-08-17 12:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2021-08-17 13:00 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | test: fix flaky test in async handler |
+| 2021-08-17 15:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: add OpenAPI documentation |
