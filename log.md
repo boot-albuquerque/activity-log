@@ -7008,3 +7008,4 @@
 | 2021-08-17 07:58 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: handle missing environment variable |
 | 2021-08-17 08:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: handle malformed JSON input |
 | 2021-08-17 11:38 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | ci: configure staging environment |
+| 2021-08-17 12:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add unit tests for payment service |
