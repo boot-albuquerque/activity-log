@@ -7005,3 +7005,4 @@
 | 2021-08-16 23:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | style: format code according to style guide |
 | 2021-08-16 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle edge case in date parsing |
 | 2021-08-17 07:47 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | refactor: extract business logic to service layer |
+| 2021-08-17 07:58 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: handle missing environment variable |
