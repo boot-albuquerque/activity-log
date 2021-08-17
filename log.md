@@ -7009,3 +7009,4 @@
 | 2021-08-17 08:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: handle malformed JSON input |
 | 2021-08-17 11:38 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | ci: configure staging environment |
 | 2021-08-17 12:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add unit tests for payment service |
+| 2021-08-17 12:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | infra: update Terraform modules |
