@@ -7006,3 +7006,4 @@
 | 2021-08-16 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle edge case in date parsing |
 | 2021-08-17 07:47 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2021-08-17 07:58 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: handle missing environment variable |
+| 2021-08-17 08:22 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: handle malformed JSON input |
