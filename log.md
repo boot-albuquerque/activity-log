@@ -7011,3 +7011,4 @@
 | 2021-08-17 12:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add unit tests for payment service |
 | 2021-08-17 12:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | infra: update Terraform modules |
 | 2021-08-17 12:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: handle missing environment variable |
+| 2021-08-17 12:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | refactor: extract business logic to service layer |
