@@ -7003,3 +7003,4 @@
 | 2021-08-16 19:07 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
 | 2021-08-16 20:20 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2021-08-16 23:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | style: format code according to style guide |
+| 2021-08-16 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | fix: handle edge case in date parsing |
