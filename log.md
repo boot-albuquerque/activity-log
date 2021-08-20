@@ -7030,3 +7030,4 @@
 | 2021-08-20 07:04 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | perf: implement response compression |
 | 2021-08-20 08:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2021-08-20 08:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | ci: configure staging environment |
+| 2021-08-20 12:15 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: add email notification on status change |
