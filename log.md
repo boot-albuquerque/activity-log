@@ -7035,3 +7035,4 @@
 | 2021-08-20 13:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2021-08-20 22:52 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2021-08-20 23:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | feat: implement caching layer |
+| 2021-08-21 12:00 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
