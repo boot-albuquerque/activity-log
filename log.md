@@ -7041,3 +7041,4 @@
 | 2021-08-23 00:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | style: format code according to style guide |
 | 2021-08-23 10:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | fix: correct null check in user service |
 | 2021-08-23 14:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | feat: implement webhook receiver |
+| 2021-08-23 14:26 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | docs: document environment variables |
