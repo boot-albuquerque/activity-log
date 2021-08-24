@@ -7045,3 +7045,4 @@
 | 2021-08-23 15:56 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | refactor: improve code readability |
 | 2021-08-23 17:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: add export to CSV/Excel |
 | 2021-08-23 20:00 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | style: fix indentation and whitespace |
+| 2021-08-23 23:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: handle empty response from external API |
