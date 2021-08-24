@@ -7048,3 +7048,4 @@
 | 2021-08-23 23:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | fix: handle empty response from external API |
 | 2021-08-24 00:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | perf: implement response compression |
 | 2021-08-24 09:26 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | fix: correct validation error messages |
+| 2021-08-24 16:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: resolve race condition in queue worker |
