@@ -7055,3 +7055,4 @@
 | 2021-08-25 09:48 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2021-08-25 12:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | fix: resolve deadlock in transaction |
 | 2021-08-25 14:34 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | test: mock external dependencies in tests |
+| 2021-08-25 17:30 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | fix: handle missing environment variable |
