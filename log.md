@@ -7051,3 +7051,4 @@
 | 2021-08-24 16:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: resolve race condition in queue worker |
 | 2021-08-24 20:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | fix: correct pagination offset calculation |
 | 2021-08-25 08:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | refactor: clean up unused imports |
+| 2021-08-25 09:44 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | feat: add bulk operations support |
