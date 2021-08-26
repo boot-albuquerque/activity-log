@@ -7064,3 +7064,4 @@
 | 2021-08-25 21:37 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | refactor: improve code readability |
 | 2021-08-26 00:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | ci: add automated deployment pipeline |
 | 2021-08-26 11:23 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: create background job processor |
+| 2021-08-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | fix: correct null check in user service |
