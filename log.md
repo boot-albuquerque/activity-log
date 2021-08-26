@@ -7067,3 +7067,4 @@
 | 2021-08-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2021-08-26 17:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | refactor: reduce cyclomatic complexity |
 | 2021-08-26 17:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: simplify authentication flow |
+| 2021-08-26 19:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | security: fix SQL injection vulnerability |
