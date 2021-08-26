@@ -7066,3 +7066,4 @@
 | 2021-08-26 11:23 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: create background job processor |
 | 2021-08-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2021-08-26 17:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | refactor: reduce cyclomatic complexity |
+| 2021-08-26 17:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: simplify authentication flow |
