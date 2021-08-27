@@ -7078,3 +7078,4 @@
 | 2021-08-27 13:26 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | fix: correct null check in user service |
 | 2021-08-27 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: improve code readability |
 | 2021-08-27 17:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | docs: add README setup instructions |
+| 2021-08-27 19:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | docs: add README setup instructions |
