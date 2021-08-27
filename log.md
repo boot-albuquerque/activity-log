@@ -7076,3 +7076,4 @@
 | 2021-08-27 12:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | test: add performance benchmark tests |
 | 2021-08-27 13:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | chore: add pre-commit hooks |
 | 2021-08-27 13:26 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | fix: correct null check in user service |
+| 2021-08-27 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: improve code readability |
