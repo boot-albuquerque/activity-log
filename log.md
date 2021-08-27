@@ -7070,3 +7070,4 @@
 | 2021-08-26 19:49 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2021-08-26 22:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: resolve CORS configuration |
 | 2021-08-27 00:02 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | infra: configure auto-scaling policies |
+| 2021-08-27 08:12 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | fix: correct null check in user service |
