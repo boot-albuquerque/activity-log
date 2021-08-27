@@ -7073,3 +7073,4 @@
 | 2021-08-27 08:12 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2021-08-27 08:43 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | fix: resolve CORS configuration |
 | 2021-08-27 08:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | feat: create health check endpoint |
+| 2021-08-27 12:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | test: add performance benchmark tests |
