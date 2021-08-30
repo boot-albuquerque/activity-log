@@ -7086,3 +7086,4 @@
 | 2021-08-30 10:24 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: mock external dependencies in tests |
 | 2021-08-30 11:20 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | test: mock external dependencies in tests |
 | 2021-08-30 14:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
+| 2021-08-30 18:36 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | test: add integration tests for API endpoints |
