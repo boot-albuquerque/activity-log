@@ -7085,3 +7085,4 @@
 | 2021-08-30 07:23 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | feat: add search with filters |
 | 2021-08-30 10:24 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | test: mock external dependencies in tests |
 | 2021-08-30 11:20 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | test: mock external dependencies in tests |
+| 2021-08-30 14:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
