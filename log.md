@@ -7082,3 +7082,4 @@
 | 2021-08-27 21:05 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | test: cover edge cases in validator |
 | 2021-08-29 18:18 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: implement caching layer |
 | 2021-08-30 00:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | test: add e2e tests for checkout flow |
+| 2021-08-30 07:23 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | feat: add search with filters |
