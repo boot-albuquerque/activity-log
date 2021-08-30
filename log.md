@@ -7081,3 +7081,4 @@
 | 2021-08-27 19:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | docs: add README setup instructions |
 | 2021-08-27 21:05 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/new-endpoint` | test: cover edge cases in validator |
 | 2021-08-29 18:18 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: implement caching layer |
+| 2021-08-30 00:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | test: add e2e tests for checkout flow |
