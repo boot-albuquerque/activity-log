@@ -7091,3 +7091,4 @@
 | 2021-08-30 21:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | chore: upgrade to latest Node.js LTS |
 | 2021-08-30 22:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | ci: configure staging environment |
 | 2021-08-30 23:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: implement JWT refresh token |
+| 2021-08-31 00:03 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | db: add migration for new schema |
