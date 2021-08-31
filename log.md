@@ -7088,3 +7088,4 @@
 | 2021-08-30 14:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2021-08-30 18:36 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | test: add integration tests for API endpoints |
 | 2021-08-30 18:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | perf: reduce bundle size |
+| 2021-08-30 21:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | chore: upgrade to latest Node.js LTS |
