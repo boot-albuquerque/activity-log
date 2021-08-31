@@ -7094,3 +7094,4 @@
 | 2021-08-31 00:03 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | db: add migration for new schema |
 | 2021-08-31 08:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | test: mock external dependencies in tests |
 | 2021-08-31 15:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | ci: add automated deployment pipeline |
+| 2021-08-31 16:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: implement caching layer |
