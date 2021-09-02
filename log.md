@@ -7102,3 +7102,4 @@
 | 2021-09-02 15:07 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | refactor: adopt repository pattern |
 | 2021-09-02 16:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | fix: correct null check in user service |
 | 2021-09-02 17:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
+| 2021-09-02 17:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | test: add integration tests for API endpoints |
