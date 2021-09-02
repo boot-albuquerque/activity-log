@@ -7100,3 +7100,4 @@
 | 2021-09-02 00:37 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | refactor: clean up unused imports |
 | 2021-09-02 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | refactor: simplify authentication flow |
 | 2021-09-02 15:07 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | refactor: adopt repository pattern |
+| 2021-09-02 16:07 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | fix: correct null check in user service |
