@@ -7098,3 +7098,4 @@
 | 2021-08-31 17:49 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | refactor: clean up unused imports |
 | 2021-08-31 21:37 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | refactor: replace raw SQL with query builder |
 | 2021-09-02 00:37 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | refactor: clean up unused imports |
+| 2021-09-02 13:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | refactor: simplify authentication flow |
