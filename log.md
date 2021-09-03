@@ -7105,3 +7105,4 @@
 | 2021-09-02 17:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | test: add integration tests for API endpoints |
 | 2021-09-03 07:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | test: add performance benchmark tests |
 | 2021-09-03 08:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle empty response from external API |
+| 2021-09-03 10:31 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | test: cover edge cases in validator |
