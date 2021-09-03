@@ -7107,3 +7107,4 @@
 | 2021-09-03 08:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle empty response from external API |
 | 2021-09-03 10:31 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | test: cover edge cases in validator |
 | 2021-09-03 12:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | feat: create order processing service |
+| 2021-09-03 15:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: handle empty response from external API |
