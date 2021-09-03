@@ -7106,3 +7106,4 @@
 | 2021-09-03 07:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | test: add performance benchmark tests |
 | 2021-09-03 08:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle empty response from external API |
 | 2021-09-03 10:31 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | test: cover edge cases in validator |
+| 2021-09-03 12:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | feat: create order processing service |
