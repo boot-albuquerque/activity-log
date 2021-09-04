@@ -7109,3 +7109,4 @@
 | 2021-09-03 12:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | feat: create order processing service |
 | 2021-09-03 15:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: handle empty response from external API |
 | 2021-09-03 20:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: add file upload support |
+| 2021-09-04 14:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | feat: add export to CSV/Excel |
