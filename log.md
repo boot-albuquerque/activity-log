@@ -7117,3 +7117,4 @@
 | 2021-09-06 08:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | fix: handle missing environment variable |
 | 2021-09-06 08:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add export to CSV/Excel |
 | 2021-09-06 13:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | fix: correct null check in user service |
+| 2021-09-06 14:24 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | test: cover edge cases in validator |
