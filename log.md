@@ -7114,3 +7114,4 @@
 | 2021-09-05 12:04 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | test: cover edge cases in validator |
 | 2021-09-05 15:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | refactor: improve code readability |
 | 2021-09-05 16:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | db: optimize slow queries |
+| 2021-09-06 08:11 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | fix: handle missing environment variable |
