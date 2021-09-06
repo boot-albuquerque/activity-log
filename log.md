@@ -7122,3 +7122,4 @@
 | 2021-09-06 15:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | feat: add real-time notifications |
 | 2021-09-06 15:47 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | security: add input sanitization |
 | 2021-09-06 18:31 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | fix: resolve N+1 query problem |
+| 2021-09-06 20:25 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | feat: implement caching layer |
