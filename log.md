@@ -7125,3 +7125,4 @@
 | 2021-09-06 20:25 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | feat: implement caching layer |
 | 2021-09-06 20:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: add performance benchmark tests |
 | 2021-09-07 12:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2021-09-07 13:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | fix: correct null check in user service |
