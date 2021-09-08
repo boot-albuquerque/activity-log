@@ -7137,3 +7137,4 @@
 | 2021-09-08 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2021-09-08 13:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: resolve N+1 query problem |
 | 2021-09-08 17:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | chore: update dependencies |
+| 2021-09-08 18:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | feat: add email notification on status change |
