@@ -7132,3 +7132,4 @@
 | 2021-09-08 08:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: add user authentication endpoint |
 | 2021-09-08 09:39 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | refactor: simplify authentication flow |
 | 2021-09-08 10:24 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | feat: create background job processor |
+| 2021-09-08 12:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | chore: configure ESLint and Prettier |
