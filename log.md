@@ -7135,3 +7135,4 @@
 | 2021-09-08 12:13 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | chore: configure ESLint and Prettier |
 | 2021-09-08 13:17 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | feat: create background job processor |
 | 2021-09-08 13:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | chore: configure GitHub Actions CI |
+| 2021-09-08 13:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: resolve N+1 query problem |
