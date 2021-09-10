@@ -7148,3 +7148,4 @@
 | 2021-09-10 14:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2021-09-10 14:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | db: add migration for new schema |
 | 2021-09-10 15:00 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | db: add migration for new schema |
+| 2021-09-10 16:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
