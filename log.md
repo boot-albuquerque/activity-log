@@ -7145,3 +7145,4 @@
 | 2021-09-10 10:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | fix: handle malformed JSON input |
 | 2021-09-10 12:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | style: format code according to style guide |
 | 2021-09-10 12:43 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/update-deps` | fix: correct validation error messages |
+| 2021-09-10 14:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
