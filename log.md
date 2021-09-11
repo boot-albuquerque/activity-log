@@ -7154,3 +7154,4 @@
 | 2021-09-10 20:00 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | db: add composite index |
 | 2021-09-10 21:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | refactor: improve code readability |
 | 2021-09-11 16:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | chore: configure ESLint and Prettier |
+| 2021-09-11 20:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add OpenAPI documentation |
