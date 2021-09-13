@@ -7156,3 +7156,4 @@
 | 2021-09-11 16:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2021-09-11 20:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | feat: add OpenAPI documentation |
 | 2021-09-12 10:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: add OpenAPI documentation |
+| 2021-09-13 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | db: add composite index |
