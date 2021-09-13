@@ -7158,3 +7158,4 @@
 | 2021-09-12 10:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: add OpenAPI documentation |
 | 2021-09-13 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | db: add composite index |
 | 2021-09-13 11:01 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v1.0` | refactor: consolidate error handling |
+| 2021-09-13 11:28 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | fix: handle edge case in date parsing |
