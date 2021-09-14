@@ -7165,3 +7165,4 @@
 | 2021-09-14 09:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2021-09-14 13:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2021-09-14 14:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | fix: resolve CORS configuration |
+| 2021-09-14 15:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | chore: add Docker Compose for local dev |
