@@ -7163,3 +7163,4 @@
 | 2021-09-13 17:58 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | docs: update API documentation |
 | 2021-09-14 09:33 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | chore: add Docker Compose for local dev |
 | 2021-09-14 09:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | infra: update Terraform modules |
+| 2021-09-14 13:48 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | fix: resolve race condition in queue worker |
