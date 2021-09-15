@@ -7174,3 +7174,4 @@
 | 2021-09-15 07:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | fix: correct cache invalidation logic |
 | 2021-09-15 10:06 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | fix: resolve deadlock in transaction |
 | 2021-09-15 12:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | perf: add database indexes |
+| 2021-09-15 13:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `chore/cleanup` | docs: add README setup instructions |
