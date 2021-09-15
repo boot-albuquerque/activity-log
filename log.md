@@ -7170,3 +7170,4 @@
 | 2021-09-14 17:46 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add search with filters |
 | 2021-09-14 18:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2021-09-14 20:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | chore: update dependencies |
+| 2021-09-14 22:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | test: add performance benchmark tests |
