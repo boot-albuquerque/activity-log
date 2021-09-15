@@ -7172,3 +7172,4 @@
 | 2021-09-14 20:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | chore: update dependencies |
 | 2021-09-14 22:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2021-09-15 07:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | fix: correct cache invalidation logic |
+| 2021-09-15 10:06 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | fix: resolve deadlock in transaction |
