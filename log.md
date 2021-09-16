@@ -7183,3 +7183,4 @@
 | 2021-09-15 17:26 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2021-09-15 20:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | chore: configure GitHub Actions CI |
 | 2021-09-15 22:22 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | test: fix flaky test in async handler |
+| 2021-09-16 08:38 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | fix: resolve N+1 query problem |
