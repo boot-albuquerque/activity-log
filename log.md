@@ -7189,3 +7189,4 @@
 | 2021-09-16 15:26 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | security: add input sanitization |
 | 2021-09-16 15:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | style: format code according to style guide |
 | 2021-09-16 20:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | style: format code according to style guide |
+| 2021-09-17 10:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | feat: add export to CSV/Excel |
