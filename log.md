@@ -7191,3 +7191,4 @@
 | 2021-09-16 20:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | style: format code according to style guide |
 | 2021-09-17 10:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | feat: add export to CSV/Excel |
 | 2021-09-17 10:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2021-09-17 11:48 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | docs: add README setup instructions |
