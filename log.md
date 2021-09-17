@@ -7197,3 +7197,4 @@
 | 2021-09-17 13:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: move constants to config module |
 | 2021-09-17 14:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
 | 2021-09-17 15:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | perf: implement response compression |
+| 2021-09-17 15:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | fix: handle empty response from external API |
