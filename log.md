@@ -7202,3 +7202,4 @@
 | 2021-09-17 16:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2021-09-17 17:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | refactor: improve code readability |
 | 2021-09-17 18:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | perf: implement response compression |
+| 2021-09-17 18:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | perf: add database indexes |
