@@ -7199,3 +7199,4 @@
 | 2021-09-17 15:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | perf: implement response compression |
 | 2021-09-17 15:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | fix: handle empty response from external API |
 | 2021-09-17 15:43 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | perf: implement response compression |
+| 2021-09-17 16:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | feat: add OpenAPI documentation |
