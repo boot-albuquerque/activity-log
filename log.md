@@ -7204,3 +7204,4 @@
 | 2021-09-17 18:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | perf: implement response compression |
 | 2021-09-17 18:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | perf: add database indexes |
 | 2021-09-17 19:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: implement soft delete pattern |
+| 2021-09-18 10:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | docs: document environment variables |
