@@ -7205,3 +7205,4 @@
 | 2021-09-17 18:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | perf: add database indexes |
 | 2021-09-17 19:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: implement soft delete pattern |
 | 2021-09-18 10:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | docs: document environment variables |
+| 2021-09-18 15:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | fix: correct validation error messages |
