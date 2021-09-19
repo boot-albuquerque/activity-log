@@ -7209,3 +7209,4 @@
 | 2021-09-18 18:23 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | fix: resolve race condition in queue worker |
 | 2021-09-18 18:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | test: add e2e tests for checkout flow |
 | 2021-09-19 13:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | test: improve test coverage to 80% |
+| 2021-09-19 13:53 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
