@@ -7218,3 +7218,4 @@
 | 2021-09-20 11:30 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | refactor: improve code readability |
 | 2021-09-20 12:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | db: add composite index |
 | 2021-09-20 16:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | ci: configure staging environment |
+| 2021-09-20 20:59 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: implement rate limiting middleware |
