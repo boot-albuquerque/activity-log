@@ -7219,3 +7219,4 @@
 | 2021-09-20 12:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | db: add composite index |
 | 2021-09-20 16:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | ci: configure staging environment |
 | 2021-09-20 20:59 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | feat: implement rate limiting middleware |
+| 2021-09-20 21:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: correct validation error messages |
