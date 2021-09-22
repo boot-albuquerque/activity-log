@@ -7227,3 +7227,4 @@
 | 2021-09-21 14:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | security: add input sanitization |
 | 2021-09-21 15:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | refactor: adopt repository pattern |
 | 2021-09-22 10:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | security: add input sanitization |
+| 2021-09-22 11:49 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | refactor: extract business logic to service layer |
