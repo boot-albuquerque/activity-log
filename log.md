@@ -7231,3 +7231,4 @@
 | 2021-09-22 13:48 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2021-09-22 15:08 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | security: add input sanitization |
 | 2021-09-22 17:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: handle missing environment variable |
+| 2021-09-22 18:35 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/rate-limiting` | feat: implement rate limiting middleware |
