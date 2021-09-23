@@ -7233,3 +7233,4 @@
 | 2021-09-22 17:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: handle missing environment variable |
 | 2021-09-22 18:35 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/rate-limiting` | feat: implement rate limiting middleware |
 | 2021-09-22 20:50 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | refactor: split large controller into smaller ones |
+| 2021-09-22 21:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | security: update SSL certificates config |
