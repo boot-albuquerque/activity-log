@@ -7241,3 +7241,4 @@
 | 2021-09-23 17:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
 | 2021-09-23 17:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2021-09-23 17:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
+| 2021-09-23 20:42 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | refactor: move constants to config module |
