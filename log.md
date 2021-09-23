@@ -7239,3 +7239,4 @@
 | 2021-09-23 14:33 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | fix: handle timeout in async operation |
 | 2021-09-23 14:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/new-endpoint` | refactor: extract business logic to service layer |
 | 2021-09-23 17:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
+| 2021-09-23 17:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
