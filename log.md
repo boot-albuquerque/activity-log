@@ -7243,3 +7243,4 @@
 | 2021-09-23 17:49 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
 | 2021-09-23 20:42 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | refactor: move constants to config module |
 | 2021-09-24 10:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | db: optimize slow queries |
+| 2021-09-24 18:59 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | chore: configure GitHub Actions CI |
