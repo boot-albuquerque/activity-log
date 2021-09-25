@@ -7248,3 +7248,4 @@
 | 2021-09-24 20:49 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | fix: correct decimal precision in billing |
 | 2021-09-24 22:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | fix: handle malformed JSON input |
 | 2021-09-25 13:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | fix: correct decimal precision in billing |
+| 2021-09-25 14:30 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
