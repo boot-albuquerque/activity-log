@@ -7254,3 +7254,4 @@
 | 2021-09-26 18:27 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2021-09-26 21:22 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2021-09-27 00:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: create admin management interface |
+| 2021-09-27 13:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: add integration tests for API endpoints |
