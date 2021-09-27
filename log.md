@@ -7255,3 +7255,4 @@
 | 2021-09-26 21:22 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2021-09-27 00:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | feat: create admin management interface |
 | 2021-09-27 13:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: add integration tests for API endpoints |
+| 2021-09-27 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | refactor: clean up unused imports |
