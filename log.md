@@ -7262,3 +7262,4 @@
 | 2021-09-28 13:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | refactor: reduce cyclomatic complexity |
 | 2021-09-28 15:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
 | 2021-09-28 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
+| 2021-09-28 18:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | infra: add Kubernetes manifests |
