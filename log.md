@@ -7260,3 +7260,4 @@
 | 2021-09-28 08:29 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | security: update SSL certificates config |
 | 2021-09-28 12:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add file upload support |
 | 2021-09-28 13:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | refactor: reduce cyclomatic complexity |
+| 2021-09-28 15:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
