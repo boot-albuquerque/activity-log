@@ -7257,3 +7257,4 @@
 | 2021-09-27 13:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2021-09-27 16:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | refactor: clean up unused imports |
 | 2021-09-27 18:08 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | fix: correct cache invalidation logic |
+| 2021-09-28 08:29 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | security: update SSL certificates config |
