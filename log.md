@@ -7265,3 +7265,4 @@
 | 2021-09-28 18:24 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | infra: add Kubernetes manifests |
 | 2021-09-29 00:47 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | feat: add audit log trail |
 | 2021-09-29 00:49 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | chore: update dependencies |
+| 2021-09-29 08:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | chore: add pre-commit hooks |
