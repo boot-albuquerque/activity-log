@@ -7269,3 +7269,4 @@
 | 2021-09-29 09:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | test: improve test coverage to 80% |
 | 2021-09-29 11:48 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | chore: configure ESLint and Prettier |
 | 2021-09-29 15:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: implement caching layer |
+| 2021-09-29 17:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | test: mock external dependencies in tests |
