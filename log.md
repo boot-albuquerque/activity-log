@@ -7275,3 +7275,4 @@
 | 2021-09-29 20:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: implement caching layer |
 | 2021-09-30 00:35 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2021-09-30 09:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: split large controller into smaller ones |
+| 2021-09-30 14:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | refactor: consolidate error handling |
