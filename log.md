@@ -7279,3 +7279,4 @@
 | 2021-09-30 17:14 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: create health check endpoint |
 | 2021-10-01 09:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add search with filters |
 | 2021-10-01 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
+| 2021-10-01 12:01 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | feat: add OpenAPI documentation |
