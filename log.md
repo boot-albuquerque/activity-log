@@ -7280,3 +7280,4 @@
 | 2021-10-01 09:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add search with filters |
 | 2021-10-01 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
 | 2021-10-01 12:01 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | feat: add OpenAPI documentation |
+| 2021-10-01 22:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | feat: add file upload support |
