@@ -7282,3 +7282,4 @@
 | 2021-10-01 12:01 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | feat: add OpenAPI documentation |
 | 2021-10-01 22:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | feat: add file upload support |
 | 2021-10-02 15:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: correct null check in user service |
+| 2021-10-02 18:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | style: format code according to style guide |
