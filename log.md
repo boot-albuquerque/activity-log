@@ -7284,3 +7284,4 @@
 | 2021-10-02 15:50 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: correct null check in user service |
 | 2021-10-02 18:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | style: format code according to style guide |
 | 2021-10-03 17:24 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | infra: add Kubernetes manifests |
+| 2021-10-03 20:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: handle edge case in date parsing |
