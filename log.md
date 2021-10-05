@@ -7296,3 +7296,4 @@
 | 2021-10-05 10:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | style: format code according to style guide |
 | 2021-10-05 10:44 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2021-10-05 13:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: add export to CSV/Excel |
+| 2021-10-05 14:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | test: add performance benchmark tests |
