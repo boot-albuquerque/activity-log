@@ -7299,3 +7299,4 @@
 | 2021-10-05 14:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | test: add performance benchmark tests |
 | 2021-10-05 15:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2021-10-05 16:20 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add OpenAPI documentation |
+| 2021-10-05 16:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | chore: add pre-commit hooks |
