@@ -7298,3 +7298,4 @@
 | 2021-10-05 13:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2021-10-05 14:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | test: add performance benchmark tests |
 | 2021-10-05 15:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | refactor: improve code readability |
+| 2021-10-05 16:20 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add OpenAPI documentation |
