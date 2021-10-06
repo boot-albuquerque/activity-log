@@ -7302,3 +7302,4 @@
 | 2021-10-05 16:20 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | chore: add pre-commit hooks |
 | 2021-10-05 17:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | test: fix flaky test in async handler |
 | 2021-10-06 10:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | feat: add email notification on status change |
+| 2021-10-06 12:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
