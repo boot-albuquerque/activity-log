@@ -7310,3 +7310,4 @@
 | 2021-10-07 09:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: create order processing service |
 | 2021-10-07 09:55 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | security: update SSL certificates config |
 | 2021-10-07 10:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: implement webhook receiver |
+| 2021-10-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct validation error messages |
