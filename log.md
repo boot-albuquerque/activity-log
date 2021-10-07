@@ -7311,3 +7311,4 @@
 | 2021-10-07 09:55 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | security: update SSL certificates config |
 | 2021-10-07 10:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: implement webhook receiver |
 | 2021-10-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct validation error messages |
+| 2021-10-07 18:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | refactor: move constants to config module |
