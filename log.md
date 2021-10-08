@@ -7314,3 +7314,4 @@
 | 2021-10-07 18:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2021-10-07 22:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | db: add migration for new schema |
 | 2021-10-07 22:08 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | fix: correct decimal precision in billing |
+| 2021-10-07 22:13 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | test: cover edge cases in validator |
