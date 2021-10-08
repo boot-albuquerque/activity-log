@@ -7313,3 +7313,4 @@
 | 2021-10-07 18:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct validation error messages |
 | 2021-10-07 18:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2021-10-07 22:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | db: add migration for new schema |
+| 2021-10-07 22:08 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | fix: correct decimal precision in billing |
