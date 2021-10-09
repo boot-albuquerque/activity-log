@@ -7320,3 +7320,4 @@
 | 2021-10-08 13:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | perf: add database indexes |
 | 2021-10-08 13:55 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2021-10-08 15:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | feat: add search with filters |
+| 2021-10-09 12:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | docs: add README setup instructions |
