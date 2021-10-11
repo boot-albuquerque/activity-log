@@ -7331,3 +7331,4 @@
 | 2021-10-11 11:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct null check in user service |
 | 2021-10-11 15:04 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | chore: update dependencies |
 | 2021-10-11 16:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | infra: add Kubernetes manifests |
+| 2021-10-11 17:21 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/rate-limiting` | fix: handle malformed JSON input |
