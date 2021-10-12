@@ -7337,3 +7337,4 @@
 | 2021-10-11 23:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
 | 2021-10-12 12:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: correct validation error messages |
 | 2021-10-12 12:36 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | test: improve test coverage to 80% |
+| 2021-10-12 13:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/typo-response` | fix: resolve memory leak in connection pool |
