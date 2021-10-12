@@ -7340,3 +7340,4 @@
 | 2021-10-12 13:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/typo-response` | fix: resolve memory leak in connection pool |
 | 2021-10-12 14:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | feat: add user authentication endpoint |
 | 2021-10-12 16:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | ci: add automated deployment pipeline |
+| 2021-10-12 17:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
