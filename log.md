@@ -7336,3 +7336,4 @@
 | 2021-10-11 19:55 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | refactor: adopt repository pattern |
 | 2021-10-11 23:25 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
 | 2021-10-12 12:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: correct validation error messages |
+| 2021-10-12 12:36 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | test: improve test coverage to 80% |
