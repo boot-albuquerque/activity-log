@@ -7342,3 +7342,4 @@
 | 2021-10-12 16:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | ci: add automated deployment pipeline |
 | 2021-10-12 17:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
 | 2021-10-12 17:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add pagination to list endpoint |
+| 2021-10-12 19:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: add e2e tests for checkout flow |
