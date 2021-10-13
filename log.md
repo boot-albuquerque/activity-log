@@ -7344,3 +7344,4 @@
 | 2021-10-12 17:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2021-10-12 19:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: add e2e tests for checkout flow |
 | 2021-10-13 10:07 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | fix: correct validation error messages |
+| 2021-10-13 13:17 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | security: fix SQL injection vulnerability |
