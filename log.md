@@ -7351,3 +7351,4 @@
 | 2021-10-13 19:28 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | db: add migration for new schema |
 | 2021-10-13 19:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2021-10-14 00:07 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | fix: handle malformed JSON input |
+| 2021-10-14 09:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | chore: update dependencies |
