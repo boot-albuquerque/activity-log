@@ -7359,3 +7359,4 @@
 | 2021-10-14 15:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v1.0` | fix: resolve deadlock in transaction |
 | 2021-10-14 15:17 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2021-10-14 17:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | style: fix indentation and whitespace |
+| 2021-10-14 17:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add email notification on status change |
