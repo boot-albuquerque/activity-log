@@ -7360,3 +7360,4 @@
 | 2021-10-14 15:17 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2021-10-14 17:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2021-10-14 17:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add email notification on status change |
+| 2021-10-14 19:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | ci: configure staging environment |
