@@ -7362,3 +7362,4 @@
 | 2021-10-14 17:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add email notification on status change |
 | 2021-10-14 19:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | ci: configure staging environment |
 | 2021-10-16 09:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: add search with filters |
+| 2021-10-16 15:45 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct null check in user service |
