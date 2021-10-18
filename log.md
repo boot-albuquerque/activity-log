@@ -7370,3 +7370,4 @@
 | 2021-10-18 00:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: correct null check in user service |
 | 2021-10-18 09:50 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2021-10-18 10:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: create health check endpoint |
+| 2021-10-18 11:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: add pre-commit hooks |
