@@ -7366,3 +7366,4 @@
 | 2021-10-17 21:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: create health check endpoint |
 | 2021-10-17 21:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | fix: handle empty response from external API |
 | 2021-10-17 22:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2021-10-17 22:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
