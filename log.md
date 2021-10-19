@@ -7383,3 +7383,4 @@
 | 2021-10-19 12:50 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | db: optimize slow queries |
 | 2021-10-19 13:16 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | security: update SSL certificates config |
 | 2021-10-19 13:20 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | perf: reduce bundle size |
+| 2021-10-19 13:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | test: add e2e tests for checkout flow |
