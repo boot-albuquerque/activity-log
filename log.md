@@ -7380,3 +7380,4 @@
 | 2021-10-19 00:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | feat: implement webhook receiver |
 | 2021-10-19 10:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: cover edge cases in validator |
 | 2021-10-19 11:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | feat: add file upload support |
+| 2021-10-19 12:50 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | db: optimize slow queries |
