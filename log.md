@@ -7375,3 +7375,4 @@
 | 2021-10-18 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | style: format code according to style guide |
 | 2021-10-18 16:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | security: add input sanitization |
 | 2021-10-18 20:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | docs: add README setup instructions |
+| 2021-10-18 21:56 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
