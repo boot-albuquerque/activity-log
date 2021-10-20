@@ -7396,3 +7396,4 @@
 | 2021-10-20 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | docs: add README setup instructions |
 | 2021-10-20 14:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2021-10-20 15:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add audit log trail |
+| 2021-10-20 16:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: correct null check in user service |
