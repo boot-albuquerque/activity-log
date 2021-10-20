@@ -7394,3 +7394,4 @@
 | 2021-10-20 12:50 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | feat: add export to CSV/Excel |
 | 2021-10-20 13:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | ci: add automated deployment pipeline |
 | 2021-10-20 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | docs: add README setup instructions |
+| 2021-10-20 14:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
