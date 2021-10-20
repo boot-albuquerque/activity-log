@@ -7395,3 +7395,4 @@
 | 2021-10-20 13:01 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | ci: add automated deployment pipeline |
 | 2021-10-20 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | docs: add README setup instructions |
 | 2021-10-20 14:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
+| 2021-10-20 15:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add audit log trail |
