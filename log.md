@@ -7398,3 +7398,4 @@
 | 2021-10-20 15:26 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: add audit log trail |
 | 2021-10-20 16:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: correct null check in user service |
 | 2021-10-20 19:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add real-time notifications |
+| 2021-10-20 21:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: correct pagination offset calculation |
