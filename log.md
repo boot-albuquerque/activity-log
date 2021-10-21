@@ -7399,3 +7399,4 @@
 | 2021-10-20 16:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | fix: correct null check in user service |
 | 2021-10-20 19:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add real-time notifications |
 | 2021-10-20 21:30 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: correct pagination offset calculation |
+| 2021-10-20 22:54 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | feat: create background job processor |
