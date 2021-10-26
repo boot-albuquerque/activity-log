@@ -7414,3 +7414,4 @@
 | 2021-10-26 16:59 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | docs: update API documentation |
 | 2021-10-26 18:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | feat: add audit log trail |
 | 2021-10-26 19:27 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | feat: add export to CSV/Excel |
+| 2021-10-26 20:01 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | chore: add Docker Compose for local dev |
