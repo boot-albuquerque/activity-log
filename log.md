@@ -7405,3 +7405,4 @@
 | 2021-10-25 11:38 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | refactor: improve code readability |
 | 2021-10-25 16:07 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
 | 2021-10-25 18:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | perf: reduce bundle size |
+| 2021-10-25 22:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: add user authentication endpoint |
