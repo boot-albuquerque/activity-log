@@ -7417,3 +7417,4 @@
 | 2021-10-26 20:01 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | chore: add Docker Compose for local dev |
 | 2021-10-26 21:08 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2021-10-26 23:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/update-deps` | feat: implement JWT refresh token |
+| 2021-10-27 00:58 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | chore: update dependencies |
