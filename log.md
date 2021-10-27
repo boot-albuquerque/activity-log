@@ -7424,3 +7424,4 @@
 | 2021-10-27 15:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: improve code readability |
 | 2021-10-27 16:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | chore: update dependencies |
 | 2021-10-27 17:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | chore: update dependencies |
+| 2021-10-27 20:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | feat: add file upload support |
