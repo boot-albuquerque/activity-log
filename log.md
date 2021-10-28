@@ -7433,3 +7433,4 @@
 | 2021-10-28 12:55 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2021-10-28 12:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | feat: add real-time notifications |
 | 2021-10-28 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
+| 2021-10-28 15:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | fix: correct pagination offset calculation |
