@@ -7436,3 +7436,4 @@
 | 2021-10-28 15:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | fix: correct pagination offset calculation |
 | 2021-10-28 15:43 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | refactor: split large controller into smaller ones |
 | 2021-10-28 16:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: implement caching layer |
+| 2021-10-28 18:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: handle timeout in async operation |
