@@ -7427,3 +7427,4 @@
 | 2021-10-27 20:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/critical-fix` | feat: add file upload support |
 | 2021-10-28 10:14 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | feat: create order processing service |
 | 2021-10-28 11:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | style: fix indentation and whitespace |
+| 2021-10-28 12:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: implement JWT refresh token |
