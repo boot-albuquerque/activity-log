@@ -7429,3 +7429,4 @@
 | 2021-10-28 11:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | style: fix indentation and whitespace |
 | 2021-10-28 12:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | feat: implement JWT refresh token |
 | 2021-10-28 12:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
+| 2021-10-28 12:46 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
