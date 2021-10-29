@@ -7447,3 +7447,4 @@
 | 2021-10-29 15:49 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: create dashboard metrics endpoint |
 | 2021-10-29 15:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add pagination to list endpoint |
 | 2021-10-29 16:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | db: optimize slow queries |
+| 2021-10-29 18:13 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
