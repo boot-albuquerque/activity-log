@@ -7442,3 +7442,4 @@
 | 2021-10-29 11:08 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | db: optimize slow queries |
 | 2021-10-29 13:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | db: add migration for new schema |
 | 2021-10-29 13:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | fix: handle missing environment variable |
+| 2021-10-29 14:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | fix: handle timeout in async operation |
