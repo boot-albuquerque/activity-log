@@ -7443,3 +7443,4 @@
 | 2021-10-29 13:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | db: add migration for new schema |
 | 2021-10-29 13:57 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | fix: handle missing environment variable |
 | 2021-10-29 14:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | fix: handle timeout in async operation |
+| 2021-10-29 14:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | style: format code according to style guide |
