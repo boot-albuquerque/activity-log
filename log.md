@@ -7438,3 +7438,4 @@
 | 2021-10-28 16:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/critical-fix` | feat: implement caching layer |
 | 2021-10-28 18:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: handle timeout in async operation |
 | 2021-10-28 21:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: add pagination to list endpoint |
+| 2021-10-29 08:05 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: implement rate limiting middleware |
