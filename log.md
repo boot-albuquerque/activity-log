@@ -7445,3 +7445,4 @@
 | 2021-10-29 14:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2021-10-29 14:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | style: format code according to style guide |
 | 2021-10-29 15:49 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: create dashboard metrics endpoint |
+| 2021-10-29 15:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add pagination to list endpoint |
