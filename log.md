@@ -7456,3 +7456,4 @@
 | 2021-11-02 07:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | refactor: clean up unused imports |
 | 2021-11-02 07:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: add README setup instructions |
 | 2021-11-02 09:24 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | chore: update dependencies |
+| 2021-11-02 12:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create order processing service |
