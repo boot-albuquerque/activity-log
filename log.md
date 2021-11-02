@@ -7459,3 +7459,4 @@
 | 2021-11-02 12:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create order processing service |
 | 2021-11-02 14:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | fix: correct null check in user service |
 | 2021-11-02 14:50 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | refactor: split large controller into smaller ones |
+| 2021-11-02 18:13 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
