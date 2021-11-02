@@ -7454,3 +7454,4 @@
 | 2021-11-01 13:38 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
 | 2021-11-01 17:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | fix: correct decimal precision in billing |
 | 2021-11-02 07:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | refactor: clean up unused imports |
+| 2021-11-02 07:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: add README setup instructions |
