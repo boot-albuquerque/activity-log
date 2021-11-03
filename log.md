@@ -7462,3 +7462,4 @@
 | 2021-11-02 18:13 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | feat: create dashboard metrics endpoint |
 | 2021-11-02 18:53 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2021-11-02 22:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v2.0` | feat: create dashboard metrics endpoint |
+| 2021-11-02 23:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | fix: handle missing environment variable |
