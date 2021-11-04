@@ -7469,3 +7469,4 @@
 | 2021-11-03 10:22 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/race-condition` | fix: handle timeout in async operation |
 | 2021-11-03 16:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: add bulk operations support |
 | 2021-11-03 16:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
+| 2021-11-04 11:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: correct validation error messages |
