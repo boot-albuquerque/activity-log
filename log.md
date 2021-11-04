@@ -7471,3 +7471,4 @@
 | 2021-11-03 16:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
 | 2021-11-04 11:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | fix: correct validation error messages |
 | 2021-11-04 12:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | ci: add automated deployment pipeline |
+| 2021-11-04 16:40 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | feat: implement soft delete pattern |
