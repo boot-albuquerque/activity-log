@@ -7476,3 +7476,4 @@
 | 2021-11-04 21:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | style: fix indentation and whitespace |
 | 2021-11-04 23:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | infra: update Terraform modules |
 | 2021-11-06 09:17 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | fix: handle timeout in async operation |
+| 2021-11-06 09:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: add file upload support |
