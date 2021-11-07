@@ -7479,3 +7479,4 @@
 | 2021-11-06 09:21 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: add file upload support |
 | 2021-11-06 17:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | style: format code according to style guide |
 | 2021-11-06 20:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | refactor: improve code readability |
+| 2021-11-06 22:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: handle missing environment variable |
