@@ -7481,3 +7481,4 @@
 | 2021-11-06 20:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | refactor: improve code readability |
 | 2021-11-06 22:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2021-11-07 12:48 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | perf: reduce bundle size |
+| 2021-11-07 14:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
