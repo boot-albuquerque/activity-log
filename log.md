@@ -7491,3 +7491,4 @@
 | 2021-11-08 18:44 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2021-11-08 19:48 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2021-11-08 20:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | feat: add user authentication endpoint |
+| 2021-11-08 20:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | style: fix indentation and whitespace |
