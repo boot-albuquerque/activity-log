@@ -7482,3 +7482,4 @@
 | 2021-11-06 22:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2021-11-07 12:48 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2021-11-07 14:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
+| 2021-11-08 10:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v3.0` | fix: resolve N+1 query problem |
