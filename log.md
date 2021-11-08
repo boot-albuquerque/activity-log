@@ -7486,3 +7486,4 @@
 | 2021-11-08 13:59 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | fix: handle malformed JSON input |
 | 2021-11-08 15:36 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | feat: implement webhook receiver |
 | 2021-11-08 16:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | feat: add audit log trail |
+| 2021-11-08 16:20 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | test: add integration tests for API endpoints |
