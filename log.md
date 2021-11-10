@@ -7494,3 +7494,4 @@
 | 2021-11-08 20:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2021-11-10 09:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: mock external dependencies in tests |
 | 2021-11-10 11:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | chore: add Docker Compose for local dev |
+| 2021-11-10 13:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | fix: handle empty response from external API |
