@@ -7500,3 +7500,4 @@
 | 2021-11-10 18:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | feat: add user authentication endpoint |
 | 2021-11-10 19:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: implement caching layer |
 | 2021-11-11 08:50 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: add input sanitization |
+| 2021-11-11 11:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: add bulk operations support |
