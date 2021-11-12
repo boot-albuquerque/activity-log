@@ -7506,3 +7506,4 @@
 | 2021-11-11 20:49 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | chore: configure ESLint and Prettier |
 | 2021-11-11 20:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: create order processing service |
 | 2021-11-11 21:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | chore: update dependencies |
+| 2021-11-12 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | feat: add real-time notifications |
