@@ -7509,3 +7509,4 @@
 | 2021-11-12 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | feat: add real-time notifications |
 | 2021-11-13 08:41 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: resolve N+1 query problem |
 | 2021-11-13 09:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | perf: add database indexes |
+| 2021-11-13 12:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | feat: add email notification on status change |
