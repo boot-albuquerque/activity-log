@@ -7510,3 +7510,4 @@
 | 2021-11-13 08:41 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: resolve N+1 query problem |
 | 2021-11-13 09:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | perf: add database indexes |
 | 2021-11-13 12:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | feat: add email notification on status change |
+| 2021-11-13 13:30 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | feat: add file upload support |
