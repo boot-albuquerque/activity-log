@@ -7519,3 +7519,4 @@
 | 2021-11-15 14:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: implement soft delete pattern |
 | 2021-11-15 15:13 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | perf: reduce bundle size |
 | 2021-11-15 15:41 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | fix: correct validation error messages |
+| 2021-11-15 17:53 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | feat: implement soft delete pattern |
