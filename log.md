@@ -7517,3 +7517,4 @@
 | 2021-11-15 12:04 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | feat: add email notification on status change |
 | 2021-11-15 13:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: add email notification on status change |
 | 2021-11-15 14:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: implement soft delete pattern |
+| 2021-11-15 15:13 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | perf: reduce bundle size |
