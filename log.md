@@ -7524,3 +7524,4 @@
 | 2021-11-16 14:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | docs: add README setup instructions |
 | 2021-11-16 14:51 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | refactor: split large controller into smaller ones |
 | 2021-11-16 15:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | refactor: adopt repository pattern |
+| 2021-11-16 20:24 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/add-caching` | test: add integration tests for API endpoints |
