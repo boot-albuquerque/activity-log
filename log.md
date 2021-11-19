@@ -7529,3 +7529,4 @@
 | 2021-11-17 16:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | test: cover edge cases in validator |
 | 2021-11-19 09:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
 | 2021-11-19 12:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | style: format code according to style guide |
+| 2021-11-19 13:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add user authentication endpoint |
