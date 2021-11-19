@@ -7528,3 +7528,4 @@
 | 2021-11-17 11:22 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | ci: configure staging environment |
 | 2021-11-17 16:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | test: cover edge cases in validator |
 | 2021-11-19 09:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | chore: upgrade to latest Node.js LTS |
+| 2021-11-19 12:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | style: format code according to style guide |
