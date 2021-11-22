@@ -7534,3 +7534,4 @@
 | 2021-11-22 07:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | docs: update API documentation |
 | 2021-11-22 11:48 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | feat: add user authentication endpoint |
 | 2021-11-22 11:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/update-deps` | docs: add README setup instructions |
+| 2021-11-22 12:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: implement JWT refresh token |
