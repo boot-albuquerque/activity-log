@@ -7536,3 +7536,4 @@
 | 2021-11-22 11:57 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/update-deps` | docs: add README setup instructions |
 | 2021-11-22 12:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: implement JWT refresh token |
 | 2021-11-22 13:55 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | fix: handle timeout in async operation |
+| 2021-11-22 16:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | fix: resolve memory leak in connection pool |
