@@ -7531,3 +7531,4 @@
 | 2021-11-19 12:24 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | style: format code according to style guide |
 | 2021-11-19 13:02 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add user authentication endpoint |
 | 2021-11-19 23:15 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | fix: handle empty response from external API |
+| 2021-11-22 07:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | docs: update API documentation |
