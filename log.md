@@ -7539,3 +7539,4 @@
 | 2021-11-22 16:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2021-11-22 20:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | docs: add README setup instructions |
 | 2021-11-22 23:27 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add audit log trail |
+| 2021-11-23 00:06 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | test: add performance benchmark tests |
