@@ -7540,3 +7540,4 @@
 | 2021-11-22 20:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | docs: add README setup instructions |
 | 2021-11-22 23:27 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add audit log trail |
 | 2021-11-23 00:06 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | test: add performance benchmark tests |
+| 2021-11-23 07:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | chore: add pre-commit hooks |
