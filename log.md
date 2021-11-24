@@ -7554,3 +7554,4 @@
 | 2021-11-24 08:25 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: create order processing service |
 | 2021-11-24 09:21 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: implement caching layer |
 | 2021-11-24 10:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | infra: configure auto-scaling policies |
+| 2021-11-24 14:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | fix: correct validation error messages |
