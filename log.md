@@ -7550,3 +7550,4 @@
 | 2021-11-23 14:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | feat: implement caching layer |
 | 2021-11-23 14:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2021-11-23 17:58 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | chore: add pre-commit hooks |
+| 2021-11-23 23:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: correct pagination offset calculation |
