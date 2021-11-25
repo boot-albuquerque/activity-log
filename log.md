@@ -7561,3 +7561,4 @@
 | 2021-11-25 00:24 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | test: fix flaky test in async handler |
 | 2021-11-25 08:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | feat: add real-time notifications |
 | 2021-11-25 09:36 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: add real-time notifications |
+| 2021-11-25 11:18 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | ci: add automated deployment pipeline |
