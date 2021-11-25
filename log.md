@@ -7564,3 +7564,4 @@
 | 2021-11-25 11:18 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2021-11-25 12:57 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | db: add composite index |
 | 2021-11-25 13:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | style: fix indentation and whitespace |
+| 2021-11-25 15:52 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | refactor: replace raw SQL with query builder |
