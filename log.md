@@ -7574,3 +7574,4 @@
 | 2021-11-26 16:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2021-11-26 17:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | refactor: move constants to config module |
 | 2021-11-26 19:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
+| 2021-11-26 20:31 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
