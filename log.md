@@ -7573,3 +7573,4 @@
 | 2021-11-26 15:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | infra: add Kubernetes manifests |
 | 2021-11-26 16:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2021-11-26 17:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | refactor: move constants to config module |
+| 2021-11-26 19:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/critical-fix` | feat: implement rate limiting middleware |
