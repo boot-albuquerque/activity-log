@@ -7583,3 +7583,4 @@
 | 2021-11-27 21:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | feat: implement caching layer |
 | 2021-11-28 00:43 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | feat: implement webhook receiver |
 | 2021-11-28 15:22 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add email notification on status change |
+| 2021-11-28 19:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
