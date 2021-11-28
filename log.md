@@ -7584,3 +7584,4 @@
 | 2021-11-28 00:43 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | feat: implement webhook receiver |
 | 2021-11-28 15:22 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add email notification on status change |
 | 2021-11-28 19:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
+| 2021-11-28 19:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: handle missing environment variable |
