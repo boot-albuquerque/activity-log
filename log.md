@@ -7599,3 +7599,4 @@
 | 2021-11-30 16:18 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | feat: create background job processor |
 | 2021-11-30 16:48 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | security: add input sanitization |
 | 2021-11-30 17:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | test: improve test coverage to 80% |
+| 2021-11-30 17:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | infra: add Kubernetes manifests |
