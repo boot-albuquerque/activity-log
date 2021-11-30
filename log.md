@@ -7595,3 +7595,4 @@
 | 2021-11-30 14:26 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | db: optimize slow queries |
 | 2021-11-30 14:55 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | infra: update Terraform modules |
 | 2021-11-30 15:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: implement caching layer |
+| 2021-11-30 15:44 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | docs: document environment variables |
