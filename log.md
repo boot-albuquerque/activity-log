@@ -7591,3 +7591,4 @@
 | 2021-11-30 11:27 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: split large controller into smaller ones |
 | 2021-11-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | infra: add Kubernetes manifests |
 | 2021-11-30 14:15 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | ci: add automated deployment pipeline |
+| 2021-11-30 14:25 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | docs: update API documentation |
