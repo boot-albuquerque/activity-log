@@ -7608,3 +7608,4 @@
 | 2021-12-01 13:35 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | db: add composite index |
 | 2021-12-01 13:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: create health check endpoint |
 | 2021-12-01 15:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | feat: create background job processor |
+| 2021-12-01 15:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: implement JWT refresh token |
