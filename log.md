@@ -7603,3 +7603,4 @@
 | 2021-11-30 21:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | infra: configure auto-scaling policies |
 | 2021-12-01 08:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | infra: configure auto-scaling policies |
 | 2021-12-01 10:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | refactor: clean up unused imports |
+| 2021-12-01 12:38 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: add search with filters |
