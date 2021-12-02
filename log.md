@@ -7613,3 +7613,4 @@
 | 2021-12-01 20:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2021-12-01 21:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2021-12-02 10:11 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | fix: handle empty response from external API |
+| 2021-12-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: resolve deadlock in transaction |
