@@ -7615,3 +7615,4 @@
 | 2021-12-02 10:11 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | fix: handle empty response from external API |
 | 2021-12-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: resolve deadlock in transaction |
 | 2021-12-02 15:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
+| 2021-12-02 20:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
