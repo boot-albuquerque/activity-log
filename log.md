@@ -7614,3 +7614,4 @@
 | 2021-12-01 21:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2021-12-02 10:11 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | fix: handle empty response from external API |
 | 2021-12-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: resolve deadlock in transaction |
+| 2021-12-02 15:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | test: add e2e tests for checkout flow |
