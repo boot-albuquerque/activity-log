@@ -7611,3 +7611,4 @@
 | 2021-12-01 15:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | feat: implement JWT refresh token |
 | 2021-12-01 19:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2021-12-01 20:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add email notification on status change |
+| 2021-12-01 21:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
