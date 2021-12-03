@@ -7618,3 +7618,4 @@
 | 2021-12-02 20:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
 | 2021-12-02 20:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | db: add migration for new schema |
 | 2021-12-03 00:44 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: handle malformed JSON input |
+| 2021-12-03 12:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | refactor: replace raw SQL with query builder |
