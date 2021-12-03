@@ -7623,3 +7623,4 @@
 | 2021-12-03 13:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2021-12-03 13:42 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2021-12-03 13:55 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | style: fix indentation and whitespace |
+| 2021-12-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | test: mock external dependencies in tests |
