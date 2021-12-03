@@ -7620,3 +7620,4 @@
 | 2021-12-03 00:44 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: handle malformed JSON input |
 | 2021-12-03 12:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2021-12-03 12:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: correct decimal precision in billing |
+| 2021-12-03 13:04 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
