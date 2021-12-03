@@ -7626,3 +7626,4 @@
 | 2021-12-03 14:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | test: mock external dependencies in tests |
 | 2021-12-03 14:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | perf: implement response compression |
 | 2021-12-03 17:57 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | feat: create background job processor |
+| 2021-12-03 19:23 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | chore: add pre-commit hooks |
