@@ -7629,3 +7629,4 @@
 | 2021-12-03 19:23 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2021-12-03 19:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | perf: reduce bundle size |
 | 2021-12-03 22:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: add database indexes |
+| 2021-12-04 12:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: add email notification on status change |
