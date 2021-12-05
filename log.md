@@ -7632,3 +7632,4 @@
 | 2021-12-04 12:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2021-12-04 17:41 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | refactor: move constants to config module |
 | 2021-12-04 19:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: cover edge cases in validator |
+| 2021-12-04 22:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | security: fix SQL injection vulnerability |
