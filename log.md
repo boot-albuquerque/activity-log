@@ -7648,3 +7648,4 @@
 | 2021-12-07 13:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
 | 2021-12-07 15:17 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | feat: add bulk operations support |
 | 2021-12-07 20:09 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
+| 2021-12-07 20:48 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | docs: document environment variables |
