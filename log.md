@@ -7641,3 +7641,4 @@
 | 2021-12-07 00:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2021-12-07 08:08 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2021-12-07 09:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | feat: add search with filters |
+| 2021-12-07 11:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | style: fix indentation and whitespace |
