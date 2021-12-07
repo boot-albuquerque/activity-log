@@ -7639,3 +7639,4 @@
 | 2021-12-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | feat: create order processing service |
 | 2021-12-06 15:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | feat: implement caching layer |
 | 2021-12-07 00:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2021-12-07 08:08 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | refactor: clean up unused imports |
