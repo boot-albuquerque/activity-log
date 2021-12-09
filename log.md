@@ -7655,3 +7655,4 @@
 | 2021-12-08 14:12 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2021-12-08 17:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2021-12-08 20:20 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | perf: add database indexes |
+| 2021-12-08 20:42 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
