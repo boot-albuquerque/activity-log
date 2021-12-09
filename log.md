@@ -7658,3 +7658,4 @@
 | 2021-12-08 20:42 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2021-12-09 12:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2021-12-09 13:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/refactor-queries` | perf: reduce bundle size |
+| 2021-12-09 13:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | feat: add email notification on status change |
