@@ -7661,3 +7661,4 @@
 | 2021-12-09 13:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | feat: add email notification on status change |
 | 2021-12-09 14:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: clean up unused imports |
 | 2021-12-09 14:31 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | refactor: replace raw SQL with query builder |
+| 2021-12-09 14:43 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: create dashboard metrics endpoint |
