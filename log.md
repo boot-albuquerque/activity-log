@@ -7660,3 +7660,4 @@
 | 2021-12-09 13:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/refactor-queries` | perf: reduce bundle size |
 | 2021-12-09 13:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | feat: add email notification on status change |
 | 2021-12-09 14:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: clean up unused imports |
+| 2021-12-09 14:31 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | refactor: replace raw SQL with query builder |
