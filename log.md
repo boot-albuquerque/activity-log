@@ -7666,3 +7666,4 @@
 | 2021-12-09 23:38 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2021-12-10 09:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: implement soft delete pattern |
 | 2021-12-10 09:21 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: fix flaky test in async handler |
+| 2021-12-10 11:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | db: optimize slow queries |
