@@ -7671,3 +7671,4 @@
 | 2021-12-10 13:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: add e2e tests for checkout flow |
 | 2021-12-10 14:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | feat: add file upload support |
 | 2021-12-10 15:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | fix: correct null check in user service |
+| 2021-12-10 16:15 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | chore: upgrade to latest Node.js LTS |
