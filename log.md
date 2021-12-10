@@ -7669,3 +7669,4 @@
 | 2021-12-10 11:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | db: optimize slow queries |
 | 2021-12-10 12:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | docs: update API documentation |
 | 2021-12-10 13:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: add e2e tests for checkout flow |
+| 2021-12-10 14:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | feat: add file upload support |
