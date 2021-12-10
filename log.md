@@ -7664,3 +7664,4 @@
 | 2021-12-09 14:43 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: create dashboard metrics endpoint |
 | 2021-12-09 22:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | security: add input sanitization |
 | 2021-12-09 23:38 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | test: add performance benchmark tests |
+| 2021-12-10 09:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: implement soft delete pattern |
