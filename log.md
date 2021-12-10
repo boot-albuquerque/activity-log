@@ -7668,3 +7668,4 @@
 | 2021-12-10 09:21 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: fix flaky test in async handler |
 | 2021-12-10 11:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | db: optimize slow queries |
 | 2021-12-10 12:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | docs: update API documentation |
+| 2021-12-10 13:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: add e2e tests for checkout flow |
