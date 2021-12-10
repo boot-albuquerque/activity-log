@@ -7663,3 +7663,4 @@
 | 2021-12-09 14:31 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | refactor: replace raw SQL with query builder |
 | 2021-12-09 14:43 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: create dashboard metrics endpoint |
 | 2021-12-09 22:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | security: add input sanitization |
+| 2021-12-09 23:38 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/refactor-queries` | test: add performance benchmark tests |
