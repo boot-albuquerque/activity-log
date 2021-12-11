@@ -7674,3 +7674,4 @@
 | 2021-12-10 16:15 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2021-12-10 17:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | security: update SSL certificates config |
 | 2021-12-10 18:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: add search with filters |
+| 2021-12-10 22:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | style: format code according to style guide |
