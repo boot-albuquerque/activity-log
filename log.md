@@ -7676,3 +7676,4 @@
 | 2021-12-10 18:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: add search with filters |
 | 2021-12-10 22:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2021-12-11 09:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: split large controller into smaller ones |
+| 2021-12-11 11:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | chore: add pre-commit hooks |
