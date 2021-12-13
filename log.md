@@ -7678,3 +7678,4 @@
 | 2021-12-11 09:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: split large controller into smaller ones |
 | 2021-12-11 11:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | chore: add pre-commit hooks |
 | 2021-12-13 13:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
+| 2021-12-13 14:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | refactor: clean up unused imports |
