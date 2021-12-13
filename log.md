@@ -7677,3 +7677,4 @@
 | 2021-12-10 22:33 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2021-12-11 09:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: split large controller into smaller ones |
 | 2021-12-11 11:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | chore: add pre-commit hooks |
+| 2021-12-13 13:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
