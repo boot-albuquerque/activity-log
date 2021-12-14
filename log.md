@@ -7685,3 +7685,4 @@
 | 2021-12-14 12:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | ci: configure staging environment |
 | 2021-12-14 12:43 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: implement rate limiting middleware |
 | 2021-12-14 13:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | infra: add Kubernetes manifests |
+| 2021-12-14 15:02 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | chore: configure GitHub Actions CI |
