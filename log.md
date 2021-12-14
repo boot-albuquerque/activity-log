@@ -7684,3 +7684,4 @@
 | 2021-12-14 12:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | feat: add real-time notifications |
 | 2021-12-14 12:38 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | ci: configure staging environment |
 | 2021-12-14 12:43 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: implement rate limiting middleware |
+| 2021-12-14 13:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | infra: add Kubernetes manifests |
