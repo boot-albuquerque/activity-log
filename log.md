@@ -7688,3 +7688,4 @@
 | 2021-12-14 15:02 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | chore: configure GitHub Actions CI |
 | 2021-12-14 15:28 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: add search with filters |
 | 2021-12-14 18:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | refactor: improve code readability |
+| 2021-12-14 18:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle missing environment variable |
