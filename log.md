@@ -7690,3 +7690,4 @@
 | 2021-12-14 18:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | refactor: improve code readability |
 | 2021-12-14 18:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2021-12-14 20:47 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: create dashboard metrics endpoint |
+| 2021-12-14 21:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | refactor: move constants to config module |
