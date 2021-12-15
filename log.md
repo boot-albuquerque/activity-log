@@ -7692,3 +7692,4 @@
 | 2021-12-14 20:47 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: create dashboard metrics endpoint |
 | 2021-12-14 21:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2021-12-15 10:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add pagination to list endpoint |
+| 2021-12-15 11:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add bulk operations support |
