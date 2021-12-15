@@ -7694,3 +7694,4 @@
 | 2021-12-15 10:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add pagination to list endpoint |
 | 2021-12-15 11:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add bulk operations support |
 | 2021-12-15 15:35 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: add export to CSV/Excel |
+| 2021-12-15 15:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | docs: add README setup instructions |
