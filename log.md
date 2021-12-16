@@ -7707,3 +7707,4 @@
 | 2021-12-16 13:48 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | fix: correct validation error messages |
 | 2021-12-16 13:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | fix: handle empty response from external API |
 | 2021-12-16 16:09 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | docs: document environment variables |
+| 2021-12-16 16:25 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | feat: implement rate limiting middleware |
