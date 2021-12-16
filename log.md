@@ -7703,3 +7703,4 @@
 | 2021-12-15 18:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2021-12-15 19:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: reduce bundle size |
 | 2021-12-16 09:28 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | ci: configure staging environment |
+| 2021-12-16 13:24 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | test: add integration tests for API endpoints |
