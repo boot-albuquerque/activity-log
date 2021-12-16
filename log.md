@@ -7702,3 +7702,4 @@
 | 2021-12-15 18:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2021-12-15 18:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2021-12-15 19:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: reduce bundle size |
+| 2021-12-16 09:28 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | ci: configure staging environment |
