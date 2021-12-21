@@ -7726,3 +7726,4 @@
 | 2021-12-20 16:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | feat: add real-time notifications |
 | 2021-12-20 17:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: add bulk operations support |
 | 2021-12-21 07:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | perf: implement response compression |
+| 2021-12-21 09:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | infra: add Kubernetes manifests |
