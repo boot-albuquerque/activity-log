@@ -7733,3 +7733,4 @@
 | 2021-12-21 15:26 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/refactor-queries` | feat: add export to CSV/Excel |
 | 2021-12-21 15:46 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | feat: add export to CSV/Excel |
 | 2021-12-21 16:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | docs: update API documentation |
+| 2021-12-21 17:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
