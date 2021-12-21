@@ -7727,3 +7727,4 @@
 | 2021-12-20 17:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | feat: add bulk operations support |
 | 2021-12-21 07:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | perf: implement response compression |
 | 2021-12-21 09:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | infra: add Kubernetes manifests |
+| 2021-12-21 12:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | feat: implement soft delete pattern |
