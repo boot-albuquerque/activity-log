@@ -7738,3 +7738,4 @@
 | 2021-12-21 20:30 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2021-12-22 10:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2021-12-22 12:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: handle timeout in async operation |
+| 2021-12-22 13:10 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v1.0` | fix: resolve race condition in queue worker |
