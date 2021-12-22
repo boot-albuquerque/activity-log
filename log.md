@@ -7736,3 +7736,4 @@
 | 2021-12-21 17:49 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | chore: configure GitHub Actions CI |
 | 2021-12-21 20:30 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | chore: update dependencies |
 | 2021-12-21 20:30 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | security: fix SQL injection vulnerability |
+| 2021-12-22 10:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
