@@ -7742,3 +7742,4 @@
 | 2021-12-22 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | fix: resolve CORS configuration |
 | 2021-12-22 15:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | security: update SSL certificates config |
 | 2021-12-22 22:32 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2021-12-23 12:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
