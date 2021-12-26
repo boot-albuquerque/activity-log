@@ -7752,3 +7752,4 @@
 | 2021-12-24 16:09 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | feat: create health check endpoint |
 | 2021-12-24 16:53 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | test: mock external dependencies in tests |
 | 2021-12-24 19:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | security: fix SQL injection vulnerability |
+| 2021-12-26 12:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | infra: configure auto-scaling policies |
