@@ -7761,3 +7761,4 @@
 | 2021-12-27 14:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | refactor: move constants to config module |
 | 2021-12-27 15:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
 | 2021-12-27 16:33 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | fix: handle malformed JSON input |
+| 2021-12-27 17:19 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | security: update SSL certificates config |
