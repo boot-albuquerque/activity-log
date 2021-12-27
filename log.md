@@ -7758,3 +7758,4 @@
 | 2021-12-27 12:14 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: implement caching layer |
 | 2021-12-27 13:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | fix: handle timeout in async operation |
 | 2021-12-27 13:49 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | feat: implement JWT refresh token |
+| 2021-12-27 14:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | refactor: move constants to config module |
