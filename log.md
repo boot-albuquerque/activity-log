@@ -7777,3 +7777,4 @@
 | 2021-12-29 17:19 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | db: add composite index |
 | 2021-12-29 17:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: handle edge case in date parsing |
 | 2021-12-29 22:06 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | test: improve test coverage to 80% |
+| 2021-12-30 11:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
