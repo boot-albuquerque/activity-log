@@ -7789,3 +7789,4 @@
 | 2021-12-31 15:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | fix: handle malformed JSON input |
 | 2021-12-31 17:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2021-12-31 23:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
+| 2022-01-01 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | docs: document environment variables |
