@@ -7788,3 +7788,4 @@
 | 2021-12-31 14:39 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2021-12-31 15:49 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | fix: handle malformed JSON input |
 | 2021-12-31 17:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | feat: add pagination to list endpoint |
+| 2021-12-31 23:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
