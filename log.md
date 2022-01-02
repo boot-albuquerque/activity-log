@@ -7790,3 +7790,4 @@
 | 2021-12-31 17:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2021-12-31 23:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
 | 2022-01-01 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | docs: document environment variables |
+| 2022-01-02 15:51 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: correct validation error messages |
