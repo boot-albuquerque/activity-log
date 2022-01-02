@@ -7791,3 +7791,4 @@
 | 2021-12-31 23:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
 | 2022-01-01 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | docs: document environment variables |
 | 2022-01-02 15:51 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: correct validation error messages |
+| 2022-01-02 20:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | feat: add export to CSV/Excel |
