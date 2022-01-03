@@ -7797,3 +7797,4 @@
 | 2022-01-03 11:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: fix flaky test in async handler |
 | 2022-01-03 12:35 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | chore: add pre-commit hooks |
 | 2022-01-03 17:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
+| 2022-01-03 20:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | db: optimize slow queries |
