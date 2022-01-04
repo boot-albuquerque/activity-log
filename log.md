@@ -7799,3 +7799,4 @@
 | 2022-01-03 17:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2022-01-03 20:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | db: optimize slow queries |
 | 2022-01-04 08:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | fix: correct validation error messages |
+| 2022-01-04 09:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | chore: configure ESLint and Prettier |
