@@ -7804,3 +7804,4 @@
 | 2022-01-04 14:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2022-01-04 17:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | refactor: adopt repository pattern |
 | 2022-01-04 19:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: fix flaky test in async handler |
+| 2022-01-04 22:05 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | db: add migration for new schema |
