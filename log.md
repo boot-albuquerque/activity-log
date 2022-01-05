@@ -7805,3 +7805,4 @@
 | 2022-01-04 17:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | refactor: adopt repository pattern |
 | 2022-01-04 19:16 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2022-01-04 22:05 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | db: add migration for new schema |
+| 2022-01-04 23:43 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | style: format code according to style guide |
