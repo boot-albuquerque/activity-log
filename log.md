@@ -7815,3 +7815,4 @@
 | 2022-01-05 15:55 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | feat: add real-time notifications |
 | 2022-01-05 16:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2022-01-05 21:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2022-01-05 22:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | fix: correct validation error messages |
