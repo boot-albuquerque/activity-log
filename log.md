@@ -7824,3 +7824,4 @@
 | 2022-01-07 11:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | docs: update API documentation |
 | 2022-01-07 11:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2022-01-07 11:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | feat: implement caching layer |
+| 2022-01-07 11:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | test: mock external dependencies in tests |
