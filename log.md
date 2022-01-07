@@ -7819,3 +7819,4 @@
 | 2022-01-05 22:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2022-01-06 10:55 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | perf: reduce bundle size |
 | 2022-01-06 16:32 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | docs: add README setup instructions |
+| 2022-01-07 08:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | feat: create health check endpoint |
