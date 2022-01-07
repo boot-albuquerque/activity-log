@@ -7822,3 +7822,4 @@
 | 2022-01-07 08:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | feat: create health check endpoint |
 | 2022-01-07 09:45 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2022-01-07 11:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | docs: update API documentation |
+| 2022-01-07 11:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: handle edge case in date parsing |
