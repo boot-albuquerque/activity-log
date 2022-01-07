@@ -7826,3 +7826,4 @@
 | 2022-01-07 11:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | feat: implement caching layer |
 | 2022-01-07 11:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | test: mock external dependencies in tests |
 | 2022-01-07 14:03 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | refactor: improve code readability |
+| 2022-01-07 15:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | perf: add database indexes |
