@@ -7834,3 +7834,4 @@
 | 2022-01-12 07:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | perf: optimize database queries |
 | 2022-01-12 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
 | 2022-01-12 12:30 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
+| 2022-01-12 13:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | refactor: adopt repository pattern |
