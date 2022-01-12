@@ -7833,3 +7833,4 @@
 | 2022-01-12 00:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: add integration tests for API endpoints |
 | 2022-01-12 07:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | perf: optimize database queries |
 | 2022-01-12 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
+| 2022-01-12 12:30 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
