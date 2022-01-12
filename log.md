@@ -7837,3 +7837,4 @@
 | 2022-01-12 13:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2022-01-12 13:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
 | 2022-01-12 14:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
+| 2022-01-12 15:17 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | feat: add OpenAPI documentation |
