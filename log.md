@@ -7831,3 +7831,4 @@
 | 2022-01-11 16:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2022-01-11 19:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | test: add unit tests for payment service |
 | 2022-01-12 00:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: add integration tests for API endpoints |
+| 2022-01-12 07:55 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | perf: optimize database queries |
