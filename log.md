@@ -7843,3 +7843,4 @@
 | 2022-01-12 19:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: resolve deadlock in transaction |
 | 2022-01-12 20:28 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | db: add migration for new schema |
 | 2022-01-13 13:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
+| 2022-01-13 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | test: add e2e tests for checkout flow |
