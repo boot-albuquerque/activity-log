@@ -7850,3 +7850,4 @@
 | 2022-01-13 18:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
 | 2022-01-13 18:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2022-01-13 20:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: add file upload support |
+| 2022-01-13 20:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | fix: resolve memory leak in connection pool |
