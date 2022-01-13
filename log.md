@@ -7841,3 +7841,4 @@
 | 2022-01-12 17:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | feat: add email notification on status change |
 | 2022-01-12 19:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: implement JWT refresh token |
 | 2022-01-12 19:56 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | fix: resolve deadlock in transaction |
+| 2022-01-12 20:28 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | db: add migration for new schema |
