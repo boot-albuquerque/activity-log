@@ -7844,3 +7844,4 @@
 | 2022-01-12 20:28 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | db: add migration for new schema |
 | 2022-01-13 13:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
 | 2022-01-13 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | test: add e2e tests for checkout flow |
+| 2022-01-13 15:42 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | security: update SSL certificates config |
