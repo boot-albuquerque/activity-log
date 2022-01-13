@@ -7845,3 +7845,4 @@
 | 2022-01-13 13:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | db: optimize slow queries |
 | 2022-01-13 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2022-01-13 15:42 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | security: update SSL certificates config |
+| 2022-01-13 15:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | test: add integration tests for API endpoints |
