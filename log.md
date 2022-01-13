@@ -7847,3 +7847,4 @@
 | 2022-01-13 15:42 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | security: update SSL certificates config |
 | 2022-01-13 15:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2022-01-13 17:20 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | test: add integration tests for API endpoints |
+| 2022-01-13 18:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
