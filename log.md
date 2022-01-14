@@ -7849,3 +7849,4 @@
 | 2022-01-13 17:20 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | test: add integration tests for API endpoints |
 | 2022-01-13 18:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
 | 2022-01-13 18:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | feat: add pagination to list endpoint |
+| 2022-01-13 20:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | feat: add file upload support |
