@@ -7862,3 +7862,4 @@
 | 2022-01-14 16:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | perf: optimize database queries |
 | 2022-01-15 00:34 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | style: fix indentation and whitespace |
 | 2022-01-15 14:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2022-01-17 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
