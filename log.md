@@ -7868,3 +7868,4 @@
 | 2022-01-19 13:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: handle empty response from external API |
 | 2022-01-19 13:33 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: resolve deadlock in transaction |
 | 2022-01-19 13:39 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2022-01-19 15:20 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | security: add input sanitization |
