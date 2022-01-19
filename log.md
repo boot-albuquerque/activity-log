@@ -7867,3 +7867,4 @@
 | 2022-01-19 11:13 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2022-01-19 13:22 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: handle empty response from external API |
 | 2022-01-19 13:33 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: resolve deadlock in transaction |
+| 2022-01-19 13:39 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve race condition in queue worker |
