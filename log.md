@@ -7872,3 +7872,4 @@
 | 2022-01-19 16:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | refactor: move constants to config module |
 | 2022-01-19 16:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | security: add input sanitization |
 | 2022-01-19 19:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | docs: update API documentation |
+| 2022-01-19 20:33 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | feat: add search with filters |
