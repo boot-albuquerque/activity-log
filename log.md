@@ -7871,3 +7871,4 @@
 | 2022-01-19 15:20 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | security: add input sanitization |
 | 2022-01-19 16:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/auth-improvements` | refactor: move constants to config module |
 | 2022-01-19 16:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | security: add input sanitization |
+| 2022-01-19 19:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | docs: update API documentation |
