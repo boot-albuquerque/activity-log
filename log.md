@@ -7864,3 +7864,4 @@
 | 2022-01-15 14:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add export to CSV/Excel |
 | 2022-01-17 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
 | 2022-01-18 07:22 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/new-endpoint` | chore: update dependencies |
+| 2022-01-19 11:13 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | feat: implement rate limiting middleware |
