@@ -7879,3 +7879,4 @@
 | 2022-01-20 09:15 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | infra: add Kubernetes manifests |
 | 2022-01-20 11:32 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/extract-service` | refactor: improve code readability |
 | 2022-01-20 12:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2022-01-20 14:12 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | chore: configure ESLint and Prettier |
