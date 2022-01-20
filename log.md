@@ -7876,3 +7876,4 @@
 | 2022-01-19 22:35 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: implement soft delete pattern |
 | 2022-01-20 00:18 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | feat: add export to CSV/Excel |
 | 2022-01-20 08:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2022-01-20 09:15 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | infra: add Kubernetes manifests |
