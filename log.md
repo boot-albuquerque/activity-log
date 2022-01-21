@@ -7882,3 +7882,4 @@
 | 2022-01-20 14:12 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2022-01-20 20:04 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | refactor: move constants to config module |
 | 2022-01-20 21:22 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | feat: create health check endpoint |
+| 2022-01-21 19:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | security: update SSL certificates config |
