@@ -7886,3 +7886,4 @@
 | 2022-01-22 10:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | feat: implement soft delete pattern |
 | 2022-01-22 21:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | feat: implement soft delete pattern |
 | 2022-01-24 10:05 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | test: add performance benchmark tests |
+| 2022-01-24 10:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | test: improve test coverage to 80% |
