@@ -7906,3 +7906,4 @@
 | 2022-01-27 11:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | chore: update dependencies |
 | 2022-01-27 12:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: implement caching layer |
 | 2022-01-27 14:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2022-01-27 16:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | fix: resolve race condition in queue worker |
