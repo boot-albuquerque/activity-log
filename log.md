@@ -7902,3 +7902,4 @@
 | 2022-01-26 13:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | test: add unit tests for payment service |
 | 2022-01-26 18:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | docs: document environment variables |
 | 2022-01-27 08:37 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | fix: resolve CORS configuration |
+| 2022-01-27 08:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | test: add e2e tests for checkout flow |
