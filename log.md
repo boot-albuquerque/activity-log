@@ -7905,3 +7905,4 @@
 | 2022-01-27 08:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2022-01-27 11:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | chore: update dependencies |
 | 2022-01-27 12:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: implement caching layer |
+| 2022-01-27 14:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add pagination to list endpoint |
