@@ -7907,3 +7907,4 @@
 | 2022-01-27 12:51 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | feat: implement caching layer |
 | 2022-01-27 14:44 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2022-01-27 16:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | fix: resolve race condition in queue worker |
+| 2022-01-27 18:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | feat: implement JWT refresh token |
