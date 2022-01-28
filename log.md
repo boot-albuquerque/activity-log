@@ -7913,3 +7913,4 @@
 | 2022-01-28 15:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: create health check endpoint |
 | 2022-01-28 18:35 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | infra: update Terraform modules |
 | 2022-01-28 18:39 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | test: cover edge cases in validator |
+| 2022-01-28 18:46 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | chore: add Docker Compose for local dev |
