@@ -7909,3 +7909,4 @@
 | 2022-01-27 16:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | fix: resolve race condition in queue worker |
 | 2022-01-27 18:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | feat: implement JWT refresh token |
 | 2022-01-27 21:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | db: add composite index |
+| 2022-01-28 12:48 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | db: add composite index |
