@@ -7919,3 +7919,4 @@
 | 2022-01-31 14:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | ci: add automated deployment pipeline |
 | 2022-01-31 16:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: add audit log trail |
 | 2022-01-31 18:08 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | feat: create background job processor |
+| 2022-01-31 20:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: correct validation error messages |
