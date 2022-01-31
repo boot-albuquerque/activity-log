@@ -7917,3 +7917,4 @@
 | 2022-01-30 10:15 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | test: fix flaky test in async handler |
 | 2022-01-31 14:40 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | perf: reduce bundle size |
 | 2022-01-31 14:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | ci: add automated deployment pipeline |
+| 2022-01-31 16:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | feat: add audit log trail |
