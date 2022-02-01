@@ -7922,3 +7922,4 @@
 | 2022-01-31 20:21 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: correct validation error messages |
 | 2022-01-31 20:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | perf: add database indexes |
 | 2022-01-31 21:48 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2022-02-01 13:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | refactor: extract business logic to service layer |
