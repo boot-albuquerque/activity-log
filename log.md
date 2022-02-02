@@ -7926,3 +7926,4 @@
 | 2022-02-01 14:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | db: add migration for new schema |
 | 2022-02-01 15:19 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | feat: add real-time notifications |
 | 2022-02-01 15:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | test: add unit tests for payment service |
+| 2022-02-02 16:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | fix: correct null check in user service |
