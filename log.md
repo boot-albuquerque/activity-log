@@ -7932,3 +7932,4 @@
 | 2022-02-06 18:18 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2022-02-07 11:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | refactor: clean up unused imports |
 | 2022-02-07 12:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
+| 2022-02-07 13:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: mock external dependencies in tests |
