@@ -7936,3 +7936,4 @@
 | 2022-02-07 14:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | feat: add email notification on status change |
 | 2022-02-07 16:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | refactor: split large controller into smaller ones |
 | 2022-02-07 19:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: create background job processor |
+| 2022-02-07 19:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | feat: add real-time notifications |
