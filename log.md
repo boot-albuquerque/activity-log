@@ -7933,3 +7933,4 @@
 | 2022-02-07 11:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | refactor: clean up unused imports |
 | 2022-02-07 12:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
 | 2022-02-07 13:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: mock external dependencies in tests |
+| 2022-02-07 14:48 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | feat: add email notification on status change |
