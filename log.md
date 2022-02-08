@@ -7940,3 +7940,4 @@
 | 2022-02-08 10:17 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | feat: add search with filters |
 | 2022-02-08 12:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2022-02-08 14:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | feat: implement JWT refresh token |
+| 2022-02-08 15:33 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | fix: handle empty response from external API |
