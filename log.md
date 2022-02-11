@@ -7956,3 +7956,4 @@
 | 2022-02-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | feat: add export to CSV/Excel |
 | 2022-02-11 15:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | ci: configure staging environment |
 | 2022-02-11 16:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | fix: handle missing environment variable |
+| 2022-02-11 16:17 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: reduce cyclomatic complexity |
