@@ -7953,3 +7953,4 @@
 | 2022-02-10 18:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2022-02-11 07:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: move constants to config module |
 | 2022-02-11 13:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | fix: resolve memory leak in connection pool |
+| 2022-02-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | feat: add export to CSV/Excel |
