@@ -7951,3 +7951,4 @@
 | 2022-02-10 16:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | refactor: split large controller into smaller ones |
 | 2022-02-10 18:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
 | 2022-02-10 18:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2022-02-11 07:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: move constants to config module |
