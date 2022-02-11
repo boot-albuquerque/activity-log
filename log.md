@@ -7954,3 +7954,4 @@
 | 2022-02-11 07:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: move constants to config module |
 | 2022-02-11 13:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | fix: resolve memory leak in connection pool |
 | 2022-02-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | feat: add export to CSV/Excel |
+| 2022-02-11 15:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | ci: configure staging environment |
