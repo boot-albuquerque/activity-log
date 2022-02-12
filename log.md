@@ -7960,3 +7960,4 @@
 | 2022-02-11 17:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | docs: add README setup instructions |
 | 2022-02-11 17:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | chore: add Docker Compose for local dev |
 | 2022-02-11 20:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: improve test coverage to 80% |
+| 2022-02-11 23:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | db: optimize slow queries |
