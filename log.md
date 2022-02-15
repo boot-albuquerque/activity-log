@@ -7967,3 +7967,4 @@
 | 2022-02-15 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: adopt repository pattern |
 | 2022-02-15 15:42 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | docs: update API documentation |
 | 2022-02-15 16:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | refactor: simplify authentication flow |
+| 2022-02-15 19:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | fix: resolve CORS configuration |
