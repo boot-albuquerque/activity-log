@@ -7965,3 +7965,4 @@
 | 2022-02-15 12:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | docs: update API documentation |
 | 2022-02-15 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: add search with filters |
 | 2022-02-15 14:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: adopt repository pattern |
+| 2022-02-15 15:42 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | docs: update API documentation |
