@@ -7963,3 +7963,4 @@
 | 2022-02-11 23:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | db: optimize slow queries |
 | 2022-02-14 22:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | security: update SSL certificates config |
 | 2022-02-15 12:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | docs: update API documentation |
+| 2022-02-15 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | feat: add search with filters |
