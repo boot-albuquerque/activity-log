@@ -7976,3 +7976,4 @@
 | 2022-02-16 12:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | feat: implement soft delete pattern |
 | 2022-02-16 13:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | db: add composite index |
 | 2022-02-16 13:09 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
+| 2022-02-16 13:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | style: fix indentation and whitespace |
