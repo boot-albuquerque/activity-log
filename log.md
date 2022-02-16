@@ -7979,3 +7979,4 @@
 | 2022-02-16 13:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | style: fix indentation and whitespace |
 | 2022-02-16 14:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | style: format code according to style guide |
 | 2022-02-16 16:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: handle missing environment variable |
+| 2022-02-16 16:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | infra: configure auto-scaling policies |
