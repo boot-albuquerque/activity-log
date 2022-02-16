@@ -7973,3 +7973,4 @@
 | 2022-02-16 00:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2022-02-16 09:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | refactor: consolidate error handling |
 | 2022-02-16 10:22 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | refactor: consolidate error handling |
+| 2022-02-16 12:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | feat: implement soft delete pattern |
