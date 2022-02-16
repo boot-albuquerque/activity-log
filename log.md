@@ -7974,3 +7974,4 @@
 | 2022-02-16 09:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | refactor: consolidate error handling |
 | 2022-02-16 10:22 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | refactor: consolidate error handling |
 | 2022-02-16 12:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | feat: implement soft delete pattern |
+| 2022-02-16 13:01 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | db: add composite index |
