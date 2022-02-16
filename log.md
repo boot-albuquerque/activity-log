@@ -7969,3 +7969,4 @@
 | 2022-02-15 16:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2022-02-15 19:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | fix: resolve CORS configuration |
 | 2022-02-15 21:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: resolve deadlock in transaction |
+| 2022-02-15 23:46 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | docs: document environment variables |
