@@ -7981,3 +7981,4 @@
 | 2022-02-16 16:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: handle missing environment variable |
 | 2022-02-16 16:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | infra: configure auto-scaling policies |
 | 2022-02-16 21:23 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: improve code readability |
+| 2022-02-16 21:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | feat: implement rate limiting middleware |
