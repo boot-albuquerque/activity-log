@@ -7987,3 +7987,4 @@
 | 2022-02-17 13:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | style: format code according to style guide |
 | 2022-02-17 15:13 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2022-02-17 16:01 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | refactor: improve code readability |
+| 2022-02-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
