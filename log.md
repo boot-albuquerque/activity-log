@@ -7980,3 +7980,4 @@
 | 2022-02-16 14:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | style: format code according to style guide |
 | 2022-02-16 16:07 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: handle missing environment variable |
 | 2022-02-16 16:20 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | infra: configure auto-scaling policies |
+| 2022-02-16 21:23 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: improve code readability |
