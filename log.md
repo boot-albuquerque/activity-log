@@ -7989,3 +7989,4 @@
 | 2022-02-17 16:01 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2022-02-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/extract-service` | feat: add export to CSV/Excel |
 | 2022-02-18 13:45 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | db: optimize slow queries |
+| 2022-02-19 20:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | fix: handle missing environment variable |
