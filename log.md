@@ -7998,3 +7998,4 @@
 | 2022-02-21 12:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | chore: configure ESLint and Prettier |
 | 2022-02-21 12:45 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | infra: configure auto-scaling policies |
 | 2022-02-21 14:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add e2e tests for checkout flow |
+| 2022-02-21 14:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | perf: add database indexes |
