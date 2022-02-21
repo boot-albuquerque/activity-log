@@ -7994,3 +7994,4 @@
 | 2022-02-20 14:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
 | 2022-02-21 08:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | feat: implement JWT refresh token |
 | 2022-02-21 09:08 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | chore: add pre-commit hooks |
+| 2022-02-21 10:40 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | fix: correct decimal precision in billing |
