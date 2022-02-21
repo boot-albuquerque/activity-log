@@ -7992,3 +7992,4 @@
 | 2022-02-19 20:15 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | fix: handle missing environment variable |
 | 2022-02-20 13:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2022-02-20 14:15 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | style: format code according to style guide |
+| 2022-02-21 08:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | feat: implement JWT refresh token |
