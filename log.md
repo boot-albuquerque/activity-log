@@ -8006,3 +8006,4 @@
 | 2022-02-22 13:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | fix: resolve N+1 query problem |
 | 2022-02-22 14:37 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: improve code readability |
 | 2022-02-22 16:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: implement webhook receiver |
+| 2022-02-22 16:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
