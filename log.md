@@ -8010,3 +8010,4 @@
 | 2022-02-22 19:05 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | ci: add automated deployment pipeline |
 | 2022-02-22 19:10 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2022-02-22 20:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | test: improve test coverage to 80% |
+| 2022-02-22 20:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | perf: add database indexes |
