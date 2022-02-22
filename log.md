@@ -8002,3 +8002,4 @@
 | 2022-02-21 16:04 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | fix: correct pagination offset calculation |
 | 2022-02-21 19:52 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2022-02-21 23:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | db: add composite index |
+| 2022-02-22 10:32 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: handle malformed JSON input |
