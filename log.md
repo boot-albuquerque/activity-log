@@ -8014,3 +8014,4 @@
 | 2022-02-22 23:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2022-02-23 10:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2022-02-23 12:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: correct validation error messages |
+| 2022-02-23 12:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: handle empty response from external API |
