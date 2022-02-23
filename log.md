@@ -8012,3 +8012,4 @@
 | 2022-02-22 20:43 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | test: improve test coverage to 80% |
 | 2022-02-22 20:51 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | perf: add database indexes |
 | 2022-02-22 23:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
+| 2022-02-23 10:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
