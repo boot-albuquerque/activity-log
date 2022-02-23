@@ -8016,3 +8016,4 @@
 | 2022-02-23 12:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: correct validation error messages |
 | 2022-02-23 12:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: handle empty response from external API |
 | 2022-02-23 15:49 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | docs: document environment variables |
+| 2022-02-23 17:10 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
