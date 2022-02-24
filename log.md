@@ -8031,3 +8031,4 @@
 | 2022-02-24 14:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | docs: update API documentation |
 | 2022-02-24 15:42 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2022-02-24 15:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: add file upload support |
+| 2022-02-24 16:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | test: mock external dependencies in tests |
