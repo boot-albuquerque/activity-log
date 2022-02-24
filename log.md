@@ -8028,3 +8028,4 @@
 | 2022-02-24 13:20 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2022-02-24 13:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | ci: configure staging environment |
 | 2022-02-24 14:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
+| 2022-02-24 14:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | docs: update API documentation |
