@@ -8019,3 +8019,4 @@
 | 2022-02-23 17:10 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2022-02-23 17:13 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2022-02-23 21:05 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: implement JWT refresh token |
+| 2022-02-24 00:42 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: correct decimal precision in billing |
