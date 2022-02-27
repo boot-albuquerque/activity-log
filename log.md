@@ -8041,3 +8041,4 @@
 | 2022-02-25 19:32 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2022-02-25 21:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | docs: document environment variables |
 | 2022-02-26 12:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | refactor: clean up unused imports |
+| 2022-02-27 10:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | fix: handle missing environment variable |
