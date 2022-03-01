@@ -8050,3 +8050,4 @@
 | 2022-02-28 13:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | test: add e2e tests for checkout flow |
 | 2022-02-28 15:00 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/new-endpoint` | feat: add audit log trail |
 | 2022-02-28 21:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | chore: add pre-commit hooks |
+| 2022-02-28 22:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | chore: add pre-commit hooks |
