@@ -8053,3 +8053,4 @@
 | 2022-02-28 22:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | chore: add pre-commit hooks |
 | 2022-03-01 00:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
 | 2022-03-01 07:17 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | db: add composite index |
+| 2022-03-01 11:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | chore: add Docker Compose for local dev |
