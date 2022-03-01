@@ -8058,3 +8058,4 @@
 | 2022-03-01 13:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | refactor: clean up unused imports |
 | 2022-03-01 14:42 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | refactor: reduce cyclomatic complexity |
 | 2022-03-01 17:42 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct null check in user service |
+| 2022-03-01 18:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: add pre-commit hooks |
