@@ -8064,3 +8064,4 @@
 | 2022-03-02 09:03 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | db: optimize slow queries |
 | 2022-03-02 10:24 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | perf: optimize database queries |
 | 2022-03-02 12:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2022-03-02 12:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | chore: update dependencies |
