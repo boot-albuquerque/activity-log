@@ -8067,3 +8067,4 @@
 | 2022-03-02 12:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | chore: update dependencies |
 | 2022-03-02 13:09 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2022-03-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | security: fix SQL injection vulnerability |
+| 2022-03-02 19:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | test: fix flaky test in async handler |
