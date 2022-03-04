@@ -8070,3 +8070,4 @@
 | 2022-03-02 19:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2022-03-04 09:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | fix: correct null check in user service |
 | 2022-03-04 09:50 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | fix: resolve CORS configuration |
+| 2022-03-04 10:14 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | fix: resolve N+1 query problem |
