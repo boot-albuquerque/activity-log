@@ -8069,3 +8069,4 @@
 | 2022-03-02 13:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | security: fix SQL injection vulnerability |
 | 2022-03-02 19:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2022-03-04 09:33 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | fix: correct null check in user service |
+| 2022-03-04 09:50 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | fix: resolve CORS configuration |
