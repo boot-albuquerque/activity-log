@@ -8075,3 +8075,4 @@
 | 2022-03-04 11:42 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2022-03-04 13:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: create order processing service |
 | 2022-03-04 15:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | infra: update Terraform modules |
+| 2022-03-04 16:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: correct decimal precision in billing |
