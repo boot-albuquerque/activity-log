@@ -8080,3 +8080,4 @@
 | 2022-03-04 19:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | feat: add OpenAPI documentation |
 | 2022-03-04 21:56 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
 | 2022-03-04 23:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | refactor: split large controller into smaller ones |
+| 2022-03-05 19:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
