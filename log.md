@@ -8078,3 +8078,4 @@
 | 2022-03-04 16:29 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: correct decimal precision in billing |
 | 2022-03-04 16:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | test: add performance benchmark tests |
 | 2022-03-04 19:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | feat: add OpenAPI documentation |
+| 2022-03-04 21:56 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
