@@ -8083,3 +8083,4 @@
 | 2022-03-05 19:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
 | 2022-03-06 08:24 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: add audit log trail |
 | 2022-03-06 12:30 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | perf: implement response compression |
+| 2022-03-06 12:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: correct cache invalidation logic |
