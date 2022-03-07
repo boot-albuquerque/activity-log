@@ -8085,3 +8085,4 @@
 | 2022-03-06 12:30 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | perf: implement response compression |
 | 2022-03-06 12:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: correct cache invalidation logic |
 | 2022-03-06 12:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: clean up unused imports |
+| 2022-03-07 00:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | refactor: adopt repository pattern |
