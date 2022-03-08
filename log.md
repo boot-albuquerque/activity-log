@@ -8090,3 +8090,4 @@
 | 2022-03-08 08:46 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: create admin management interface |
 | 2022-03-08 10:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | refactor: split large controller into smaller ones |
 | 2022-03-08 15:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | chore: update dependencies |
+| 2022-03-08 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | db: add migration for new schema |
