@@ -8092,3 +8092,4 @@
 | 2022-03-08 15:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | chore: update dependencies |
 | 2022-03-08 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | db: add migration for new schema |
 | 2022-03-09 11:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | fix: handle edge case in date parsing |
+| 2022-03-09 12:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | refactor: move constants to config module |
