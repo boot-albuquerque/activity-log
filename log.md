@@ -8107,3 +8107,4 @@
 | 2022-03-10 11:46 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | test: add performance benchmark tests |
 | 2022-03-10 12:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | fix: handle malformed JSON input |
 | 2022-03-10 12:34 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/extract-service` | ci: add automated deployment pipeline |
+| 2022-03-10 13:25 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
