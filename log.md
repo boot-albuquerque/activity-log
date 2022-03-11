@@ -8115,3 +8115,4 @@
 | 2022-03-11 08:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | security: fix SQL injection vulnerability |
 | 2022-03-11 11:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | docs: update API documentation |
 | 2022-03-11 14:13 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | refactor: consolidate error handling |
+| 2022-03-11 15:02 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | refactor: move constants to config module |
