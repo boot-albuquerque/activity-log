@@ -8112,3 +8112,4 @@
 | 2022-03-10 14:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: cover edge cases in validator |
 | 2022-03-10 14:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | feat: implement soft delete pattern |
 | 2022-03-10 17:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | style: fix indentation and whitespace |
+| 2022-03-11 08:08 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | security: fix SQL injection vulnerability |
