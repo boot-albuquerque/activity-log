@@ -8122,3 +8122,4 @@
 | 2022-03-11 18:37 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: clean up unused imports |
 | 2022-03-11 20:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | perf: implement response compression |
 | 2022-03-11 22:51 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add file upload support |
+| 2022-03-12 11:41 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | docs: document environment variables |
