@@ -8125,3 +8125,4 @@
 | 2022-03-12 11:41 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | docs: document environment variables |
 | 2022-03-12 18:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2022-03-13 12:40 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | refactor: consolidate error handling |
+| 2022-03-14 10:55 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: reduce cyclomatic complexity |
