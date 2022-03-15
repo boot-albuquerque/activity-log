@@ -8128,3 +8128,4 @@
 | 2022-03-14 10:55 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | refactor: reduce cyclomatic complexity |
 | 2022-03-14 16:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | refactor: move constants to config module |
 | 2022-03-15 08:48 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | test: mock external dependencies in tests |
+| 2022-03-15 09:45 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | fix: resolve deadlock in transaction |
