@@ -8143,3 +8143,4 @@
 | 2022-03-15 20:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | docs: document environment variables |
 | 2022-03-15 23:14 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | test: add unit tests for payment service |
 | 2022-03-15 23:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2022-03-16 18:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | feat: implement JWT refresh token |
