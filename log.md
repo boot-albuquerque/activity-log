@@ -8147,3 +8147,4 @@
 | 2022-03-16 19:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: handle empty response from external API |
 | 2022-03-18 10:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/clean-architecture` | fix: handle missing environment variable |
 | 2022-03-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | style: fix indentation and whitespace |
+| 2022-03-18 12:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: create dashboard metrics endpoint |
