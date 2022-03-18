@@ -8149,3 +8149,4 @@
 | 2022-03-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2022-03-18 12:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: create dashboard metrics endpoint |
 | 2022-03-18 12:29 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | chore: add Docker Compose for local dev |
+| 2022-03-18 17:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/new-endpoint` | db: add migration for new schema |
