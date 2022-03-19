@@ -8152,3 +8152,4 @@
 | 2022-03-18 17:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/new-endpoint` | db: add migration for new schema |
 | 2022-03-18 20:45 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | fix: handle empty response from external API |
 | 2022-03-18 21:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | db: add migration for new schema |
+| 2022-03-19 13:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | db: add composite index |
