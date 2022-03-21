@@ -8165,3 +8165,4 @@
 | 2022-03-21 16:34 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | style: format code according to style guide |
 | 2022-03-21 18:29 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | feat: implement webhook receiver |
 | 2022-03-21 18:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: handle missing environment variable |
+| 2022-03-21 20:31 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | refactor: clean up unused imports |
