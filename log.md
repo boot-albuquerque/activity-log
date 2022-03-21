@@ -8154,3 +8154,4 @@
 | 2022-03-18 21:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | db: add migration for new schema |
 | 2022-03-19 13:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | db: add composite index |
 | 2022-03-20 11:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | fix: handle empty response from external API |
+| 2022-03-20 21:50 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
