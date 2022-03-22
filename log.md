@@ -8171,3 +8171,4 @@
 | 2022-03-22 00:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: simplify authentication flow |
 | 2022-03-22 08:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | chore: update dependencies |
 | 2022-03-22 10:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add search with filters |
+| 2022-03-22 12:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
