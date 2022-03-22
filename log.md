@@ -8174,3 +8174,4 @@
 | 2022-03-22 12:00 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2022-03-22 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | perf: add database indexes |
 | 2022-03-22 12:43 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | infra: configure auto-scaling policies |
+| 2022-03-22 13:07 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
