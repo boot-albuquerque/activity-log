@@ -8168,3 +8168,4 @@
 | 2022-03-21 20:31 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | refactor: clean up unused imports |
 | 2022-03-21 22:15 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2022-03-21 22:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | refactor: move constants to config module |
+| 2022-03-22 00:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: simplify authentication flow |
