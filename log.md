@@ -8170,3 +8170,4 @@
 | 2022-03-21 22:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | refactor: move constants to config module |
 | 2022-03-22 00:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: simplify authentication flow |
 | 2022-03-22 08:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | chore: update dependencies |
+| 2022-03-22 10:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add search with filters |
