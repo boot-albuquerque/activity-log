@@ -8194,3 +8194,4 @@
 | 2022-03-24 12:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | feat: add real-time notifications |
 | 2022-03-24 13:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add email notification on status change |
 | 2022-03-24 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | perf: reduce bundle size |
+| 2022-03-24 14:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
