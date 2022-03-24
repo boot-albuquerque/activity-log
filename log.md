@@ -8196,3 +8196,4 @@
 | 2022-03-24 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | perf: reduce bundle size |
 | 2022-03-24 14:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
 | 2022-03-24 14:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | fix: resolve N+1 query problem |
+| 2022-03-24 15:46 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | docs: add README setup instructions |
