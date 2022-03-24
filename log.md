@@ -8189,3 +8189,4 @@
 | 2022-03-23 10:00 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: resolve race condition in queue worker |
 | 2022-03-23 13:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | test: add unit tests for payment service |
 | 2022-03-23 13:25 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | feat: add pagination to list endpoint |
+| 2022-03-24 00:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | perf: optimize database queries |
