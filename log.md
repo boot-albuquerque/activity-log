@@ -8193,3 +8193,4 @@
 | 2022-03-24 09:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2022-03-24 12:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | feat: add real-time notifications |
 | 2022-03-24 13:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add email notification on status change |
+| 2022-03-24 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | perf: reduce bundle size |
