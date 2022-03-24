@@ -8195,3 +8195,4 @@
 | 2022-03-24 13:38 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: add email notification on status change |
 | 2022-03-24 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | perf: reduce bundle size |
 | 2022-03-24 14:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
+| 2022-03-24 14:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | fix: resolve N+1 query problem |
