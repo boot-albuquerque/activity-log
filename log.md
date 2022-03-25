@@ -8201,3 +8201,4 @@
 | 2022-03-24 16:56 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2022-03-24 19:57 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: add export to CSV/Excel |
 | 2022-03-24 20:13 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | infra: configure auto-scaling policies |
+| 2022-03-24 22:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | db: add composite index |
