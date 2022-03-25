@@ -8203,3 +8203,4 @@
 | 2022-03-24 20:13 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2022-03-24 22:16 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | db: add composite index |
 | 2022-03-25 07:06 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | db: add composite index |
+| 2022-03-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | feat: add email notification on status change |
