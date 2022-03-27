@@ -8212,3 +8212,4 @@
 | 2022-03-26 11:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | refactor: extract business logic to service layer |
 | 2022-03-26 12:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | infra: update Terraform modules |
 | 2022-03-26 16:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | test: fix flaky test in async handler |
+| 2022-03-27 10:21 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | test: add performance benchmark tests |
