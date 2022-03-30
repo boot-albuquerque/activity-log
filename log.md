@@ -8217,3 +8217,4 @@
 | 2022-03-27 12:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add email notification on status change |
 | 2022-03-27 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2022-03-28 08:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: correct pagination offset calculation |
+| 2022-03-30 08:34 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: implement webhook receiver |
