@@ -8229,3 +8229,4 @@
 | 2022-03-30 14:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: resolve deadlock in transaction |
 | 2022-03-30 19:26 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: optimize database queries |
 | 2022-03-30 19:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: create health check endpoint |
+| 2022-03-30 20:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | db: optimize slow queries |
