@@ -8228,3 +8228,4 @@
 | 2022-03-30 14:35 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | test: add e2e tests for checkout flow |
 | 2022-03-30 14:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: resolve deadlock in transaction |
 | 2022-03-30 19:26 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: optimize database queries |
+| 2022-03-30 19:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: create health check endpoint |
