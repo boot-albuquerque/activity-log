@@ -8230,3 +8230,4 @@
 | 2022-03-30 19:26 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | perf: optimize database queries |
 | 2022-03-30 19:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: create health check endpoint |
 | 2022-03-30 20:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | db: optimize slow queries |
+| 2022-03-30 20:13 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | feat: add OpenAPI documentation |
