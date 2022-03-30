@@ -8225,3 +8225,4 @@
 | 2022-03-30 12:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: create health check endpoint |
 | 2022-03-30 13:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | security: add input sanitization |
 | 2022-03-30 13:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | db: add migration for new schema |
+| 2022-03-30 14:35 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | test: add e2e tests for checkout flow |
