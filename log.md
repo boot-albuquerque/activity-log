@@ -8233,3 +8233,4 @@
 | 2022-03-30 20:13 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | feat: add OpenAPI documentation |
 | 2022-03-30 20:51 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | test: improve test coverage to 80% |
 | 2022-03-31 00:43 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | refactor: reduce cyclomatic complexity |
+| 2022-03-31 09:05 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | fix: correct decimal precision in billing |
