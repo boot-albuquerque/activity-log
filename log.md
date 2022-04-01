@@ -8240,3 +8240,4 @@
 | 2022-03-31 22:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | test: cover edge cases in validator |
 | 2022-04-01 09:51 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: create background job processor |
 | 2022-04-01 14:18 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | docs: add README setup instructions |
+| 2022-04-01 14:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | feat: add search with filters |
