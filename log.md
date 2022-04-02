@@ -8244,3 +8244,4 @@
 | 2022-04-01 15:04 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | fix: handle malformed JSON input |
 | 2022-04-01 19:24 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2022-04-01 19:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | fix: resolve deadlock in transaction |
+| 2022-04-02 12:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | fix: correct decimal precision in billing |
