@@ -8248,3 +8248,4 @@
 | 2022-04-03 09:53 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2022-04-03 11:40 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | refactor: clean up unused imports |
 | 2022-04-03 12:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | infra: configure auto-scaling policies |
+| 2022-04-03 13:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | style: format code according to style guide |
