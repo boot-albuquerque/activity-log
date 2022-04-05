@@ -8250,3 +8250,4 @@
 | 2022-04-03 12:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | infra: configure auto-scaling policies |
 | 2022-04-03 13:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | style: format code according to style guide |
 | 2022-04-05 00:38 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | feat: add user authentication endpoint |
+| 2022-04-05 07:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | chore: add Docker Compose for local dev |
