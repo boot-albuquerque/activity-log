@@ -8255,3 +8255,4 @@
 | 2022-04-05 13:25 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | refactor: improve code readability |
 | 2022-04-05 14:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | security: fix SQL injection vulnerability |
 | 2022-04-05 15:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | feat: add email notification on status change |
+| 2022-04-05 16:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | feat: implement soft delete pattern |
