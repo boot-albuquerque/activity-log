@@ -8257,3 +8257,4 @@
 | 2022-04-05 15:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | feat: add email notification on status change |
 | 2022-04-05 16:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2022-04-05 17:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: add Docker Compose for local dev |
+| 2022-04-05 19:40 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
