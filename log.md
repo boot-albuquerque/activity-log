@@ -8260,3 +8260,4 @@
 | 2022-04-05 19:40 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
 | 2022-04-05 20:01 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add email notification on status change |
 | 2022-04-05 23:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/cleanup` | feat: create order processing service |
+| 2022-04-05 23:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: handle malformed JSON input |
