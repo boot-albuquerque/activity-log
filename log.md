@@ -8275,3 +8275,4 @@
 | 2022-04-07 12:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | refactor: reduce cyclomatic complexity |
 | 2022-04-07 12:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | db: add composite index |
 | 2022-04-07 13:35 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/cleanup` | fix: resolve race condition in queue worker |
+| 2022-04-07 14:02 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | fix: resolve deadlock in transaction |
