@@ -8285,3 +8285,4 @@
 | 2022-04-09 18:25 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | feat: add bulk operations support |
 | 2022-04-09 20:14 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: create dashboard metrics endpoint |
 | 2022-04-11 00:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | infra: configure auto-scaling policies |
+| 2022-04-11 07:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | docs: document environment variables |
