@@ -8289,3 +8289,4 @@
 | 2022-04-11 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2022-04-11 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: resolve deadlock in transaction |
 | 2022-04-11 11:16 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | perf: reduce bundle size |
+| 2022-04-11 14:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
