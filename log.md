@@ -8288,3 +8288,4 @@
 | 2022-04-11 07:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | docs: document environment variables |
 | 2022-04-11 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2022-04-11 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: resolve deadlock in transaction |
+| 2022-04-11 11:16 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | perf: reduce bundle size |
