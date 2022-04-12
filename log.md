@@ -8297,3 +8297,4 @@
 | 2022-04-12 12:07 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2022-04-12 12:40 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
 | 2022-04-12 14:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | feat: create background job processor |
+| 2022-04-12 16:27 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | chore: add pre-commit hooks |
