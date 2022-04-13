@@ -8302,3 +8302,4 @@
 | 2022-04-12 18:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | docs: update API documentation |
 | 2022-04-12 20:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | security: add input sanitization |
 | 2022-04-12 20:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | infra: update Terraform modules |
+| 2022-04-12 21:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | fix: correct pagination offset calculation |
