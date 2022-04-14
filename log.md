@@ -8310,3 +8310,4 @@
 | 2022-04-13 19:16 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | refactor: improve code readability |
 | 2022-04-13 19:46 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | security: fix SQL injection vulnerability |
 | 2022-04-14 10:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | db: add composite index |
+| 2022-04-14 11:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | docs: update API documentation |
