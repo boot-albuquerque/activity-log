@@ -8317,3 +8317,4 @@
 | 2022-04-14 17:01 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | refactor: improve code readability |
 | 2022-04-14 17:50 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | feat: add file upload support |
 | 2022-04-14 19:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | feat: add real-time notifications |
+| 2022-04-14 19:58 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | chore: configure GitHub Actions CI |
