@@ -8313,3 +8313,4 @@
 | 2022-04-14 11:22 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | docs: update API documentation |
 | 2022-04-14 11:32 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | chore: add pre-commit hooks |
 | 2022-04-14 13:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | fix: handle empty response from external API |
+| 2022-04-14 15:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | style: format code according to style guide |
