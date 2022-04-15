@@ -8319,3 +8319,4 @@
 | 2022-04-14 19:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | feat: add real-time notifications |
 | 2022-04-14 19:58 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2022-04-14 23:15 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | feat: add bulk operations support |
+| 2022-04-15 00:25 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | feat: implement soft delete pattern |
