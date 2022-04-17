@@ -8329,3 +8329,4 @@
 | 2022-04-16 15:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2022-04-16 19:34 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
 | 2022-04-17 00:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: add user authentication endpoint |
+| 2022-04-17 15:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | chore: configure GitHub Actions CI |
