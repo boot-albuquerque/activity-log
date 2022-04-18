@@ -8331,3 +8331,4 @@
 | 2022-04-17 00:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | feat: add user authentication endpoint |
 | 2022-04-17 15:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2022-04-18 07:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | fix: handle edge case in date parsing |
+| 2022-04-18 08:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add search with filters |
