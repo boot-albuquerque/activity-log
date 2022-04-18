@@ -8336,3 +8336,4 @@
 | 2022-04-18 14:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: implement caching layer |
 | 2022-04-18 15:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2022-04-18 16:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | perf: reduce bundle size |
+| 2022-04-18 16:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: resolve race condition in queue worker |
