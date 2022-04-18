@@ -8333,3 +8333,4 @@
 | 2022-04-18 07:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2022-04-18 08:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add search with filters |
 | 2022-04-18 13:43 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | chore: update dependencies |
+| 2022-04-18 14:45 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: implement caching layer |
