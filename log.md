@@ -8346,3 +8346,4 @@
 | 2022-04-19 12:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | refactor: consolidate error handling |
 | 2022-04-19 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2022-04-19 18:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: resolve memory leak in connection pool |
+| 2022-04-19 19:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | db: add composite index |
