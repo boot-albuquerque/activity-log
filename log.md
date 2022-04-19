@@ -8345,3 +8345,4 @@
 | 2022-04-19 09:01 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2022-04-19 12:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | refactor: consolidate error handling |
 | 2022-04-19 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: fix flaky test in async handler |
+| 2022-04-19 18:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: resolve memory leak in connection pool |
