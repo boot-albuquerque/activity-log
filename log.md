@@ -8344,3 +8344,4 @@
 | 2022-04-19 07:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: add export to CSV/Excel |
 | 2022-04-19 09:01 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2022-04-19 12:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | refactor: consolidate error handling |
+| 2022-04-19 14:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: fix flaky test in async handler |
