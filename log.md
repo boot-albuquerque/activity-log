@@ -8354,3 +8354,4 @@
 | 2022-04-20 00:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2022-04-20 10:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | refactor: move constants to config module |
 | 2022-04-20 13:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle edge case in date parsing |
+| 2022-04-20 13:44 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | fix: handle empty response from external API |
