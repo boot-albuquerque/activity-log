@@ -8353,3 +8353,4 @@
 | 2022-04-19 21:07 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | security: update SSL certificates config |
 | 2022-04-20 00:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2022-04-20 10:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | refactor: move constants to config module |
+| 2022-04-20 13:10 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | fix: handle edge case in date parsing |
