@@ -8348,3 +8348,4 @@
 | 2022-04-19 18:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2022-04-19 19:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | db: add composite index |
 | 2022-04-19 20:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | feat: add export to CSV/Excel |
+| 2022-04-19 20:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: add user authentication endpoint |
