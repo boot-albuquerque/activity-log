@@ -8351,3 +8351,4 @@
 | 2022-04-19 20:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: add user authentication endpoint |
 | 2022-04-19 20:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | security: update SSL certificates config |
 | 2022-04-19 21:07 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | security: update SSL certificates config |
+| 2022-04-20 00:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | fix: handle malformed JSON input |
