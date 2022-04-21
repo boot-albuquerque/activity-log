@@ -8358,3 +8358,4 @@
 | 2022-04-20 13:53 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2022-04-20 15:45 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | feat: create admin management interface |
 | 2022-04-20 18:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | fix: correct null check in user service |
+| 2022-04-21 07:58 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
