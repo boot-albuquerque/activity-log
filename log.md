@@ -8360,3 +8360,4 @@
 | 2022-04-20 18:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2022-04-21 07:58 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
 | 2022-04-21 12:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | feat: add OpenAPI documentation |
+| 2022-04-21 13:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | fix: handle timeout in async operation |
