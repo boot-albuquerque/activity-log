@@ -8362,3 +8362,4 @@
 | 2022-04-21 12:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2022-04-21 13:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | fix: handle timeout in async operation |
 | 2022-04-21 18:37 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | refactor: adopt repository pattern |
+| 2022-04-21 20:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | refactor: replace raw SQL with query builder |
