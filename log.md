@@ -8365,3 +8365,4 @@
 | 2022-04-21 20:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2022-04-21 20:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | test: cover edge cases in validator |
 | 2022-04-22 09:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | fix: handle timeout in async operation |
+| 2022-04-22 14:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: move constants to config module |
