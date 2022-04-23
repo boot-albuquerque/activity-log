@@ -8368,3 +8368,4 @@
 | 2022-04-22 14:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: move constants to config module |
 | 2022-04-22 16:11 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/rate-limiting` | docs: update API documentation |
 | 2022-04-22 18:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | chore: add Docker Compose for local dev |
+| 2022-04-23 09:24 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | docs: update API documentation |
