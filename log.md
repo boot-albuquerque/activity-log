@@ -8370,3 +8370,4 @@
 | 2022-04-22 18:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | chore: add Docker Compose for local dev |
 | 2022-04-23 09:24 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | docs: update API documentation |
 | 2022-04-23 21:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | feat: implement soft delete pattern |
+| 2022-04-24 09:58 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | chore: configure ESLint and Prettier |
