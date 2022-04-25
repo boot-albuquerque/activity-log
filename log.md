@@ -8373,3 +8373,4 @@
 | 2022-04-24 09:58 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2022-04-24 11:49 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | feat: implement webhook receiver |
 | 2022-04-24 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | perf: optimize database queries |
+| 2022-04-24 21:42 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | perf: implement response compression |
