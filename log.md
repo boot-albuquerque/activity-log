@@ -8387,3 +8387,4 @@
 | 2022-04-25 21:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | chore: configure GitHub Actions CI |
 | 2022-04-26 13:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | feat: implement caching layer |
 | 2022-04-27 08:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | db: add migration for new schema |
+| 2022-04-27 12:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | perf: optimize database queries |
