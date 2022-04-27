@@ -8389,3 +8389,4 @@
 | 2022-04-27 08:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | db: add migration for new schema |
 | 2022-04-27 12:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | perf: optimize database queries |
 | 2022-04-27 12:37 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
+| 2022-04-27 13:49 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | fix: handle timeout in async operation |
