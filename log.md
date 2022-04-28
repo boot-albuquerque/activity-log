@@ -8394,3 +8394,4 @@
 | 2022-04-27 23:33 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2022-04-28 00:06 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2022-04-28 00:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: implement caching layer |
+| 2022-04-28 00:41 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | test: mock external dependencies in tests |
