@@ -8402,3 +8402,4 @@
 | 2022-04-28 14:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/validation-bug` | feat: create background job processor |
 | 2022-04-28 16:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: add search with filters |
 | 2022-04-28 16:38 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add OpenAPI documentation |
+| 2022-04-28 18:32 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | docs: document environment variables |
