@@ -8396,3 +8396,4 @@
 | 2022-04-28 00:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: implement caching layer |
 | 2022-04-28 00:41 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2022-04-28 07:57 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | fix: correct null check in user service |
+| 2022-04-28 09:30 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | refactor: improve code readability |
