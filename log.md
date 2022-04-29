@@ -8405,3 +8405,4 @@
 | 2022-04-28 18:32 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | docs: document environment variables |
 | 2022-04-28 19:53 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | refactor: replace raw SQL with query builder |
 | 2022-04-28 23:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2022-04-29 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct null check in user service |
