@@ -8407,3 +8407,4 @@
 | 2022-04-28 23:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2022-04-29 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: correct null check in user service |
 | 2022-04-29 08:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | infra: update Terraform modules |
+| 2022-04-29 12:12 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | security: fix SQL injection vulnerability |
