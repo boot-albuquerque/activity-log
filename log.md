@@ -8413,3 +8413,4 @@
 | 2022-04-29 15:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2022-04-29 21:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | test: add performance benchmark tests |
 | 2022-04-30 09:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | feat: add user authentication endpoint |
+| 2022-04-30 13:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | test: add integration tests for API endpoints |
