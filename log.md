@@ -8417,3 +8417,4 @@
 | 2022-04-30 17:40 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | db: optimize slow queries |
 | 2022-04-30 22:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | feat: add OpenAPI documentation |
 | 2022-05-01 00:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | fix: resolve race condition in queue worker |
+| 2022-05-01 14:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: fix SQL injection vulnerability |
