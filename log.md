@@ -8420,3 +8420,4 @@
 | 2022-05-01 14:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | security: fix SQL injection vulnerability |
 | 2022-05-01 19:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2022-05-01 23:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | perf: implement response compression |
+| 2022-05-02 08:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | fix: correct null check in user service |
