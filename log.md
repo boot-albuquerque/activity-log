@@ -8428,3 +8428,4 @@
 | 2022-05-02 12:02 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | feat: implement webhook receiver |
 | 2022-05-02 13:24 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | fix: correct null check in user service |
 | 2022-05-02 17:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | security: update SSL certificates config |
+| 2022-05-02 17:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add user authentication endpoint |
