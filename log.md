@@ -8423,3 +8423,4 @@
 | 2022-05-02 08:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | fix: correct null check in user service |
 | 2022-05-02 09:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2022-05-02 11:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | infra: add Kubernetes manifests |
+| 2022-05-02 11:47 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | fix: resolve CORS configuration |
