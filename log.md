@@ -8431,3 +8431,4 @@
 | 2022-05-02 17:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add user authentication endpoint |
 | 2022-05-02 19:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2022-05-02 23:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add bulk operations support |
+| 2022-05-03 10:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | ci: configure staging environment |
