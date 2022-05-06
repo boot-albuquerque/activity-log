@@ -8439,3 +8439,4 @@
 | 2022-05-04 00:10 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | chore: update dependencies |
 | 2022-05-04 20:47 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | test: cover edge cases in validator |
 | 2022-05-06 11:29 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | ci: add automated deployment pipeline |
+| 2022-05-06 14:00 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | chore: add Docker Compose for local dev |
