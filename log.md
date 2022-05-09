@@ -8449,3 +8449,4 @@
 | 2022-05-09 00:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | perf: implement response compression |
 | 2022-05-09 09:25 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: create health check endpoint |
 | 2022-05-09 09:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: add database indexes |
+| 2022-05-09 10:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | test: add performance benchmark tests |
