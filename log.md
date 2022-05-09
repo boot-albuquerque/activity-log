@@ -8451,3 +8451,4 @@
 | 2022-05-09 09:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: add database indexes |
 | 2022-05-09 10:43 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | test: add performance benchmark tests |
 | 2022-05-09 12:28 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | test: cover edge cases in validator |
+| 2022-05-09 13:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | docs: document environment variables |
