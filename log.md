@@ -8457,3 +8457,4 @@
 | 2022-05-09 13:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: create dashboard metrics endpoint |
 | 2022-05-09 15:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2022-05-09 16:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: optimize slow queries |
+| 2022-05-09 16:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add Docker Compose for local dev |
