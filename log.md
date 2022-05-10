@@ -8460,3 +8460,4 @@
 | 2022-05-09 16:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2022-05-09 17:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2022-05-09 19:04 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | refactor: replace raw SQL with query builder |
+| 2022-05-09 22:56 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | feat: add search with filters |
