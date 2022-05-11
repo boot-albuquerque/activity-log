@@ -8471,3 +8471,4 @@
 | 2022-05-11 13:24 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | fix: resolve CORS configuration |
 | 2022-05-11 13:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | security: update SSL certificates config |
 | 2022-05-11 13:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
+| 2022-05-11 16:55 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: mock external dependencies in tests |
