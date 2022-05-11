@@ -8468,3 +8468,4 @@
 | 2022-05-11 09:18 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v2.0` | fix: resolve N+1 query problem |
 | 2022-05-11 09:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: implement rate limiting middleware |
 | 2022-05-11 12:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | test: cover edge cases in validator |
+| 2022-05-11 13:24 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | fix: resolve CORS configuration |
