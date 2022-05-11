@@ -8475,3 +8475,4 @@
 | 2022-05-11 17:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | security: add input sanitization |
 | 2022-05-11 17:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2022-05-11 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | test: improve test coverage to 80% |
+| 2022-05-11 18:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | perf: reduce bundle size |
