@@ -8474,3 +8474,4 @@
 | 2022-05-11 16:55 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: mock external dependencies in tests |
 | 2022-05-11 17:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/update-deps` | security: add input sanitization |
 | 2022-05-11 17:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2022-05-11 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | test: improve test coverage to 80% |
