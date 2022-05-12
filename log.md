@@ -8477,3 +8477,4 @@
 | 2022-05-11 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | test: improve test coverage to 80% |
 | 2022-05-11 18:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | perf: reduce bundle size |
 | 2022-05-12 11:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
+| 2022-05-12 13:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | feat: implement rate limiting middleware |
