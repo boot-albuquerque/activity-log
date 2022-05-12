@@ -8478,3 +8478,4 @@
 | 2022-05-11 18:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | perf: reduce bundle size |
 | 2022-05-12 11:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2022-05-12 13:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | feat: implement rate limiting middleware |
+| 2022-05-12 15:05 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | chore: add Docker Compose for local dev |
