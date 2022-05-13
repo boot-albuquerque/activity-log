@@ -8490,3 +8490,4 @@
 | 2022-05-13 12:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | perf: implement response compression |
 | 2022-05-13 16:52 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | infra: add Kubernetes manifests |
 | 2022-05-13 17:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | security: update SSL certificates config |
+| 2022-05-13 20:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: simplify authentication flow |
