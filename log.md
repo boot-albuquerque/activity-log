@@ -8488,3 +8488,4 @@
 | 2022-05-13 11:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | refactor: adopt repository pattern |
 | 2022-05-13 12:28 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2022-05-13 12:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | perf: implement response compression |
+| 2022-05-13 16:52 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | infra: add Kubernetes manifests |
