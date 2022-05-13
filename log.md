@@ -8485,3 +8485,4 @@
 | 2022-05-13 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | chore: update dependencies |
 | 2022-05-13 09:07 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | refactor: clean up unused imports |
 | 2022-05-13 10:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | feat: implement caching layer |
+| 2022-05-13 11:23 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/rate-limiting` | refactor: adopt repository pattern |
