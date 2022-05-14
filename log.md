@@ -8493,3 +8493,4 @@
 | 2022-05-13 20:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: simplify authentication flow |
 | 2022-05-13 21:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | fix: correct cache invalidation logic |
 | 2022-05-13 22:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | ci: configure staging environment |
+| 2022-05-13 22:39 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | refactor: move constants to config module |
