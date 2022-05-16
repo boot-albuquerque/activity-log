@@ -8507,3 +8507,4 @@
 | 2022-05-16 08:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | fix: handle edge case in date parsing |
 | 2022-05-16 09:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2022-05-16 09:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | test: fix flaky test in async handler |
+| 2022-05-16 10:08 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | fix: correct null check in user service |
