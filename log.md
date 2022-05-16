@@ -8511,3 +8511,4 @@
 | 2022-05-16 13:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | chore: add pre-commit hooks |
 | 2022-05-16 13:58 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | chore: update dependencies |
 | 2022-05-16 14:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: implement soft delete pattern |
+| 2022-05-16 14:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: implement webhook receiver |
