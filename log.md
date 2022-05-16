@@ -8510,3 +8510,4 @@
 | 2022-05-16 10:08 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2022-05-16 13:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | chore: add pre-commit hooks |
 | 2022-05-16 13:58 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | chore: update dependencies |
+| 2022-05-16 14:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: implement soft delete pattern |
