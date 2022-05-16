@@ -8503,3 +8503,4 @@
 | 2022-05-15 16:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | feat: implement caching layer |
 | 2022-05-15 23:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | fix: resolve N+1 query problem |
 | 2022-05-16 00:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | refactor: consolidate error handling |
+| 2022-05-16 00:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: add search with filters |
