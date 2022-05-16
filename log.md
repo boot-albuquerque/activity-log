@@ -8508,3 +8508,4 @@
 | 2022-05-16 09:02 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2022-05-16 09:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | test: fix flaky test in async handler |
 | 2022-05-16 10:08 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | fix: correct null check in user service |
+| 2022-05-16 13:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | chore: add pre-commit hooks |
