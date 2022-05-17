@@ -8523,3 +8523,4 @@
 | 2022-05-17 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2022-05-17 14:02 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | ci: configure staging environment |
 | 2022-05-17 14:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: create admin management interface |
+| 2022-05-17 15:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | fix: resolve memory leak in connection pool |
