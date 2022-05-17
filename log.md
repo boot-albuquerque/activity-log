@@ -8521,3 +8521,4 @@
 | 2022-05-17 09:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: handle missing environment variable |
 | 2022-05-17 11:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | fix: handle timeout in async operation |
 | 2022-05-17 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
+| 2022-05-17 14:02 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | ci: configure staging environment |
