@@ -8527,3 +8527,4 @@
 | 2022-05-17 16:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | fix: correct null check in user service |
 | 2022-05-17 16:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | chore: configure ESLint and Prettier |
 | 2022-05-17 17:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
+| 2022-05-17 20:39 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: add Docker Compose for local dev |
