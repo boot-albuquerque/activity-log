@@ -8533,3 +8533,4 @@
 | 2022-05-18 11:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | refactor: clean up unused imports |
 | 2022-05-18 14:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v3.0` | test: add integration tests for API endpoints |
 | 2022-05-18 14:14 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
+| 2022-05-18 18:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
