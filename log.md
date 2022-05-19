@@ -8536,3 +8536,4 @@
 | 2022-05-18 18:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | fix: resolve race condition in queue worker |
 | 2022-05-18 23:47 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | chore: configure GitHub Actions CI |
 | 2022-05-19 00:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | feat: implement JWT refresh token |
+| 2022-05-19 08:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | perf: add database indexes |
