@@ -8546,3 +8546,4 @@
 | 2022-05-19 14:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | chore: add Docker Compose for local dev |
 | 2022-05-19 14:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | chore: upgrade to latest Node.js LTS |
 | 2022-05-19 15:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | security: update SSL certificates config |
+| 2022-05-19 15:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | db: optimize slow queries |
