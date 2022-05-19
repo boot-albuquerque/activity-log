@@ -8538,3 +8538,4 @@
 | 2022-05-19 00:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2022-05-19 08:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | perf: add database indexes |
 | 2022-05-19 10:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
+| 2022-05-19 11:08 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | fix: correct decimal precision in billing |
