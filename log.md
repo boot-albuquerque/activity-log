@@ -8548,3 +8548,4 @@
 | 2022-05-19 15:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | security: update SSL certificates config |
 | 2022-05-19 15:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | db: optimize slow queries |
 | 2022-05-19 15:53 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | refactor: extract business logic to service layer |
+| 2022-05-19 17:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | refactor: extract business logic to service layer |
