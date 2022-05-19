@@ -8543,3 +8543,4 @@
 | 2022-05-19 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: correct null check in user service |
 | 2022-05-19 13:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | security: add input sanitization |
 | 2022-05-19 13:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | ci: add automated deployment pipeline |
+| 2022-05-19 14:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | chore: add Docker Compose for local dev |
