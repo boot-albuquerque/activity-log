@@ -8540,3 +8540,4 @@
 | 2022-05-19 10:22 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
 | 2022-05-19 11:08 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | fix: correct decimal precision in billing |
 | 2022-05-19 11:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle edge case in date parsing |
+| 2022-05-19 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: correct null check in user service |
