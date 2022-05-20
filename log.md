@@ -8552,3 +8552,4 @@
 | 2022-05-19 19:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | test: fix flaky test in async handler |
 | 2022-05-19 23:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
 | 2022-05-20 09:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2022-05-20 10:45 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | infra: add Kubernetes manifests |
