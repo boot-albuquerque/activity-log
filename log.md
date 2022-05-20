@@ -8554,3 +8554,4 @@
 | 2022-05-20 09:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2022-05-20 10:45 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2022-05-20 16:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: split large controller into smaller ones |
+| 2022-05-20 17:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | feat: implement webhook receiver |
