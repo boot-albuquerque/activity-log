@@ -8551,3 +8551,4 @@
 | 2022-05-19 17:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2022-05-19 19:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | test: fix flaky test in async handler |
 | 2022-05-19 23:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
+| 2022-05-20 09:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | fix: handle missing environment variable |
