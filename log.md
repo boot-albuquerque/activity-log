@@ -8555,3 +8555,4 @@
 | 2022-05-20 10:45 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2022-05-20 16:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: split large controller into smaller ones |
 | 2022-05-20 17:15 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | feat: implement webhook receiver |
+| 2022-05-20 21:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
