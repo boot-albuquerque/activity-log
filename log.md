@@ -8558,3 +8558,4 @@
 | 2022-05-20 21:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2022-05-23 11:17 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | security: add input sanitization |
 | 2022-05-23 13:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | test: add integration tests for API endpoints |
+| 2022-05-23 15:29 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | db: optimize slow queries |
