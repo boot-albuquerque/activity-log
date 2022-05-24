@@ -8566,3 +8566,4 @@
 | 2022-05-24 09:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | chore: configure ESLint and Prettier |
 | 2022-05-24 10:51 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | feat: add pagination to list endpoint |
 | 2022-05-24 10:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | feat: create admin management interface |
+| 2022-05-24 12:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: create admin management interface |
