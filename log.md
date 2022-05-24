@@ -8569,3 +8569,4 @@
 | 2022-05-24 12:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: create admin management interface |
 | 2022-05-24 13:36 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2022-05-24 14:01 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | fix: resolve memory leak in connection pool |
+| 2022-05-24 14:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | db: add migration for new schema |
