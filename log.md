@@ -8593,3 +8593,4 @@
 | 2022-05-25 16:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: add audit log trail |
 | 2022-05-25 17:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: document environment variables |
 | 2022-05-25 19:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: split large controller into smaller ones |
+| 2022-05-25 20:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: add audit log trail |
