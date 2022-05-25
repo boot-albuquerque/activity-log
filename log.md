@@ -8583,3 +8583,4 @@
 | 2022-05-25 10:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | test: mock external dependencies in tests |
 | 2022-05-25 12:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: correct validation error messages |
 | 2022-05-25 12:52 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | feat: create background job processor |
+| 2022-05-25 12:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | chore: configure ESLint and Prettier |
