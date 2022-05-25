@@ -8592,3 +8592,4 @@
 | 2022-05-25 15:43 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2022-05-25 16:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | feat: add audit log trail |
 | 2022-05-25 17:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: document environment variables |
+| 2022-05-25 19:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: split large controller into smaller ones |
