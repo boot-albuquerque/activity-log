@@ -8595,3 +8595,4 @@
 | 2022-05-25 19:09 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: split large controller into smaller ones |
 | 2022-05-25 20:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: add audit log trail |
 | 2022-05-25 20:10 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | fix: correct validation error messages |
+| 2022-05-26 12:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | feat: create background job processor |
