@@ -8602,3 +8602,4 @@
 | 2022-05-26 22:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: create order processing service |
 | 2022-05-27 00:01 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | security: add input sanitization |
 | 2022-05-27 09:54 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | feat: implement caching layer |
+| 2022-05-27 12:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | fix: resolve N+1 query problem |
