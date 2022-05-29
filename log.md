@@ -8611,3 +8611,4 @@
 | 2022-05-28 11:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | test: add performance benchmark tests |
 | 2022-05-28 12:03 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | style: format code according to style guide |
 | 2022-05-29 12:56 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
+| 2022-05-29 16:41 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | db: add migration for new schema |
