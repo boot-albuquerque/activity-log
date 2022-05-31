@@ -8617,3 +8617,4 @@
 | 2022-05-31 08:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | fix: correct decimal precision in billing |
 | 2022-05-31 10:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | feat: create admin management interface |
 | 2022-05-31 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | test: add performance benchmark tests |
+| 2022-05-31 13:55 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | chore: add pre-commit hooks |
