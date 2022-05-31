@@ -8624,3 +8624,4 @@
 | 2022-05-31 15:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | perf: add database indexes |
 | 2022-05-31 15:47 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | perf: add database indexes |
 | 2022-05-31 16:07 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: handle malformed JSON input |
+| 2022-05-31 19:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add integration tests for API endpoints |
