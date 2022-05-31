@@ -8620,3 +8620,4 @@
 | 2022-05-31 13:55 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | chore: add pre-commit hooks |
 | 2022-05-31 14:34 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
 | 2022-05-31 14:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | docs: document environment variables |
+| 2022-05-31 15:10 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: create health check endpoint |
