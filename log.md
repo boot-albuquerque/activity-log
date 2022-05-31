@@ -8614,3 +8614,4 @@
 | 2022-05-29 16:41 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | db: add migration for new schema |
 | 2022-05-30 14:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2022-05-30 22:53 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | refactor: extract business logic to service layer |
+| 2022-05-31 08:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | fix: correct decimal precision in billing |
