@@ -8635,3 +8635,4 @@
 | 2022-06-02 13:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | feat: create background job processor |
 | 2022-06-02 13:45 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | test: improve test coverage to 80% |
 | 2022-06-02 13:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | docs: add README setup instructions |
+| 2022-06-02 14:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | feat: add OpenAPI documentation |
