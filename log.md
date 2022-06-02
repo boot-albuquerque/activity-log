@@ -8628,3 +8628,4 @@
 | 2022-05-31 21:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | ci: configure staging environment |
 | 2022-06-01 09:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | feat: add file upload support |
 | 2022-06-02 09:24 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | test: add unit tests for payment service |
+| 2022-06-02 09:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
