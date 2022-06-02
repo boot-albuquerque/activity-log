@@ -8637,3 +8637,4 @@
 | 2022-06-02 13:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | docs: add README setup instructions |
 | 2022-06-02 14:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2022-06-02 16:20 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | chore: add Docker Compose for local dev |
+| 2022-06-02 18:01 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | test: add e2e tests for checkout flow |
