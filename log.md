@@ -8641,3 +8641,4 @@
 | 2022-06-02 21:56 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2022-06-03 07:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | db: add migration for new schema |
 | 2022-06-03 08:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | db: add migration for new schema |
+| 2022-06-03 12:49 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | feat: create health check endpoint |
