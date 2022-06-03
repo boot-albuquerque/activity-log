@@ -8642,3 +8642,4 @@
 | 2022-06-03 07:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | db: add migration for new schema |
 | 2022-06-03 08:07 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | db: add migration for new schema |
 | 2022-06-03 12:49 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | feat: create health check endpoint |
+| 2022-06-03 12:52 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
