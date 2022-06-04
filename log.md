@@ -8651,3 +8651,4 @@
 | 2022-06-03 21:48 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | test: add unit tests for payment service |
 | 2022-06-03 23:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2022-06-04 00:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: correct validation error messages |
+| 2022-06-04 14:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | docs: update API documentation |
