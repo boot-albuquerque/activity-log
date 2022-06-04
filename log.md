@@ -8647,3 +8647,4 @@
 | 2022-06-03 14:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2022-06-03 15:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | refactor: adopt repository pattern |
 | 2022-06-03 15:42 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add bulk operations support |
+| 2022-06-03 20:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | docs: add README setup instructions |
