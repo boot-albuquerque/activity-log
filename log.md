@@ -8653,3 +8653,4 @@
 | 2022-06-04 00:07 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | fix: correct validation error messages |
 | 2022-06-04 14:10 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | docs: update API documentation |
 | 2022-06-05 16:14 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: implement rate limiting middleware |
+| 2022-06-05 16:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | chore: add Docker Compose for local dev |
