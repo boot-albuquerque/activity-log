@@ -8656,3 +8656,4 @@
 | 2022-06-05 16:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | chore: add Docker Compose for local dev |
 | 2022-06-05 20:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | infra: configure auto-scaling policies |
 | 2022-06-05 20:45 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | refactor: simplify authentication flow |
+| 2022-06-06 08:17 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | refactor: clean up unused imports |
