@@ -8669,3 +8669,4 @@
 | 2022-06-08 14:36 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2022-06-08 16:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | docs: document environment variables |
 | 2022-06-08 17:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | style: fix indentation and whitespace |
+| 2022-06-08 18:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: create dashboard metrics endpoint |
