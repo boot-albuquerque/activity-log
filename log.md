@@ -8670,3 +8670,4 @@
 | 2022-06-08 16:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v2.0` | docs: document environment variables |
 | 2022-06-08 17:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | style: fix indentation and whitespace |
 | 2022-06-08 18:05 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: create dashboard metrics endpoint |
+| 2022-06-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
