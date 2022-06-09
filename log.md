@@ -8675,3 +8675,4 @@
 | 2022-06-08 21:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | fix: handle edge case in date parsing |
 | 2022-06-08 23:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct null check in user service |
 | 2022-06-09 00:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: resolve race condition in queue worker |
+| 2022-06-09 09:41 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | docs: add README setup instructions |
