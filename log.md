@@ -8673,3 +8673,4 @@
 | 2022-06-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
 | 2022-06-08 21:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | feat: add real-time notifications |
 | 2022-06-08 21:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | fix: handle edge case in date parsing |
+| 2022-06-08 23:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct null check in user service |
