@@ -8680,3 +8680,4 @@
 | 2022-06-09 13:46 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | chore: configure GitHub Actions CI |
 | 2022-06-09 14:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | style: format code according to style guide |
 | 2022-06-09 15:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | feat: create dashboard metrics endpoint |
+| 2022-06-09 15:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | perf: add database indexes |
