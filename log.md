@@ -8682,3 +8682,4 @@
 | 2022-06-09 15:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2022-06-09 15:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | perf: add database indexes |
 | 2022-06-09 16:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | chore: update dependencies |
+| 2022-06-09 18:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | chore: configure ESLint and Prettier |
