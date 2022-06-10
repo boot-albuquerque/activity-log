@@ -8690,3 +8690,4 @@
 | 2022-06-10 15:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | security: fix SQL injection vulnerability |
 | 2022-06-10 17:17 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | perf: optimize database queries |
 | 2022-06-10 17:44 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | db: add composite index |
+| 2022-06-10 18:34 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | docs: document environment variables |
