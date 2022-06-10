@@ -8688,3 +8688,4 @@
 | 2022-06-10 12:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | docs: add README setup instructions |
 | 2022-06-10 13:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2022-06-10 15:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | security: fix SQL injection vulnerability |
+| 2022-06-10 17:17 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | perf: optimize database queries |
