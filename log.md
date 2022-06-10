@@ -8684,3 +8684,4 @@
 | 2022-06-09 16:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | chore: update dependencies |
 | 2022-06-09 18:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2022-06-09 18:42 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | fix: handle timeout in async operation |
+| 2022-06-10 10:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
