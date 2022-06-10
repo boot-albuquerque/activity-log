@@ -8687,3 +8687,4 @@
 | 2022-06-10 10:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
 | 2022-06-10 12:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | docs: add README setup instructions |
 | 2022-06-10 13:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | refactor: extract business logic to service layer |
+| 2022-06-10 15:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | security: fix SQL injection vulnerability |
