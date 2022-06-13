@@ -8699,3 +8699,4 @@
 | 2022-06-11 21:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | feat: implement rate limiting middleware |
 | 2022-06-13 12:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | db: add migration for new schema |
 | 2022-06-13 13:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | feat: create dashboard metrics endpoint |
+| 2022-06-13 14:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | fix: correct validation error messages |
