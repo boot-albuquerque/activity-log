@@ -8697,3 +8697,4 @@
 | 2022-06-11 12:48 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/cleanup` | feat: add email notification on status change |
 | 2022-06-11 16:14 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | fix: resolve deadlock in transaction |
 | 2022-06-11 21:51 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | feat: implement rate limiting middleware |
+| 2022-06-13 12:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | db: add migration for new schema |
