@@ -8702,3 +8702,4 @@
 | 2022-06-13 14:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | fix: correct validation error messages |
 | 2022-06-13 18:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | test: fix flaky test in async handler |
 | 2022-06-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | fix: handle edge case in date parsing |
+| 2022-06-14 10:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | db: optimize slow queries |
