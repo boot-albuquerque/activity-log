@@ -8704,3 +8704,4 @@
 | 2022-06-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | fix: handle edge case in date parsing |
 | 2022-06-14 10:49 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | db: optimize slow queries |
 | 2022-06-14 14:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: add email notification on status change |
+| 2022-06-14 14:57 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | docs: add README setup instructions |
