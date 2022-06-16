@@ -8714,3 +8714,4 @@
 | 2022-06-16 09:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | fix: correct null check in user service |
 | 2022-06-16 12:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: create order processing service |
 | 2022-06-16 12:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | feat: add real-time notifications |
+| 2022-06-16 14:26 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | fix: handle empty response from external API |
