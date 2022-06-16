@@ -8711,3 +8711,4 @@
 | 2022-06-15 11:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | style: format code according to style guide |
 | 2022-06-15 11:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: implement JWT refresh token |
 | 2022-06-15 17:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | fix: handle timeout in async operation |
+| 2022-06-16 09:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | fix: correct null check in user service |
