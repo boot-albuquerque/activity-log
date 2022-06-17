@@ -8719,3 +8719,4 @@
 | 2022-06-16 15:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | test: cover edge cases in validator |
 | 2022-06-16 18:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: resolve deadlock in transaction |
 | 2022-06-17 16:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | security: update SSL certificates config |
+| 2022-06-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | perf: implement response compression |
