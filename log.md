@@ -8720,3 +8720,4 @@
 | 2022-06-16 18:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: resolve deadlock in transaction |
 | 2022-06-17 16:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | security: update SSL certificates config |
 | 2022-06-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | perf: implement response compression |
+| 2022-06-18 21:43 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add pagination to list endpoint |
