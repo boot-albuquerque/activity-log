@@ -8721,3 +8721,4 @@
 | 2022-06-17 16:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | security: update SSL certificates config |
 | 2022-06-17 18:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | perf: implement response compression |
 | 2022-06-18 21:43 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add pagination to list endpoint |
+| 2022-06-20 00:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: add email notification on status change |
