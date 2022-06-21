@@ -8734,3 +8734,4 @@
 | 2022-06-21 12:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | feat: add real-time notifications |
 | 2022-06-21 14:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | fix: correct validation error messages |
 | 2022-06-21 14:27 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2022-06-21 15:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
