@@ -8730,3 +8730,4 @@
 | 2022-06-21 10:20 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | docs: add README setup instructions |
 | 2022-06-21 10:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2022-06-21 11:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: add search with filters |
+| 2022-06-21 11:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: create admin management interface |
