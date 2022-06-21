@@ -8732,3 +8732,4 @@
 | 2022-06-21 11:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: add search with filters |
 | 2022-06-21 11:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: create admin management interface |
 | 2022-06-21 12:43 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | feat: add real-time notifications |
+| 2022-06-21 14:09 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | fix: correct validation error messages |
