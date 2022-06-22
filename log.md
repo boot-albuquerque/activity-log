@@ -8737,3 +8737,4 @@
 | 2022-06-21 15:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2022-06-21 16:16 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2022-06-21 18:05 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | fix: correct validation error messages |
+| 2022-06-21 22:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: correct pagination offset calculation |
