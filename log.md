@@ -8757,3 +8757,4 @@
 | 2022-06-24 14:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2022-06-24 15:28 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2022-06-24 15:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | fix: correct pagination offset calculation |
+| 2022-06-24 17:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add unit tests for payment service |
