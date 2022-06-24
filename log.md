@@ -8748,3 +8748,4 @@
 | 2022-06-22 17:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | refactor: clean up unused imports |
 | 2022-06-22 19:35 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: handle missing environment variable |
 | 2022-06-22 22:28 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | chore: update dependencies |
+| 2022-06-24 00:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | feat: implement rate limiting middleware |
