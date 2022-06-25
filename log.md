@@ -8760,3 +8760,4 @@
 | 2022-06-24 17:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add unit tests for payment service |
 | 2022-06-24 18:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: resolve CORS configuration |
 | 2022-06-24 19:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | feat: add file upload support |
+| 2022-06-25 07:34 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
