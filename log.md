@@ -8774,3 +8774,4 @@
 | 2022-06-27 18:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | feat: implement JWT refresh token |
 | 2022-06-28 08:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add user authentication endpoint |
 | 2022-06-28 09:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | refactor: move constants to config module |
+| 2022-06-28 09:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | security: fix SQL injection vulnerability |
