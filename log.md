@@ -8786,3 +8786,4 @@
 | 2022-06-29 00:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | refactor: improve code readability |
 | 2022-06-29 00:37 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | feat: create admin management interface |
 | 2022-06-29 08:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: create health check endpoint |
+| 2022-06-29 09:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: add search with filters |
