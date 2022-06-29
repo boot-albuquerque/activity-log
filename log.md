@@ -8782,3 +8782,4 @@
 | 2022-06-28 18:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2022-06-28 20:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: implement webhook receiver |
 | 2022-06-28 21:06 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | refactor: extract business logic to service layer |
+| 2022-06-28 22:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/null-pointer` | fix: correct null check in user service |
