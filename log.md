@@ -8799,3 +8799,4 @@
 | 2022-07-02 16:35 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | feat: implement soft delete pattern |
 | 2022-07-03 00:22 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | test: add performance benchmark tests |
 | 2022-07-03 10:04 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | feat: implement soft delete pattern |
+| 2022-07-03 15:25 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | feat: implement JWT refresh token |
