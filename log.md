@@ -8809,3 +8809,4 @@
 | 2022-07-06 12:22 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2022-07-06 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | ci: configure staging environment |
 | 2022-07-06 12:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | feat: implement JWT refresh token |
+| 2022-07-06 12:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: move constants to config module |
