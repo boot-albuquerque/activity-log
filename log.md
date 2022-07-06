@@ -8814,3 +8814,4 @@
 | 2022-07-06 14:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: add Kubernetes manifests |
 | 2022-07-06 14:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | test: fix flaky test in async handler |
 | 2022-07-06 15:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | feat: implement rate limiting middleware |
+| 2022-07-06 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | test: add integration tests for API endpoints |
