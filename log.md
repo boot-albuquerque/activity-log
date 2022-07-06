@@ -8817,3 +8817,4 @@
 | 2022-07-06 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2022-07-06 17:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | style: fix indentation and whitespace |
 | 2022-07-06 20:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | refactor: replace raw SQL with query builder |
+| 2022-07-06 20:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | feat: add file upload support |
