@@ -8811,3 +8811,4 @@
 | 2022-07-06 12:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2022-07-06 12:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | refactor: move constants to config module |
 | 2022-07-06 14:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | feat: add OpenAPI documentation |
+| 2022-07-06 14:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: add Kubernetes manifests |
