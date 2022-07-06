@@ -8808,3 +8808,4 @@
 | 2022-07-06 10:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: create health check endpoint |
 | 2022-07-06 12:22 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2022-07-06 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | ci: configure staging environment |
+| 2022-07-06 12:36 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | feat: implement JWT refresh token |
