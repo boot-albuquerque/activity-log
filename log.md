@@ -8803,3 +8803,4 @@
 | 2022-07-03 20:50 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2022-07-04 20:56 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | style: fix indentation and whitespace |
 | 2022-07-06 08:25 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | db: optimize slow queries |
+| 2022-07-06 10:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: add e2e tests for checkout flow |
