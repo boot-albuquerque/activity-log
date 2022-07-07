@@ -8830,3 +8830,4 @@
 | 2022-07-07 12:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | perf: add database indexes |
 | 2022-07-07 13:09 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | fix: handle empty response from external API |
 | 2022-07-07 13:47 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | docs: update API documentation |
+| 2022-07-07 15:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | db: add composite index |
