@@ -8836,3 +8836,4 @@
 | 2022-07-10 14:33 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | style: format code according to style guide |
 | 2022-07-10 18:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | perf: implement response compression |
 | 2022-07-11 09:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | infra: update Terraform modules |
+| 2022-07-12 00:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/rate-limiting` | test: cover edge cases in validator |
