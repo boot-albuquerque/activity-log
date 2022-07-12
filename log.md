@@ -8840,3 +8840,4 @@
 | 2022-07-12 10:20 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | perf: reduce bundle size |
 | 2022-07-12 10:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | docs: add README setup instructions |
 | 2022-07-12 12:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: resolve deadlock in transaction |
+| 2022-07-12 13:55 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | docs: add README setup instructions |
