@@ -8843,3 +8843,4 @@
 | 2022-07-12 13:55 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | docs: add README setup instructions |
 | 2022-07-12 15:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | test: improve test coverage to 80% |
 | 2022-07-12 15:28 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | ci: add automated deployment pipeline |
+| 2022-07-12 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | ci: configure staging environment |
