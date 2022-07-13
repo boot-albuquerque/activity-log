@@ -8852,3 +8852,4 @@
 | 2022-07-13 12:16 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | test: add unit tests for payment service |
 | 2022-07-13 13:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | security: fix SQL injection vulnerability |
 | 2022-07-13 14:18 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | test: add unit tests for payment service |
+| 2022-07-13 16:06 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | refactor: move constants to config module |
