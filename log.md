@@ -8850,3 +8850,4 @@
 | 2022-07-13 08:30 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: implement JWT refresh token |
 | 2022-07-13 09:53 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/memory-leak` | feat: add bulk operations support |
 | 2022-07-13 12:16 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | test: add unit tests for payment service |
+| 2022-07-13 13:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | security: fix SQL injection vulnerability |
