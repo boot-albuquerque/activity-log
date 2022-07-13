@@ -8846,3 +8846,4 @@
 | 2022-07-12 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | ci: configure staging environment |
 | 2022-07-12 18:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | refactor: split large controller into smaller ones |
 | 2022-07-12 20:43 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | perf: optimize database queries |
+| 2022-07-12 21:26 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: add OpenAPI documentation |
