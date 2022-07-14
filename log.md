@@ -8856,3 +8856,4 @@
 | 2022-07-13 18:24 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2022-07-14 09:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | security: update SSL certificates config |
 | 2022-07-14 09:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: create admin management interface |
+| 2022-07-14 11:52 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | feat: implement rate limiting middleware |
