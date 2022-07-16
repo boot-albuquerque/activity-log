@@ -8868,3 +8868,4 @@
 | 2022-07-15 18:33 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | chore: add pre-commit hooks |
 | 2022-07-15 20:30 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | style: fix indentation and whitespace |
 | 2022-07-15 20:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | chore: add pre-commit hooks |
+| 2022-07-15 23:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | test: add performance benchmark tests |
