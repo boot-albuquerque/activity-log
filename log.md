@@ -8871,3 +8871,4 @@
 | 2022-07-15 23:13 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | test: add performance benchmark tests |
 | 2022-07-16 13:00 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | feat: implement caching layer |
 | 2022-07-16 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | feat: create background job processor |
+| 2022-07-17 10:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | fix: resolve deadlock in transaction |
