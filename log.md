@@ -8876,3 +8876,4 @@
 | 2022-07-17 14:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | feat: implement JWT refresh token |
 | 2022-07-17 21:32 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | test: cover edge cases in validator |
 | 2022-07-18 11:21 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | refactor: move constants to config module |
+| 2022-07-18 11:41 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | refactor: clean up unused imports |
