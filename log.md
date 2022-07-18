@@ -8879,3 +8879,4 @@
 | 2022-07-18 11:41 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | refactor: clean up unused imports |
 | 2022-07-18 13:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve deadlock in transaction |
 | 2022-07-18 15:14 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: create order processing service |
+| 2022-07-18 15:35 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve CORS configuration |
