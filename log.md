@@ -8885,3 +8885,4 @@
 | 2022-07-20 09:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: mock external dependencies in tests |
 | 2022-07-20 12:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2022-07-20 15:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | test: add performance benchmark tests |
+| 2022-07-20 15:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | perf: implement response compression |
