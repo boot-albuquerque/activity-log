@@ -8888,3 +8888,4 @@
 | 2022-07-20 15:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | perf: implement response compression |
 | 2022-07-20 16:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/typo-response` | style: format code according to style guide |
 | 2022-07-20 19:16 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | fix: correct validation error messages |
+| 2022-07-20 23:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
