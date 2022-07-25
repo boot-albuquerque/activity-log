@@ -8914,3 +8914,4 @@
 | 2022-07-25 17:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | feat: add search with filters |
 | 2022-07-25 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2022-07-25 17:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | test: mock external dependencies in tests |
+| 2022-07-25 18:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
