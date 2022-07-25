@@ -8910,3 +8910,4 @@
 | 2022-07-25 14:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | docs: document environment variables |
 | 2022-07-25 14:27 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/update-deps` | refactor: replace raw SQL with query builder |
 | 2022-07-25 15:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: resolve race condition in queue worker |
+| 2022-07-25 15:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: extract business logic to service layer |
