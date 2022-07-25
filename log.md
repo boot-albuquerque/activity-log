@@ -8899,3 +8899,4 @@
 | 2022-07-22 17:31 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | security: add input sanitization |
 | 2022-07-23 07:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | security: add input sanitization |
 | 2022-07-23 09:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | security: add input sanitization |
+| 2022-07-25 07:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
