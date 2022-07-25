@@ -8904,3 +8904,4 @@
 | 2022-07-25 10:56 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | ci: add automated deployment pipeline |
 | 2022-07-25 11:02 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
 | 2022-07-25 11:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | feat: add file upload support |
+| 2022-07-25 12:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | perf: reduce bundle size |
