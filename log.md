@@ -8907,3 +8907,4 @@
 | 2022-07-25 12:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | perf: reduce bundle size |
 | 2022-07-25 13:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | security: add input sanitization |
 | 2022-07-25 13:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | refactor: clean up unused imports |
+| 2022-07-25 14:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/memory-leak` | docs: document environment variables |
