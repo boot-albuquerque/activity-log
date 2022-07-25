@@ -8912,3 +8912,4 @@
 | 2022-07-25 15:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | fix: resolve race condition in queue worker |
 | 2022-07-25 15:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2022-07-25 17:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | feat: add search with filters |
+| 2022-07-25 17:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | fix: handle empty response from external API |
