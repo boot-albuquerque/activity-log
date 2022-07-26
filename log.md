@@ -8916,3 +8916,4 @@
 | 2022-07-25 17:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2022-07-25 18:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2022-07-25 22:39 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | refactor: clean up unused imports |
+| 2022-07-26 00:47 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: resolve memory leak in connection pool |
