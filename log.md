@@ -8937,3 +8937,4 @@
 | 2022-07-29 19:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | feat: add search with filters |
 | 2022-07-29 20:20 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | db: add migration for new schema |
 | 2022-07-29 23:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: add search with filters |
+| 2022-07-31 14:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | refactor: split large controller into smaller ones |
