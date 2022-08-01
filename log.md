@@ -8939,3 +8939,4 @@
 | 2022-07-29 23:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: add search with filters |
 | 2022-07-31 14:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2022-07-31 21:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | refactor: consolidate error handling |
+| 2022-08-01 00:16 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | fix: correct pagination offset calculation |
