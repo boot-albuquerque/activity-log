@@ -8945,3 +8945,4 @@
 | 2022-08-01 14:40 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/rate-limiting` | chore: configure ESLint and Prettier |
 | 2022-08-01 15:15 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2022-08-01 17:49 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | ci: configure staging environment |
+| 2022-08-01 21:01 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | fix: correct null check in user service |
