@@ -8953,3 +8953,4 @@
 | 2022-08-03 12:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | fix: resolve deadlock in transaction |
 | 2022-08-03 14:04 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | docs: document environment variables |
 | 2022-08-03 14:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/prod-issue` | feat: create dashboard metrics endpoint |
+| 2022-08-03 15:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: resolve race condition in queue worker |
