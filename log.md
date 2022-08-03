@@ -8956,3 +8956,4 @@
 | 2022-08-03 15:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | fix: resolve race condition in queue worker |
 | 2022-08-03 16:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2022-08-03 16:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: handle missing environment variable |
+| 2022-08-03 19:14 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | test: add e2e tests for checkout flow |
