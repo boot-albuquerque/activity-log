@@ -8964,3 +8964,4 @@
 | 2022-08-03 23:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: resolve deadlock in transaction |
 | 2022-08-04 00:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2022-08-04 00:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: add user authentication endpoint |
+| 2022-08-04 07:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | chore: add Docker Compose for local dev |
