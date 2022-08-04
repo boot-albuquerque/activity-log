@@ -8967,3 +8967,4 @@
 | 2022-08-04 07:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | chore: add Docker Compose for local dev |
 | 2022-08-04 10:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | db: add composite index |
 | 2022-08-04 10:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | refactor: extract business logic to service layer |
+| 2022-08-04 11:11 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | fix: correct pagination offset calculation |
