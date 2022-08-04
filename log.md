@@ -8969,3 +8969,4 @@
 | 2022-08-04 10:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2022-08-04 11:11 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | fix: correct pagination offset calculation |
 | 2022-08-04 13:14 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: correct validation error messages |
+| 2022-08-04 14:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: create health check endpoint |
