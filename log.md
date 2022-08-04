@@ -8966,3 +8966,4 @@
 | 2022-08-04 00:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: add user authentication endpoint |
 | 2022-08-04 07:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | chore: add Docker Compose for local dev |
 | 2022-08-04 10:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | db: add composite index |
+| 2022-08-04 10:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | refactor: extract business logic to service layer |
