@@ -8975,3 +8975,4 @@
 | 2022-08-05 15:58 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2022-08-06 11:42 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: create dashboard metrics endpoint |
 | 2022-08-06 17:48 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | feat: create health check endpoint |
+| 2022-08-07 11:33 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | security: fix SQL injection vulnerability |
