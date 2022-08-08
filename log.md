@@ -8982,3 +8982,4 @@
 | 2022-08-08 11:23 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | perf: reduce bundle size |
 | 2022-08-08 13:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2022-08-08 14:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/rate-limiting` | db: add composite index |
+| 2022-08-08 16:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | feat: add search with filters |
