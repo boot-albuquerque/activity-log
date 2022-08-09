@@ -8990,3 +8990,4 @@
 | 2022-08-09 12:45 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | fix: correct validation error messages |
 | 2022-08-09 15:08 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | perf: add database indexes |
 | 2022-08-09 15:18 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: create dashboard metrics endpoint |
+| 2022-08-09 17:21 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | feat: implement caching layer |
