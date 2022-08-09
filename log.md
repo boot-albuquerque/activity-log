@@ -8986,3 +8986,4 @@
 | 2022-08-08 19:55 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | db: add migration for new schema |
 | 2022-08-08 21:06 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | refactor: adopt repository pattern |
 | 2022-08-08 23:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve deadlock in transaction |
+| 2022-08-09 11:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | security: fix SQL injection vulnerability |
