@@ -8987,3 +8987,4 @@
 | 2022-08-08 21:06 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | refactor: adopt repository pattern |
 | 2022-08-08 23:54 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: resolve deadlock in transaction |
 | 2022-08-09 11:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | security: fix SQL injection vulnerability |
+| 2022-08-09 12:45 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | fix: correct validation error messages |
