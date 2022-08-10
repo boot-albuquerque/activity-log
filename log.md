@@ -9002,3 +9002,4 @@
 | 2022-08-10 14:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | feat: create health check endpoint |
 | 2022-08-10 14:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: create background job processor |
 | 2022-08-10 15:19 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | docs: document environment variables |
+| 2022-08-10 16:59 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | fix: handle empty response from external API |
