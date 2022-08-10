@@ -8997,3 +8997,4 @@
 | 2022-08-10 07:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | refactor: adopt repository pattern |
 | 2022-08-10 11:28 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2022-08-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: resolve memory leak in connection pool |
+| 2022-08-10 13:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | chore: configure ESLint and Prettier |
