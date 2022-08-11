@@ -9009,3 +9009,4 @@
 | 2022-08-11 08:18 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2022-08-11 12:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/null-pointer` | docs: document environment variables |
 | 2022-08-11 13:21 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | chore: update dependencies |
+| 2022-08-11 15:50 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | feat: add search with filters |
