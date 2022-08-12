@@ -9021,3 +9021,4 @@
 | 2022-08-12 15:49 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | test: fix flaky test in async handler |
 | 2022-08-12 16:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2022-08-12 16:05 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | fix: handle malformed JSON input |
+| 2022-08-12 16:37 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | feat: implement JWT refresh token |
