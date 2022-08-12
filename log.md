@@ -9011,3 +9011,4 @@
 | 2022-08-11 13:21 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | chore: update dependencies |
 | 2022-08-11 15:50 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | feat: add search with filters |
 | 2022-08-11 23:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/cleanup` | test: add unit tests for payment service |
+| 2022-08-12 08:26 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | fix: correct pagination offset calculation |
