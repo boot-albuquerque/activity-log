@@ -9026,3 +9026,4 @@
 | 2022-08-12 18:19 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | feat: create admin management interface |
 | 2022-08-12 19:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | fix: correct pagination offset calculation |
 | 2022-08-12 20:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | test: add performance benchmark tests |
+| 2022-08-12 21:42 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | docs: document environment variables |
