@@ -9029,3 +9029,4 @@
 | 2022-08-12 21:42 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | docs: document environment variables |
 | 2022-08-12 23:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | test: fix flaky test in async handler |
 | 2022-08-13 12:54 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
+| 2022-08-14 11:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | fix: handle malformed JSON input |
