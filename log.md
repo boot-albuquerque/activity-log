@@ -9035,3 +9035,4 @@
 | 2022-08-14 19:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | feat: create admin management interface |
 | 2022-08-15 00:07 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | feat: implement caching layer |
 | 2022-08-15 00:36 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | infra: configure auto-scaling policies |
+| 2022-08-15 11:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct pagination offset calculation |
