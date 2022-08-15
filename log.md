@@ -9041,3 +9041,4 @@
 | 2022-08-15 12:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | fix: handle malformed JSON input |
 | 2022-08-15 14:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | feat: add file upload support |
 | 2022-08-15 16:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | test: fix flaky test in async handler |
+| 2022-08-15 20:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | perf: implement response compression |
