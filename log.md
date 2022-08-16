@@ -9047,3 +9047,4 @@
 | 2022-08-16 13:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | docs: update API documentation |
 | 2022-08-16 15:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | test: fix flaky test in async handler |
 | 2022-08-16 17:16 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
+| 2022-08-16 17:28 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | fix: correct cache invalidation logic |
