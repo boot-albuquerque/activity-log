@@ -9045,3 +9045,4 @@
 | 2022-08-15 20:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | perf: optimize database queries |
 | 2022-08-15 20:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: resolve deadlock in transaction |
 | 2022-08-16 13:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | docs: update API documentation |
+| 2022-08-16 15:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | test: fix flaky test in async handler |
