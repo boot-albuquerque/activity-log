@@ -9052,3 +9052,4 @@
 | 2022-08-16 17:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: replace raw SQL with query builder |
 | 2022-08-16 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | perf: add database indexes |
 | 2022-08-16 20:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | fix: correct cache invalidation logic |
+| 2022-08-16 22:40 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | feat: add export to CSV/Excel |
