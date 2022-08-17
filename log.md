@@ -9051,3 +9051,4 @@
 | 2022-08-16 17:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | fix: handle edge case in date parsing |
 | 2022-08-16 17:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: replace raw SQL with query builder |
 | 2022-08-16 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | perf: add database indexes |
+| 2022-08-16 20:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | fix: correct cache invalidation logic |
