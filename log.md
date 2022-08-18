@@ -9068,3 +9068,4 @@
 | 2022-08-18 16:01 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2022-08-18 16:27 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | feat: add audit log trail |
 | 2022-08-18 16:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: resolve CORS configuration |
+| 2022-08-18 17:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | feat: implement rate limiting middleware |
