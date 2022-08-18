@@ -9065,3 +9065,4 @@
 | 2022-08-18 13:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | feat: create background job processor |
 | 2022-08-18 14:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | test: add performance benchmark tests |
 | 2022-08-18 15:22 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | chore: add pre-commit hooks |
+| 2022-08-18 16:01 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | fix: handle empty response from external API |
