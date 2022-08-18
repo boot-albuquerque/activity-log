@@ -9063,3 +9063,4 @@
 | 2022-08-18 08:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: implement rate limiting middleware |
 | 2022-08-18 10:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: implement JWT refresh token |
 | 2022-08-18 13:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | feat: create background job processor |
+| 2022-08-18 14:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | test: add performance benchmark tests |
