@@ -9070,3 +9070,4 @@
 | 2022-08-18 16:49 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | fix: resolve CORS configuration |
 | 2022-08-18 17:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | feat: implement rate limiting middleware |
 | 2022-08-18 18:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2022-08-18 19:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | chore: add Docker Compose for local dev |
