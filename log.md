@@ -9059,3 +9059,4 @@
 | 2022-08-17 11:20 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2022-08-17 15:33 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | fix: correct validation error messages |
 | 2022-08-17 19:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | db: add composite index |
+| 2022-08-18 07:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | test: cover edge cases in validator |
