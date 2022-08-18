@@ -9061,3 +9061,4 @@
 | 2022-08-17 19:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | db: add composite index |
 | 2022-08-18 07:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | test: cover edge cases in validator |
 | 2022-08-18 08:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: implement rate limiting middleware |
+| 2022-08-18 10:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: implement JWT refresh token |
