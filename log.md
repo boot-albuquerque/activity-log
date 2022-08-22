@@ -9080,3 +9080,4 @@
 | 2022-08-22 00:55 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2022-08-22 07:55 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | refactor: adopt repository pattern |
 | 2022-08-22 09:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | refactor: adopt repository pattern |
+| 2022-08-22 13:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | db: add migration for new schema |
