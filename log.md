@@ -9082,3 +9082,4 @@
 | 2022-08-22 09:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | refactor: adopt repository pattern |
 | 2022-08-22 13:04 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | db: add migration for new schema |
 | 2022-08-22 13:52 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | feat: add email notification on status change |
+| 2022-08-22 15:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add file upload support |
