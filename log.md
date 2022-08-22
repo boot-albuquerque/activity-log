@@ -9076,3 +9076,4 @@
 | 2022-08-19 13:57 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: implement caching layer |
 | 2022-08-19 14:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | fix: resolve CORS configuration |
 | 2022-08-19 21:11 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | docs: add README setup instructions |
+| 2022-08-22 00:05 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | test: mock external dependencies in tests |
