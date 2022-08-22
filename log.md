@@ -9085,3 +9085,4 @@
 | 2022-08-22 15:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add file upload support |
 | 2022-08-22 15:14 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | refactor: move constants to config module |
 | 2022-08-22 15:46 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | feat: add email notification on status change |
+| 2022-08-22 16:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | feat: add export to CSV/Excel |
