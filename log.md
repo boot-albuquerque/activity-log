@@ -9088,3 +9088,4 @@
 | 2022-08-22 16:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | feat: add export to CSV/Excel |
 | 2022-08-22 18:09 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | fix: handle timeout in async operation |
 | 2022-08-22 18:14 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | test: mock external dependencies in tests |
+| 2022-08-22 20:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle missing environment variable |
