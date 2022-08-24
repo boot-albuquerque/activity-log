@@ -9091,3 +9091,4 @@
 | 2022-08-22 20:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle missing environment variable |
 | 2022-08-22 20:29 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | fix: handle empty response from external API |
 | 2022-08-22 22:54 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | feat: add user authentication endpoint |
+| 2022-08-24 07:52 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | feat: add email notification on status change |
