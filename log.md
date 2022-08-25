@@ -9095,3 +9095,4 @@
 | 2022-08-24 10:49 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: add real-time notifications |
 | 2022-08-24 12:45 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2022-08-24 17:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | fix: handle malformed JSON input |
+| 2022-08-25 09:41 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | test: add integration tests for API endpoints |
