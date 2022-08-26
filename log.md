@@ -9104,3 +9104,4 @@
 | 2022-08-26 00:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | fix: correct pagination offset calculation |
 | 2022-08-26 07:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | db: optimize slow queries |
 | 2022-08-26 12:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: fix flaky test in async handler |
+| 2022-08-26 16:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | feat: add OpenAPI documentation |
