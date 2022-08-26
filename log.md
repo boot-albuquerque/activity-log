@@ -9106,3 +9106,4 @@
 | 2022-08-26 12:41 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | test: fix flaky test in async handler |
 | 2022-08-26 16:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2022-08-26 16:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
+| 2022-08-26 17:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: add file upload support |
