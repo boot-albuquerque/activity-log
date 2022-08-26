@@ -9108,3 +9108,4 @@
 | 2022-08-26 16:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | test: add e2e tests for checkout flow |
 | 2022-08-26 17:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: add file upload support |
 | 2022-08-26 17:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
+| 2022-08-26 18:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: create health check endpoint |
