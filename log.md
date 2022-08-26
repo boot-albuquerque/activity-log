@@ -9101,3 +9101,4 @@
 | 2022-08-25 14:07 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | infra: update Terraform modules |
 | 2022-08-25 15:43 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | feat: add file upload support |
 | 2022-08-25 21:58 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | refactor: clean up unused imports |
+| 2022-08-26 00:21 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | fix: correct pagination offset calculation |
