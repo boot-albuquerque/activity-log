@@ -9111,3 +9111,4 @@
 | 2022-08-26 18:02 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | feat: create health check endpoint |
 | 2022-08-26 18:57 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: handle timeout in async operation |
 | 2022-08-26 19:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | db: add composite index |
+| 2022-08-26 21:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | db: add composite index |
