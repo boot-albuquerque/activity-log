@@ -9119,3 +9119,4 @@
 | 2022-08-29 14:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | chore: configure ESLint and Prettier |
 | 2022-08-29 17:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2022-08-29 19:05 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | refactor: improve code readability |
+| 2022-08-29 21:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | test: add e2e tests for checkout flow |
