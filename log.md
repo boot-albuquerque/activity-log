@@ -9131,3 +9131,4 @@
 | 2022-08-30 21:46 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2022-08-31 09:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | db: optimize slow queries |
 | 2022-08-31 13:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | fix: correct validation error messages |
+| 2022-08-31 13:38 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | feat: add email notification on status change |
