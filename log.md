@@ -9135,3 +9135,4 @@
 | 2022-08-31 14:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: implement webhook receiver |
 | 2022-08-31 17:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | infra: configure auto-scaling policies |
 | 2022-08-31 18:11 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
+| 2022-08-31 19:53 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | test: mock external dependencies in tests |
