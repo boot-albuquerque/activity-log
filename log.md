@@ -9151,3 +9151,4 @@
 | 2022-09-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2022-09-01 15:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2022-09-01 16:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | fix: handle malformed JSON input |
+| 2022-09-01 17:13 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | db: optimize slow queries |
