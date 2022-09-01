@@ -9150,3 +9150,4 @@
 | 2022-09-01 14:13 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | chore: add pre-commit hooks |
 | 2022-09-01 15:17 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2022-09-01 15:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | feat: add pagination to list endpoint |
+| 2022-09-01 16:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | fix: handle malformed JSON input |
