@@ -9142,3 +9142,4 @@
 | 2022-09-01 11:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: add search with filters |
 | 2022-09-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | perf: add database indexes |
 | 2022-09-01 11:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | fix: resolve race condition in queue worker |
+| 2022-09-01 12:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | test: add integration tests for API endpoints |
