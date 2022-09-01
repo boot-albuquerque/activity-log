@@ -9147,3 +9147,4 @@
 | 2022-09-01 12:32 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | security: update SSL certificates config |
 | 2022-09-01 13:15 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | fix: handle empty response from external API |
 | 2022-09-01 13:48 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | test: fix flaky test in async handler |
+| 2022-09-01 14:13 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | chore: add pre-commit hooks |
