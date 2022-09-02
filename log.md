@@ -9169,3 +9169,4 @@
 | 2022-09-02 19:04 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | db: add migration for new schema |
 | 2022-09-02 19:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2022-09-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
+| 2022-09-02 20:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve deadlock in transaction |
