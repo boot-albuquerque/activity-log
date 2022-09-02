@@ -9159,3 +9159,4 @@
 | 2022-09-02 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2022-09-02 09:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add user authentication endpoint |
 | 2022-09-02 10:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
+| 2022-09-02 11:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
