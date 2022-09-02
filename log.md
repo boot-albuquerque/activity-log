@@ -9155,3 +9155,4 @@
 | 2022-09-01 18:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2022-09-01 22:00 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: create dashboard metrics endpoint |
 | 2022-09-02 07:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | fix: correct cache invalidation logic |
+| 2022-09-02 08:12 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
