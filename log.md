@@ -9158,3 +9158,4 @@
 | 2022-09-02 08:12 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2022-09-02 09:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2022-09-02 09:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: add user authentication endpoint |
+| 2022-09-02 10:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | chore: add Docker Compose for local dev |
