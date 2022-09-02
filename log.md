@@ -9162,3 +9162,4 @@
 | 2022-09-02 11:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2022-09-02 12:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | test: add e2e tests for checkout flow |
 | 2022-09-02 13:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | refactor: reduce cyclomatic complexity |
+| 2022-09-02 13:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | docs: add README setup instructions |
