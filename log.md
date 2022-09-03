@@ -9172,3 +9172,4 @@
 | 2022-09-02 20:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve deadlock in transaction |
 | 2022-09-02 21:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | feat: add bulk operations support |
 | 2022-09-02 22:18 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | feat: add user authentication endpoint |
+| 2022-09-03 14:25 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | refactor: adopt repository pattern |
