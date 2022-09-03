@@ -9170,3 +9170,4 @@
 | 2022-09-02 19:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2022-09-02 20:09 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | refactor: reduce cyclomatic complexity |
 | 2022-09-02 20:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | fix: resolve deadlock in transaction |
+| 2022-09-02 21:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | feat: add bulk operations support |
