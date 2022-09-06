@@ -9185,3 +9185,4 @@
 | 2022-09-05 12:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | test: fix flaky test in async handler |
 | 2022-09-05 12:48 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | feat: add user authentication endpoint |
 | 2022-09-05 20:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: create order processing service |
+| 2022-09-05 22:37 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | refactor: consolidate error handling |
