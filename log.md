@@ -9187,3 +9187,4 @@
 | 2022-09-05 20:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: create order processing service |
 | 2022-09-05 22:37 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | refactor: consolidate error handling |
 | 2022-09-06 13:39 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | chore: update dependencies |
+| 2022-09-06 17:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | db: add migration for new schema |
