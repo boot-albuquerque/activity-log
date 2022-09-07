@@ -9192,3 +9192,4 @@
 | 2022-09-06 17:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: add audit log trail |
 | 2022-09-06 22:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: create order processing service |
 | 2022-09-06 23:38 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve race condition in queue worker |
+| 2022-09-07 09:20 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | fix: correct null check in user service |
