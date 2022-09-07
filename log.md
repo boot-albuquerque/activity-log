@@ -9196,3 +9196,4 @@
 | 2022-09-07 11:22 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: improve code readability |
 | 2022-09-07 13:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2022-09-07 15:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | ci: add automated deployment pipeline |
+| 2022-09-07 18:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: implement rate limiting middleware |
