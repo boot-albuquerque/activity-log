@@ -9197,3 +9197,4 @@
 | 2022-09-07 13:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2022-09-07 15:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2022-09-07 18:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: implement rate limiting middleware |
+| 2022-09-07 22:15 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | docs: add README setup instructions |
