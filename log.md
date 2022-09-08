@@ -9198,3 +9198,4 @@
 | 2022-09-07 15:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2022-09-07 18:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2022-09-07 22:15 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | docs: add README setup instructions |
+| 2022-09-08 08:34 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | feat: add search with filters |
