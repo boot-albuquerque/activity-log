@@ -9200,3 +9200,4 @@
 | 2022-09-07 22:15 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | docs: add README setup instructions |
 | 2022-09-08 08:34 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | feat: add search with filters |
 | 2022-09-08 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
+| 2022-09-08 14:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | test: add integration tests for API endpoints |
