@@ -9202,3 +9202,4 @@
 | 2022-09-08 13:19 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: resolve N+1 query problem |
 | 2022-09-08 14:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | test: add integration tests for API endpoints |
 | 2022-09-08 14:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add pagination to list endpoint |
+| 2022-09-08 16:46 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | security: fix SQL injection vulnerability |
