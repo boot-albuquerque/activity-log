@@ -9226,3 +9226,4 @@
 | 2022-09-12 20:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | test: add unit tests for payment service |
 | 2022-09-13 08:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | refactor: improve code readability |
 | 2022-09-13 09:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | fix: handle missing environment variable |
+| 2022-09-13 10:05 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | fix: resolve N+1 query problem |
