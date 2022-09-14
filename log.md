@@ -9244,3 +9244,4 @@
 | 2022-09-14 08:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: implement rate limiting middleware |
 | 2022-09-14 10:04 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | feat: add file upload support |
 | 2022-09-14 10:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add pagination to list endpoint |
+| 2022-09-14 11:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | feat: add user authentication endpoint |
