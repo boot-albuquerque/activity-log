@@ -9246,3 +9246,4 @@
 | 2022-09-14 10:16 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | feat: add pagination to list endpoint |
 | 2022-09-14 11:13 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2022-09-14 14:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: replace raw SQL with query builder |
+| 2022-09-14 16:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | feat: create health check endpoint |
