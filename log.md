@@ -9248,3 +9248,4 @@
 | 2022-09-14 14:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: replace raw SQL with query builder |
 | 2022-09-14 16:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | feat: create health check endpoint |
 | 2022-09-14 16:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | test: cover edge cases in validator |
+| 2022-09-14 17:01 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | chore: add pre-commit hooks |
