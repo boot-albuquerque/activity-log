@@ -9250,3 +9250,4 @@
 | 2022-09-14 16:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | test: cover edge cases in validator |
 | 2022-09-14 17:01 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | chore: add pre-commit hooks |
 | 2022-09-14 18:18 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | feat: implement caching layer |
+| 2022-09-14 21:54 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | docs: add README setup instructions |
