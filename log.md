@@ -9266,3 +9266,4 @@
 | 2022-09-17 19:46 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
 | 2022-09-18 22:06 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | test: mock external dependencies in tests |
 | 2022-09-19 12:26 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | chore: add pre-commit hooks |
+| 2022-09-19 16:28 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add search with filters |
