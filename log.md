@@ -9274,3 +9274,4 @@
 | 2022-09-20 12:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2022-09-20 14:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: add Docker Compose for local dev |
 | 2022-09-20 14:44 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | style: format code according to style guide |
+| 2022-09-20 14:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | feat: implement JWT refresh token |
