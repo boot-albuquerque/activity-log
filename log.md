@@ -9275,3 +9275,4 @@
 | 2022-09-20 14:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | chore: add Docker Compose for local dev |
 | 2022-09-20 14:44 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | style: format code according to style guide |
 | 2022-09-20 14:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | feat: implement JWT refresh token |
+| 2022-09-20 16:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: add pagination to list endpoint |
