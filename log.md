@@ -9269,3 +9269,4 @@
 | 2022-09-19 16:28 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: add search with filters |
 | 2022-09-19 18:02 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | feat: implement webhook receiver |
 | 2022-09-19 20:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle empty response from external API |
+| 2022-09-20 00:51 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | refactor: move constants to config module |
