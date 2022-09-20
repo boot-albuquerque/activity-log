@@ -9278,3 +9278,4 @@
 | 2022-09-20 16:57 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: add pagination to list endpoint |
 | 2022-09-20 17:00 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2022-09-20 17:22 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | docs: document environment variables |
+| 2022-09-20 18:29 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | chore: update dependencies |
