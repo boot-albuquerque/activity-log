@@ -9290,3 +9290,4 @@
 | 2022-09-21 15:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | perf: add database indexes |
 | 2022-09-21 17:16 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | refactor: simplify authentication flow |
 | 2022-09-21 17:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: handle missing environment variable |
+| 2022-09-21 18:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | test: add unit tests for payment service |
