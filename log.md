@@ -9286,3 +9286,4 @@
 | 2022-09-21 10:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | db: add migration for new schema |
 | 2022-09-21 12:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | docs: update API documentation |
 | 2022-09-21 12:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | perf: reduce bundle size |
+| 2022-09-21 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve race condition in queue worker |
