@@ -9289,3 +9289,4 @@
 | 2022-09-21 14:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve race condition in queue worker |
 | 2022-09-21 15:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | perf: add database indexes |
 | 2022-09-21 17:16 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | refactor: simplify authentication flow |
+| 2022-09-21 17:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: handle missing environment variable |
