@@ -9292,3 +9292,4 @@
 | 2022-09-21 17:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: handle missing environment variable |
 | 2022-09-21 18:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2022-09-21 19:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | test: add integration tests for API endpoints |
+| 2022-09-21 19:36 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: create health check endpoint |
