@@ -9293,3 +9293,4 @@
 | 2022-09-21 18:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2022-09-21 19:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2022-09-21 19:36 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: create health check endpoint |
+| 2022-09-22 10:23 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | fix: resolve CORS configuration |
