@@ -9300,3 +9300,4 @@
 | 2022-09-26 11:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | fix: handle edge case in date parsing |
 | 2022-09-26 12:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | refactor: move constants to config module |
 | 2022-09-26 12:56 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
+| 2022-09-26 14:15 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/validation-bug` | fix: handle missing environment variable |
