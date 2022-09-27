@@ -9305,3 +9305,4 @@
 | 2022-09-26 16:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | infra: configure auto-scaling policies |
 | 2022-09-26 17:13 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/extract-service` | feat: implement caching layer |
 | 2022-09-27 12:09 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | refactor: adopt repository pattern |
+| 2022-09-27 12:27 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | chore: add Docker Compose for local dev |
