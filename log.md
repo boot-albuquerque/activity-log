@@ -9307,3 +9307,4 @@
 | 2022-09-27 12:09 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | refactor: adopt repository pattern |
 | 2022-09-27 12:27 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | chore: add Docker Compose for local dev |
 | 2022-09-27 17:39 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | refactor: improve code readability |
+| 2022-09-27 20:06 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | test: add performance benchmark tests |
