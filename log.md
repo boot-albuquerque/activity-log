@@ -9313,3 +9313,4 @@
 | 2022-09-28 10:22 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | perf: add database indexes |
 | 2022-09-28 15:46 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2022-09-28 16:52 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/add-caching` | test: cover edge cases in validator |
+| 2022-09-28 17:42 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add OpenAPI documentation |
