@@ -9321,3 +9321,4 @@
 | 2022-09-29 13:34 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | test: improve test coverage to 80% |
 | 2022-09-29 14:18 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2022-09-29 15:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: add pagination to list endpoint |
+| 2022-09-29 17:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | feat: create order processing service |
