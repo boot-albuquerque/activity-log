@@ -9316,3 +9316,4 @@
 | 2022-09-28 17:42 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2022-09-28 21:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/auth-improvements` | refactor: extract business logic to service layer |
 | 2022-09-29 00:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | fix: correct validation error messages |
+| 2022-09-29 08:00 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | db: add composite index |
