@@ -9323,3 +9323,4 @@
 | 2022-09-29 15:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | feat: add pagination to list endpoint |
 | 2022-09-29 17:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | feat: create order processing service |
 | 2022-09-30 14:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: implement rate limiting middleware |
+| 2022-09-30 20:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | chore: configure ESLint and Prettier |
