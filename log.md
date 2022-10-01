@@ -9324,3 +9324,4 @@
 | 2022-09-29 17:30 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | feat: create order processing service |
 | 2022-09-30 14:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | feat: implement rate limiting middleware |
 | 2022-09-30 20:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | chore: configure ESLint and Prettier |
+| 2022-10-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | fix: correct cache invalidation logic |
