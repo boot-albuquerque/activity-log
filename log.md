@@ -9334,3 +9334,4 @@
 | 2022-10-03 15:46 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | feat: implement soft delete pattern |
 | 2022-10-03 17:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: add OpenAPI documentation |
 | 2022-10-03 18:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | refactor: extract business logic to service layer |
+| 2022-10-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | fix: resolve N+1 query problem |
