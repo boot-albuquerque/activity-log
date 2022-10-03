@@ -9328,3 +9328,4 @@
 | 2022-10-03 09:54 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/cleanup` | test: add unit tests for payment service |
 | 2022-10-03 10:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | perf: optimize database queries |
 | 2022-10-03 10:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: configure GitHub Actions CI |
+| 2022-10-03 12:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | feat: implement soft delete pattern |
