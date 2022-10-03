@@ -9329,3 +9329,4 @@
 | 2022-10-03 10:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | perf: optimize database queries |
 | 2022-10-03 10:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | chore: configure GitHub Actions CI |
 | 2022-10-03 12:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | feat: implement soft delete pattern |
+| 2022-10-03 13:08 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | refactor: simplify authentication flow |
