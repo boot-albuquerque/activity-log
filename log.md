@@ -9339,3 +9339,4 @@
 | 2022-10-03 23:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2022-10-04 09:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | security: add input sanitization |
 | 2022-10-04 11:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | docs: document environment variables |
+| 2022-10-04 13:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
