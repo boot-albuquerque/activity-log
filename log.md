@@ -9336,3 +9336,4 @@
 | 2022-10-03 18:18 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | refactor: extract business logic to service layer |
 | 2022-10-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2022-10-03 23:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | test: mock external dependencies in tests |
+| 2022-10-03 23:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | feat: add OpenAPI documentation |
