@@ -9341,3 +9341,4 @@
 | 2022-10-04 11:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | docs: document environment variables |
 | 2022-10-04 13:08 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
 | 2022-10-04 14:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
+| 2022-10-04 18:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
