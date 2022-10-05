@@ -9344,3 +9344,4 @@
 | 2022-10-04 18:24 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
 | 2022-10-04 19:17 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | feat: implement caching layer |
 | 2022-10-04 22:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | chore: update dependencies |
+| 2022-10-05 00:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | fix: correct pagination offset calculation |
