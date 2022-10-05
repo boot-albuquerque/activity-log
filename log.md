@@ -9349,3 +9349,4 @@
 | 2022-10-05 07:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | feat: add file upload support |
 | 2022-10-05 11:13 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | fix: handle timeout in async operation |
 | 2022-10-05 11:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | infra: update Terraform modules |
+| 2022-10-05 11:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: add README setup instructions |
