@@ -9354,3 +9354,4 @@
 | 2022-10-05 11:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2022-10-05 14:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | security: update SSL certificates config |
 | 2022-10-05 14:50 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | refactor: extract business logic to service layer |
+| 2022-10-05 15:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | refactor: move constants to config module |
