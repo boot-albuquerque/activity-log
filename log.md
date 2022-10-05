@@ -9352,3 +9352,4 @@
 | 2022-10-05 11:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: add README setup instructions |
 | 2022-10-05 11:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/add-caching` | fix: correct decimal precision in billing |
 | 2022-10-05 11:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: correct decimal precision in billing |
+| 2022-10-05 14:10 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | security: update SSL certificates config |
