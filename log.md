@@ -9367,3 +9367,4 @@
 | 2022-10-06 15:26 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | perf: reduce bundle size |
 | 2022-10-06 15:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | chore: configure ESLint and Prettier |
 | 2022-10-06 15:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | security: add input sanitization |
+| 2022-10-07 07:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | chore: add Docker Compose for local dev |
