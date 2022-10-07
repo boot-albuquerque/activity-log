@@ -9369,3 +9369,4 @@
 | 2022-10-06 15:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | security: add input sanitization |
 | 2022-10-07 07:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | chore: add Docker Compose for local dev |
 | 2022-10-07 08:32 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | test: mock external dependencies in tests |
+| 2022-10-07 10:14 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | refactor: replace raw SQL with query builder |
