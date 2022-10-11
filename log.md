@@ -9387,3 +9387,4 @@
 | 2022-10-11 15:39 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | security: fix SQL injection vulnerability |
 | 2022-10-11 15:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: resolve deadlock in transaction |
 | 2022-10-11 16:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | ci: configure staging environment |
+| 2022-10-11 16:59 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
