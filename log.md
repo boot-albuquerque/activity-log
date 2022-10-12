@@ -9393,3 +9393,4 @@
 | 2022-10-12 07:02 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | fix: correct pagination offset calculation |
 | 2022-10-12 07:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | test: add e2e tests for checkout flow |
 | 2022-10-12 10:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add user authentication endpoint |
+| 2022-10-12 13:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | feat: add user authentication endpoint |
