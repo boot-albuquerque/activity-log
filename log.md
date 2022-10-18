@@ -9405,3 +9405,4 @@
 | 2022-10-15 19:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2022-10-17 09:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | feat: add email notification on status change |
 | 2022-10-18 00:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: split large controller into smaller ones |
+| 2022-10-18 11:58 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | perf: optimize database queries |
