@@ -9407,3 +9407,4 @@
 | 2022-10-18 00:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: split large controller into smaller ones |
 | 2022-10-18 11:58 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | perf: optimize database queries |
 | 2022-10-18 14:55 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | feat: create health check endpoint |
+| 2022-10-18 15:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | refactor: replace raw SQL with query builder |
