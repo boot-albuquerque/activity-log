@@ -9414,3 +9414,4 @@
 | 2022-10-19 07:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | feat: add user authentication endpoint |
 | 2022-10-19 10:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | fix: handle malformed JSON input |
 | 2022-10-19 10:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | refactor: clean up unused imports |
+| 2022-10-19 11:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | docs: document environment variables |
