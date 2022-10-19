@@ -9416,3 +9416,4 @@
 | 2022-10-19 10:45 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | refactor: clean up unused imports |
 | 2022-10-19 11:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | docs: document environment variables |
 | 2022-10-19 12:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | fix: handle malformed JSON input |
+| 2022-10-19 13:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | docs: update API documentation |
