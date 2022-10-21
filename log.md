@@ -9419,3 +9419,4 @@
 | 2022-10-19 13:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | docs: update API documentation |
 | 2022-10-19 17:11 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | test: improve test coverage to 80% |
 | 2022-10-20 13:18 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | fix: correct decimal precision in billing |
+| 2022-10-21 08:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | test: cover edge cases in validator |
