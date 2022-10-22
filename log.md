@@ -9427,3 +9427,4 @@
 | 2022-10-21 15:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | docs: update API documentation |
 | 2022-10-21 17:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2022-10-21 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add user authentication endpoint |
+| 2022-10-21 20:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | infra: add Kubernetes manifests |
