@@ -9428,3 +9428,4 @@
 | 2022-10-21 17:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | refactor: extract business logic to service layer |
 | 2022-10-21 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2022-10-21 20:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | infra: add Kubernetes manifests |
+| 2022-10-21 20:46 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: implement rate limiting middleware |
