@@ -9429,3 +9429,4 @@
 | 2022-10-21 18:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2022-10-21 20:08 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | infra: add Kubernetes manifests |
 | 2022-10-21 20:46 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: implement rate limiting middleware |
+| 2022-10-24 09:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | infra: update Terraform modules |
