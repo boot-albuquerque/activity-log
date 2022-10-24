@@ -9431,3 +9431,4 @@
 | 2022-10-21 20:46 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2022-10-24 09:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | infra: update Terraform modules |
 | 2022-10-24 12:01 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | refactor: reduce cyclomatic complexity |
+| 2022-10-24 12:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
