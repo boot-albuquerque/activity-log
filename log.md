@@ -9436,3 +9436,4 @@
 | 2022-10-24 13:08 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2022-10-24 13:30 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2022-10-24 14:27 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | chore: configure GitHub Actions CI |
+| 2022-10-24 14:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | fix: handle empty response from external API |
