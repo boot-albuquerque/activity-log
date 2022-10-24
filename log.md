@@ -9439,3 +9439,4 @@
 | 2022-10-24 14:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2022-10-24 15:12 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | chore: add pre-commit hooks |
 | 2022-10-24 15:20 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: resolve CORS configuration |
+| 2022-10-24 17:25 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | test: mock external dependencies in tests |
