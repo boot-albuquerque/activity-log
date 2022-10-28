@@ -9447,3 +9447,4 @@
 | 2022-10-28 10:55 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | feat: implement webhook receiver |
 | 2022-10-28 11:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2022-10-28 14:16 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | refactor: improve code readability |
+| 2022-10-28 16:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add OpenAPI documentation |
