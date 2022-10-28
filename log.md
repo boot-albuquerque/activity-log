@@ -9443,3 +9443,4 @@
 | 2022-10-24 19:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | chore: configure ESLint and Prettier |
 | 2022-10-24 19:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | fix: correct validation error messages |
 | 2022-10-25 20:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2022-10-28 10:33 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add OpenAPI documentation |
