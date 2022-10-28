@@ -9449,3 +9449,4 @@
 | 2022-10-28 14:16 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | refactor: improve code readability |
 | 2022-10-28 16:25 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | feat: add OpenAPI documentation |
 | 2022-10-28 16:26 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: resolve race condition in queue worker |
+| 2022-10-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | chore: add pre-commit hooks |
