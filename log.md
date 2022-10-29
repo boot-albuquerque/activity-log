@@ -9452,3 +9452,4 @@
 | 2022-10-28 17:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2022-10-28 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: add OpenAPI documentation |
 | 2022-10-28 19:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | test: cover edge cases in validator |
+| 2022-10-28 20:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | db: add migration for new schema |
