@@ -9454,3 +9454,4 @@
 | 2022-10-28 19:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | test: cover edge cases in validator |
 | 2022-10-28 20:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | db: add migration for new schema |
 | 2022-10-28 23:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
+| 2022-10-30 22:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | fix: handle malformed JSON input |
