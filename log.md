@@ -9468,3 +9468,4 @@
 | 2022-11-02 12:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2022-11-02 12:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | chore: add Docker Compose for local dev |
 | 2022-11-02 14:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: add unit tests for payment service |
+| 2022-11-02 18:15 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
