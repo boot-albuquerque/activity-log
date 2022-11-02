@@ -9464,3 +9464,4 @@
 | 2022-11-02 08:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | fix: resolve CORS configuration |
 | 2022-11-02 09:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | style: format code according to style guide |
 | 2022-11-02 09:56 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: handle timeout in async operation |
+| 2022-11-02 11:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | test: add unit tests for payment service |
