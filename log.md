@@ -9466,3 +9466,4 @@
 | 2022-11-02 09:56 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: handle timeout in async operation |
 | 2022-11-02 11:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | test: add unit tests for payment service |
 | 2022-11-02 12:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
+| 2022-11-02 12:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | chore: add Docker Compose for local dev |
