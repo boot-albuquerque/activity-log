@@ -9462,3 +9462,4 @@
 | 2022-11-01 16:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2022-11-02 08:16 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/extract-service` | refactor: adopt repository pattern |
 | 2022-11-02 08:39 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | fix: resolve CORS configuration |
+| 2022-11-02 09:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | style: format code according to style guide |
