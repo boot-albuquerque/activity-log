@@ -9472,3 +9472,4 @@
 | 2022-11-02 21:40 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | infra: configure auto-scaling policies |
 | 2022-11-03 09:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: configure ESLint and Prettier |
 | 2022-11-03 11:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | ci: configure staging environment |
+| 2022-11-03 16:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | refactor: adopt repository pattern |
