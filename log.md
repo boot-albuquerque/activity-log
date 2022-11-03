@@ -9470,3 +9470,4 @@
 | 2022-11-02 14:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: add unit tests for payment service |
 | 2022-11-02 18:15 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2022-11-02 21:40 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | infra: configure auto-scaling policies |
+| 2022-11-03 09:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | chore: configure ESLint and Prettier |
