@@ -9477,3 +9477,4 @@
 | 2022-11-03 20:04 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | docs: add README setup instructions |
 | 2022-11-03 20:14 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | infra: update Terraform modules |
 | 2022-11-03 23:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | security: add input sanitization |
+| 2022-11-03 23:18 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement rate limiting middleware |
