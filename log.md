@@ -9479,3 +9479,4 @@
 | 2022-11-03 23:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | security: add input sanitization |
 | 2022-11-03 23:18 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2022-11-04 11:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | refactor: clean up unused imports |
+| 2022-11-05 00:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
