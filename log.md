@@ -9481,3 +9481,4 @@
 | 2022-11-04 11:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | refactor: clean up unused imports |
 | 2022-11-05 00:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | refactor: split large controller into smaller ones |
 | 2022-11-05 12:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: implement rate limiting middleware |
+| 2022-11-05 16:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | refactor: extract business logic to service layer |
