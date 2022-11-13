@@ -9504,3 +9504,4 @@
 | 2022-11-10 20:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2022-11-11 08:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | infra: update Terraform modules |
 | 2022-11-11 18:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | fix: handle malformed JSON input |
+| 2022-11-13 07:10 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | fix: handle empty response from external API |
