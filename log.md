@@ -9521,3 +9521,4 @@
 | 2022-11-15 13:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | docs: document environment variables |
 | 2022-11-15 15:13 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | test: improve test coverage to 80% |
 | 2022-11-15 15:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | feat: add real-time notifications |
+| 2022-11-15 15:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: add real-time notifications |
