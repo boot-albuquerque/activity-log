@@ -9509,3 +9509,4 @@
 | 2022-11-13 13:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | test: mock external dependencies in tests |
 | 2022-11-13 15:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | fix: handle malformed JSON input |
 | 2022-11-14 09:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | feat: create dashboard metrics endpoint |
+| 2022-11-15 08:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | refactor: move constants to config module |
