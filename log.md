@@ -9518,3 +9518,4 @@
 | 2022-11-15 11:03 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | perf: reduce bundle size |
 | 2022-11-15 11:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | db: optimize slow queries |
 | 2022-11-15 12:25 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
+| 2022-11-15 13:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | docs: document environment variables |
