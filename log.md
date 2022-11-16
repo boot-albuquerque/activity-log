@@ -9529,3 +9529,4 @@
 | 2022-11-16 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2022-11-16 14:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | perf: implement response compression |
 | 2022-11-16 14:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | docs: add README setup instructions |
+| 2022-11-16 18:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | fix: handle malformed JSON input |
