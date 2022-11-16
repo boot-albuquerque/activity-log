@@ -9526,3 +9526,4 @@
 | 2022-11-15 22:42 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | refactor: consolidate error handling |
 | 2022-11-16 09:19 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | feat: add search with filters |
 | 2022-11-16 12:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | test: mock external dependencies in tests |
+| 2022-11-16 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
