@@ -9527,3 +9527,4 @@
 | 2022-11-16 09:19 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | feat: add search with filters |
 | 2022-11-16 12:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2022-11-16 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
+| 2022-11-16 14:06 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | perf: implement response compression |
