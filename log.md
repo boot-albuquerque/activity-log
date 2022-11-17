@@ -9532,3 +9532,4 @@
 | 2022-11-16 18:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | fix: handle malformed JSON input |
 | 2022-11-17 00:38 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | ci: configure staging environment |
 | 2022-11-17 09:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | test: mock external dependencies in tests |
+| 2022-11-17 12:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | fix: resolve race condition in queue worker |
