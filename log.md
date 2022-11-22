@@ -9548,3 +9548,4 @@
 | 2022-11-20 22:15 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/update-deps` | feat: implement JWT refresh token |
 | 2022-11-22 07:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: add audit log trail |
 | 2022-11-22 10:58 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
+| 2022-11-22 12:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | infra: add Kubernetes manifests |
