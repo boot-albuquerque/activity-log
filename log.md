@@ -9551,3 +9551,4 @@
 | 2022-11-22 12:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2022-11-22 12:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: implement caching layer |
 | 2022-11-22 17:40 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | ci: add automated deployment pipeline |
+| 2022-11-22 20:56 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | fix: correct cache invalidation logic |
