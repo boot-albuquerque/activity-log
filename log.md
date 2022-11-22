@@ -9550,3 +9550,4 @@
 | 2022-11-22 10:58 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/clean-architecture` | feat: create dashboard metrics endpoint |
 | 2022-11-22 12:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2022-11-22 12:31 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: implement caching layer |
+| 2022-11-22 17:40 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | ci: add automated deployment pipeline |
