@@ -9560,3 +9560,4 @@
 | 2022-11-23 11:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: handle timeout in async operation |
 | 2022-11-23 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: configure ESLint and Prettier |
 | 2022-11-23 13:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: clean up unused imports |
+| 2022-11-23 13:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: resolve memory leak in connection pool |
