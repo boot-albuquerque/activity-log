@@ -9558,3 +9558,4 @@
 | 2022-11-23 10:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | test: cover edge cases in validator |
 | 2022-11-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: implement rate limiting middleware |
 | 2022-11-23 11:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | fix: handle timeout in async operation |
+| 2022-11-23 12:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: configure ESLint and Prettier |
