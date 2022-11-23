@@ -9556,3 +9556,4 @@
 | 2022-11-22 23:54 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | perf: implement response compression |
 | 2022-11-23 07:55 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2022-11-23 10:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | test: cover edge cases in validator |
+| 2022-11-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: implement rate limiting middleware |
