@@ -9565,3 +9565,4 @@
 | 2022-11-24 09:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2022-11-24 10:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | feat: implement JWT refresh token |
 | 2022-11-24 11:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | feat: implement webhook receiver |
+| 2022-11-24 13:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
