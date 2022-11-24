@@ -9562,3 +9562,4 @@
 | 2022-11-23 13:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: clean up unused imports |
 | 2022-11-23 13:43 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: resolve memory leak in connection pool |
 | 2022-11-24 00:29 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/typo-response` | refactor: reduce cyclomatic complexity |
+| 2022-11-24 09:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
