@@ -9572,3 +9572,4 @@
 | 2022-11-24 18:38 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2022-11-24 21:48 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2022-11-25 08:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | chore: configure GitHub Actions CI |
+| 2022-11-25 14:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
