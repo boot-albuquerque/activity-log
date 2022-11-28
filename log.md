@@ -9577,3 +9577,4 @@
 | 2022-11-25 15:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2022-11-28 10:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: add file upload support |
 | 2022-11-28 13:57 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | fix: correct cache invalidation logic |
+| 2022-11-28 14:10 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: handle empty response from external API |
