@@ -9584,3 +9584,4 @@
 | 2022-11-29 09:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | perf: add database indexes |
 | 2022-11-29 11:02 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2022-11-29 12:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: create admin management interface |
+| 2022-11-29 18:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
