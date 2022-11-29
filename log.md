@@ -9580,3 +9580,4 @@
 | 2022-11-28 14:10 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | fix: handle empty response from external API |
 | 2022-11-28 14:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | ci: add automated deployment pipeline |
 | 2022-11-28 15:07 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | security: fix SQL injection vulnerability |
+| 2022-11-28 23:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: create order processing service |
