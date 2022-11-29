@@ -9582,3 +9582,4 @@
 | 2022-11-28 15:07 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | security: fix SQL injection vulnerability |
 | 2022-11-28 23:08 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | feat: create order processing service |
 | 2022-11-29 09:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | perf: add database indexes |
+| 2022-11-29 11:02 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/memory-leak` | fix: resolve race condition in queue worker |
