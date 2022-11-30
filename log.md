@@ -9590,3 +9590,4 @@
 | 2022-11-30 08:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: correct validation error messages |
 | 2022-11-30 14:19 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct cache invalidation logic |
 | 2022-11-30 14:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | fix: correct decimal precision in billing |
+| 2022-11-30 14:36 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | perf: optimize database queries |
