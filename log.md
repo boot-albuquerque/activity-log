@@ -9602,3 +9602,4 @@
 | 2022-12-02 12:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2022-12-02 14:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: implement caching layer |
 | 2022-12-02 15:25 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
+| 2022-12-02 15:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: correct cache invalidation logic |
