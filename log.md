@@ -9604,3 +9604,4 @@
 | 2022-12-02 15:25 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2022-12-02 15:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: correct cache invalidation logic |
 | 2022-12-02 16:14 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | fix: handle edge case in date parsing |
+| 2022-12-02 16:35 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: resolve N+1 query problem |
