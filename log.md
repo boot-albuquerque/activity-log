@@ -9599,3 +9599,4 @@
 | 2022-12-02 11:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2022-12-02 11:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: fix flaky test in async handler |
 | 2022-12-02 11:46 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | fix: handle missing environment variable |
+| 2022-12-02 12:43 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: create dashboard metrics endpoint |
