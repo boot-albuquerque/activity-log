@@ -9603,3 +9603,4 @@
 | 2022-12-02 14:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: implement caching layer |
 | 2022-12-02 15:25 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2022-12-02 15:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/add-caching` | fix: correct cache invalidation logic |
+| 2022-12-02 16:14 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | fix: handle edge case in date parsing |
