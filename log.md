@@ -9608,3 +9608,4 @@
 | 2022-12-02 17:16 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | perf: reduce bundle size |
 | 2022-12-02 17:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | fix: correct pagination offset calculation |
 | 2022-12-02 19:18 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | test: cover edge cases in validator |
+| 2022-12-02 19:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | refactor: simplify authentication flow |
