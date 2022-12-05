@@ -9612,3 +9612,4 @@
 | 2022-12-02 19:23 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/new-endpoint` | test: cover edge cases in validator |
 | 2022-12-02 20:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: create health check endpoint |
 | 2022-12-02 22:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | refactor: move constants to config module |
+| 2022-12-05 11:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: implement soft delete pattern |
