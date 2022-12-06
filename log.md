@@ -9623,3 +9623,4 @@
 | 2022-12-06 16:10 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | docs: document environment variables |
 | 2022-12-06 16:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | fix: resolve CORS configuration |
 | 2022-12-06 16:34 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | docs: update API documentation |
+| 2022-12-06 17:18 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: resolve memory leak in connection pool |
