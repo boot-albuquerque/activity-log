@@ -9614,3 +9614,4 @@
 | 2022-12-02 22:40 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2022-12-05 11:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: implement soft delete pattern |
 | 2022-12-06 00:26 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | perf: reduce bundle size |
+| 2022-12-06 09:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | infra: update Terraform modules |
