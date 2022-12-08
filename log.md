@@ -9639,3 +9639,4 @@
 | 2022-12-08 14:00 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2022-12-08 14:22 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2022-12-08 14:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add file upload support |
+| 2022-12-08 16:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: extract business logic to service layer |
