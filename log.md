@@ -9641,3 +9641,4 @@
 | 2022-12-08 14:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: add file upload support |
 | 2022-12-08 16:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: extract business logic to service layer |
 | 2022-12-08 19:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | feat: implement caching layer |
+| 2022-12-08 19:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | feat: implement JWT refresh token |
