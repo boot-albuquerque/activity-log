@@ -9632,3 +9632,4 @@
 | 2022-12-07 18:34 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | security: fix SQL injection vulnerability |
 | 2022-12-07 18:37 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2022-12-07 23:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | feat: implement JWT refresh token |
+| 2022-12-08 07:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | security: update SSL certificates config |
