@@ -9634,3 +9634,4 @@
 | 2022-12-07 23:19 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/rate-limiting` | feat: implement JWT refresh token |
 | 2022-12-08 07:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | security: update SSL certificates config |
 | 2022-12-08 09:25 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/pagination` | feat: add real-time notifications |
+| 2022-12-08 09:57 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: update API documentation |
