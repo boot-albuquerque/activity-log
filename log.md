@@ -9648,3 +9648,4 @@
 | 2022-12-09 14:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/cleanup` | ci: add automated deployment pipeline |
 | 2022-12-09 16:14 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2022-12-09 17:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | feat: add pagination to list endpoint |
+| 2022-12-09 17:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add export to CSV/Excel |
