@@ -9650,3 +9650,4 @@
 | 2022-12-09 17:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | feat: add pagination to list endpoint |
 | 2022-12-09 17:38 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | feat: add export to CSV/Excel |
 | 2022-12-09 18:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | db: add composite index |
+| 2022-12-10 11:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: resolve CORS configuration |
