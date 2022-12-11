@@ -9653,3 +9653,4 @@
 | 2022-12-10 11:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | fix: resolve CORS configuration |
 | 2022-12-10 12:49 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create order processing service |
 | 2022-12-11 12:29 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | refactor: split large controller into smaller ones |
+| 2022-12-11 16:24 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: resolve memory leak in connection pool |
