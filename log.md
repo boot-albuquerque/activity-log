@@ -9659,3 +9659,4 @@
 | 2022-12-12 12:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: add OpenAPI documentation |
 | 2022-12-12 13:42 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/new-endpoint` | refactor: clean up unused imports |
 | 2022-12-13 00:38 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | test: add integration tests for API endpoints |
+| 2022-12-13 16:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/rate-limiting` | fix: correct null check in user service |
