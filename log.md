@@ -9683,3 +9683,4 @@
 | 2022-12-17 15:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2022-12-17 19:13 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | fix: correct decimal precision in billing |
 | 2022-12-18 09:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/race-condition` | chore: configure ESLint and Prettier |
+| 2022-12-18 12:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | fix: correct pagination offset calculation |
