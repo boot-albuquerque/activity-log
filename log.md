@@ -9696,3 +9696,4 @@
 | 2022-12-19 16:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: add real-time notifications |
 | 2022-12-19 17:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2022-12-19 18:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | chore: upgrade to latest Node.js LTS |
+| 2022-12-19 19:29 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | chore: add Docker Compose for local dev |
