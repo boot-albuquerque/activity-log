@@ -9703,3 +9703,4 @@
 | 2022-12-20 12:11 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | fix: correct validation error messages |
 | 2022-12-20 14:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | feat: add audit log trail |
 | 2022-12-20 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | ci: configure staging environment |
+| 2022-12-20 18:19 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
