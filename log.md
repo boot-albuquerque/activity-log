@@ -9698,3 +9698,4 @@
 | 2022-12-19 18:43 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2022-12-19 19:29 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2022-12-20 00:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | fix: resolve memory leak in connection pool |
+| 2022-12-20 08:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | fix: correct null check in user service |
