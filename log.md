@@ -9709,3 +9709,4 @@
 | 2022-12-21 10:52 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | security: fix SQL injection vulnerability |
 | 2022-12-21 12:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2022-12-21 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | refactor: consolidate error handling |
+| 2022-12-21 14:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
