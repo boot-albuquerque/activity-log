@@ -9705,3 +9705,4 @@
 | 2022-12-20 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | ci: configure staging environment |
 | 2022-12-20 18:19 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
 | 2022-12-21 00:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: add file upload support |
+| 2022-12-21 08:04 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | docs: add README setup instructions |
