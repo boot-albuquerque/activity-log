@@ -9710,3 +9710,4 @@
 | 2022-12-21 12:09 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2022-12-21 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | refactor: consolidate error handling |
 | 2022-12-21 14:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | feat: implement rate limiting middleware |
+| 2022-12-21 15:49 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | fix: correct decimal precision in billing |
