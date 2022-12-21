@@ -9713,3 +9713,4 @@
 | 2022-12-21 15:49 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | fix: correct decimal precision in billing |
 | 2022-12-21 16:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/typo-response` | feat: add real-time notifications |
 | 2022-12-21 17:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
+| 2022-12-21 18:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | feat: add OpenAPI documentation |
