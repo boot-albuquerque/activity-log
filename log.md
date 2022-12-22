@@ -9720,3 +9720,4 @@
 | 2022-12-22 09:44 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | chore: upgrade to latest Node.js LTS |
 | 2022-12-22 14:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | perf: add database indexes |
 | 2022-12-22 16:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | test: add unit tests for payment service |
+| 2022-12-22 17:27 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | feat: add audit log trail |
