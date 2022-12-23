@@ -9727,3 +9727,4 @@
 | 2022-12-22 21:22 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | refactor: consolidate error handling |
 | 2022-12-22 21:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: resolve CORS configuration |
 | 2022-12-23 00:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/typo-response` | infra: add Kubernetes manifests |
+| 2022-12-23 11:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | docs: document environment variables |
