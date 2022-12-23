@@ -9734,3 +9734,4 @@
 | 2022-12-23 15:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle timeout in async operation |
 | 2022-12-23 15:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | fix: correct null check in user service |
 | 2022-12-23 16:05 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add search with filters |
+| 2022-12-23 17:07 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: correct validation error messages |
