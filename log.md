@@ -9735,3 +9735,4 @@
 | 2022-12-23 15:48 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | fix: correct null check in user service |
 | 2022-12-23 16:05 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | feat: add search with filters |
 | 2022-12-23 17:07 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | fix: correct validation error messages |
+| 2022-12-23 22:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | fix: correct pagination offset calculation |
