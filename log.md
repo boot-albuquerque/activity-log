@@ -9739,3 +9739,4 @@
 | 2022-12-23 22:59 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | refactor: clean up unused imports |
 | 2022-12-24 20:46 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | fix: resolve CORS configuration |
 | 2022-12-25 07:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | db: add composite index |
+| 2022-12-26 11:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | fix: handle edge case in date parsing |
