@@ -9741,3 +9741,4 @@
 | 2022-12-25 07:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | db: add composite index |
 | 2022-12-26 11:24 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | fix: handle edge case in date parsing |
 | 2022-12-26 12:43 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | test: fix flaky test in async handler |
+| 2022-12-26 14:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: update dependencies |
