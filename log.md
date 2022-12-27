@@ -9744,3 +9744,4 @@
 | 2022-12-26 14:13 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | chore: update dependencies |
 | 2022-12-26 15:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | test: add unit tests for payment service |
 | 2022-12-26 20:23 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | test: add integration tests for API endpoints |
+| 2022-12-26 22:49 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
