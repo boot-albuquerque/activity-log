@@ -9756,3 +9756,4 @@
 | 2022-12-27 17:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | security: update SSL certificates config |
 | 2022-12-27 18:20 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | fix: handle edge case in date parsing |
 | 2022-12-27 19:00 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: handle missing environment variable |
+| 2022-12-27 19:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | refactor: split large controller into smaller ones |
