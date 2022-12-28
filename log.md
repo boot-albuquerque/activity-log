@@ -9758,3 +9758,4 @@
 | 2022-12-27 19:00 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: handle missing environment variable |
 | 2022-12-27 19:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2022-12-27 21:53 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
+| 2022-12-28 00:01 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: implement soft delete pattern |
