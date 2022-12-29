@@ -9766,3 +9766,4 @@
 | 2022-12-29 08:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | db: add composite index |
 | 2022-12-29 10:46 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2022-12-29 10:54 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | db: add migration for new schema |
+| 2022-12-29 13:18 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | test: add performance benchmark tests |
