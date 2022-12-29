@@ -9767,3 +9767,4 @@
 | 2022-12-29 10:46 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2022-12-29 10:54 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | db: add migration for new schema |
 | 2022-12-29 13:18 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | test: add performance benchmark tests |
+| 2022-12-29 15:29 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | test: fix flaky test in async handler |
