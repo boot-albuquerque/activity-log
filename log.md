@@ -9763,3 +9763,4 @@
 | 2022-12-28 14:13 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
 | 2022-12-28 16:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2022-12-29 08:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | refactor: split large controller into smaller ones |
+| 2022-12-29 08:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | db: add composite index |
