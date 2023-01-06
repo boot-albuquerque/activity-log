@@ -9799,3 +9799,4 @@
 | 2023-01-05 18:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2023-01-06 12:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: create dashboard metrics endpoint |
 | 2023-01-06 12:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
+| 2023-01-06 13:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | refactor: improve code readability |
