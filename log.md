@@ -9801,3 +9801,4 @@
 | 2023-01-06 12:54 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | fix: correct validation error messages |
 | 2023-01-06 13:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2023-01-06 17:36 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/memory-leak` | chore: add Docker Compose for local dev |
+| 2023-01-06 19:00 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | fix: correct decimal precision in billing |
