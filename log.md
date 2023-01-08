@@ -9807,3 +9807,4 @@
 | 2023-01-07 20:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | refactor: improve code readability |
 | 2023-01-08 00:22 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | test: add unit tests for payment service |
 | 2023-01-08 15:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/pagination` | feat: implement JWT refresh token |
+| 2023-01-08 16:06 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | fix: resolve memory leak in connection pool |
