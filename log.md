@@ -9805,3 +9805,4 @@
 | 2023-01-06 20:26 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | style: fix indentation and whitespace |
 | 2023-01-07 12:54 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2023-01-07 20:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | refactor: improve code readability |
+| 2023-01-08 00:22 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v3.0` | test: add unit tests for payment service |
