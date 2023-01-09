@@ -9812,3 +9812,4 @@
 | 2023-01-08 23:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | refactor: improve code readability |
 | 2023-01-08 23:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | db: add composite index |
 | 2023-01-09 07:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/refactor-queries` | fix: correct null check in user service |
+| 2023-01-09 08:40 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | infra: update Terraform modules |
