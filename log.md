@@ -9815,3 +9815,4 @@
 | 2023-01-09 08:40 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | infra: update Terraform modules |
 | 2023-01-09 08:43 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2023-01-09 12:34 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: correct pagination offset calculation |
+| 2023-01-09 12:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | test: improve test coverage to 80% |
