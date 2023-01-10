@@ -9822,3 +9822,4 @@
 | 2023-01-09 19:53 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | refactor: split large controller into smaller ones |
 | 2023-01-09 20:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2023-01-09 22:53 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | feat: implement webhook receiver |
+| 2023-01-10 00:50 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | fix: correct pagination offset calculation |
