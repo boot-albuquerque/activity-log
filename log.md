@@ -9828,3 +9828,4 @@
 | 2023-01-10 19:55 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | style: format code according to style guide |
 | 2023-01-10 20:31 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | feat: add audit log trail |
 | 2023-01-10 20:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
+| 2023-01-10 23:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | security: fix SQL injection vulnerability |
