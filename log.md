@@ -9832,3 +9832,4 @@
 | 2023-01-11 14:59 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | docs: update API documentation |
 | 2023-01-13 09:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2023-01-13 15:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | refactor: move constants to config module |
+| 2023-01-14 12:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
