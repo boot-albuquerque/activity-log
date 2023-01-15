@@ -9834,3 +9834,4 @@
 | 2023-01-13 15:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | refactor: move constants to config module |
 | 2023-01-14 12:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
 | 2023-01-14 13:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | feat: implement caching layer |
+| 2023-01-15 18:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | feat: implement soft delete pattern |
