@@ -9844,3 +9844,4 @@
 | 2023-01-17 09:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2023-01-17 11:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | perf: reduce bundle size |
 | 2023-01-17 11:31 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | test: add performance benchmark tests |
+| 2023-01-17 12:20 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | ci: configure staging environment |
