@@ -9839,3 +9839,4 @@
 | 2023-01-16 18:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2023-01-16 19:34 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | chore: update dependencies |
 | 2023-01-17 00:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | test: cover edge cases in validator |
+| 2023-01-17 00:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
