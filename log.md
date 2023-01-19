@@ -9863,3 +9863,4 @@
 | 2023-01-19 13:06 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | perf: reduce bundle size |
 | 2023-01-19 13:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
 | 2023-01-19 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | db: add migration for new schema |
+| 2023-01-19 15:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | ci: configure staging environment |
