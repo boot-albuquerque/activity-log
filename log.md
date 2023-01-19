@@ -9866,3 +9866,4 @@
 | 2023-01-19 15:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | ci: configure staging environment |
 | 2023-01-19 15:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | perf: implement response compression |
 | 2023-01-19 17:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
+| 2023-01-19 19:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: resolve N+1 query problem |
