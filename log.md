@@ -9865,3 +9865,4 @@
 | 2023-01-19 15:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | db: add migration for new schema |
 | 2023-01-19 15:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | ci: configure staging environment |
 | 2023-01-19 15:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | perf: implement response compression |
+| 2023-01-19 17:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
