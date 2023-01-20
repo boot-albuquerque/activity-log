@@ -9869,3 +9869,4 @@
 | 2023-01-19 19:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | fix: resolve N+1 query problem |
 | 2023-01-19 20:39 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | feat: implement webhook receiver |
 | 2023-01-19 21:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | fix: handle missing environment variable |
+| 2023-01-19 22:22 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
