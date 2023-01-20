@@ -9870,3 +9870,4 @@
 | 2023-01-19 20:39 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | feat: implement webhook receiver |
 | 2023-01-19 21:06 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | fix: handle missing environment variable |
 | 2023-01-19 22:22 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
+| 2023-01-20 11:13 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | test: improve test coverage to 80% |
