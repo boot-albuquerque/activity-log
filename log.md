@@ -9884,3 +9884,4 @@
 | 2023-01-20 21:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | security: update SSL certificates config |
 | 2023-01-20 23:03 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | fix: handle empty response from external API |
 | 2023-01-21 15:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | feat: implement webhook receiver |
+| 2023-01-21 22:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | test: add e2e tests for checkout flow |
