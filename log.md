@@ -9895,3 +9895,4 @@
 | 2023-01-23 19:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct cache invalidation logic |
 | 2023-01-23 20:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | refactor: improve code readability |
 | 2023-01-23 20:27 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: add file upload support |
+| 2023-01-24 00:54 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | fix: correct decimal precision in billing |
