@@ -9900,3 +9900,4 @@
 | 2023-01-24 10:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | feat: add file upload support |
 | 2023-01-24 11:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2023-01-24 12:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | fix: handle missing environment variable |
+| 2023-01-24 13:41 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | fix: resolve memory leak in connection pool |
