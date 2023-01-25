@@ -9909,3 +9909,4 @@
 | 2023-01-25 00:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: improve code readability |
 | 2023-01-25 00:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
 | 2023-01-25 10:46 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | style: format code according to style guide |
+| 2023-01-25 11:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: create dashboard metrics endpoint |
