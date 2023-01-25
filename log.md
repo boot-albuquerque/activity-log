@@ -9907,3 +9907,4 @@
 | 2023-01-24 15:55 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/refactor-queries` | perf: optimize database queries |
 | 2023-01-25 00:18 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | refactor: adopt repository pattern |
 | 2023-01-25 00:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | refactor: improve code readability |
+| 2023-01-25 00:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
