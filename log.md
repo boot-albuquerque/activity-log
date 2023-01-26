@@ -9915,3 +9915,4 @@
 | 2023-01-25 17:53 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2023-01-25 18:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: implement webhook receiver |
 | 2023-01-25 20:18 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | style: format code according to style guide |
+| 2023-01-25 23:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: implement JWT refresh token |
