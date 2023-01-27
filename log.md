@@ -9918,3 +9918,4 @@
 | 2023-01-25 23:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | feat: implement JWT refresh token |
 | 2023-01-26 08:45 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | refactor: adopt repository pattern |
 | 2023-01-26 13:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: correct validation error messages |
+| 2023-01-27 07:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | security: add input sanitization |
