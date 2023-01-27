@@ -9924,3 +9924,4 @@
 | 2023-01-27 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2023-01-27 14:49 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
 | 2023-01-27 15:09 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: resolve N+1 query problem |
+| 2023-01-27 15:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | feat: add export to CSV/Excel |
