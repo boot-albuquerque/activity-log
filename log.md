@@ -9921,3 +9921,4 @@
 | 2023-01-27 07:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | security: add input sanitization |
 | 2023-01-27 11:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | refactor: adopt repository pattern |
 | 2023-01-27 12:09 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | test: add integration tests for API endpoints |
+| 2023-01-27 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | chore: configure ESLint and Prettier |
