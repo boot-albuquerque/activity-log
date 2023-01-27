@@ -9920,3 +9920,4 @@
 | 2023-01-26 13:43 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | fix: correct validation error messages |
 | 2023-01-27 07:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | security: add input sanitization |
 | 2023-01-27 11:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | refactor: adopt repository pattern |
+| 2023-01-27 12:09 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | test: add integration tests for API endpoints |
