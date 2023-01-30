@@ -9931,3 +9931,4 @@
 | 2023-01-29 12:15 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | security: update SSL certificates config |
 | 2023-01-29 12:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: correct decimal precision in billing |
 | 2023-01-30 00:48 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | feat: create order processing service |
+| 2023-01-30 08:41 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct cache invalidation logic |
