@@ -9938,3 +9938,4 @@
 | 2023-01-31 00:21 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | test: add performance benchmark tests |
 | 2023-01-31 09:59 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | db: optimize slow queries |
 | 2023-01-31 15:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | perf: implement response compression |
+| 2023-01-31 16:23 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | feat: add pagination to list endpoint |
