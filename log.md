@@ -9951,3 +9951,4 @@
 | 2023-02-01 14:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | refactor: adopt repository pattern |
 | 2023-02-01 14:58 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | docs: update API documentation |
 | 2023-02-01 15:04 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | feat: create dashboard metrics endpoint |
+| 2023-02-01 17:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | fix: resolve N+1 query problem |
