@@ -9948,3 +9948,4 @@
 | 2023-02-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | test: add performance benchmark tests |
 | 2023-02-01 13:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | perf: reduce bundle size |
 | 2023-02-01 13:51 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | refactor: clean up unused imports |
+| 2023-02-01 14:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | refactor: adopt repository pattern |
