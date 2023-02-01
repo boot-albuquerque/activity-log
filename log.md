@@ -9953,3 +9953,4 @@
 | 2023-02-01 15:04 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | feat: create dashboard metrics endpoint |
 | 2023-02-01 17:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2023-02-01 19:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: correct validation error messages |
+| 2023-02-01 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
