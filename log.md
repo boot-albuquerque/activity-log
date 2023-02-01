@@ -9941,3 +9941,4 @@
 | 2023-01-31 16:23 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | feat: add pagination to list endpoint |
 | 2023-01-31 18:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | style: fix indentation and whitespace |
 | 2023-01-31 19:16 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | refactor: extract business logic to service layer |
+| 2023-01-31 21:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | docs: add README setup instructions |
