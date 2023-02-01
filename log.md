@@ -9945,3 +9945,4 @@
 | 2023-01-31 23:14 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v1.0` | fix: correct null check in user service |
 | 2023-02-01 10:16 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2023-02-01 10:31 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | db: optimize slow queries |
+| 2023-02-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | test: add performance benchmark tests |
