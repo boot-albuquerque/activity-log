@@ -9955,3 +9955,4 @@
 | 2023-02-01 19:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: correct validation error messages |
 | 2023-02-01 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
 | 2023-02-01 23:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add performance benchmark tests |
+| 2023-02-02 00:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | security: add input sanitization |
