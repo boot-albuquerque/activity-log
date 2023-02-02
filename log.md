@@ -9954,3 +9954,4 @@
 | 2023-02-01 17:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2023-02-01 19:57 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | fix: correct validation error messages |
 | 2023-02-01 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
+| 2023-02-01 23:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add performance benchmark tests |
