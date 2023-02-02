@@ -9957,3 +9957,4 @@
 | 2023-02-01 23:36 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add performance benchmark tests |
 | 2023-02-02 00:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | security: add input sanitization |
 | 2023-02-02 08:27 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | db: optimize slow queries |
+| 2023-02-02 09:46 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | fix: correct null check in user service |
