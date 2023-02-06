@@ -9970,3 +9970,4 @@
 | 2023-02-04 15:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | style: fix indentation and whitespace |
 | 2023-02-04 22:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `develop` | infra: configure auto-scaling policies |
 | 2023-02-06 09:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: create background job processor |
+| 2023-02-06 12:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | docs: update API documentation |
