@@ -9972,3 +9972,4 @@
 | 2023-02-06 09:59 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: create background job processor |
 | 2023-02-06 12:12 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | docs: update API documentation |
 | 2023-02-06 13:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | chore: configure ESLint and Prettier |
+| 2023-02-06 13:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | refactor: split large controller into smaller ones |
