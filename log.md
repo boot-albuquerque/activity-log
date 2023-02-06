@@ -9975,3 +9975,4 @@
 | 2023-02-06 13:45 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | refactor: split large controller into smaller ones |
 | 2023-02-06 13:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | refactor: replace raw SQL with query builder |
 | 2023-02-06 14:09 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | chore: add pre-commit hooks |
+| 2023-02-06 19:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | security: add input sanitization |
