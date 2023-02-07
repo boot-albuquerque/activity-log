@@ -9980,3 +9980,4 @@
 | 2023-02-07 11:35 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2023-02-07 13:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: improve code readability |
 | 2023-02-07 14:46 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | chore: update dependencies |
+| 2023-02-07 18:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/typo-response` | feat: add OpenAPI documentation |
