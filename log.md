@@ -9986,3 +9986,4 @@
 | 2023-02-08 13:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | docs: add README setup instructions |
 | 2023-02-08 17:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: implement caching layer |
 | 2023-02-08 17:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: create dashboard metrics endpoint |
+| 2023-02-08 18:44 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | chore: configure ESLint and Prettier |
