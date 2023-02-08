@@ -9985,3 +9985,4 @@
 | 2023-02-08 00:32 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | feat: create order processing service |
 | 2023-02-08 13:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | docs: add README setup instructions |
 | 2023-02-08 17:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: implement caching layer |
+| 2023-02-08 17:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: create dashboard metrics endpoint |
