@@ -9989,3 +9989,4 @@
 | 2023-02-08 18:44 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2023-02-08 20:24 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2023-02-09 00:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/cleanup` | test: add integration tests for API endpoints |
+| 2023-02-09 08:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | test: add performance benchmark tests |
