@@ -9997,3 +9997,4 @@
 | 2023-02-09 13:20 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | ci: configure staging environment |
 | 2023-02-09 13:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2023-02-09 13:51 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | test: mock external dependencies in tests |
+| 2023-02-09 13:56 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | test: add performance benchmark tests |
