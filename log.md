@@ -10002,3 +10002,4 @@
 | 2023-02-09 17:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | test: add e2e tests for checkout flow |
 | 2023-02-09 17:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | refactor: adopt repository pattern |
 | 2023-02-09 22:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | feat: add file upload support |
+| 2023-02-09 23:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: document environment variables |
