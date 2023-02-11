@@ -10005,3 +10005,4 @@
 | 2023-02-09 23:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: document environment variables |
 | 2023-02-10 17:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2023-02-10 19:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | fix: resolve N+1 query problem |
+| 2023-02-11 09:11 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | fix: correct cache invalidation logic |
