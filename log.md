@@ -10012,3 +10012,4 @@
 | 2023-02-12 20:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add OpenAPI documentation |
 | 2023-02-13 20:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | perf: add database indexes |
 | 2023-02-14 07:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | perf: add database indexes |
+| 2023-02-14 08:53 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | feat: create health check endpoint |
