@@ -10010,3 +10010,4 @@
 | 2023-02-12 17:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | chore: configure ESLint and Prettier |
 | 2023-02-12 17:39 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: handle missing environment variable |
 | 2023-02-12 20:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add OpenAPI documentation |
+| 2023-02-13 20:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v2.0` | perf: add database indexes |
