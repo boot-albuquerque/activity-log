@@ -10036,3 +10036,4 @@
 | 2023-02-16 13:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2023-02-16 13:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: add export to CSV/Excel |
 | 2023-02-16 18:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | infra: update Terraform modules |
+| 2023-02-16 18:55 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | test: cover edge cases in validator |
