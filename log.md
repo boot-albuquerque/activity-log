@@ -10034,3 +10034,4 @@
 | 2023-02-16 12:06 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: handle malformed JSON input |
 | 2023-02-16 13:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | style: format code according to style guide |
 | 2023-02-16 13:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: add export to CSV/Excel |
+| 2023-02-16 13:43 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | feat: add export to CSV/Excel |
