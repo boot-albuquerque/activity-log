@@ -10047,3 +10047,4 @@
 | 2023-02-17 13:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | chore: add pre-commit hooks |
 | 2023-02-17 13:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: create order processing service |
 | 2023-02-17 15:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | infra: update Terraform modules |
+| 2023-02-17 15:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: add pagination to list endpoint |
