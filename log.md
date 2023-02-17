@@ -10042,3 +10042,4 @@
 | 2023-02-17 09:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | security: add input sanitization |
 | 2023-02-17 10:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | refactor: clean up unused imports |
 | 2023-02-17 11:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | docs: add README setup instructions |
+| 2023-02-17 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | feat: add email notification on status change |
