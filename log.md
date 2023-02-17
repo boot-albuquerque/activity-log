@@ -10049,3 +10049,4 @@
 | 2023-02-17 15:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | infra: update Terraform modules |
 | 2023-02-17 15:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2023-02-17 16:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: add e2e tests for checkout flow |
+| 2023-02-17 20:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | db: add migration for new schema |
