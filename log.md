@@ -10044,3 +10044,4 @@
 | 2023-02-17 11:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | docs: add README setup instructions |
 | 2023-02-17 12:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | feat: add email notification on status change |
 | 2023-02-17 13:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | perf: add database indexes |
+| 2023-02-17 13:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | chore: add pre-commit hooks |
