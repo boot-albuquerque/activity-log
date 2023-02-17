@@ -10048,3 +10048,4 @@
 | 2023-02-17 13:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: create order processing service |
 | 2023-02-17 15:00 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | infra: update Terraform modules |
 | 2023-02-17 15:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/null-pointer` | feat: add pagination to list endpoint |
+| 2023-02-17 16:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: add e2e tests for checkout flow |
