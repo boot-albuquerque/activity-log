@@ -10051,3 +10051,4 @@
 | 2023-02-17 16:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | test: add e2e tests for checkout flow |
 | 2023-02-17 20:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | db: add migration for new schema |
 | 2023-02-17 20:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | chore: add pre-commit hooks |
+| 2023-02-17 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | test: cover edge cases in validator |
