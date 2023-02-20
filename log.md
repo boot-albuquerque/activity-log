@@ -10052,3 +10052,4 @@
 | 2023-02-17 20:29 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v3.0` | db: add migration for new schema |
 | 2023-02-17 20:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | chore: add pre-commit hooks |
 | 2023-02-17 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | test: cover edge cases in validator |
+| 2023-02-20 00:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | style: format code according to style guide |
