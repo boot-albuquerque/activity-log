@@ -10065,3 +10065,4 @@
 | 2023-02-22 16:12 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/auth-improvements` | feat: implement soft delete pattern |
 | 2023-02-22 23:08 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | perf: reduce bundle size |
 | 2023-02-23 11:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | perf: optimize database queries |
+| 2023-02-23 11:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | refactor: move constants to config module |
