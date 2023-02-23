@@ -10066,3 +10066,4 @@
 | 2023-02-22 23:08 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | perf: reduce bundle size |
 | 2023-02-23 11:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/extract-service` | perf: optimize database queries |
 | 2023-02-23 11:50 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | refactor: move constants to config module |
+| 2023-02-23 14:02 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | docs: add README setup instructions |
