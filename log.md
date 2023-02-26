@@ -10082,3 +10082,4 @@
 | 2023-02-24 16:18 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | style: fix indentation and whitespace |
 | 2023-02-24 16:33 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | infra: update Terraform modules |
 | 2023-02-24 21:55 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | docs: document environment variables |
+| 2023-02-26 07:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | feat: add export to CSV/Excel |
