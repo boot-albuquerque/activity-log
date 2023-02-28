@@ -10087,3 +10087,4 @@
 | 2023-02-27 15:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | style: format code according to style guide |
 | 2023-02-27 16:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2023-02-28 09:55 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | db: add composite index |
+| 2023-02-28 14:43 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | refactor: clean up unused imports |
