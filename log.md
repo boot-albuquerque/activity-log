@@ -10100,3 +10100,4 @@
 | 2023-03-01 14:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | fix: resolve deadlock in transaction |
 | 2023-03-01 15:30 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | test: fix flaky test in async handler |
 | 2023-03-01 17:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | style: fix indentation and whitespace |
+| 2023-03-01 18:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | fix: handle malformed JSON input |
