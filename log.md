@@ -10094,3 +10094,4 @@
 | 2023-02-28 17:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | feat: create health check endpoint |
 | 2023-02-28 22:17 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | feat: create background job processor |
 | 2023-03-01 11:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
+| 2023-03-01 12:30 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | feat: create order processing service |
