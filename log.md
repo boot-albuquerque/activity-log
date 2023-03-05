@@ -10106,3 +10106,4 @@
 | 2023-03-04 12:14 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: handle missing environment variable |
 | 2023-03-05 10:48 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/validation-bug` | test: improve test coverage to 80% |
 | 2023-03-05 18:56 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | refactor: improve code readability |
+| 2023-03-05 19:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | docs: add README setup instructions |
