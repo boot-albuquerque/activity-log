@@ -10110,3 +10110,4 @@
 | 2023-03-05 23:54 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v3.0` | feat: create admin management interface |
 | 2023-03-06 09:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | security: add input sanitization |
 | 2023-03-06 11:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/rate-limiting` | test: mock external dependencies in tests |
+| 2023-03-06 13:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/add-caching` | feat: add pagination to list endpoint |
