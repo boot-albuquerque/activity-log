@@ -10116,3 +10116,4 @@
 | 2023-03-06 16:48 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add search with filters |
 | 2023-03-06 17:42 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2023-03-06 18:42 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
+| 2023-03-06 20:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | docs: update API documentation |
