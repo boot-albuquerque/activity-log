@@ -10138,3 +10138,4 @@
 | 2023-03-09 15:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
 | 2023-03-09 17:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | perf: reduce bundle size |
 | 2023-03-09 17:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2023-03-09 18:30 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | fix: resolve race condition in queue worker |
