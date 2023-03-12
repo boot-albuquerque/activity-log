@@ -10145,3 +10145,4 @@
 | 2023-03-10 20:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | feat: add search with filters |
 | 2023-03-12 12:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement soft delete pattern |
 | 2023-03-12 15:03 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | infra: configure auto-scaling policies |
+| 2023-03-12 15:41 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | style: format code according to style guide |
