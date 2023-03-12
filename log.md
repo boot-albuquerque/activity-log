@@ -10143,3 +10143,4 @@
 | 2023-03-10 12:23 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2023-03-10 13:57 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: create health check endpoint |
 | 2023-03-10 20:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | feat: add search with filters |
+| 2023-03-12 12:47 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement soft delete pattern |
