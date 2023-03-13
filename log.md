@@ -10149,3 +10149,4 @@
 | 2023-03-12 18:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | fix: resolve deadlock in transaction |
 | 2023-03-13 11:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2023-03-13 11:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | feat: add audit log trail |
+| 2023-03-13 12:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: clean up unused imports |
