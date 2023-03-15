@@ -10156,3 +10156,4 @@
 | 2023-03-13 14:51 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | refactor: improve code readability |
 | 2023-03-14 07:58 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | feat: add OpenAPI documentation |
 | 2023-03-14 08:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: create order processing service |
+| 2023-03-15 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: correct pagination offset calculation |
