@@ -10171,3 +10171,4 @@
 | 2023-03-15 15:48 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | docs: add README setup instructions |
 | 2023-03-15 16:05 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: resolve race condition in queue worker |
 | 2023-03-15 16:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2023-03-15 16:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | test: fix flaky test in async handler |
