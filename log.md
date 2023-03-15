@@ -10173,3 +10173,4 @@
 | 2023-03-15 16:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2023-03-15 16:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | test: fix flaky test in async handler |
 | 2023-03-15 16:55 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | fix: handle empty response from external API |
+| 2023-03-15 19:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/add-caching` | test: add integration tests for API endpoints |
