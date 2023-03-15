@@ -10159,3 +10159,4 @@
 | 2023-03-15 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: correct pagination offset calculation |
 | 2023-03-15 00:26 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2023-03-15 09:27 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | feat: create order processing service |
+| 2023-03-15 10:04 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | db: add composite index |
