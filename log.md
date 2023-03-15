@@ -10167,3 +10167,4 @@
 | 2023-03-15 13:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | refactor: split large controller into smaller ones |
 | 2023-03-15 14:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/update-deps` | feat: add file upload support |
 | 2023-03-15 14:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | refactor: extract business logic to service layer |
+| 2023-03-15 15:32 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
