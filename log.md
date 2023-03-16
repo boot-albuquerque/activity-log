@@ -10178,3 +10178,4 @@
 | 2023-03-15 22:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | ci: configure staging environment |
 | 2023-03-15 23:31 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2023-03-15 23:48 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | perf: optimize database queries |
+| 2023-03-16 11:45 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | test: add e2e tests for checkout flow |
