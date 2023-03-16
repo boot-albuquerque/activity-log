@@ -10182,3 +10182,4 @@
 | 2023-03-16 14:27 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | infra: update Terraform modules |
 | 2023-03-16 15:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/extract-service` | infra: update Terraform modules |
 | 2023-03-16 16:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
+| 2023-03-16 16:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | feat: create dashboard metrics endpoint |
