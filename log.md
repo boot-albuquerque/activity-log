@@ -10193,3 +10193,4 @@
 | 2023-03-19 14:04 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | db: optimize slow queries |
 | 2023-03-20 07:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2023-03-20 08:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: improve code readability |
+| 2023-03-20 10:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | fix: handle missing environment variable |
