@@ -10191,3 +10191,4 @@
 | 2023-03-17 16:45 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/pagination` | feat: add bulk operations support |
 | 2023-03-17 17:01 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
 | 2023-03-19 14:04 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/add-caching` | db: optimize slow queries |
+| 2023-03-20 07:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v3.0` | feat: add OpenAPI documentation |
