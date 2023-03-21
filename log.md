@@ -10207,3 +10207,4 @@
 | 2023-03-21 14:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2023-03-21 15:02 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add user authentication endpoint |
 | 2023-03-21 15:53 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2023-03-21 17:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | feat: add OpenAPI documentation |
