@@ -10205,3 +10205,4 @@
 | 2023-03-20 19:44 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2023-03-21 14:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | test: add unit tests for payment service |
 | 2023-03-21 14:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
+| 2023-03-21 15:02 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add user authentication endpoint |
