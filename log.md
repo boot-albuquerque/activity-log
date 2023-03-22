@@ -10213,3 +10213,4 @@
 | 2023-03-21 23:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | ci: add automated deployment pipeline |
 | 2023-03-22 08:01 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2023-03-22 08:34 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | feat: add audit log trail |
+| 2023-03-22 09:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | test: cover edge cases in validator |
