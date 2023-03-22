@@ -10219,3 +10219,4 @@
 | 2023-03-22 17:47 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: extract business logic to service layer |
 | 2023-03-22 18:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | test: add unit tests for payment service |
 | 2023-03-22 18:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: implement rate limiting middleware |
+| 2023-03-22 19:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | refactor: adopt repository pattern |
