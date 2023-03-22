@@ -10209,3 +10209,4 @@
 | 2023-03-21 15:53 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2023-03-21 17:32 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2023-03-21 19:48 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | refactor: replace raw SQL with query builder |
+| 2023-03-21 21:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | refactor: adopt repository pattern |
