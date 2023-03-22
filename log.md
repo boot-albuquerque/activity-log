@@ -10218,3 +10218,4 @@
 | 2023-03-22 16:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | refactor: simplify authentication flow |
 | 2023-03-22 17:47 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: extract business logic to service layer |
 | 2023-03-22 18:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | test: add unit tests for payment service |
+| 2023-03-22 18:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: implement rate limiting middleware |
