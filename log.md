@@ -10221,3 +10221,4 @@
 | 2023-03-22 18:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: implement rate limiting middleware |
 | 2023-03-22 19:33 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | refactor: adopt repository pattern |
 | 2023-03-22 23:01 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/pagination` | feat: add email notification on status change |
+| 2023-03-24 10:30 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | test: mock external dependencies in tests |
