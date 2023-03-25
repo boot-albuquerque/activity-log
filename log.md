@@ -10229,3 +10229,4 @@
 | 2023-03-24 23:35 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | style: format code according to style guide |
 | 2023-03-25 08:46 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: add email notification on status change |
 | 2023-03-25 12:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | fix: resolve N+1 query problem |
+| 2023-03-25 13:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | infra: add Kubernetes manifests |
