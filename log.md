@@ -10232,3 +10232,4 @@
 | 2023-03-25 13:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2023-03-25 13:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | infra: add Kubernetes manifests |
 | 2023-03-25 21:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | ci: configure staging environment |
+| 2023-03-26 08:37 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/prod-issue` | feat: add audit log trail |
