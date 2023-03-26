@@ -10231,3 +10231,4 @@
 | 2023-03-25 12:40 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | fix: resolve N+1 query problem |
 | 2023-03-25 13:15 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | infra: add Kubernetes manifests |
 | 2023-03-25 13:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | infra: add Kubernetes manifests |
+| 2023-03-25 21:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | ci: configure staging environment |
