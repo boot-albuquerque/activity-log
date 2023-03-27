@@ -10237,3 +10237,4 @@
 | 2023-03-26 17:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle timeout in async operation |
 | 2023-03-26 19:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | ci: configure staging environment |
 | 2023-03-26 20:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | security: add input sanitization |
+| 2023-03-27 09:11 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add export to CSV/Excel |
