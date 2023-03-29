@@ -10245,3 +10245,4 @@
 | 2023-03-29 13:09 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2023-03-29 13:20 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: update dependencies |
 | 2023-03-29 13:32 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: resolve deadlock in transaction |
+| 2023-03-29 14:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | feat: implement soft delete pattern |
