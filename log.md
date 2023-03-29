@@ -10240,3 +10240,4 @@
 | 2023-03-27 09:11 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: add export to CSV/Excel |
 | 2023-03-29 10:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2023-03-29 11:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2023-03-29 11:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | refactor: extract business logic to service layer |
