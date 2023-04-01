@@ -10264,3 +10264,4 @@
 | 2023-03-31 20:59 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | perf: add database indexes |
 | 2023-04-01 09:25 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/refactor-queries` | feat: create background job processor |
 | 2023-04-01 12:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | fix: correct null check in user service |
+| 2023-04-01 17:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle missing environment variable |
