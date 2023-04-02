@@ -10266,3 +10266,4 @@
 | 2023-04-01 12:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | fix: correct null check in user service |
 | 2023-04-01 17:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2023-04-01 17:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2023-04-01 22:41 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
