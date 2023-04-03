@@ -10270,3 +10270,4 @@
 | 2023-04-02 14:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | feat: create health check endpoint |
 | 2023-04-03 00:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: handle empty response from external API |
 | 2023-04-03 15:28 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | refactor: clean up unused imports |
+| 2023-04-03 16:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | fix: correct null check in user service |
