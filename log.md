@@ -10284,3 +10284,4 @@
 | 2023-04-05 12:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
 | 2023-04-05 15:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | chore: update dependencies |
 | 2023-04-05 15:53 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: resolve CORS configuration |
+| 2023-04-05 19:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | test: add unit tests for payment service |
