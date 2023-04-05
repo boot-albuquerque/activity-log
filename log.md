@@ -10275,3 +10275,4 @@
 | 2023-04-04 13:16 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | fix: correct validation error messages |
 | 2023-04-04 17:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | docs: document environment variables |
 | 2023-04-04 19:02 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | feat: implement JWT refresh token |
+| 2023-04-04 22:21 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | refactor: consolidate error handling |
