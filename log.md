@@ -10289,3 +10289,4 @@
 | 2023-04-06 08:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | security: update SSL certificates config |
 | 2023-04-06 08:26 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | test: add unit tests for payment service |
 | 2023-04-06 09:18 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/race-condition` | perf: reduce bundle size |
+| 2023-04-06 13:30 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/race-condition` | test: add integration tests for API endpoints |
