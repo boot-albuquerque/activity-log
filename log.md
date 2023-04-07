@@ -10295,3 +10295,4 @@
 | 2023-04-06 20:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | infra: configure auto-scaling policies |
 | 2023-04-06 21:57 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | fix: correct null check in user service |
 | 2023-04-06 23:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | feat: implement rate limiting middleware |
+| 2023-04-06 23:21 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | docs: add README setup instructions |
