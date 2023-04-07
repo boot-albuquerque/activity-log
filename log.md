@@ -10299,3 +10299,4 @@
 | 2023-04-06 23:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | perf: reduce bundle size |
 | 2023-04-07 07:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: correct validation error messages |
 | 2023-04-07 08:03 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | db: add migration for new schema |
+| 2023-04-07 09:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | fix: handle edge case in date parsing |
