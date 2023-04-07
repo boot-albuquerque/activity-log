@@ -10297,3 +10297,4 @@
 | 2023-04-06 23:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | feat: implement rate limiting middleware |
 | 2023-04-06 23:21 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | docs: add README setup instructions |
 | 2023-04-06 23:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | perf: reduce bundle size |
+| 2023-04-07 07:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | fix: correct validation error messages |
