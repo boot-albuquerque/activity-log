@@ -10311,3 +10311,4 @@
 | 2023-04-08 18:17 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | fix: resolve CORS configuration |
 | 2023-04-08 19:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | test: cover edge cases in validator |
 | 2023-04-08 20:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | test: cover edge cases in validator |
+| 2023-04-10 08:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | db: add composite index |
