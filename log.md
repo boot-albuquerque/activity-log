@@ -10314,3 +10314,4 @@
 | 2023-04-10 08:55 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | db: add composite index |
 | 2023-04-10 09:56 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | feat: add user authentication endpoint |
 | 2023-04-10 15:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/add-caching` | fix: correct validation error messages |
+| 2023-04-10 17:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | test: add integration tests for API endpoints |
