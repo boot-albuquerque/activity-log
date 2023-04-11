@@ -10321,3 +10321,4 @@
 | 2023-04-11 00:58 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2023-04-11 08:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: add export to CSV/Excel |
 | 2023-04-11 08:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | infra: add Kubernetes manifests |
+| 2023-04-11 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: implement soft delete pattern |
