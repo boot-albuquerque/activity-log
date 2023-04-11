@@ -10319,3 +10319,4 @@
 | 2023-04-10 18:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2023-04-11 00:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2023-04-11 00:58 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: correct decimal precision in billing |
+| 2023-04-11 08:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: add export to CSV/Excel |
