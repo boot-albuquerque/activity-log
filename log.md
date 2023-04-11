@@ -10320,3 +10320,4 @@
 | 2023-04-11 00:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add performance benchmark tests |
 | 2023-04-11 00:58 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | fix: correct decimal precision in billing |
 | 2023-04-11 08:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: add export to CSV/Excel |
+| 2023-04-11 08:56 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | infra: add Kubernetes manifests |
