@@ -10317,3 +10317,4 @@
 | 2023-04-10 17:17 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | test: add integration tests for API endpoints |
 | 2023-04-10 18:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
 | 2023-04-10 18:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | feat: add pagination to list endpoint |
+| 2023-04-11 00:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | test: add performance benchmark tests |
