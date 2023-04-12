@@ -10324,3 +10324,4 @@
 | 2023-04-11 10:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2023-04-11 10:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | docs: add README setup instructions |
 | 2023-04-11 11:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure GitHub Actions CI |
+| 2023-04-12 10:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add audit log trail |
