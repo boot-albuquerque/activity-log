@@ -10334,3 +10334,4 @@
 | 2023-04-13 13:35 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add OpenAPI documentation |
 | 2023-04-13 14:06 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2023-04-13 14:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | refactor: clean up unused imports |
+| 2023-04-13 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | feat: create health check endpoint |
