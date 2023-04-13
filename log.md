@@ -10336,3 +10336,4 @@
 | 2023-04-13 14:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2023-04-13 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | feat: create health check endpoint |
 | 2023-04-13 16:10 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: update API documentation |
+| 2023-04-13 17:01 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: reduce bundle size |
