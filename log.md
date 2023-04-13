@@ -10329,3 +10329,4 @@
 | 2023-04-13 00:23 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | chore: add Docker Compose for local dev |
 | 2023-04-13 07:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/pagination` | feat: add bulk operations support |
 | 2023-04-13 09:51 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | db: optimize slow queries |
+| 2023-04-13 10:37 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/null-pointer` | docs: add README setup instructions |
