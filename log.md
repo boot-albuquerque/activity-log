@@ -10326,3 +10326,4 @@
 | 2023-04-11 11:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2023-04-12 10:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add audit log trail |
 | 2023-04-12 12:58 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | db: add migration for new schema |
+| 2023-04-13 00:23 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | chore: add Docker Compose for local dev |
