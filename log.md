@@ -10344,3 +10344,4 @@
 | 2023-04-14 09:57 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: create health check endpoint |
 | 2023-04-14 10:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | style: fix indentation and whitespace |
 | 2023-04-14 13:46 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | docs: update API documentation |
+| 2023-04-14 14:04 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: implement soft delete pattern |
