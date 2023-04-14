@@ -10338,3 +10338,4 @@
 | 2023-04-13 16:10 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | docs: update API documentation |
 | 2023-04-13 17:01 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: reduce bundle size |
 | 2023-04-13 19:33 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | feat: add audit log trail |
+| 2023-04-14 00:56 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | feat: add search with filters |
