@@ -10347,3 +10347,4 @@
 | 2023-04-14 14:04 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: implement soft delete pattern |
 | 2023-04-14 14:59 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | feat: add email notification on status change |
 | 2023-04-14 17:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | feat: add OpenAPI documentation |
+| 2023-04-14 22:56 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | ci: add automated deployment pipeline |
