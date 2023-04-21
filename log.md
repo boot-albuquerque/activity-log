@@ -10374,3 +10374,4 @@
 | 2023-04-21 16:17 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | feat: add search with filters |
 | 2023-04-21 16:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: update Terraform modules |
 | 2023-04-21 16:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | feat: add pagination to list endpoint |
+| 2023-04-21 16:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: add audit log trail |
