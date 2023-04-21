@@ -10373,3 +10373,4 @@
 | 2023-04-21 15:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/extract-service` | docs: document environment variables |
 | 2023-04-21 16:17 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | feat: add search with filters |
 | 2023-04-21 16:34 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | infra: update Terraform modules |
+| 2023-04-21 16:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | feat: add pagination to list endpoint |
