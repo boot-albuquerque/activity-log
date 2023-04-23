@@ -10381,3 +10381,4 @@
 | 2023-04-23 10:01 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: create admin management interface |
 | 2023-04-23 12:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2023-04-23 13:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | test: improve test coverage to 80% |
+| 2023-04-23 15:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | style: format code according to style guide |
