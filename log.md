@@ -10380,3 +10380,4 @@
 | 2023-04-23 08:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | chore: upgrade to latest Node.js LTS |
 | 2023-04-23 10:01 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: create admin management interface |
 | 2023-04-23 12:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | fix: handle malformed JSON input |
+| 2023-04-23 13:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | test: improve test coverage to 80% |
