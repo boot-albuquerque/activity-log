@@ -10387,3 +10387,4 @@
 | 2023-04-24 11:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
 | 2023-04-24 13:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2023-04-24 13:51 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | feat: add audit log trail |
+| 2023-04-24 14:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: resolve race condition in queue worker |
