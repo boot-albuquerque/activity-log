@@ -10384,3 +10384,4 @@
 | 2023-04-23 15:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | style: format code according to style guide |
 | 2023-04-23 18:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | security: update SSL certificates config |
 | 2023-04-24 08:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | fix: resolve N+1 query problem |
+| 2023-04-24 11:05 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | chore: upgrade to latest Node.js LTS |
