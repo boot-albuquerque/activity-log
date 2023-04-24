@@ -10383,3 +10383,4 @@
 | 2023-04-23 13:13 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | test: improve test coverage to 80% |
 | 2023-04-23 15:33 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | style: format code according to style guide |
 | 2023-04-23 18:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | security: update SSL certificates config |
+| 2023-04-24 08:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | fix: resolve N+1 query problem |
