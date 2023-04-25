@@ -10390,3 +10390,4 @@
 | 2023-04-24 14:37 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: resolve race condition in queue worker |
 | 2023-04-24 19:09 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/auth-improvements` | style: fix indentation and whitespace |
 | 2023-04-24 21:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v1.0` | style: fix indentation and whitespace |
+| 2023-04-25 00:08 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | infra: add Kubernetes manifests |
