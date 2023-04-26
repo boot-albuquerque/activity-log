@@ -10406,3 +10406,4 @@
 | 2023-04-26 09:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: handle missing environment variable |
 | 2023-04-26 11:52 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: reduce bundle size |
 | 2023-04-26 11:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | chore: add Docker Compose for local dev |
+| 2023-04-26 12:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | docs: document environment variables |
