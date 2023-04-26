@@ -10402,3 +10402,4 @@
 | 2023-04-25 21:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | feat: create background job processor |
 | 2023-04-25 22:16 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2023-04-26 00:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | db: add migration for new schema |
+| 2023-04-26 08:21 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | db: optimize slow queries |
