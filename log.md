@@ -10409,3 +10409,4 @@
 | 2023-04-26 12:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | docs: document environment variables |
 | 2023-04-26 15:50 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2023-04-26 18:56 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | chore: upgrade to latest Node.js LTS |
+| 2023-04-26 21:25 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | infra: add Kubernetes manifests |
