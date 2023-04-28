@@ -10423,3 +10423,4 @@
 | 2023-04-28 11:02 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | test: add performance benchmark tests |
 | 2023-04-28 11:04 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | fix: correct decimal precision in billing |
 | 2023-04-28 13:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | db: add migration for new schema |
+| 2023-04-28 14:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: configure ESLint and Prettier |
