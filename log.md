@@ -10434,3 +10434,4 @@
 | 2023-04-29 07:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/prod-issue` | feat: add OpenAPI documentation |
 | 2023-04-29 08:06 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | feat: add real-time notifications |
 | 2023-04-29 14:39 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | test: mock external dependencies in tests |
+| 2023-04-29 21:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
