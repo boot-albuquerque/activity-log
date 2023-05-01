@@ -10439,3 +10439,4 @@
 | 2023-04-30 09:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/rate-limiting` | fix: handle timeout in async operation |
 | 2023-04-30 12:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | feat: create health check endpoint |
 | 2023-04-30 14:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | chore: configure GitHub Actions CI |
+| 2023-05-01 00:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | fix: resolve deadlock in transaction |
