@@ -10444,3 +10444,4 @@
 | 2023-05-01 16:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | chore: configure GitHub Actions CI |
 | 2023-05-01 20:20 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | ci: add automated deployment pipeline |
 | 2023-05-03 12:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: cover edge cases in validator |
+| 2023-05-03 19:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | refactor: split large controller into smaller ones |
