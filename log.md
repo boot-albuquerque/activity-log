@@ -10451,3 +10451,4 @@
 | 2023-05-04 14:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: implement rate limiting middleware |
 | 2023-05-04 15:11 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: add pagination to list endpoint |
 | 2023-05-04 16:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v1.0` | test: fix flaky test in async handler |
+| 2023-05-04 18:41 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | fix: correct cache invalidation logic |
