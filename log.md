@@ -10448,3 +10448,4 @@
 | 2023-05-04 08:01 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2023-05-04 12:02 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | refactor: move constants to config module |
 | 2023-05-04 13:30 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/new-endpoint` | feat: add user authentication endpoint |
+| 2023-05-04 14:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: implement rate limiting middleware |
