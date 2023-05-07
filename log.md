@@ -10459,3 +10459,4 @@
 | 2023-05-06 15:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2023-05-06 21:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement soft delete pattern |
 | 2023-05-07 17:23 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | refactor: adopt repository pattern |
+| 2023-05-07 19:24 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | refactor: move constants to config module |
