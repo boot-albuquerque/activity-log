@@ -10457,3 +10457,4 @@
 | 2023-05-06 12:57 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | security: add input sanitization |
 | 2023-05-06 13:23 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | feat: add bulk operations support |
 | 2023-05-06 15:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | feat: add audit log trail |
+| 2023-05-06 21:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | feat: implement soft delete pattern |
