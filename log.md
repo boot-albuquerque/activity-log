@@ -10464,3 +10464,4 @@
 | 2023-05-08 16:44 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2023-05-08 17:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: move constants to config module |
 | 2023-05-08 19:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | test: fix flaky test in async handler |
+| 2023-05-08 19:16 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
