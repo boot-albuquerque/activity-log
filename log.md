@@ -10461,3 +10461,4 @@
 | 2023-05-07 17:23 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | refactor: adopt repository pattern |
 | 2023-05-07 19:24 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | refactor: move constants to config module |
 | 2023-05-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | chore: add pre-commit hooks |
+| 2023-05-08 16:44 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/typo-response` | feat: create dashboard metrics endpoint |
