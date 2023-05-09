@@ -10468,3 +10468,4 @@
 | 2023-05-08 21:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | db: add composite index |
 | 2023-05-08 21:52 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | test: cover edge cases in validator |
 | 2023-05-08 21:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | perf: optimize database queries |
+| 2023-05-09 00:05 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | db: add migration for new schema |
