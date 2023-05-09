@@ -10470,3 +10470,4 @@
 | 2023-05-08 21:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2023-05-09 00:05 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | db: add migration for new schema |
 | 2023-05-09 11:57 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/pagination` | test: add e2e tests for checkout flow |
+| 2023-05-09 16:48 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | ci: configure staging environment |
