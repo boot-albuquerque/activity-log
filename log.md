@@ -10475,3 +10475,4 @@
 | 2023-05-09 19:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | feat: create background job processor |
 | 2023-05-09 19:59 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | refactor: replace raw SQL with query builder |
 | 2023-05-09 21:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | perf: optimize database queries |
+| 2023-05-09 21:54 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
