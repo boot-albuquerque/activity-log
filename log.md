@@ -10478,3 +10478,4 @@
 | 2023-05-09 21:54 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2023-05-09 22:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | fix: handle missing environment variable |
 | 2023-05-09 23:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | docs: document environment variables |
+| 2023-05-10 10:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | security: update SSL certificates config |
