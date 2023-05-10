@@ -10477,3 +10477,4 @@
 | 2023-05-09 21:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | perf: optimize database queries |
 | 2023-05-09 21:54 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2023-05-09 22:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | fix: handle missing environment variable |
+| 2023-05-09 23:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/memory-leak` | docs: document environment variables |
