@@ -10489,3 +10489,4 @@
 | 2023-05-10 17:05 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | db: add composite index |
 | 2023-05-10 23:28 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | chore: update dependencies |
 | 2023-05-11 10:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
+| 2023-05-11 12:18 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/new-endpoint` | fix: handle malformed JSON input |
