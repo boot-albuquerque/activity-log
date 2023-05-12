@@ -10496,3 +10496,4 @@
 | 2023-05-11 17:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | test: fix flaky test in async handler |
 | 2023-05-11 19:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
 | 2023-05-11 20:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2023-05-12 07:57 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/rate-limiting` | fix: resolve N+1 query problem |
