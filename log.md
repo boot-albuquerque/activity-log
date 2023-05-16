@@ -10501,3 +10501,4 @@
 | 2023-05-16 09:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2023-05-16 10:40 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | chore: configure ESLint and Prettier |
 | 2023-05-16 11:23 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | docs: document environment variables |
+| 2023-05-16 14:36 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: update API documentation |
