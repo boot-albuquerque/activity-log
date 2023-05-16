@@ -10500,3 +10500,4 @@
 | 2023-05-15 19:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v2.0` | docs: add README setup instructions |
 | 2023-05-16 09:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/cleanup` | test: mock external dependencies in tests |
 | 2023-05-16 10:40 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | chore: configure ESLint and Prettier |
+| 2023-05-16 11:23 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | docs: document environment variables |
