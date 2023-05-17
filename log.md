@@ -10508,3 +10508,4 @@
 | 2023-05-16 20:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | db: add composite index |
 | 2023-05-16 20:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2023-05-16 23:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
+| 2023-05-17 13:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: add export to CSV/Excel |
