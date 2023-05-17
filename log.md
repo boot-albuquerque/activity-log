@@ -10505,3 +10505,4 @@
 | 2023-05-16 14:56 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | fix: correct cache invalidation logic |
 | 2023-05-16 15:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: format code according to style guide |
 | 2023-05-16 19:11 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | refactor: simplify authentication flow |
+| 2023-05-16 20:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | db: add composite index |
