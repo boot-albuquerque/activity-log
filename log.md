@@ -10507,3 +10507,4 @@
 | 2023-05-16 19:11 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | refactor: simplify authentication flow |
 | 2023-05-16 20:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | db: add composite index |
 | 2023-05-16 20:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2023-05-16 23:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/race-condition` | db: optimize slow queries |
