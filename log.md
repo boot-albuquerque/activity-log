@@ -10517,3 +10517,4 @@
 | 2023-05-18 11:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | test: add unit tests for payment service |
 | 2023-05-18 13:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2023-05-18 14:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/clean-architecture` | feat: add real-time notifications |
+| 2023-05-18 15:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | fix: correct decimal precision in billing |
