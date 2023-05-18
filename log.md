@@ -10513,3 +10513,4 @@
 | 2023-05-18 08:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | feat: implement rate limiting middleware |
 | 2023-05-18 09:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | feat: implement soft delete pattern |
 | 2023-05-18 10:44 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | infra: add Kubernetes manifests |
+| 2023-05-18 11:49 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | feat: add export to CSV/Excel |
