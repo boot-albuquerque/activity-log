@@ -10515,3 +10515,4 @@
 | 2023-05-18 10:44 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | infra: add Kubernetes manifests |
 | 2023-05-18 11:49 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | feat: add export to CSV/Excel |
 | 2023-05-18 11:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/race-condition` | test: add unit tests for payment service |
+| 2023-05-18 13:39 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | feat: add export to CSV/Excel |
