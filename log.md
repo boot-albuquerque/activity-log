@@ -10511,3 +10511,4 @@
 | 2023-05-17 13:54 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | feat: add export to CSV/Excel |
 | 2023-05-17 19:21 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | feat: implement webhook receiver |
 | 2023-05-18 08:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | feat: implement rate limiting middleware |
+| 2023-05-18 09:00 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `main` | feat: implement soft delete pattern |
