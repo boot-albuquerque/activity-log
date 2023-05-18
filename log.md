@@ -10520,3 +10520,4 @@
 | 2023-05-18 15:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | fix: correct decimal precision in billing |
 | 2023-05-18 17:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2023-05-18 18:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | test: add e2e tests for checkout flow |
+| 2023-05-18 20:37 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | chore: configure ESLint and Prettier |
