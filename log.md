@@ -10526,3 +10526,4 @@
 | 2023-05-22 08:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | test: add unit tests for payment service |
 | 2023-05-22 12:40 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2023-05-22 13:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | security: add input sanitization |
+| 2023-05-22 17:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | refactor: move constants to config module |
