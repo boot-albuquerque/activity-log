@@ -10527,3 +10527,4 @@
 | 2023-05-22 12:40 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2023-05-22 13:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | security: add input sanitization |
 | 2023-05-22 17:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | refactor: move constants to config module |
+| 2023-05-22 20:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | perf: add database indexes |
