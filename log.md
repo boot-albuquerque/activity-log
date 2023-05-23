@@ -10535,3 +10535,4 @@
 | 2023-05-23 16:15 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | refactor: improve code readability |
 | 2023-05-23 18:48 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | feat: implement webhook receiver |
 | 2023-05-23 18:54 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: add search with filters |
+| 2023-05-23 19:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: simplify authentication flow |
