@@ -10530,3 +10530,4 @@
 | 2023-05-22 20:25 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | perf: add database indexes |
 | 2023-05-22 21:30 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | docs: update API documentation |
 | 2023-05-22 22:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | infra: configure auto-scaling policies |
+| 2023-05-23 08:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: improve test coverage to 80% |
