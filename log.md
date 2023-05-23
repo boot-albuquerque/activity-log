@@ -10532,3 +10532,4 @@
 | 2023-05-22 22:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/memory-leak` | infra: configure auto-scaling policies |
 | 2023-05-23 08:01 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | test: improve test coverage to 80% |
 | 2023-05-23 15:30 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | refactor: simplify authentication flow |
+| 2023-05-23 16:15 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v2.0` | refactor: improve code readability |
