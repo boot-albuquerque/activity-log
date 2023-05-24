@@ -10537,3 +10537,4 @@
 | 2023-05-23 18:54 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: add search with filters |
 | 2023-05-23 19:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | refactor: simplify authentication flow |
 | 2023-05-23 21:05 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
+| 2023-05-23 21:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | chore: add pre-commit hooks |
