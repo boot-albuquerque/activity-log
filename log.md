@@ -10539,3 +10539,4 @@
 | 2023-05-23 21:05 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
 | 2023-05-23 21:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | chore: add pre-commit hooks |
 | 2023-05-24 16:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | fix: handle missing environment variable |
+| 2023-05-24 19:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: correct pagination offset calculation |
