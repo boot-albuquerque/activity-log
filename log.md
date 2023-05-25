@@ -10541,3 +10541,4 @@
 | 2023-05-24 16:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | fix: handle missing environment variable |
 | 2023-05-24 19:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: correct pagination offset calculation |
 | 2023-05-25 12:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | feat: add bulk operations support |
+| 2023-05-25 14:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | test: add integration tests for API endpoints |
