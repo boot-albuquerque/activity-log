@@ -10544,3 +10544,4 @@
 | 2023-05-25 14:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/add-caching` | test: add integration tests for API endpoints |
 | 2023-05-26 00:44 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/add-caching` | feat: create admin management interface |
 | 2023-05-26 08:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | chore: update dependencies |
+| 2023-05-26 11:04 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: correct decimal precision in billing |
