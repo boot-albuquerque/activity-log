@@ -10546,3 +10546,4 @@
 | 2023-05-26 08:07 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | chore: update dependencies |
 | 2023-05-26 11:04 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: correct decimal precision in billing |
 | 2023-05-26 14:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | feat: implement soft delete pattern |
+| 2023-05-26 15:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | chore: add Docker Compose for local dev |
