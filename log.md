@@ -10549,3 +10549,4 @@
 | 2023-05-26 15:23 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | chore: add Docker Compose for local dev |
 | 2023-05-26 20:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | fix: resolve N+1 query problem |
 | 2023-05-27 11:38 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add export to CSV/Excel |
+| 2023-05-28 07:00 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/auth-improvements` | refactor: improve code readability |
