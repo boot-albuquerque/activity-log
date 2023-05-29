@@ -10557,3 +10557,4 @@
 | 2023-05-28 22:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | feat: create order processing service |
 | 2023-05-29 00:02 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2023-05-29 08:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | test: add performance benchmark tests |
+| 2023-05-29 09:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
