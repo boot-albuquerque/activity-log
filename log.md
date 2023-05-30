@@ -10566,3 +10566,4 @@
 | 2023-05-29 19:48 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2023-05-29 23:45 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | style: fix indentation and whitespace |
 | 2023-05-30 09:07 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | feat: add file upload support |
+| 2023-05-30 12:46 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct decimal precision in billing |
