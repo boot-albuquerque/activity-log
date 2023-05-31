@@ -10576,3 +10576,4 @@
 | 2023-05-30 20:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2023-05-30 22:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add user authentication endpoint |
 | 2023-05-30 23:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
+| 2023-05-31 09:41 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | docs: add README setup instructions |
