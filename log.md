@@ -10575,3 +10575,4 @@
 | 2023-05-30 18:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/race-condition` | infra: update Terraform modules |
 | 2023-05-30 20:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2023-05-30 22:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add user authentication endpoint |
+| 2023-05-30 23:36 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | ci: add automated deployment pipeline |
