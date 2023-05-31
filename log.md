@@ -10584,3 +10584,4 @@
 | 2023-05-31 14:04 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2023-05-31 17:55 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/race-condition` | style: format code according to style guide |
 | 2023-05-31 18:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | feat: create admin management interface |
+| 2023-05-31 19:20 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | fix: correct null check in user service |
