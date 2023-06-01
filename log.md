@@ -10603,3 +10603,4 @@
 | 2023-06-01 18:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | infra: add Kubernetes manifests |
 | 2023-06-01 18:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | security: update SSL certificates config |
 | 2023-06-01 19:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | security: update SSL certificates config |
+| 2023-06-01 19:54 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
