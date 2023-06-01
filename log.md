@@ -10590,3 +10590,4 @@
 | 2023-06-01 09:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | refactor: improve code readability |
 | 2023-06-01 09:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2023-06-01 10:31 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement webhook receiver |
+| 2023-06-01 11:49 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | test: fix flaky test in async handler |
