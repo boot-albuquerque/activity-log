@@ -10588,3 +10588,4 @@
 | 2023-05-31 19:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | infra: add Kubernetes manifests |
 | 2023-06-01 09:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | test: add unit tests for payment service |
 | 2023-06-01 09:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | refactor: improve code readability |
+| 2023-06-01 09:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | chore: add Docker Compose for local dev |
