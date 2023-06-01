@@ -10600,3 +10600,4 @@
 | 2023-06-01 18:19 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/add-caching` | feat: add real-time notifications |
 | 2023-06-01 18:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | feat: add real-time notifications |
 | 2023-06-01 18:39 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | refactor: extract business logic to service layer |
+| 2023-06-01 18:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | infra: add Kubernetes manifests |
