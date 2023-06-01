@@ -10594,3 +10594,4 @@
 | 2023-06-01 11:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: add performance benchmark tests |
 | 2023-06-01 12:00 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | ci: configure staging environment |
 | 2023-06-01 13:25 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve race condition in queue worker |
+| 2023-06-01 16:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add OpenAPI documentation |
