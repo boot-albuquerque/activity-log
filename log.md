@@ -10596,3 +10596,4 @@
 | 2023-06-01 13:25 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2023-06-01 16:51 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | feat: add OpenAPI documentation |
 | 2023-06-01 16:54 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: handle missing environment variable |
+| 2023-06-01 17:40 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | perf: add database indexes |
