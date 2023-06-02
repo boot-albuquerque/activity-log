@@ -10604,3 +10604,4 @@
 | 2023-06-01 18:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | security: update SSL certificates config |
 | 2023-06-01 19:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | security: update SSL certificates config |
 | 2023-06-01 19:54 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
+| 2023-06-02 14:20 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | feat: add user authentication endpoint |
