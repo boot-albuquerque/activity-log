@@ -10611,3 +10611,4 @@
 | 2023-06-02 20:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | ci: add automated deployment pipeline |
 | 2023-06-02 22:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | style: fix indentation and whitespace |
 | 2023-06-03 22:24 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: add user authentication endpoint |
+| 2023-06-04 12:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | docs: add README setup instructions |
