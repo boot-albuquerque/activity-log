@@ -10617,3 +10617,4 @@
 | 2023-06-05 11:34 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | feat: create order processing service |
 | 2023-06-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | perf: add database indexes |
 | 2023-06-05 17:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
+| 2023-06-05 20:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: add Docker Compose for local dev |
