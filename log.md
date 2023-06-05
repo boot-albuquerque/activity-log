@@ -10613,3 +10613,4 @@
 | 2023-06-03 22:24 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: add user authentication endpoint |
 | 2023-06-04 12:29 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | docs: add README setup instructions |
 | 2023-06-04 16:20 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | style: format code according to style guide |
+| 2023-06-05 09:12 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | fix: correct pagination offset calculation |
