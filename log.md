@@ -10618,3 +10618,4 @@
 | 2023-06-05 13:40 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | perf: add database indexes |
 | 2023-06-05 17:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: split large controller into smaller ones |
 | 2023-06-05 20:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | chore: add Docker Compose for local dev |
+| 2023-06-05 22:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: improve code readability |
