@@ -10624,3 +10624,4 @@
 | 2023-06-07 09:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/clean-architecture` | fix: handle malformed JSON input |
 | 2023-06-07 10:21 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/prod-issue` | feat: create order processing service |
 | 2023-06-07 13:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | feat: create admin management interface |
+| 2023-06-07 14:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: implement soft delete pattern |
