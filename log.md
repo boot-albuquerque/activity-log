@@ -10630,3 +10630,4 @@
 | 2023-06-11 09:27 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | feat: create background job processor |
 | 2023-06-13 08:59 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | test: cover edge cases in validator |
 | 2023-06-13 11:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | test: fix flaky test in async handler |
+| 2023-06-13 14:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: add Docker Compose for local dev |
