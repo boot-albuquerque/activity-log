@@ -10633,3 +10633,4 @@
 | 2023-06-13 14:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: add Docker Compose for local dev |
 | 2023-06-13 14:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `develop` | refactor: consolidate error handling |
 | 2023-06-13 19:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: correct validation error messages |
+| 2023-06-14 14:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: resolve race condition in queue worker |
