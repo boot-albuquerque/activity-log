@@ -10635,3 +10635,4 @@
 | 2023-06-13 19:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: correct validation error messages |
 | 2023-06-14 14:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: resolve race condition in queue worker |
 | 2023-06-14 15:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | refactor: move constants to config module |
+| 2023-06-14 16:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
