@@ -10636,3 +10636,4 @@
 | 2023-06-14 14:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | fix: resolve race condition in queue worker |
 | 2023-06-14 15:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | refactor: move constants to config module |
 | 2023-06-14 16:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
+| 2023-06-14 21:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | test: add integration tests for API endpoints |
