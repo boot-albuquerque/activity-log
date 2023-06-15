@@ -10645,3 +10645,4 @@
 | 2023-06-15 12:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | docs: update API documentation |
 | 2023-06-15 13:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | feat: create background job processor |
 | 2023-06-15 15:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: correct null check in user service |
+| 2023-06-15 17:50 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | docs: document environment variables |
