@@ -10653,3 +10653,4 @@
 | 2023-06-16 10:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | ci: configure staging environment |
 | 2023-06-16 11:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | chore: configure GitHub Actions CI |
 | 2023-06-16 12:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: correct null check in user service |
+| 2023-06-16 12:55 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/pagination` | feat: add export to CSV/Excel |
