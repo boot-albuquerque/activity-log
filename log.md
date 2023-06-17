@@ -10664,3 +10664,4 @@
 | 2023-06-16 21:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | fix: correct cache invalidation logic |
 | 2023-06-16 21:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | infra: add Kubernetes manifests |
 | 2023-06-17 12:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `refactor/clean-architecture` | feat: implement caching layer |
+| 2023-06-17 15:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: correct pagination offset calculation |
