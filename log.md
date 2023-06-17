@@ -10661,3 +10661,4 @@
 | 2023-06-16 15:41 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2023-06-16 20:25 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | feat: add user authentication endpoint |
 | 2023-06-16 20:49 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | refactor: clean up unused imports |
+| 2023-06-16 21:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | fix: correct cache invalidation logic |
