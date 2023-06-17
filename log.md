@@ -10662,3 +10662,4 @@
 | 2023-06-16 20:25 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/critical-fix` | feat: add user authentication endpoint |
 | 2023-06-16 20:49 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/critical-fix` | refactor: clean up unused imports |
 | 2023-06-16 21:10 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | fix: correct cache invalidation logic |
+| 2023-06-16 21:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | infra: add Kubernetes manifests |
