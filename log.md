@@ -10678,3 +10678,4 @@
 | 2023-06-20 20:13 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | feat: add audit log trail |
 | 2023-06-20 23:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2023-06-22 12:00 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | chore: configure GitHub Actions CI |
+| 2023-06-22 13:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/race-condition` | test: add e2e tests for checkout flow |
