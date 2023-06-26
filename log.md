@@ -10691,3 +10691,4 @@
 | 2023-06-24 15:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/cleanup` | feat: implement caching layer |
 | 2023-06-25 10:22 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2023-06-25 19:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | fix: correct pagination offset calculation |
+| 2023-06-26 09:23 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v3.0` | db: optimize slow queries |
