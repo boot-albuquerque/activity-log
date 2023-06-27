@@ -10698,3 +10698,4 @@
 | 2023-06-26 17:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | feat: implement webhook receiver |
 | 2023-06-27 07:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: add OpenAPI documentation |
 | 2023-06-27 08:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | style: format code according to style guide |
+| 2023-06-27 10:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: correct null check in user service |
