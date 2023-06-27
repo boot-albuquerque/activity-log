@@ -10701,3 +10701,4 @@
 | 2023-06-27 10:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: correct null check in user service |
 | 2023-06-27 12:19 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | refactor: improve code readability |
 | 2023-06-27 13:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: add OpenAPI documentation |
+| 2023-06-27 16:02 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
