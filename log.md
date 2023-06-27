@@ -10700,3 +10700,4 @@
 | 2023-06-27 08:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | style: format code according to style guide |
 | 2023-06-27 10:27 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | fix: correct null check in user service |
 | 2023-06-27 12:19 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | refactor: improve code readability |
+| 2023-06-27 13:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: add OpenAPI documentation |
