@@ -10703,3 +10703,4 @@
 | 2023-06-27 13:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v1.0` | feat: add OpenAPI documentation |
 | 2023-06-27 16:02 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2023-06-27 16:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | chore: add pre-commit hooks |
+| 2023-06-27 21:40 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: create dashboard metrics endpoint |
