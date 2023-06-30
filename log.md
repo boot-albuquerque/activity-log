@@ -10715,3 +10715,4 @@
 | 2023-06-30 09:26 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2023-06-30 11:53 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | feat: add file upload support |
 | 2023-06-30 13:38 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | refactor: split large controller into smaller ones |
+| 2023-06-30 15:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | fix: resolve memory leak in connection pool |
