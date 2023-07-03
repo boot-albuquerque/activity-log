@@ -10724,3 +10724,4 @@
 | 2023-07-03 07:38 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2023-07-03 10:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | refactor: clean up unused imports |
 | 2023-07-03 14:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add search with filters |
+| 2023-07-03 15:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | fix: correct pagination offset calculation |
