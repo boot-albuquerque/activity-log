@@ -10727,3 +10727,4 @@
 | 2023-07-03 15:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | fix: correct pagination offset calculation |
 | 2023-07-03 15:18 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | db: add composite index |
 | 2023-07-03 16:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: reduce cyclomatic complexity |
+| 2023-07-03 17:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | docs: add README setup instructions |
