@@ -10725,3 +10725,4 @@
 | 2023-07-03 10:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | refactor: clean up unused imports |
 | 2023-07-03 14:40 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/typo-response` | feat: add search with filters |
 | 2023-07-03 15:15 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | fix: correct pagination offset calculation |
+| 2023-07-03 15:18 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | db: add composite index |
