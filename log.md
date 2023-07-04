@@ -10729,3 +10729,4 @@
 | 2023-07-03 16:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | refactor: reduce cyclomatic complexity |
 | 2023-07-03 17:18 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | docs: add README setup instructions |
 | 2023-07-03 18:58 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/update-deps` | infra: update Terraform modules |
+| 2023-07-03 21:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | perf: reduce bundle size |
