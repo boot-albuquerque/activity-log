@@ -10733,3 +10733,4 @@
 | 2023-07-03 23:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | fix: correct decimal precision in billing |
 | 2023-07-05 00:14 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
 | 2023-07-05 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
+| 2023-07-05 13:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/rate-limiting` | security: update SSL certificates config |
