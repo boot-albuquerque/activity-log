@@ -10732,3 +10732,4 @@
 | 2023-07-03 21:03 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | perf: reduce bundle size |
 | 2023-07-03 23:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | fix: correct decimal precision in billing |
 | 2023-07-05 00:14 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
+| 2023-07-05 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | fix: resolve CORS configuration |
