@@ -10740,3 +10740,4 @@
 | 2023-07-06 10:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | fix: resolve N+1 query problem |
 | 2023-07-06 11:44 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | test: add performance benchmark tests |
 | 2023-07-06 13:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | fix: handle empty response from external API |
+| 2023-07-06 14:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: adopt repository pattern |
