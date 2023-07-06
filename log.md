@@ -10741,3 +10741,4 @@
 | 2023-07-06 11:44 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | test: add performance benchmark tests |
 | 2023-07-06 13:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | fix: handle empty response from external API |
 | 2023-07-06 14:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: adopt repository pattern |
+| 2023-07-06 14:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add user authentication endpoint |
