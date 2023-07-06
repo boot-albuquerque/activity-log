@@ -10743,3 +10743,4 @@
 | 2023-07-06 14:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | refactor: adopt repository pattern |
 | 2023-07-06 14:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | feat: add user authentication endpoint |
 | 2023-07-06 16:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/typo-response` | security: add input sanitization |
+| 2023-07-06 18:41 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct cache invalidation logic |
