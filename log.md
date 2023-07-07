@@ -10750,3 +10750,4 @@
 | 2023-07-07 00:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/auth-improvements` | test: add performance benchmark tests |
 | 2023-07-07 00:58 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | security: add input sanitization |
 | 2023-07-07 12:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | chore: update dependencies |
+| 2023-07-07 14:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | feat: implement soft delete pattern |
