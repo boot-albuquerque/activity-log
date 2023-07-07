@@ -10753,3 +10753,4 @@
 | 2023-07-07 14:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/null-pointer` | feat: implement soft delete pattern |
 | 2023-07-07 17:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | db: add migration for new schema |
 | 2023-07-07 20:12 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | docs: document environment variables |
+| 2023-07-07 20:19 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | ci: configure staging environment |
