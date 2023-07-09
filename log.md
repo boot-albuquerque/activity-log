@@ -10758,3 +10758,4 @@
 | 2023-07-08 15:49 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | style: fix indentation and whitespace |
 | 2023-07-08 16:47 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | feat: add file upload support |
 | 2023-07-08 20:31 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | feat: add export to CSV/Excel |
+| 2023-07-09 10:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | feat: add user authentication endpoint |
