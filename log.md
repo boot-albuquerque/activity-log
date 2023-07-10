@@ -10764,3 +10764,4 @@
 | 2023-07-09 21:24 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | chore: update dependencies |
 | 2023-07-09 22:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | security: update SSL certificates config |
 | 2023-07-10 00:13 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
+| 2023-07-10 10:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: add export to CSV/Excel |
