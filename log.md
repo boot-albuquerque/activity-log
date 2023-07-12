@@ -10780,3 +10780,4 @@
 | 2023-07-11 19:28 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | test: add unit tests for payment service |
 | 2023-07-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: extract business logic to service layer |
 | 2023-07-12 00:25 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | chore: update dependencies |
+| 2023-07-12 00:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | test: mock external dependencies in tests |
