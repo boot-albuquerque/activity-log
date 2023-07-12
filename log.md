@@ -10781,3 +10781,4 @@
 | 2023-07-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | refactor: extract business logic to service layer |
 | 2023-07-12 00:25 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | chore: update dependencies |
 | 2023-07-12 00:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | test: mock external dependencies in tests |
+| 2023-07-12 08:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add pre-commit hooks |
