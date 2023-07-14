@@ -10790,3 +10790,4 @@
 | 2023-07-13 13:01 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: add search with filters |
 | 2023-07-14 11:53 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | refactor: split large controller into smaller ones |
 | 2023-07-14 16:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | refactor: replace raw SQL with query builder |
+| 2023-07-14 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
