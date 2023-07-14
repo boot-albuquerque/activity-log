@@ -10789,3 +10789,4 @@
 | 2023-07-12 19:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | perf: implement response compression |
 | 2023-07-13 13:01 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: add search with filters |
 | 2023-07-14 11:53 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | refactor: split large controller into smaller ones |
+| 2023-07-14 16:19 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | refactor: replace raw SQL with query builder |
