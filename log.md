@@ -10793,3 +10793,4 @@
 | 2023-07-14 17:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
 | 2023-07-14 18:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | perf: reduce bundle size |
 | 2023-07-14 20:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `refactor/clean-architecture` | chore: update dependencies |
+| 2023-07-15 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
