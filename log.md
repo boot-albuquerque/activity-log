@@ -10803,3 +10803,4 @@
 | 2023-07-17 14:27 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2023-07-17 14:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | test: mock external dependencies in tests |
 | 2023-07-17 14:54 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | chore: configure ESLint and Prettier |
+| 2023-07-17 16:52 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | fix: correct cache invalidation logic |
