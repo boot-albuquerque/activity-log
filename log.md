@@ -10799,3 +10799,4 @@
 | 2023-07-17 10:29 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2023-07-17 10:55 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | ci: configure staging environment |
 | 2023-07-17 11:54 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | feat: create background job processor |
+| 2023-07-17 14:07 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | fix: resolve N+1 query problem |
