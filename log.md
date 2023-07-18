@@ -10809,3 +10809,4 @@
 | 2023-07-18 07:49 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2023-07-18 09:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/update-deps` | refactor: extract business logic to service layer |
 | 2023-07-18 09:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | fix: resolve memory leak in connection pool |
+| 2023-07-18 10:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | feat: implement soft delete pattern |
