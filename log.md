@@ -10820,3 +10820,4 @@
 | 2023-07-19 13:37 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2023-07-19 15:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | feat: implement webhook receiver |
 | 2023-07-19 16:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/extract-service` | fix: correct null check in user service |
+| 2023-07-19 17:34 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
