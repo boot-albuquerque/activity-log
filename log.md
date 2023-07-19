@@ -10814,3 +10814,4 @@
 | 2023-07-18 13:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/refactor-queries` | docs: add README setup instructions |
 | 2023-07-18 19:33 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: handle timeout in async operation |
 | 2023-07-18 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | security: update SSL certificates config |
+| 2023-07-18 23:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | feat: implement soft delete pattern |
