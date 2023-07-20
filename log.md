@@ -10827,3 +10827,4 @@
 | 2023-07-20 14:29 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: correct cache invalidation logic |
 | 2023-07-20 14:55 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `refactor/clean-architecture` | docs: document environment variables |
 | 2023-07-20 20:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | db: add composite index |
+| 2023-07-20 20:33 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | docs: document environment variables |
