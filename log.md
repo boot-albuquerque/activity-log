@@ -10834,3 +10834,4 @@
 | 2023-07-21 11:09 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: implement caching layer |
 | 2023-07-21 13:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: correct decimal precision in billing |
 | 2023-07-21 14:41 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | feat: implement caching layer |
+| 2023-07-21 16:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | style: format code according to style guide |
