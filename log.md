@@ -10853,3 +10853,4 @@
 | 2023-07-25 11:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2023-07-25 16:18 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2023-07-25 19:46 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | test: cover edge cases in validator |
+| 2023-07-25 21:34 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | docs: update API documentation |
