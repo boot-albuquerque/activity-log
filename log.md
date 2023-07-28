@@ -10867,3 +10867,4 @@
 | 2023-07-26 19:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | test: add e2e tests for checkout flow |
 | 2023-07-26 23:28 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | refactor: adopt repository pattern |
 | 2023-07-27 10:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | feat: create background job processor |
+| 2023-07-28 07:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | perf: reduce bundle size |
