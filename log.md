@@ -10872,3 +10872,4 @@
 | 2023-07-28 09:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: implement webhook receiver |
 | 2023-07-28 10:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | db: optimize slow queries |
 | 2023-07-28 16:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | test: improve test coverage to 80% |
+| 2023-07-28 17:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | fix: correct pagination offset calculation |
