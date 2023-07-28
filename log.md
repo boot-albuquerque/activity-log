@@ -10871,3 +10871,4 @@
 | 2023-07-28 08:46 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/prod-issue` | feat: create background job processor |
 | 2023-07-28 09:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: implement webhook receiver |
 | 2023-07-28 10:33 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | db: optimize slow queries |
+| 2023-07-28 16:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | test: improve test coverage to 80% |
