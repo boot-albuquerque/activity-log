@@ -10878,3 +10878,4 @@
 | 2023-07-29 18:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2023-07-31 09:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2023-07-31 15:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: handle edge case in date parsing |
+| 2023-07-31 17:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | test: add performance benchmark tests |
