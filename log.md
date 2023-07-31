@@ -10880,3 +10880,4 @@
 | 2023-07-31 15:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/cleanup` | fix: handle edge case in date parsing |
 | 2023-07-31 17:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | test: add performance benchmark tests |
 | 2023-07-31 17:35 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | test: fix flaky test in async handler |
+| 2023-07-31 17:41 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | perf: optimize database queries |
