@@ -10876,3 +10876,4 @@
 | 2023-07-28 19:49 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
 | 2023-07-29 17:50 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | test: cover edge cases in validator |
 | 2023-07-29 18:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | refactor: adopt repository pattern |
+| 2023-07-31 09:13 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add export to CSV/Excel |
