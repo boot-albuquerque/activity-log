@@ -10884,3 +10884,4 @@
 | 2023-07-31 19:33 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | infra: configure auto-scaling policies |
 | 2023-07-31 22:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2023-08-01 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | chore: add Docker Compose for local dev |
+| 2023-08-01 09:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: add user authentication endpoint |
