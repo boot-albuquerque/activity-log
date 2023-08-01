@@ -10886,3 +10886,4 @@
 | 2023-08-01 00:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | chore: add Docker Compose for local dev |
 | 2023-08-01 09:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2023-08-01 09:33 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: add OpenAPI documentation |
+| 2023-08-01 10:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: implement soft delete pattern |
