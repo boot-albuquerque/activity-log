@@ -10889,3 +10889,4 @@
 | 2023-08-01 10:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2023-08-01 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | style: format code according to style guide |
 | 2023-08-01 12:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | chore: configure GitHub Actions CI |
+| 2023-08-01 15:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | feat: add pagination to list endpoint |
