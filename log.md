@@ -10890,3 +10890,4 @@
 | 2023-08-01 12:10 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | style: format code according to style guide |
 | 2023-08-01 12:49 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | chore: configure GitHub Actions CI |
 | 2023-08-01 15:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | feat: add pagination to list endpoint |
+| 2023-08-01 15:50 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | fix: handle missing environment variable |
