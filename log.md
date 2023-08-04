@@ -10904,3 +10904,4 @@
 | 2023-08-04 15:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2023-08-04 15:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | refactor: move constants to config module |
 | 2023-08-04 15:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | refactor: extract business logic to service layer |
+| 2023-08-04 18:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/cleanup` | test: add e2e tests for checkout flow |
