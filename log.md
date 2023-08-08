@@ -10922,3 +10922,4 @@
 | 2023-08-08 13:15 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2023-08-08 14:03 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | refactor: simplify authentication flow |
 | 2023-08-08 14:12 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/auth-improvements` | feat: create dashboard metrics endpoint |
+| 2023-08-08 15:43 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: implement soft delete pattern |
