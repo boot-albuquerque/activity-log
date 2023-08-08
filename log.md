@@ -10912,3 +10912,4 @@
 | 2023-08-07 14:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: correct pagination offset calculation |
 | 2023-08-07 20:02 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | refactor: split large controller into smaller ones |
 | 2023-08-08 00:02 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | feat: implement rate limiting middleware |
+| 2023-08-08 08:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | refactor: move constants to config module |
