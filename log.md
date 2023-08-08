@@ -10914,3 +10914,4 @@
 | 2023-08-08 00:02 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | feat: implement rate limiting middleware |
 | 2023-08-08 08:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | refactor: move constants to config module |
 | 2023-08-08 09:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | fix: resolve CORS configuration |
+| 2023-08-08 09:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle malformed JSON input |
