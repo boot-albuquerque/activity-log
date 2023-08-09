@@ -10929,3 +10929,4 @@
 | 2023-08-09 00:46 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct decimal precision in billing |
 | 2023-08-09 13:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | refactor: reduce cyclomatic complexity |
 | 2023-08-09 13:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | style: format code according to style guide |
+| 2023-08-09 13:34 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: replace raw SQL with query builder |
