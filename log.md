@@ -10931,3 +10931,4 @@
 | 2023-08-09 13:22 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/pagination` | style: format code according to style guide |
 | 2023-08-09 13:34 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: replace raw SQL with query builder |
 | 2023-08-09 13:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
+| 2023-08-09 13:57 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | docs: add README setup instructions |
