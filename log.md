@@ -10926,3 +10926,4 @@
 | 2023-08-08 16:55 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | security: fix SQL injection vulnerability |
 | 2023-08-08 17:01 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: resolve N+1 query problem |
 | 2023-08-08 20:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
+| 2023-08-09 00:46 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | fix: correct decimal precision in billing |
