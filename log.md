@@ -10938,3 +10938,4 @@
 | 2023-08-09 19:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add integration tests for API endpoints |
 | 2023-08-09 20:49 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | infra: configure auto-scaling policies |
 | 2023-08-09 22:16 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | feat: add real-time notifications |
+| 2023-08-10 08:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | fix: correct null check in user service |
