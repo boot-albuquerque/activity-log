@@ -10954,3 +10954,4 @@
 | 2023-08-14 15:28 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | test: improve test coverage to 80% |
 | 2023-08-14 16:57 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | refactor: extract business logic to service layer |
 | 2023-08-14 17:06 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | docs: document environment variables |
+| 2023-08-14 18:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | docs: update API documentation |
