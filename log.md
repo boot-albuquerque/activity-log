@@ -10956,3 +10956,4 @@
 | 2023-08-14 17:06 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | docs: document environment variables |
 | 2023-08-14 18:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/new-endpoint` | docs: update API documentation |
 | 2023-08-14 23:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | test: improve test coverage to 80% |
+| 2023-08-15 10:57 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | refactor: adopt repository pattern |
