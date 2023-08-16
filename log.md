@@ -10966,3 +10966,4 @@
 | 2023-08-16 07:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | feat: create health check endpoint |
 | 2023-08-16 11:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | refactor: adopt repository pattern |
 | 2023-08-16 14:25 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: add export to CSV/Excel |
+| 2023-08-16 15:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | feat: add email notification on status change |
