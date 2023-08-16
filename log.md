@@ -10969,3 +10969,4 @@
 | 2023-08-16 15:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | feat: add email notification on status change |
 | 2023-08-16 18:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | style: format code according to style guide |
 | 2023-08-16 18:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | refactor: move constants to config module |
+| 2023-08-16 19:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: extract business logic to service layer |
