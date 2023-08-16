@@ -10968,3 +10968,4 @@
 | 2023-08-16 14:25 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2023-08-16 15:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | feat: add email notification on status change |
 | 2023-08-16 18:21 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | style: format code according to style guide |
+| 2023-08-16 18:34 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | refactor: move constants to config module |
