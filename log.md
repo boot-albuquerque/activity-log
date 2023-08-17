@@ -10974,3 +10974,4 @@
 | 2023-08-16 20:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: handle missing environment variable |
 | 2023-08-17 10:44 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | fix: correct decimal precision in billing |
 | 2023-08-17 11:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | docs: add README setup instructions |
+| 2023-08-17 14:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
