@@ -10972,3 +10972,4 @@
 | 2023-08-16 19:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | refactor: extract business logic to service layer |
 | 2023-08-16 20:21 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/race-condition` | db: add composite index |
 | 2023-08-16 20:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: handle missing environment variable |
+| 2023-08-17 10:44 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | fix: correct decimal precision in billing |
