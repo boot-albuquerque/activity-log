@@ -10985,3 +10985,4 @@
 | 2023-08-18 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2023-08-18 13:44 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | feat: implement webhook receiver |
 | 2023-08-18 16:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/null-pointer` | docs: document environment variables |
+| 2023-08-18 16:47 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | chore: configure ESLint and Prettier |
