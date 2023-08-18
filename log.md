@@ -10981,3 +10981,4 @@
 | 2023-08-18 07:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: resolve CORS configuration |
 | 2023-08-18 09:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2023-08-18 10:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | ci: add automated deployment pipeline |
+| 2023-08-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | fix: resolve N+1 query problem |
