@@ -10978,3 +10978,4 @@
 | 2023-08-17 15:51 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2023-08-17 16:36 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | security: update SSL certificates config |
 | 2023-08-17 18:23 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/update-deps` | feat: implement rate limiting middleware |
+| 2023-08-18 07:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | fix: resolve CORS configuration |
