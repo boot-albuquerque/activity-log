@@ -10982,3 +10982,4 @@
 | 2023-08-18 09:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: resolve N+1 query problem |
 | 2023-08-18 10:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | ci: add automated deployment pipeline |
 | 2023-08-18 10:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | fix: resolve N+1 query problem |
+| 2023-08-18 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
