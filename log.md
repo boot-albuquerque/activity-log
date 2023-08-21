@@ -10991,3 +10991,4 @@
 | 2023-08-19 09:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | chore: add Docker Compose for local dev |
 | 2023-08-21 09:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | perf: implement response compression |
 | 2023-08-21 11:29 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/new-endpoint` | fix: handle timeout in async operation |
+| 2023-08-21 12:17 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | feat: implement rate limiting middleware |
