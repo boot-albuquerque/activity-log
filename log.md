@@ -10995,3 +10995,4 @@
 | 2023-08-21 13:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2023-08-21 15:20 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/null-pointer` | docs: add README setup instructions |
 | 2023-08-21 21:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: implement soft delete pattern |
+| 2023-08-21 21:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | chore: configure ESLint and Prettier |
