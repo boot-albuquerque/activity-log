@@ -10999,3 +10999,4 @@
 | 2023-08-21 23:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | perf: reduce bundle size |
 | 2023-08-22 00:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | feat: add OpenAPI documentation |
 | 2023-08-22 22:32 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | test: add performance benchmark tests |
+| 2023-08-23 11:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | infra: update Terraform modules |
