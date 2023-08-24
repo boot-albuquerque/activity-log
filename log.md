@@ -11006,3 +11006,4 @@
 | 2023-08-24 07:57 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: correct null check in user service |
 | 2023-08-24 11:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | infra: configure auto-scaling policies |
 | 2023-08-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | feat: implement webhook receiver |
+| 2023-08-24 12:07 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: correct validation error messages |
