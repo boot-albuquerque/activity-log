@@ -11008,3 +11008,4 @@
 | 2023-08-24 12:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/critical-fix` | feat: implement webhook receiver |
 | 2023-08-24 12:07 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | fix: correct validation error messages |
 | 2023-08-24 13:31 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | fix: correct pagination offset calculation |
+| 2023-08-24 15:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | perf: optimize database queries |
