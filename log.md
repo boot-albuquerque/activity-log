@@ -11027,3 +11027,4 @@
 | 2023-08-28 13:02 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2023-08-28 13:51 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
 | 2023-08-28 14:01 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: adopt repository pattern |
+| 2023-08-28 14:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | fix: resolve N+1 query problem |
