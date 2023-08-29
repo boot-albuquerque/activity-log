@@ -11030,3 +11030,4 @@
 | 2023-08-28 14:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | fix: resolve N+1 query problem |
 | 2023-08-28 15:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | ci: configure staging environment |
 | 2023-08-28 17:04 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
+| 2023-08-29 00:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | docs: add README setup instructions |
