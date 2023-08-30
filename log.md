@@ -11037,3 +11037,4 @@
 | 2023-08-29 17:30 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: handle missing environment variable |
 | 2023-08-29 19:08 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | docs: add README setup instructions |
 | 2023-08-30 00:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: correct pagination offset calculation |
+| 2023-08-30 08:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | style: fix indentation and whitespace |
