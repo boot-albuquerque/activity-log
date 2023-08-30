@@ -11042,3 +11042,4 @@
 | 2023-08-30 11:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | perf: implement response compression |
 | 2023-08-30 13:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | refactor: adopt repository pattern |
 | 2023-08-30 14:19 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | infra: configure auto-scaling policies |
+| 2023-08-30 14:31 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | test: mock external dependencies in tests |
