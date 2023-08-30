@@ -11045,3 +11045,4 @@
 | 2023-08-30 14:31 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | test: mock external dependencies in tests |
 | 2023-08-30 15:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | feat: add user authentication endpoint |
 | 2023-08-30 18:53 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | test: fix flaky test in async handler |
+| 2023-08-30 19:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | fix: correct null check in user service |
