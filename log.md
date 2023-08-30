@@ -11040,3 +11040,4 @@
 | 2023-08-30 08:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2023-08-30 09:43 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: create background job processor |
 | 2023-08-30 11:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | perf: implement response compression |
+| 2023-08-30 13:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | refactor: adopt repository pattern |
