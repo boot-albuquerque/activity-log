@@ -11050,3 +11050,4 @@
 | 2023-08-31 15:24 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | refactor: consolidate error handling |
 | 2023-08-31 16:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/auth-improvements` | docs: add README setup instructions |
 | 2023-08-31 16:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | db: add composite index |
+| 2023-08-31 19:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | test: add unit tests for payment service |
