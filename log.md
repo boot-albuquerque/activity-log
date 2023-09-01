@@ -11052,3 +11052,4 @@
 | 2023-08-31 16:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/null-pointer` | db: add composite index |
 | 2023-08-31 19:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2023-08-31 20:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | test: add performance benchmark tests |
+| 2023-08-31 21:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | test: cover edge cases in validator |
