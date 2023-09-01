@@ -11059,3 +11059,4 @@
 | 2023-09-01 12:24 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/extract-service` | feat: add file upload support |
 | 2023-09-01 13:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
 | 2023-09-01 15:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | test: improve test coverage to 80% |
+| 2023-09-01 17:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | fix: resolve memory leak in connection pool |
