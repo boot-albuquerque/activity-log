@@ -11055,3 +11055,4 @@
 | 2023-08-31 21:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | test: cover edge cases in validator |
 | 2023-08-31 22:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | docs: add README setup instructions |
 | 2023-09-01 00:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | chore: configure ESLint and Prettier |
+| 2023-09-01 10:36 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | test: fix flaky test in async handler |
