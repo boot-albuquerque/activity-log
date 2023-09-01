@@ -11053,3 +11053,4 @@
 | 2023-08-31 19:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2023-08-31 20:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | test: add performance benchmark tests |
 | 2023-08-31 21:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | test: cover edge cases in validator |
+| 2023-08-31 22:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | docs: add README setup instructions |
