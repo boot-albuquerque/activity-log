@@ -11063,3 +11063,4 @@
 | 2023-09-03 12:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | db: add composite index |
 | 2023-09-04 09:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2023-09-04 11:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | db: add composite index |
+| 2023-09-04 12:11 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | test: add performance benchmark tests |
