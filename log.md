@@ -11062,3 +11062,4 @@
 | 2023-09-01 17:48 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | fix: resolve memory leak in connection pool |
 | 2023-09-03 12:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | db: add composite index |
 | 2023-09-04 09:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | refactor: move constants to config module |
+| 2023-09-04 11:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | db: add composite index |
