@@ -11074,3 +11074,4 @@
 | 2023-09-05 11:14 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: handle empty response from external API |
 | 2023-09-05 12:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | feat: implement webhook receiver |
 | 2023-09-05 12:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | test: add integration tests for API endpoints |
+| 2023-09-05 12:18 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | refactor: simplify authentication flow |
