@@ -11079,3 +11079,4 @@
 | 2023-09-05 13:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | docs: document environment variables |
 | 2023-09-05 21:38 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | security: add input sanitization |
 | 2023-09-05 21:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | fix: handle empty response from external API |
+| 2023-09-05 22:30 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | feat: add OpenAPI documentation |
