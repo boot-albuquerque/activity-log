@@ -11081,3 +11081,4 @@
 | 2023-09-05 21:39 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | fix: handle empty response from external API |
 | 2023-09-05 22:30 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | feat: add OpenAPI documentation |
 | 2023-09-06 00:19 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: add email notification on status change |
+| 2023-09-06 08:38 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | refactor: simplify authentication flow |
