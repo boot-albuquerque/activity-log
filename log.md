@@ -11086,3 +11086,4 @@
 | 2023-09-06 12:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | fix: resolve deadlock in transaction |
 | 2023-09-06 12:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | fix: correct pagination offset calculation |
 | 2023-09-06 13:17 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | chore: configure GitHub Actions CI |
+| 2023-09-06 13:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | refactor: consolidate error handling |
