@@ -11084,3 +11084,4 @@
 | 2023-09-06 08:38 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | refactor: simplify authentication flow |
 | 2023-09-06 11:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: simplify authentication flow |
 | 2023-09-06 12:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/pagination` | fix: resolve deadlock in transaction |
+| 2023-09-06 12:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/new-endpoint` | fix: correct pagination offset calculation |
