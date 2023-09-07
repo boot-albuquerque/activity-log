@@ -11094,3 +11094,4 @@
 | 2023-09-06 16:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2023-09-06 16:07 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/typo-response` | refactor: extract business logic to service layer |
 | 2023-09-06 20:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | refactor: improve code readability |
+| 2023-09-06 22:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | fix: handle missing environment variable |
