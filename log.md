@@ -11096,3 +11096,4 @@
 | 2023-09-06 20:38 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/validation-bug` | refactor: improve code readability |
 | 2023-09-06 22:13 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | fix: handle missing environment variable |
 | 2023-09-07 00:56 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/add-caching` | db: add migration for new schema |
+| 2023-09-07 12:33 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | fix: resolve N+1 query problem |
