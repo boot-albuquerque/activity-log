@@ -11111,3 +11111,4 @@
 | 2023-09-08 19:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | fix: correct cache invalidation logic |
 | 2023-09-08 20:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | refactor: reduce cyclomatic complexity |
 | 2023-09-09 12:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | feat: add search with filters |
+| 2023-09-10 17:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | fix: correct null check in user service |
