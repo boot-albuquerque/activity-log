@@ -11116,3 +11116,4 @@
 | 2023-09-12 08:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | feat: implement JWT refresh token |
 | 2023-09-12 08:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: improve code readability |
 | 2023-09-12 13:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | refactor: split large controller into smaller ones |
+| 2023-09-12 15:39 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | fix: handle malformed JSON input |
