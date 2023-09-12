@@ -11113,3 +11113,4 @@
 | 2023-09-09 12:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | feat: add search with filters |
 | 2023-09-10 17:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2023-09-10 22:41 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: create order processing service |
+| 2023-09-12 08:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/pagination` | feat: implement JWT refresh token |
