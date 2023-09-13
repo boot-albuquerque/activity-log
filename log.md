@@ -11118,3 +11118,4 @@
 | 2023-09-12 13:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | refactor: split large controller into smaller ones |
 | 2023-09-12 15:39 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | fix: handle malformed JSON input |
 | 2023-09-12 19:37 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | docs: update API documentation |
+| 2023-09-12 21:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/prod-issue` | chore: update dependencies |
