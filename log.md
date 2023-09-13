@@ -11123,3 +11123,4 @@
 | 2023-09-13 00:05 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | refactor: simplify authentication flow |
 | 2023-09-13 07:04 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | feat: add file upload support |
 | 2023-09-13 08:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
+| 2023-09-13 09:41 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | ci: configure staging environment |
