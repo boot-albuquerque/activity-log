@@ -11128,3 +11128,4 @@
 | 2023-09-13 13:08 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | fix: handle edge case in date parsing |
 | 2023-09-13 14:52 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | refactor: consolidate error handling |
 | 2023-09-13 14:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | feat: implement webhook receiver |
+| 2023-09-13 19:14 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | perf: add database indexes |
