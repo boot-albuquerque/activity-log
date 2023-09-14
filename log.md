@@ -11138,3 +11138,4 @@
 | 2023-09-14 14:17 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
 | 2023-09-14 15:47 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | refactor: clean up unused imports |
 | 2023-09-14 17:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | chore: add pre-commit hooks |
+| 2023-09-14 17:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
