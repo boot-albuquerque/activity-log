@@ -11136,3 +11136,4 @@
 | 2023-09-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create dashboard metrics endpoint |
 | 2023-09-14 13:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add pagination to list endpoint |
 | 2023-09-14 14:17 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | chore: configure ESLint and Prettier |
+| 2023-09-14 15:47 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | refactor: clean up unused imports |
