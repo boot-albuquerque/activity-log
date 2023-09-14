@@ -11134,3 +11134,4 @@
 | 2023-09-13 22:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | refactor: adopt repository pattern |
 | 2023-09-14 00:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | refactor: clean up unused imports |
 | 2023-09-14 10:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create dashboard metrics endpoint |
+| 2023-09-14 13:56 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add pagination to list endpoint |
