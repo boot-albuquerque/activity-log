@@ -11144,3 +11144,4 @@
 | 2023-09-14 19:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | ci: add automated deployment pipeline |
 | 2023-09-14 19:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | refactor: move constants to config module |
 | 2023-09-14 19:54 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | security: fix SQL injection vulnerability |
+| 2023-09-14 20:21 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/new-endpoint` | fix: handle malformed JSON input |
