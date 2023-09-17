@@ -11158,3 +11158,4 @@
 | 2023-09-15 23:47 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `hotfix/critical-fix` | perf: optimize database queries |
 | 2023-09-16 15:11 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/update-deps` | refactor: reduce cyclomatic complexity |
 | 2023-09-16 15:48 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/auth-improvements` | perf: add database indexes |
+| 2023-09-17 07:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/race-condition` | fix: correct null check in user service |
