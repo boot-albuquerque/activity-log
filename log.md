@@ -11166,3 +11166,4 @@
 | 2023-09-18 08:25 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: consolidate error handling |
 | 2023-09-18 08:37 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2023-09-18 14:31 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | docs: document environment variables |
+| 2023-09-18 14:33 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
