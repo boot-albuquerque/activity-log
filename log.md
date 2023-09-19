@@ -11169,3 +11169,4 @@
 | 2023-09-18 14:33 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2023-09-18 16:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: add bulk operations support |
 | 2023-09-18 17:02 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | feat: add user authentication endpoint |
+| 2023-09-18 21:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct pagination offset calculation |
