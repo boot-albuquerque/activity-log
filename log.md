@@ -11174,3 +11174,4 @@
 | 2023-09-19 09:01 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2023-09-19 13:28 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | fix: resolve race condition in queue worker |
 | 2023-09-19 13:44 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/clean-architecture` | feat: add user authentication endpoint |
+| 2023-09-19 14:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | test: add e2e tests for checkout flow |
