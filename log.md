@@ -11170,3 +11170,4 @@
 | 2023-09-18 16:52 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: add bulk operations support |
 | 2023-09-18 17:02 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | feat: add user authentication endpoint |
 | 2023-09-18 21:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: correct pagination offset calculation |
+| 2023-09-18 22:18 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | fix: handle empty response from external API |
