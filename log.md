@@ -11200,3 +11200,4 @@
 | 2023-09-23 08:29 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v3.0` | docs: update API documentation |
 | 2023-09-23 11:56 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
 | 2023-09-23 12:52 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | fix: handle empty response from external API |
+| 2023-09-25 00:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | feat: add search with filters |
