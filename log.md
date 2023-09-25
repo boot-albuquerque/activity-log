@@ -11203,3 +11203,4 @@
 | 2023-09-25 00:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | feat: add search with filters |
 | 2023-09-25 09:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2023-09-25 11:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `refactor/clean-architecture` | feat: implement JWT refresh token |
+| 2023-09-25 13:06 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | perf: add database indexes |
