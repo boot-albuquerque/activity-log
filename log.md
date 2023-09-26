@@ -11210,3 +11210,4 @@
 | 2023-09-25 23:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | fix: correct decimal precision in billing |
 | 2023-09-26 00:54 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | perf: reduce bundle size |
 | 2023-09-26 00:57 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | refactor: extract business logic to service layer |
+| 2023-09-26 07:48 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: move constants to config module |
