@@ -11227,3 +11227,4 @@
 | 2023-09-29 13:49 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | db: optimize slow queries |
 | 2023-09-29 14:31 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | feat: add pagination to list endpoint |
 | 2023-09-29 17:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/auth-improvements` | infra: add Kubernetes manifests |
+| 2023-09-29 17:50 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | perf: add database indexes |
