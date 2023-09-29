@@ -11222,3 +11222,4 @@
 | 2023-09-27 18:51 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | test: add e2e tests for checkout flow |
 | 2023-09-28 08:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | feat: add pagination to list endpoint |
 | 2023-09-28 17:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | feat: create dashboard metrics endpoint |
+| 2023-09-29 10:03 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | perf: optimize database queries |
