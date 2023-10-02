@@ -11235,3 +11235,4 @@
 | 2023-10-02 09:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | perf: reduce bundle size |
 | 2023-10-02 10:51 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | refactor: consolidate error handling |
 | 2023-10-02 12:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | feat: create order processing service |
+| 2023-10-02 12:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | fix: handle edge case in date parsing |
