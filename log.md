@@ -11232,3 +11232,4 @@
 | 2023-09-29 18:40 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | fix: resolve race condition in queue worker |
 | 2023-09-30 08:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
 | 2023-10-01 11:59 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | fix: correct validation error messages |
+| 2023-10-02 09:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | perf: reduce bundle size |
