@@ -11240,3 +11240,4 @@
 | 2023-10-02 14:40 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
 | 2023-10-02 17:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | db: add composite index |
 | 2023-10-02 18:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | refactor: move constants to config module |
+| 2023-10-03 00:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: update API documentation |
