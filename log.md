@@ -11241,3 +11241,4 @@
 | 2023-10-02 17:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v1.0` | db: add composite index |
 | 2023-10-02 18:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2023-10-03 00:47 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | docs: update API documentation |
+| 2023-10-03 07:51 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | test: add integration tests for API endpoints |
