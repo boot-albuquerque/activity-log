@@ -11253,3 +11253,4 @@
 | 2023-10-03 18:54 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/pagination` | ci: add automated deployment pipeline |
 | 2023-10-03 22:29 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | refactor: consolidate error handling |
 | 2023-10-05 10:29 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | fix: correct cache invalidation logic |
+| 2023-10-05 10:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | refactor: simplify authentication flow |
