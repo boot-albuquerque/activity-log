@@ -11259,3 +11259,4 @@
 | 2023-10-06 08:06 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/rate-limiting` | perf: implement response compression |
 | 2023-10-06 09:49 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | infra: configure auto-scaling policies |
 | 2023-10-06 13:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add export to CSV/Excel |
+| 2023-10-06 14:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | docs: add README setup instructions |
