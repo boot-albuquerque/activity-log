@@ -11262,3 +11262,4 @@
 | 2023-10-06 14:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | docs: add README setup instructions |
 | 2023-10-06 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | chore: add Docker Compose for local dev |
 | 2023-10-06 20:19 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | feat: implement soft delete pattern |
+| 2023-10-06 21:36 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | perf: optimize database queries |
