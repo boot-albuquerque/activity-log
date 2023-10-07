@@ -11261,3 +11261,4 @@
 | 2023-10-06 13:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: add export to CSV/Excel |
 | 2023-10-06 14:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | docs: add README setup instructions |
 | 2023-10-06 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | chore: add Docker Compose for local dev |
+| 2023-10-06 20:19 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | feat: implement soft delete pattern |
