@@ -11267,3 +11267,4 @@
 | 2023-10-08 07:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | style: format code according to style guide |
 | 2023-10-09 10:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: resolve memory leak in connection pool |
 | 2023-10-09 10:40 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
+| 2023-10-09 12:06 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: handle edge case in date parsing |
