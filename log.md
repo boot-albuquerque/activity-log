@@ -11273,3 +11273,4 @@
 | 2023-10-09 15:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | feat: create order processing service |
 | 2023-10-09 16:35 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `develop` | perf: reduce bundle size |
 | 2023-10-09 17:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/critical-fix` | perf: add database indexes |
+| 2023-10-10 07:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | db: add migration for new schema |
