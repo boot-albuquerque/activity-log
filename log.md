@@ -11276,3 +11276,4 @@
 | 2023-10-10 07:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | db: add migration for new schema |
 | 2023-10-10 07:59 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
 | 2023-10-10 08:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | db: add composite index |
+| 2023-10-10 14:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | test: mock external dependencies in tests |
