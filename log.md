@@ -11284,3 +11284,4 @@
 | 2023-10-11 12:10 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | perf: add database indexes |
 | 2023-10-11 13:05 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | fix: resolve deadlock in transaction |
 | 2023-10-11 14:08 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
+| 2023-10-11 14:53 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/prod-issue` | security: add input sanitization |
