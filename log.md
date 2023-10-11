@@ -11279,3 +11279,4 @@
 | 2023-10-10 14:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | test: mock external dependencies in tests |
 | 2023-10-10 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | test: cover edge cases in validator |
 | 2023-10-10 16:50 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | refactor: clean up unused imports |
+| 2023-10-11 11:34 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | perf: reduce bundle size |
