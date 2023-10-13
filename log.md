@@ -11298,3 +11298,4 @@
 | 2023-10-13 13:33 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2023-10-13 14:10 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | infra: configure auto-scaling policies |
 | 2023-10-13 16:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
+| 2023-10-13 20:35 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | feat: add pagination to list endpoint |
