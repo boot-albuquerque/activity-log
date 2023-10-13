@@ -11293,3 +11293,4 @@
 | 2023-10-12 16:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | security: update SSL certificates config |
 | 2023-10-13 11:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/auth-improvements` | chore: update dependencies |
 | 2023-10-13 12:16 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | perf: implement response compression |
+| 2023-10-13 12:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | ci: configure staging environment |
