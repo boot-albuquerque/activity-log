@@ -11302,3 +11302,4 @@
 | 2023-10-14 09:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2023-10-15 13:52 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | infra: configure auto-scaling policies |
 | 2023-10-15 14:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | fix: resolve N+1 query problem |
+| 2023-10-15 17:35 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | fix: handle malformed JSON input |
