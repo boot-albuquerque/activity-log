@@ -11300,3 +11300,4 @@
 | 2023-10-13 16:10 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2023-10-13 20:35 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | feat: add pagination to list endpoint |
 | 2023-10-14 09:57 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | refactor: split large controller into smaller ones |
+| 2023-10-15 13:52 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/rate-limiting` | infra: configure auto-scaling policies |
