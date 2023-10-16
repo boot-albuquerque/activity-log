@@ -11308,3 +11308,4 @@
 | 2023-10-16 10:58 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/extract-service` | ci: add automated deployment pipeline |
 | 2023-10-16 14:29 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
 | 2023-10-16 15:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | ci: add automated deployment pipeline |
+| 2023-10-16 19:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: add export to CSV/Excel |
