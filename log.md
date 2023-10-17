@@ -11311,3 +11311,4 @@
 | 2023-10-16 19:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: add export to CSV/Excel |
 | 2023-10-16 19:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
 | 2023-10-16 20:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | chore: update dependencies |
+| 2023-10-16 22:19 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | chore: add pre-commit hooks |
