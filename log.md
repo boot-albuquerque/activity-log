@@ -11321,3 +11321,4 @@
 | 2023-10-18 08:27 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
 | 2023-10-18 09:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | fix: resolve CORS configuration |
 | 2023-10-18 11:22 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | perf: add database indexes |
+| 2023-10-18 12:32 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | db: optimize slow queries |
