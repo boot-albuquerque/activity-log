@@ -11327,3 +11327,4 @@
 | 2023-10-19 07:52 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | perf: implement response compression |
 | 2023-10-19 11:12 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2023-10-19 13:21 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle empty response from external API |
+| 2023-10-19 14:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
