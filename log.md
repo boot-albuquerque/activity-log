@@ -11329,3 +11329,4 @@
 | 2023-10-19 13:21 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | fix: handle empty response from external API |
 | 2023-10-19 14:58 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
 | 2023-10-20 09:00 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | test: improve test coverage to 80% |
+| 2023-10-20 12:39 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v1.0` | chore: add pre-commit hooks |
