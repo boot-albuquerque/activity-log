@@ -11334,3 +11334,4 @@
 | 2023-10-20 13:17 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/new-endpoint` | ci: configure staging environment |
 | 2023-10-20 15:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | db: add composite index |
 | 2023-10-20 20:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | security: add input sanitization |
+| 2023-10-20 21:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: add export to CSV/Excel |
