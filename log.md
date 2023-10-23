@@ -11336,3 +11336,4 @@
 | 2023-10-20 20:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | security: add input sanitization |
 | 2023-10-20 21:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2023-10-23 00:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2023-10-23 00:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | feat: add export to CSV/Excel |
