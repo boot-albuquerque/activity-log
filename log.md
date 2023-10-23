@@ -11342,3 +11342,4 @@
 | 2023-10-23 11:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | perf: implement response compression |
 | 2023-10-23 12:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | fix: correct validation error messages |
 | 2023-10-23 15:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve CORS configuration |
+| 2023-10-23 15:17 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | refactor: move constants to config module |
