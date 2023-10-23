@@ -11341,3 +11341,4 @@
 | 2023-10-23 11:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct decimal precision in billing |
 | 2023-10-23 11:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | perf: implement response compression |
 | 2023-10-23 12:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | fix: correct validation error messages |
+| 2023-10-23 15:03 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve CORS configuration |
