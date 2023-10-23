@@ -11338,3 +11338,4 @@
 | 2023-10-23 00:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | refactor: split large controller into smaller ones |
 | 2023-10-23 00:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2023-10-23 07:20 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | chore: update dependencies |
+| 2023-10-23 11:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct decimal precision in billing |
