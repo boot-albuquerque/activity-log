@@ -11340,3 +11340,4 @@
 | 2023-10-23 07:20 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | chore: update dependencies |
 | 2023-10-23 11:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct decimal precision in billing |
 | 2023-10-23 11:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | perf: implement response compression |
+| 2023-10-23 12:08 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/validation-bug` | fix: correct validation error messages |
