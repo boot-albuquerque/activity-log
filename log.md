@@ -11361,3 +11361,4 @@
 | 2023-10-25 08:10 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `develop` | fix: handle empty response from external API |
 | 2023-10-25 09:46 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | perf: optimize database queries |
 | 2023-10-25 12:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | fix: resolve deadlock in transaction |
+| 2023-10-25 18:40 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | refactor: move constants to config module |
