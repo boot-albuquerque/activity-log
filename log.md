@@ -11378,3 +11378,4 @@
 | 2023-10-27 23:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/null-pointer` | feat: create order processing service |
 | 2023-10-28 09:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | perf: implement response compression |
 | 2023-10-28 13:43 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | security: update SSL certificates config |
+| 2023-10-29 10:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | fix: resolve CORS configuration |
