@@ -11381,3 +11381,4 @@
 | 2023-10-29 10:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | fix: resolve CORS configuration |
 | 2023-10-29 13:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | test: add performance benchmark tests |
 | 2023-10-29 16:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v1.0` | feat: add file upload support |
+| 2023-10-29 21:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: add email notification on status change |
