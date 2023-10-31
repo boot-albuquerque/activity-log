@@ -11394,3 +11394,4 @@
 | 2023-10-31 12:15 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | ci: add automated deployment pipeline |
 | 2023-10-31 12:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | chore: add pre-commit hooks |
 | 2023-10-31 14:38 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | test: cover edge cases in validator |
+| 2023-10-31 16:53 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | feat: add file upload support |
