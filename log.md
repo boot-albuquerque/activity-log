@@ -11398,3 +11398,4 @@
 | 2023-10-31 17:49 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | infra: add Kubernetes manifests |
 | 2023-10-31 18:14 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | docs: update API documentation |
 | 2023-10-31 18:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/cleanup` | feat: add search with filters |
+| 2023-11-01 09:47 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | fix: resolve memory leak in connection pool |
