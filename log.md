@@ -11417,3 +11417,4 @@
 | 2023-11-02 15:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | docs: document environment variables |
 | 2023-11-02 17:33 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | refactor: clean up unused imports |
 | 2023-11-02 17:39 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
+| 2023-11-02 19:55 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | feat: add OpenAPI documentation |
