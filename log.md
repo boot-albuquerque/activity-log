@@ -11412,3 +11412,4 @@
 | 2023-11-02 11:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2023-11-02 12:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | feat: add bulk operations support |
 | 2023-11-02 12:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | feat: add pagination to list endpoint |
+| 2023-11-02 13:12 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | feat: add email notification on status change |
