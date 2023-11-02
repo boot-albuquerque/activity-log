@@ -11411,3 +11411,4 @@
 | 2023-11-02 08:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | perf: implement response compression |
 | 2023-11-02 11:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | db: optimize slow queries |
 | 2023-11-02 12:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/cleanup` | feat: add bulk operations support |
+| 2023-11-02 12:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | feat: add pagination to list endpoint |
