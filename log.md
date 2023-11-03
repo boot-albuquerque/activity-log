@@ -11422,3 +11422,4 @@
 | 2023-11-02 22:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | docs: document environment variables |
 | 2023-11-02 23:11 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/critical-fix` | chore: update dependencies |
 | 2023-11-03 13:29 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | test: improve test coverage to 80% |
+| 2023-11-03 16:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: implement rate limiting middleware |
