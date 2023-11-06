@@ -11433,3 +11433,4 @@
 | 2023-11-05 22:06 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | feat: add search with filters |
 | 2023-11-06 00:09 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | fix: handle timeout in async operation |
 | 2023-11-06 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add file upload support |
+| 2023-11-06 18:36 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | refactor: consolidate error handling |
