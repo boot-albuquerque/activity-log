@@ -11438,3 +11438,4 @@
 | 2023-11-06 20:20 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | refactor: clean up unused imports |
 | 2023-11-07 10:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2023-11-07 10:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | test: improve test coverage to 80% |
+| 2023-11-07 11:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | fix: correct null check in user service |
