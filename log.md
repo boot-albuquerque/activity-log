@@ -11439,3 +11439,4 @@
 | 2023-11-07 10:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2023-11-07 10:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | test: improve test coverage to 80% |
 | 2023-11-07 11:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | fix: correct null check in user service |
+| 2023-11-07 12:04 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/race-condition` | fix: correct decimal precision in billing |
