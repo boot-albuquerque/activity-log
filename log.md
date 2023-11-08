@@ -11452,3 +11452,4 @@
 | 2023-11-08 13:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: resolve N+1 query problem |
 | 2023-11-08 14:44 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | perf: implement response compression |
 | 2023-11-08 18:51 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | infra: add Kubernetes manifests |
+| 2023-11-08 20:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: add e2e tests for checkout flow |
