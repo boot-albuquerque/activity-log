@@ -11444,3 +11444,4 @@
 | 2023-11-07 13:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2023-11-07 15:41 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `main` | feat: add file upload support |
 | 2023-11-07 16:57 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: implement soft delete pattern |
+| 2023-11-08 00:18 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: add OpenAPI documentation |
