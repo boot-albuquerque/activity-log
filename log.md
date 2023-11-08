@@ -11449,3 +11449,4 @@
 | 2023-11-08 08:16 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | refactor: extract business logic to service layer |
 | 2023-11-08 10:53 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: implement webhook receiver |
 | 2023-11-08 12:37 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | test: add integration tests for API endpoints |
+| 2023-11-08 13:38 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: resolve N+1 query problem |
