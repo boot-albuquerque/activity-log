@@ -11460,3 +11460,4 @@
 | 2023-11-09 13:04 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2023-11-09 14:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | docs: add README setup instructions |
 | 2023-11-09 18:59 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | fix: correct cache invalidation logic |
+| 2023-11-10 11:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | feat: add email notification on status change |
