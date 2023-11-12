@@ -11464,3 +11464,4 @@
 | 2023-11-11 00:00 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | fix: correct pagination offset calculation |
 | 2023-11-11 13:41 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/null-pointer` | fix: resolve N+1 query problem |
 | 2023-11-12 10:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | chore: add Docker Compose for local dev |
+| 2023-11-12 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | feat: add email notification on status change |
