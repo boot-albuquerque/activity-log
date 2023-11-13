@@ -11466,3 +11466,4 @@
 | 2023-11-12 10:44 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | chore: add Docker Compose for local dev |
 | 2023-11-12 11:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | feat: add email notification on status change |
 | 2023-11-13 12:01 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: create order processing service |
+| 2023-11-13 15:19 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | security: update SSL certificates config |
