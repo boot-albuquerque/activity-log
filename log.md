@@ -11469,3 +11469,4 @@
 | 2023-11-13 15:19 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/cleanup` | security: update SSL certificates config |
 | 2023-11-13 17:08 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2023-11-13 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | chore: configure GitHub Actions CI |
+| 2023-11-13 18:02 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | db: add composite index |
