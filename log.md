@@ -11471,3 +11471,4 @@
 | 2023-11-13 17:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2023-11-13 18:02 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | db: add composite index |
 | 2023-11-13 19:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | fix: correct pagination offset calculation |
+| 2023-11-13 20:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
