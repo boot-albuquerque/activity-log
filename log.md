@@ -11477,3 +11477,4 @@
 | 2023-11-14 12:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add file upload support |
 | 2023-11-14 13:37 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: add user authentication endpoint |
 | 2023-11-14 14:39 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | feat: implement caching layer |
+| 2023-11-14 15:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | perf: optimize database queries |
