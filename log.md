@@ -11474,3 +11474,4 @@
 | 2023-11-13 20:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
 | 2023-11-13 23:45 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | feat: implement webhook receiver |
 | 2023-11-14 11:47 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/memory-leak` | chore: add pre-commit hooks |
+| 2023-11-14 12:11 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | feat: add file upload support |
