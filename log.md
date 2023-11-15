@@ -11485,3 +11485,4 @@
 | 2023-11-14 20:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | infra: configure auto-scaling policies |
 | 2023-11-14 21:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2023-11-14 23:10 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | test: add e2e tests for checkout flow |
+| 2023-11-15 00:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | fix: resolve CORS configuration |
