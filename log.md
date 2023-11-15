@@ -11483,3 +11483,4 @@
 | 2023-11-14 17:29 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2023-11-14 20:09 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | db: add migration for new schema |
 | 2023-11-14 20:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | infra: configure auto-scaling policies |
+| 2023-11-14 21:02 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | fix: handle missing environment variable |
