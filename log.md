@@ -11494,3 +11494,4 @@
 | 2023-11-15 23:27 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | fix: resolve N+1 query problem |
 | 2023-11-16 08:25 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | security: add input sanitization |
 | 2023-11-16 15:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
+| 2023-11-16 16:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | fix: correct pagination offset calculation |
