@@ -11496,3 +11496,4 @@
 | 2023-11-16 15:01 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/critical-fix` | fix: resolve N+1 query problem |
 | 2023-11-16 16:31 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/race-condition` | fix: correct pagination offset calculation |
 | 2023-11-16 19:21 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | db: add composite index |
+| 2023-11-16 20:38 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/prod-issue` | feat: add email notification on status change |
