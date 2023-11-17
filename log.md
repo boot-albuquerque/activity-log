@@ -11501,3 +11501,4 @@
 | 2023-11-17 13:23 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | perf: implement response compression |
 | 2023-11-17 14:05 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | feat: implement JWT refresh token |
 | 2023-11-17 16:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: create admin management interface |
+| 2023-11-17 17:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | refactor: extract business logic to service layer |
