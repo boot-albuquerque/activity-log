@@ -11503,3 +11503,4 @@
 | 2023-11-17 16:47 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | feat: create admin management interface |
 | 2023-11-17 17:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/validation-bug` | refactor: extract business logic to service layer |
 | 2023-11-17 19:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | feat: create admin management interface |
+| 2023-11-17 20:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | docs: document environment variables |
