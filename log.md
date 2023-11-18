@@ -11506,3 +11506,4 @@
 | 2023-11-17 20:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | docs: document environment variables |
 | 2023-11-17 23:19 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | refactor: adopt repository pattern |
 | 2023-11-18 12:52 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | feat: implement soft delete pattern |
+| 2023-11-18 13:44 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | test: add unit tests for payment service |
