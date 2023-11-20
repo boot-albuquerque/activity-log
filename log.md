@@ -11508,3 +11508,4 @@
 | 2023-11-18 12:52 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | feat: implement soft delete pattern |
 | 2023-11-18 13:44 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/validation-bug` | test: add unit tests for payment service |
 | 2023-11-19 16:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | fix: handle missing environment variable |
+| 2023-11-19 22:39 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | test: mock external dependencies in tests |
