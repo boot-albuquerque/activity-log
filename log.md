@@ -11510,3 +11510,4 @@
 | 2023-11-19 16:42 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/critical-fix` | fix: handle missing environment variable |
 | 2023-11-19 22:39 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | test: mock external dependencies in tests |
 | 2023-11-21 08:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: handle missing environment variable |
+| 2023-11-21 08:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: add user authentication endpoint |
