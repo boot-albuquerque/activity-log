@@ -11526,3 +11526,4 @@
 | 2023-11-22 13:21 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2023-11-22 15:19 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/cleanup` | feat: add file upload support |
 | 2023-11-22 18:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | fix: handle edge case in date parsing |
+| 2023-11-22 19:18 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
