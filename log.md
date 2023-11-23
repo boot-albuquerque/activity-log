@@ -11533,3 +11533,4 @@
 | 2023-11-23 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | db: add composite index |
 | 2023-11-23 11:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | style: format code according to style guide |
 | 2023-11-23 14:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | fix: correct null check in user service |
+| 2023-11-23 16:28 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | refactor: replace raw SQL with query builder |
