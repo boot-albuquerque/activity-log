@@ -11532,3 +11532,4 @@
 | 2023-11-22 22:45 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | fix: handle timeout in async operation |
 | 2023-11-23 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | db: add composite index |
 | 2023-11-23 11:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | style: format code according to style guide |
+| 2023-11-23 14:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | fix: correct null check in user service |
