@@ -11540,3 +11540,4 @@
 | 2023-11-24 08:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | security: add input sanitization |
 | 2023-11-24 10:23 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | perf: implement response compression |
 | 2023-11-24 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
+| 2023-11-24 14:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | test: mock external dependencies in tests |
