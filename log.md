@@ -11537,3 +11537,4 @@
 | 2023-11-23 16:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | feat: add bulk operations support |
 | 2023-11-23 18:54 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: correct null check in user service |
 | 2023-11-23 22:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
+| 2023-11-24 08:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | security: add input sanitization |
