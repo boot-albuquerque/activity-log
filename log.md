@@ -11542,3 +11542,4 @@
 | 2023-11-24 13:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | refactor: replace raw SQL with query builder |
 | 2023-11-24 14:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2023-11-24 15:10 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | security: add input sanitization |
+| 2023-11-24 15:21 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | refactor: adopt repository pattern |
