@@ -11547,3 +11547,4 @@
 | 2023-11-24 16:01 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | feat: implement webhook receiver |
 | 2023-11-24 16:19 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/extract-service` | fix: handle empty response from external API |
 | 2023-11-24 21:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add pagination to list endpoint |
+| 2023-11-24 21:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | feat: implement soft delete pattern |
