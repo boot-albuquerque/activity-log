@@ -11549,3 +11549,4 @@
 | 2023-11-24 21:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | feat: add pagination to list endpoint |
 | 2023-11-24 21:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | feat: implement soft delete pattern |
 | 2023-11-25 16:50 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | feat: add pagination to list endpoint |
+| 2023-11-26 09:03 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | feat: create admin management interface |
