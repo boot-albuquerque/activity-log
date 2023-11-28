@@ -11565,3 +11565,4 @@
 | 2023-11-28 16:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/memory-leak` | refactor: move constants to config module |
 | 2023-11-28 16:32 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2023-11-28 17:51 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | db: add composite index |
+| 2023-11-28 18:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | test: fix flaky test in async handler |
