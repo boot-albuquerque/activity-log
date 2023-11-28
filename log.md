@@ -11557,3 +11557,4 @@
 | 2023-11-27 17:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: implement rate limiting middleware |
 | 2023-11-28 00:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2023-11-28 09:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | test: cover edge cases in validator |
+| 2023-11-28 11:47 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | docs: add README setup instructions |
