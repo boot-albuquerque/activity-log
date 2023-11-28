@@ -11555,3 +11555,4 @@
 | 2023-11-26 22:15 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | refactor: consolidate error handling |
 | 2023-11-27 10:22 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/pagination` | fix: handle timeout in async operation |
 | 2023-11-27 17:48 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: implement rate limiting middleware |
+| 2023-11-28 00:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | fix: correct null check in user service |
