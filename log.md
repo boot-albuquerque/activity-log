@@ -11576,3 +11576,4 @@
 | 2023-11-29 13:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | test: cover edge cases in validator |
 | 2023-11-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | refactor: adopt repository pattern |
 | 2023-11-29 14:24 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | refactor: consolidate error handling |
+| 2023-11-29 15:40 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | fix: correct pagination offset calculation |
