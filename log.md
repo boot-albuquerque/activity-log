@@ -11574,3 +11574,4 @@
 | 2023-11-29 07:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/clean-architecture` | perf: add database indexes |
 | 2023-11-29 13:29 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | fix: handle missing environment variable |
 | 2023-11-29 13:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/validation-bug` | test: cover edge cases in validator |
+| 2023-11-29 14:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | refactor: adopt repository pattern |
