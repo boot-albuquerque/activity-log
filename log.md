@@ -11570,3 +11570,4 @@
 | 2023-11-28 20:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | refactor: adopt repository pattern |
 | 2023-11-28 20:47 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | chore: upgrade to latest Node.js LTS |
 | 2023-11-28 21:13 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | chore: configure GitHub Actions CI |
+| 2023-11-29 00:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | refactor: move constants to config module |
