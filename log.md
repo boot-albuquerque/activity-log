@@ -11582,3 +11582,4 @@
 | 2023-11-29 21:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/new-endpoint` | fix: resolve deadlock in transaction |
 | 2023-11-29 22:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | test: add unit tests for payment service |
 | 2023-11-30 09:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | fix: handle malformed JSON input |
+| 2023-11-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: add OpenAPI documentation |
