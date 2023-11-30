@@ -11586,3 +11586,4 @@
 | 2023-11-30 15:21 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | docs: update API documentation |
 | 2023-11-30 15:45 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | infra: add Kubernetes manifests |
 | 2023-11-30 16:49 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/pagination` | fix: handle malformed JSON input |
+| 2023-11-30 20:03 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | refactor: extract business logic to service layer |
