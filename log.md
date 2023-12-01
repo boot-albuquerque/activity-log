@@ -11590,3 +11590,4 @@
 | 2023-11-30 20:22 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | security: update SSL certificates config |
 | 2023-11-30 21:33 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/new-endpoint` | ci: add automated deployment pipeline |
 | 2023-12-01 09:22 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | feat: create health check endpoint |
+| 2023-12-01 11:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | fix: correct null check in user service |
