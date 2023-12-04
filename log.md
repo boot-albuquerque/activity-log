@@ -11599,3 +11599,4 @@
 | 2023-12-02 07:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | feat: create health check endpoint |
 | 2023-12-04 13:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | docs: update API documentation |
 | 2023-12-04 14:19 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/clean-architecture` | fix: correct pagination offset calculation |
+| 2023-12-04 14:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: fix indentation and whitespace |
