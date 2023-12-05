@@ -11605,3 +11605,4 @@
 | 2023-12-05 00:29 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add file upload support |
 | 2023-12-05 15:36 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v3.0` | chore: add Docker Compose for local dev |
 | 2023-12-05 16:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
+| 2023-12-05 16:21 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: simplify authentication flow |
