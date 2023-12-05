@@ -11607,3 +11607,4 @@
 | 2023-12-05 16:03 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/new-endpoint` | refactor: reduce cyclomatic complexity |
 | 2023-12-05 16:21 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: simplify authentication flow |
 | 2023-12-05 17:12 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | feat: add export to CSV/Excel |
+| 2023-12-05 20:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | refactor: improve code readability |
