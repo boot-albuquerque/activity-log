@@ -11602,3 +11602,4 @@
 | 2023-12-04 14:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | style: fix indentation and whitespace |
 | 2023-12-04 16:34 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
 | 2023-12-04 23:04 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | feat: implement rate limiting middleware |
+| 2023-12-05 00:29 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add file upload support |
