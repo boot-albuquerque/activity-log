@@ -11613,3 +11613,4 @@
 | 2023-12-06 14:27 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | refactor: clean up unused imports |
 | 2023-12-06 15:11 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: handle timeout in async operation |
 | 2023-12-06 19:25 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2023-12-06 20:07 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | fix: handle edge case in date parsing |
