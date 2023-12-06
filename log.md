@@ -11609,3 +11609,4 @@
 | 2023-12-05 17:12 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | feat: add export to CSV/Excel |
 | 2023-12-05 20:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/null-pointer` | refactor: improve code readability |
 | 2023-12-06 09:05 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | infra: add Kubernetes manifests |
+| 2023-12-06 14:01 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/add-caching` | test: add performance benchmark tests |
