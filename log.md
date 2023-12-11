@@ -11633,3 +11633,4 @@
 | 2023-12-10 22:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | feat: create background job processor |
 | 2023-12-11 09:56 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | infra: configure auto-scaling policies |
 | 2023-12-11 16:19 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | test: add e2e tests for checkout flow |
+| 2023-12-11 16:52 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: resolve CORS configuration |
