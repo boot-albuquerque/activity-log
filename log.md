@@ -11639,3 +11639,4 @@
 | 2023-12-12 12:21 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | refactor: improve code readability |
 | 2023-12-12 14:12 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/update-deps` | feat: add OpenAPI documentation |
 | 2023-12-12 15:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | db: add migration for new schema |
+| 2023-12-12 16:04 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/critical-fix` | fix: correct validation error messages |
