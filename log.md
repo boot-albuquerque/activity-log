@@ -11652,3 +11652,4 @@
 | 2023-12-13 11:03 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/new-endpoint` | infra: add Kubernetes manifests |
 | 2023-12-13 11:19 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | refactor: split large controller into smaller ones |
 | 2023-12-13 13:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add performance benchmark tests |
+| 2023-12-13 13:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: correct validation error messages |
