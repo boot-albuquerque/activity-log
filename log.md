@@ -11654,3 +11654,4 @@
 | 2023-12-13 13:11 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | test: add performance benchmark tests |
 | 2023-12-13 13:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | fix: correct validation error messages |
 | 2023-12-13 17:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: simplify authentication flow |
+| 2023-12-13 17:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
