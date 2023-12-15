@@ -11668,3 +11668,4 @@
 | 2023-12-15 14:48 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | test: add e2e tests for checkout flow |
 | 2023-12-15 14:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | feat: add email notification on status change |
 | 2023-12-15 15:35 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | refactor: extract business logic to service layer |
+| 2023-12-15 15:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/null-pointer` | refactor: consolidate error handling |
