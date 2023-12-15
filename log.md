@@ -11665,3 +11665,4 @@
 | 2023-12-15 11:01 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | refactor: improve code readability |
 | 2023-12-15 11:03 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | feat: implement webhook receiver |
 | 2023-12-15 13:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | fix: handle missing environment variable |
+| 2023-12-15 14:48 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | test: add e2e tests for checkout flow |
