@@ -11679,3 +11679,4 @@
 | 2023-12-19 10:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | test: fix flaky test in async handler |
 | 2023-12-19 13:37 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: add OpenAPI documentation |
 | 2023-12-19 14:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | test: fix flaky test in async handler |
+| 2023-12-19 15:03 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `chore/update-deps` | refactor: consolidate error handling |
