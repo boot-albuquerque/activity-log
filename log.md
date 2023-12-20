@@ -11684,3 +11684,4 @@
 | 2023-12-20 07:04 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | security: update SSL certificates config |
 | 2023-12-20 11:32 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | security: update SSL certificates config |
 | 2023-12-20 11:44 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | fix: handle malformed JSON input |
+| 2023-12-20 11:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | feat: add file upload support |
