@@ -11690,3 +11690,4 @@
 | 2023-12-20 12:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/typo-response` | fix: handle edge case in date parsing |
 | 2023-12-20 13:19 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | perf: optimize database queries |
 | 2023-12-20 13:23 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | docs: update API documentation |
+| 2023-12-20 14:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add search with filters |
