@@ -11697,3 +11697,4 @@
 | 2023-12-21 10:49 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | feat: add real-time notifications |
 | 2023-12-21 13:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | refactor: adopt repository pattern |
 | 2023-12-21 14:08 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | perf: implement response compression |
+| 2023-12-21 16:08 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | fix: handle missing environment variable |
