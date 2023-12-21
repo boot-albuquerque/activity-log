@@ -11693,3 +11693,4 @@
 | 2023-12-20 14:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add search with filters |
 | 2023-12-20 17:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | db: optimize slow queries |
 | 2023-12-21 09:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | refactor: improve code readability |
+| 2023-12-21 10:27 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: handle missing environment variable |
