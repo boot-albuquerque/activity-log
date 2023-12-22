@@ -11706,3 +11706,4 @@
 | 2023-12-22 00:23 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | refactor: clean up unused imports |
 | 2023-12-22 08:19 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | db: add composite index |
 | 2023-12-22 08:42 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | refactor: move constants to config module |
+| 2023-12-22 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | fix: resolve N+1 query problem |
