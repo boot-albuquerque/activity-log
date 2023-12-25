@@ -11714,3 +11714,4 @@
 | 2023-12-22 18:57 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2023-12-22 20:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2023-12-23 15:02 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/cleanup` | refactor: simplify authentication flow |
+| 2023-12-25 09:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/memory-leak` | docs: add README setup instructions |
