@@ -11724,3 +11724,4 @@
 | 2023-12-25 20:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2023-12-27 07:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/memory-leak` | db: optimize slow queries |
 | 2023-12-27 10:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2023-12-27 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | docs: update API documentation |
