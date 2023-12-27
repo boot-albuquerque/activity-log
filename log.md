@@ -11726,3 +11726,4 @@
 | 2023-12-27 10:41 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2023-12-27 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/new-endpoint` | docs: update API documentation |
 | 2023-12-27 13:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | style: fix indentation and whitespace |
+| 2023-12-27 15:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
