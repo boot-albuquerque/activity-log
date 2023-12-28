@@ -11728,3 +11728,4 @@
 | 2023-12-27 13:32 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `hotfix/critical-fix` | style: fix indentation and whitespace |
 | 2023-12-27 15:29 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | perf: implement response compression |
 | 2023-12-27 16:58 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | test: add unit tests for payment service |
+| 2023-12-28 08:09 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | fix: correct validation error messages |
