@@ -11731,3 +11731,4 @@
 | 2023-12-28 08:09 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | fix: correct validation error messages |
 | 2023-12-28 09:52 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
 | 2023-12-28 10:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | refactor: move constants to config module |
+| 2023-12-28 15:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | test: mock external dependencies in tests |
