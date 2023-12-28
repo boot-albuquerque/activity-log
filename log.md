@@ -11733,3 +11733,4 @@
 | 2023-12-28 10:19 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/pagination` | refactor: move constants to config module |
 | 2023-12-28 15:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | test: mock external dependencies in tests |
 | 2023-12-28 16:29 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | chore: add pre-commit hooks |
+| 2023-12-28 20:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: add automated deployment pipeline |
