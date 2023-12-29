@@ -11736,3 +11736,4 @@
 | 2023-12-28 20:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | ci: add automated deployment pipeline |
 | 2023-12-29 10:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | feat: create dashboard metrics endpoint |
 | 2023-12-29 12:28 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
+| 2023-12-29 12:31 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | test: add integration tests for API endpoints |
