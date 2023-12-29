@@ -11741,3 +11741,4 @@
 | 2023-12-29 13:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | style: format code according to style guide |
 | 2023-12-29 13:28 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | fix: resolve deadlock in transaction |
 | 2023-12-29 15:26 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | docs: add README setup instructions |
+| 2023-12-29 16:01 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | db: add composite index |
