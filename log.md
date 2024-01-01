@@ -11749,3 +11749,4 @@
 | 2023-12-30 08:23 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/pagination` | ci: add automated deployment pipeline |
 | 2023-12-30 13:53 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2023-12-31 10:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | fix: handle malformed JSON input |
+| 2024-01-01 08:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | perf: add database indexes |
