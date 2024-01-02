@@ -11759,3 +11759,4 @@
 | 2024-01-02 13:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2024-01-02 14:22 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | fix: resolve deadlock in transaction |
 | 2024-01-02 17:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create order processing service |
+| 2024-01-02 19:03 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | fix: resolve memory leak in connection pool |
