@@ -11769,3 +11769,4 @@
 | 2024-01-03 15:22 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2024-01-03 22:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | infra: configure auto-scaling policies |
 | 2024-01-04 14:39 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2024-01-05 08:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `hotfix/prod-issue` | fix: handle timeout in async operation |
