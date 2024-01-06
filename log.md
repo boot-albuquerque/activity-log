@@ -11778,3 +11778,4 @@
 | 2024-01-05 22:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2024-01-06 12:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2024-01-06 13:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | db: add migration for new schema |
+| 2024-01-06 14:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: add OpenAPI documentation |
