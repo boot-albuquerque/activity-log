@@ -11786,3 +11786,4 @@
 | 2024-01-07 12:42 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v2.0` | feat: implement rate limiting middleware |
 | 2024-01-07 16:47 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: handle empty response from external API |
 | 2024-01-07 17:41 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | feat: add email notification on status change |
+| 2024-01-08 00:17 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | test: mock external dependencies in tests |
