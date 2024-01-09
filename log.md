@@ -11793,3 +11793,4 @@
 | 2024-01-08 12:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | feat: implement webhook receiver |
 | 2024-01-08 19:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | perf: add database indexes |
 | 2024-01-08 21:05 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct pagination offset calculation |
+| 2024-01-08 23:02 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | fix: resolve memory leak in connection pool |
