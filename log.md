@@ -11797,3 +11797,4 @@
 | 2024-01-09 09:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | style: format code according to style guide |
 | 2024-01-09 10:54 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | style: format code according to style guide |
 | 2024-01-09 13:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
+| 2024-01-09 17:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | perf: implement response compression |
