@@ -11792,3 +11792,4 @@
 | 2024-01-08 11:28 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | feat: implement webhook receiver |
 | 2024-01-08 12:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | feat: implement webhook receiver |
 | 2024-01-08 19:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | perf: add database indexes |
+| 2024-01-08 21:05 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | fix: correct pagination offset calculation |
