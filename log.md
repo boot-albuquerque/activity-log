@@ -11811,3 +11811,4 @@
 | 2024-01-11 15:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2024-01-11 16:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2024-01-11 20:26 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | db: add migration for new schema |
+| 2024-01-11 20:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
