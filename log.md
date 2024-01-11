@@ -11809,3 +11809,4 @@
 | 2024-01-11 14:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | db: add migration for new schema |
 | 2024-01-11 14:23 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | fix: correct null check in user service |
 | 2024-01-11 15:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2024-01-11 16:44 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/refactor-queries` | fix: handle missing environment variable |
