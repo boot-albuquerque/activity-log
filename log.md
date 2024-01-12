@@ -11816,3 +11816,4 @@
 | 2024-01-12 11:58 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | fix: handle edge case in date parsing |
 | 2024-01-12 16:06 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: handle malformed JSON input |
 | 2024-01-12 16:32 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/pagination` | refactor: adopt repository pattern |
+| 2024-01-12 16:35 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: correct pagination offset calculation |
