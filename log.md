@@ -11825,3 +11825,4 @@
 | 2024-01-14 15:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | ci: configure staging environment |
 | 2024-01-14 16:37 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
 | 2024-01-14 19:22 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | refactor: split large controller into smaller ones |
+| 2024-01-15 14:46 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `main` | chore: add pre-commit hooks |
