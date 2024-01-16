@@ -11835,3 +11835,4 @@
 | 2024-01-16 10:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | docs: update API documentation |
 | 2024-01-16 11:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: handle malformed JSON input |
 | 2024-01-16 12:06 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | feat: add real-time notifications |
+| 2024-01-16 14:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: add export to CSV/Excel |
