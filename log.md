@@ -11831,3 +11831,4 @@
 | 2024-01-15 20:20 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2024-01-15 21:14 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | feat: add search with filters |
 | 2024-01-15 22:30 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | fix: resolve N+1 query problem |
+| 2024-01-16 00:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | fix: handle empty response from external API |
