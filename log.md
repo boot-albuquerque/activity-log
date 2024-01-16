@@ -11837,3 +11837,4 @@
 | 2024-01-16 12:06 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | feat: add real-time notifications |
 | 2024-01-16 14:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: add export to CSV/Excel |
 | 2024-01-16 14:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | refactor: consolidate error handling |
+| 2024-01-16 14:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: implement soft delete pattern |
