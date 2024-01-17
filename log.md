@@ -11843,3 +11843,4 @@
 | 2024-01-16 17:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | db: add migration for new schema |
 | 2024-01-16 17:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: correct cache invalidation logic |
 | 2024-01-16 23:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: implement soft delete pattern |
+| 2024-01-17 11:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | fix: correct validation error messages |
