@@ -11842,3 +11842,4 @@
 | 2024-01-16 16:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/typo-response` | fix: resolve race condition in queue worker |
 | 2024-01-16 17:23 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | db: add migration for new schema |
 | 2024-01-16 17:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/refactor-queries` | fix: correct cache invalidation logic |
+| 2024-01-16 23:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: implement soft delete pattern |
