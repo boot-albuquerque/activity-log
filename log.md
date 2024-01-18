@@ -11848,3 +11848,4 @@
 | 2024-01-17 16:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/rate-limiting` | chore: upgrade to latest Node.js LTS |
 | 2024-01-17 18:20 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | refactor: replace raw SQL with query builder |
 | 2024-01-18 00:04 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | fix: resolve deadlock in transaction |
+| 2024-01-18 00:38 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | fix: handle missing environment variable |
