@@ -11860,3 +11860,4 @@
 | 2024-01-19 14:11 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2024-01-19 15:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: resolve CORS configuration |
 | 2024-01-19 16:12 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/typo-response` | feat: add bulk operations support |
+| 2024-01-19 17:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: resolve deadlock in transaction |
