@@ -11854,3 +11854,4 @@
 | 2024-01-19 09:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | chore: update dependencies |
 | 2024-01-19 09:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | refactor: replace raw SQL with query builder |
 | 2024-01-19 11:32 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/memory-leak` | feat: add bulk operations support |
+| 2024-01-19 13:07 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `develop` | chore: upgrade to latest Node.js LTS |
