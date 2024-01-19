@@ -11852,3 +11852,4 @@
 | 2024-01-18 18:16 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2024-01-18 22:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | refactor: consolidate error handling |
 | 2024-01-19 09:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | chore: update dependencies |
+| 2024-01-19 09:51 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v1.0` | refactor: replace raw SQL with query builder |
