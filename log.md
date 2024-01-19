@@ -11858,3 +11858,4 @@
 | 2024-01-19 13:35 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | refactor: improve code readability |
 | 2024-01-19 13:46 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/refactor-queries` | fix: handle timeout in async operation |
 | 2024-01-19 14:11 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | feat: add pagination to list endpoint |
+| 2024-01-19 15:43 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | fix: resolve CORS configuration |
