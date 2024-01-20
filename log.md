@@ -11863,3 +11863,4 @@
 | 2024-01-19 17:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | fix: resolve deadlock in transaction |
 | 2024-01-19 23:08 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | chore: update dependencies |
 | 2024-01-20 00:51 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v3.0` | chore: configure GitHub Actions CI |
+| 2024-01-20 09:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
