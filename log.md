@@ -11878,3 +11878,4 @@
 | 2024-01-22 13:42 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | fix: handle empty response from external API |
 | 2024-01-22 14:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/critical-fix` | test: cover edge cases in validator |
 | 2024-01-22 16:05 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | feat: implement soft delete pattern |
+| 2024-01-22 16:25 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | docs: update API documentation |
