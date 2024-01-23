@@ -11883,3 +11883,4 @@
 | 2024-01-23 10:45 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | fix: handle edge case in date parsing |
 | 2024-01-23 11:44 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2024-01-23 12:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | feat: add audit log trail |
+| 2024-01-23 17:42 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | test: add integration tests for API endpoints |
