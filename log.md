@@ -11890,3 +11890,4 @@
 | 2024-01-24 15:20 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | test: add e2e tests for checkout flow |
 | 2024-01-24 15:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | feat: add real-time notifications |
 | 2024-01-24 16:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | style: fix indentation and whitespace |
+| 2024-01-24 17:33 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
