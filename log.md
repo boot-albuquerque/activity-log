@@ -11899,3 +11899,4 @@
 | 2024-01-25 09:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | db: add composite index |
 | 2024-01-25 10:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/rate-limiting` | feat: create admin management interface |
 | 2024-01-25 13:41 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | fix: correct validation error messages |
+| 2024-01-25 13:52 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: add user authentication endpoint |
