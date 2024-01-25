@@ -11894,3 +11894,4 @@
 | 2024-01-24 21:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | test: add integration tests for API endpoints |
 | 2024-01-24 22:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | style: format code according to style guide |
 | 2024-01-24 23:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | docs: update API documentation |
+| 2024-01-25 00:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | perf: add database indexes |
