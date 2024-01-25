@@ -11892,3 +11892,4 @@
 | 2024-01-24 16:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | style: fix indentation and whitespace |
 | 2024-01-24 17:33 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | refactor: move constants to config module |
 | 2024-01-24 21:40 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | test: add integration tests for API endpoints |
+| 2024-01-24 22:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | style: format code according to style guide |
