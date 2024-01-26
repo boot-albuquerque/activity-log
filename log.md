@@ -11910,3 +11910,4 @@
 | 2024-01-26 12:32 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | feat: add search with filters |
 | 2024-01-26 12:58 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | refactor: replace raw SQL with query builder |
 | 2024-01-26 13:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: implement rate limiting middleware |
+| 2024-01-26 14:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add search with filters |
