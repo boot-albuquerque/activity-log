@@ -11906,3 +11906,4 @@
 | 2024-01-25 18:17 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | fix: handle edge case in date parsing |
 | 2024-01-25 23:26 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | feat: create dashboard metrics endpoint |
 | 2024-01-26 10:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement rate limiting middleware |
+| 2024-01-26 11:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | refactor: replace raw SQL with query builder |
