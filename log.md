@@ -11913,3 +11913,5 @@
 | 2024-01-26 14:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: add search with filters |
 | 2024-01-26 18:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | fix: correct cache invalidation logic |
 | 2024-01-26 21:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: resolve deadlock in transaction |
+| 2024-01-27 12:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | chore: add pre-commit hooks |
+| 2026-04-05 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | chore: add unified docker-compose with shared network and 0.0.0.0 binding |
