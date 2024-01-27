@@ -11916,3 +11916,4 @@
 | 2024-01-27 12:43 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | chore: add pre-commit hooks |
 | 2026-04-05 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | chore: add unified docker-compose with shared network and 0.0.0.0 binding |
 | 2024-01-27 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: create background job processor |
+| 2024-01-27 18:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | ci: add automated deployment pipeline |
