@@ -11917,3 +11917,4 @@
 | 2026-04-05 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | chore: add unified docker-compose with shared network and 0.0.0.0 binding |
 | 2024-01-27 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | feat: create background job processor |
 | 2024-01-27 18:40 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | ci: add automated deployment pipeline |
+| 2024-01-27 19:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | test: add e2e tests for checkout flow |
