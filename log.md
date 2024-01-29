@@ -11926,3 +11926,4 @@
 | 2024-01-29 15:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | perf: implement response compression |
 | 2024-01-29 17:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | db: add composite index |
 | 2024-01-29 19:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: mock external dependencies in tests |
+| 2024-01-29 19:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | feat: add pagination to list endpoint |
