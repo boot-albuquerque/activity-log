@@ -11927,3 +11927,4 @@
 | 2024-01-29 17:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/refactor-queries` | db: add composite index |
 | 2024-01-29 19:27 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | test: mock external dependencies in tests |
 | 2024-01-29 19:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | feat: add pagination to list endpoint |
+| 2024-01-29 22:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | fix: correct decimal precision in billing |
