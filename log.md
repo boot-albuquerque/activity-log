@@ -11944,3 +11944,4 @@
 | 2024-01-31 11:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | chore: configure GitHub Actions CI |
 | 2024-01-31 15:19 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | security: update SSL certificates config |
 | 2024-01-31 17:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement caching layer |
+| 2024-01-31 18:47 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | fix: correct cache invalidation logic |
