@@ -11949,3 +11949,4 @@
 | 2024-02-01 08:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/race-condition` | fix: resolve N+1 query problem |
 | 2024-02-01 11:21 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: create dashboard metrics endpoint |
 | 2024-02-01 11:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | security: add input sanitization |
+| 2024-02-01 15:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | fix: resolve N+1 query problem |
