@@ -11954,3 +11954,4 @@
 | 2024-02-02 00:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
 | 2024-02-02 10:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: replace raw SQL with query builder |
 | 2024-02-02 10:37 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: add unit tests for payment service |
+| 2024-02-02 11:23 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | refactor: move constants to config module |
