@@ -11959,3 +11959,4 @@
 | 2024-02-02 14:12 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | refactor: split large controller into smaller ones |
 | 2024-02-02 14:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/typo-response` | style: format code according to style guide |
 | 2024-02-02 14:58 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | refactor: split large controller into smaller ones |
+| 2024-02-02 15:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/critical-fix` | test: fix flaky test in async handler |
