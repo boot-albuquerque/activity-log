@@ -11952,3 +11952,4 @@
 | 2024-02-01 15:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2024-02-01 18:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v1.0` | feat: add pagination to list endpoint |
 | 2024-02-02 00:59 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
+| 2024-02-02 10:10 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | refactor: replace raw SQL with query builder |
