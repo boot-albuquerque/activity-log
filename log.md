@@ -11964,3 +11964,4 @@
 | 2024-02-02 20:02 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2024-02-02 21:04 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | db: optimize slow queries |
 | 2024-02-05 14:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | test: add integration tests for API endpoints |
+| 2024-02-06 09:09 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: correct null check in user service |
