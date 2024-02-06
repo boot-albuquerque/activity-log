@@ -11967,3 +11967,4 @@
 | 2024-02-06 09:09 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | fix: correct null check in user service |
 | 2024-02-06 11:45 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/clean-architecture` | security: update SSL certificates config |
 | 2024-02-06 13:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | refactor: adopt repository pattern |
+| 2024-02-06 14:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | fix: correct pagination offset calculation |
