@@ -11973,3 +11973,4 @@
 | 2024-02-06 16:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2024-02-06 16:02 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | test: improve test coverage to 80% |
 | 2024-02-06 19:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | style: fix indentation and whitespace |
+| 2024-02-06 21:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
