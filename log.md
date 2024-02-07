@@ -11979,3 +11979,4 @@
 | 2024-02-07 13:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | security: add input sanitization |
 | 2024-02-07 15:16 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: add file upload support |
 | 2024-02-07 16:20 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | refactor: clean up unused imports |
+| 2024-02-07 18:34 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/null-pointer` | security: fix SQL injection vulnerability |
