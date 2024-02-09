@@ -11987,3 +11987,4 @@
 | 2024-02-08 18:29 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `develop` | feat: add search with filters |
 | 2024-02-09 09:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | refactor: consolidate error handling |
 | 2024-02-09 12:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | perf: add database indexes |
+| 2024-02-09 12:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | perf: add database indexes |
