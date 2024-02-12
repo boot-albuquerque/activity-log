@@ -11996,3 +11996,4 @@
 | 2024-02-12 00:43 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/race-condition` | db: add composite index |
 | 2024-02-12 00:53 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | fix: resolve N+1 query problem |
 | 2024-02-12 13:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | feat: add export to CSV/Excel |
+| 2024-02-12 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
