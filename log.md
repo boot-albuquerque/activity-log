@@ -11998,3 +11998,4 @@
 | 2024-02-12 13:28 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2024-02-12 16:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
 | 2024-02-12 20:37 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | fix: correct validation error messages |
+| 2024-02-13 13:38 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
