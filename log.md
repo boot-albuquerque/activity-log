@@ -12009,3 +12009,4 @@
 | 2024-02-14 10:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: implement JWT refresh token |
 | 2024-02-14 11:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | feat: add export to CSV/Excel |
 | 2024-02-14 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/typo-response` | perf: optimize database queries |
+| 2024-02-14 11:30 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | security: add input sanitization |
