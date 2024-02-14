@@ -12007,3 +12007,4 @@
 | 2024-02-13 20:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add e2e tests for checkout flow |
 | 2024-02-14 09:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: add bulk operations support |
 | 2024-02-14 10:14 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2024-02-14 11:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | feat: add export to CSV/Excel |
