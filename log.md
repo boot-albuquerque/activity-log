@@ -12005,3 +12005,4 @@
 | 2024-02-13 16:27 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: implement caching layer |
 | 2024-02-13 16:54 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | fix: resolve deadlock in transaction |
 | 2024-02-13 20:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2024-02-14 09:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: add bulk operations support |
