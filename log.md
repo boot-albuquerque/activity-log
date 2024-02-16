@@ -12021,3 +12021,4 @@
 | 2024-02-15 14:51 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | fix: resolve memory leak in connection pool |
 | 2024-02-15 15:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2024-02-15 15:56 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: create health check endpoint |
+| 2024-02-15 21:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | fix: handle timeout in async operation |
