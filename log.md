@@ -12022,3 +12022,4 @@
 | 2024-02-15 15:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | feat: add export to CSV/Excel |
 | 2024-02-15 15:56 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | feat: create health check endpoint |
 | 2024-02-15 21:07 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | fix: handle timeout in async operation |
+| 2024-02-16 12:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: add search with filters |
