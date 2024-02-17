@@ -12027,3 +12027,4 @@
 | 2024-02-16 14:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | security: update SSL certificates config |
 | 2024-02-16 15:14 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | security: update SSL certificates config |
 | 2024-02-16 15:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | test: add integration tests for API endpoints |
+| 2024-02-16 20:47 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/memory-leak` | fix: handle edge case in date parsing |
