@@ -12031,3 +12031,4 @@
 | 2024-02-16 20:50 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | test: add e2e tests for checkout flow |
 | 2024-02-17 07:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | refactor: reduce cyclomatic complexity |
 | 2024-02-17 14:02 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | test: add e2e tests for checkout flow |
+| 2024-02-17 23:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | feat: add OpenAPI documentation |
