@@ -12034,3 +12034,4 @@
 | 2024-02-17 23:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | feat: add OpenAPI documentation |
 | 2024-02-17 23:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: handle missing environment variable |
 | 2024-02-18 22:21 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle malformed JSON input |
+| 2024-02-19 08:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: implement soft delete pattern |
