@@ -12033,3 +12033,4 @@
 | 2024-02-17 14:02 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2024-02-17 23:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | feat: add OpenAPI documentation |
 | 2024-02-17 23:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | fix: handle missing environment variable |
+| 2024-02-18 22:21 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle malformed JSON input |
