@@ -12042,3 +12042,4 @@
 | 2024-02-19 18:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/pagination` | refactor: consolidate error handling |
 | 2024-02-19 20:33 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | chore: update dependencies |
 | 2024-02-21 10:08 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2024-02-21 12:20 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
