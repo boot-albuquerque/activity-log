@@ -12043,3 +12043,6 @@
 | 2024-02-19 20:33 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | chore: update dependencies |
 | 2024-02-21 10:08 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2024-02-21 12:20 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
+| 2026-04-05 21:13 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | docs: improve README with Docker setup, endpoints and request schemas |
+| 2024-02-21 15:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: resolve CORS configuration |
+| 2024-02-21 17:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: handle timeout in async operation |
