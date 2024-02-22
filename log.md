@@ -12048,3 +12048,4 @@
 | 2024-02-21 17:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: handle timeout in async operation |
 | 2024-02-21 21:39 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | security: add input sanitization |
 | 2024-02-22 00:50 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2024-02-22 10:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: add export to CSV/Excel |
