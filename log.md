@@ -12047,3 +12047,4 @@
 | 2024-02-21 15:51 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: resolve CORS configuration |
 | 2024-02-21 17:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `develop` | fix: handle timeout in async operation |
 | 2024-02-21 21:39 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | security: add input sanitization |
+| 2024-02-22 00:50 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: correct validation error messages |
