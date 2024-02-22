@@ -12050,3 +12050,4 @@
 | 2024-02-22 00:50 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: correct validation error messages |
 | 2024-02-22 10:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | feat: add export to CSV/Excel |
 | 2024-02-22 14:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | docs: add README setup instructions |
+| 2024-02-22 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | fix: correct decimal precision in billing |
