@@ -12053,3 +12053,4 @@
 | 2024-02-22 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | fix: correct decimal precision in billing |
 | 2024-02-22 16:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | feat: add real-time notifications |
 | 2024-02-22 18:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | refactor: consolidate error handling |
+| 2024-02-23 10:00 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | chore: add pre-commit hooks |
