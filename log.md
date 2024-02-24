@@ -12057,3 +12057,4 @@
 | 2024-02-23 11:30 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | ci: configure staging environment |
 | 2024-02-23 16:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/auth-improvements` | chore: update dependencies |
 | 2024-02-23 21:15 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | feat: create admin management interface |
+| 2024-02-23 22:38 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | refactor: extract business logic to service layer |
