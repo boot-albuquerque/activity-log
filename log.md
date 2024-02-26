@@ -12067,3 +12067,4 @@
 | 2024-02-26 09:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2024-02-26 10:00 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | perf: implement response compression |
 | 2024-02-26 11:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | style: fix indentation and whitespace |
+| 2024-02-26 17:45 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | refactor: move constants to config module |
