@@ -12083,3 +12083,4 @@
 | 2024-02-27 17:23 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | ci: add automated deployment pipeline |
 | 2024-02-27 23:04 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/typo-response` | refactor: move constants to config module |
 | 2024-02-27 23:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | docs: add README setup instructions |
+| 2024-02-28 00:15 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | ci: configure staging environment |
