@@ -12088,3 +12088,4 @@
 | 2024-02-29 00:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: improve test coverage to 80% |
 | 2024-02-29 09:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
 | 2024-02-29 15:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | feat: add email notification on status change |
+| 2024-02-29 18:13 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
