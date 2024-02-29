@@ -12086,3 +12086,4 @@
 | 2024-02-28 00:15 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | ci: configure staging environment |
 | 2024-02-28 21:28 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | perf: optimize database queries |
 | 2024-02-29 00:30 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | test: improve test coverage to 80% |
+| 2024-02-29 09:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
