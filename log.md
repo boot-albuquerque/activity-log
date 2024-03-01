@@ -12090,3 +12090,4 @@
 | 2024-02-29 15:12 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | feat: add email notification on status change |
 | 2024-02-29 18:13 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | refactor: replace raw SQL with query builder |
 | 2024-02-29 20:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle edge case in date parsing |
+| 2024-02-29 23:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | fix: correct null check in user service |
