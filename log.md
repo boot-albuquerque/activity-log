@@ -12094,3 +12094,4 @@
 | 2024-03-01 11:21 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | fix: correct null check in user service |
 | 2024-03-01 13:38 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | chore: add Docker Compose for local dev |
 | 2024-03-01 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
+| 2024-03-01 13:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/validation-bug` | test: add e2e tests for checkout flow |
