@@ -12092,3 +12092,4 @@
 | 2024-02-29 20:05 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle edge case in date parsing |
 | 2024-02-29 23:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | fix: correct null check in user service |
 | 2024-03-01 11:21 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | fix: correct null check in user service |
+| 2024-03-01 13:38 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | chore: add Docker Compose for local dev |
