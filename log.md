@@ -12098,3 +12098,4 @@
 | 2024-03-01 14:05 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | fix: resolve memory leak in connection pool |
 | 2024-03-01 14:14 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | docs: document environment variables |
 | 2024-03-01 21:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | style: fix indentation and whitespace |
+| 2024-03-03 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: add real-time notifications |
