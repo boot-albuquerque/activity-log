@@ -12100,3 +12100,4 @@
 | 2024-03-01 21:09 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | style: fix indentation and whitespace |
 | 2024-03-03 12:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: add real-time notifications |
 | 2024-03-03 12:28 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | fix: resolve memory leak in connection pool |
+| 2024-03-04 08:41 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | feat: create health check endpoint |
