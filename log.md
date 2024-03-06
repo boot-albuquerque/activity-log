@@ -12115,3 +12115,4 @@
 | 2024-03-06 12:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/validation-bug` | feat: implement soft delete pattern |
 | 2024-03-06 13:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | feat: add real-time notifications |
 | 2024-03-06 13:06 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `chore/cleanup` | test: add integration tests for API endpoints |
+| 2024-03-06 13:10 | MacBook-Pro-de-Lucas | Local | `study-notes` | `chore/cleanup` | test: add e2e tests for checkout flow |
