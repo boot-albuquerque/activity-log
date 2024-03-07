@@ -12132,3 +12132,4 @@
 | 2024-03-07 10:46 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | style: format code according to style guide |
 | 2024-03-07 13:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | chore: add pre-commit hooks |
 | 2024-03-07 17:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
+| 2024-03-07 20:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | db: add composite index |
