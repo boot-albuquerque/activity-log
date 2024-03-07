@@ -12129,3 +12129,4 @@
 | 2024-03-06 22:30 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | docs: document environment variables |
 | 2024-03-06 23:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | infra: update Terraform modules |
 | 2024-03-07 08:05 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/add-caching` | feat: add email notification on status change |
+| 2024-03-07 10:46 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | style: format code according to style guide |
