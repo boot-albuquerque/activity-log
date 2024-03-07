@@ -12125,3 +12125,4 @@
 | 2024-03-06 18:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | fix: handle timeout in async operation |
 | 2024-03-06 19:14 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2024-03-06 19:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | refactor: move constants to config module |
+| 2024-03-06 21:33 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | refactor: extract business logic to service layer |
