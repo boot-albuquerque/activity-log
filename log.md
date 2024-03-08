@@ -12133,3 +12133,4 @@
 | 2024-03-07 13:00 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | chore: add pre-commit hooks |
 | 2024-03-07 17:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2024-03-07 20:42 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | db: add composite index |
+| 2024-03-08 07:25 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: add user authentication endpoint |
