@@ -12140,3 +12140,4 @@
 | 2024-03-08 13:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add export to CSV/Excel |
 | 2024-03-08 13:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: implement caching layer |
 | 2024-03-08 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: add audit log trail |
+| 2024-03-08 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | test: mock external dependencies in tests |
