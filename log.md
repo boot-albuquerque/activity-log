@@ -12139,3 +12139,4 @@
 | 2024-03-08 13:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2024-03-08 13:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add export to CSV/Excel |
 | 2024-03-08 13:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: implement caching layer |
+| 2024-03-08 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | feat: add audit log trail |
