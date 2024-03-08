@@ -12137,3 +12137,4 @@
 | 2024-03-08 08:32 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | fix: handle missing environment variable |
 | 2024-03-08 09:29 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | feat: implement rate limiting middleware |
 | 2024-03-08 13:10 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | feat: create dashboard metrics endpoint |
+| 2024-03-08 13:43 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add export to CSV/Excel |
