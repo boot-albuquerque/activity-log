@@ -12145,3 +12145,4 @@
 | 2024-03-08 19:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add export to CSV/Excel |
 | 2024-03-09 18:07 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | security: update SSL certificates config |
 | 2024-03-09 18:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | feat: add file upload support |
+| 2024-03-09 19:57 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: simplify authentication flow |
