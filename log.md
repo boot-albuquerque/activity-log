@@ -12143,3 +12143,4 @@
 | 2024-03-08 14:03 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | test: mock external dependencies in tests |
 | 2024-03-08 14:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/add-caching` | security: update SSL certificates config |
 | 2024-03-08 19:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | feat: add export to CSV/Excel |
+| 2024-03-09 18:07 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | security: update SSL certificates config |
