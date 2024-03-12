@@ -12156,3 +12156,4 @@
 | 2024-03-11 15:16 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | fix: handle missing environment variable |
 | 2024-03-11 15:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | fix: correct decimal precision in billing |
 | 2024-03-11 20:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | docs: update API documentation |
+| 2024-03-11 22:58 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/rate-limiting` | refactor: simplify authentication flow |
