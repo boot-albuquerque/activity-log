@@ -12164,3 +12164,4 @@
 | 2024-03-12 23:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | infra: add Kubernetes manifests |
 | 2024-03-13 07:58 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | fix: correct cache invalidation logic |
 | 2024-03-13 08:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v1.0` | style: fix indentation and whitespace |
+| 2024-03-13 11:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | refactor: consolidate error handling |
