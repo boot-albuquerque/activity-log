@@ -12161,3 +12161,4 @@
 | 2024-03-12 07:06 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | docs: update API documentation |
 | 2024-03-12 09:13 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | perf: implement response compression |
 | 2024-03-12 10:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | perf: add database indexes |
+| 2024-03-12 23:54 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/typo-response` | infra: add Kubernetes manifests |
