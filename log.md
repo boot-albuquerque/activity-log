@@ -12167,3 +12167,4 @@
 | 2024-03-13 11:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | refactor: consolidate error handling |
 | 2024-03-13 14:55 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/cleanup` | refactor: split large controller into smaller ones |
 | 2024-03-13 16:14 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
+| 2024-03-13 23:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
