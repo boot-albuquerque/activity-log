@@ -12176,3 +12176,4 @@
 | 2024-03-15 14:47 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: resolve race condition in queue worker |
 | 2024-03-15 16:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create order processing service |
 | 2024-03-15 19:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
+| 2024-03-15 19:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct decimal precision in billing |
