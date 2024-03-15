@@ -12170,3 +12170,4 @@
 | 2024-03-13 23:19 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2024-03-13 23:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
 | 2024-03-15 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/typo-response` | refactor: move constants to config module |
+| 2024-03-15 09:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | refactor: replace raw SQL with query builder |
