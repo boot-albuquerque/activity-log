@@ -12177,3 +12177,4 @@
 | 2024-03-15 16:11 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | feat: create order processing service |
 | 2024-03-15 19:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2024-03-15 19:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct decimal precision in billing |
+| 2024-03-16 13:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | fix: handle missing environment variable |
