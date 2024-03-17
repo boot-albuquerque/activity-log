@@ -12179,3 +12179,4 @@
 | 2024-03-15 19:49 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | fix: correct decimal precision in billing |
 | 2024-03-16 13:20 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | fix: handle missing environment variable |
 | 2024-03-16 13:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | fix: handle missing environment variable |
+| 2024-03-17 00:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/add-caching` | fix: correct decimal precision in billing |
