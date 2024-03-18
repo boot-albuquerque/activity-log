@@ -12189,3 +12189,4 @@
 | 2024-03-18 13:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | chore: add Docker Compose for local dev |
 | 2024-03-18 13:49 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | security: add input sanitization |
 | 2024-03-18 14:00 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v3.0` | feat: implement caching layer |
+| 2024-03-18 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: add file upload support |
