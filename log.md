@@ -12187,3 +12187,4 @@
 | 2024-03-18 09:15 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2024-03-18 10:04 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | test: cover edge cases in validator |
 | 2024-03-18 13:36 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | chore: add Docker Compose for local dev |
+| 2024-03-18 13:49 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | security: add input sanitization |
