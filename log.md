@@ -12192,3 +12192,4 @@
 | 2024-03-18 15:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/null-pointer` | feat: add file upload support |
 | 2024-03-18 16:53 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | security: add input sanitization |
 | 2024-03-18 21:07 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: create dashboard metrics endpoint |
+| 2024-03-19 08:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: implement JWT refresh token |
