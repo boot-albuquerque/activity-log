@@ -12194,3 +12194,4 @@
 | 2024-03-18 21:07 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | feat: create dashboard metrics endpoint |
 | 2024-03-19 08:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: implement JWT refresh token |
 | 2024-03-20 08:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | infra: update Terraform modules |
+| 2024-03-20 10:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: configure GitHub Actions CI |
