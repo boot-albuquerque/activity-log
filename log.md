@@ -12195,3 +12195,4 @@
 | 2024-03-19 08:37 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/refactor-queries` | feat: implement JWT refresh token |
 | 2024-03-20 08:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/memory-leak` | infra: update Terraform modules |
 | 2024-03-20 10:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: configure GitHub Actions CI |
+| 2024-03-21 16:40 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
