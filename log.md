@@ -12198,3 +12198,4 @@
 | 2024-03-21 16:40 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2024-03-21 20:26 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | fix: handle missing environment variable |
 | 2024-03-21 20:33 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v2.0` | feat: create dashboard metrics endpoint |
+| 2024-03-21 21:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | fix: correct decimal precision in billing |
