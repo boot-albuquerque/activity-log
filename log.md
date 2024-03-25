@@ -12201,3 +12201,4 @@
 | 2024-03-21 21:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | fix: correct decimal precision in billing |
 | 2024-03-22 21:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | feat: implement soft delete pattern |
 | 2024-03-23 12:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | fix: handle timeout in async operation |
+| 2024-03-25 08:24 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
