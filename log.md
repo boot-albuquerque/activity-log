@@ -12209,3 +12209,4 @@
 | 2024-03-26 10:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add pagination to list endpoint |
 | 2024-03-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: consolidate error handling |
 | 2024-03-26 13:18 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | security: update SSL certificates config |
+| 2024-03-26 13:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: add audit log trail |
