@@ -12208,3 +12208,4 @@
 | 2024-03-25 23:32 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2024-03-26 10:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add pagination to list endpoint |
 | 2024-03-26 11:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | refactor: consolidate error handling |
+| 2024-03-26 13:18 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | security: update SSL certificates config |
