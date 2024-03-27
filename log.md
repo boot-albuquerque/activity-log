@@ -12212,3 +12212,4 @@
 | 2024-03-26 13:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: add audit log trail |
 | 2024-03-26 19:10 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2024-03-26 19:18 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | refactor: extract business logic to service layer |
+| 2024-03-27 13:36 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | chore: add Docker Compose for local dev |
