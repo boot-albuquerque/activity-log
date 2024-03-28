@@ -12215,3 +12215,4 @@
 | 2024-03-27 13:36 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | chore: add Docker Compose for local dev |
 | 2024-03-28 08:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | fix: correct pagination offset calculation |
 | 2024-03-28 17:34 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
+| 2024-03-28 17:47 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: correct validation error messages |
