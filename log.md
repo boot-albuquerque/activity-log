@@ -12214,3 +12214,4 @@
 | 2024-03-26 19:18 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | refactor: extract business logic to service layer |
 | 2024-03-27 13:36 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | chore: add Docker Compose for local dev |
 | 2024-03-28 08:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/rate-limiting` | fix: correct pagination offset calculation |
+| 2024-03-28 17:34 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
