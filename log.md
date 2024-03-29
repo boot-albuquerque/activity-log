@@ -12218,3 +12218,4 @@
 | 2024-03-28 17:47 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | fix: correct validation error messages |
 | 2024-03-28 19:59 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/typo-response` | fix: resolve N+1 query problem |
 | 2024-03-28 20:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | test: add unit tests for payment service |
+| 2024-03-28 23:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | test: cover edge cases in validator |
