@@ -12220,3 +12220,4 @@
 | 2024-03-28 20:13 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | test: add unit tests for payment service |
 | 2024-03-28 23:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/pagination` | test: cover edge cases in validator |
 | 2024-03-29 15:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | feat: add export to CSV/Excel |
+| 2024-03-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/critical-fix` | fix: handle empty response from external API |
