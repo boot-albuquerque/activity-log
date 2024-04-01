@@ -12223,3 +12223,4 @@
 | 2024-03-30 13:31 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `hotfix/critical-fix` | fix: handle empty response from external API |
 | 2024-03-30 18:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | refactor: replace raw SQL with query builder |
 | 2024-04-01 09:59 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v3.0` | fix: handle edge case in date parsing |
+| 2024-04-01 12:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/race-condition` | fix: correct null check in user service |
