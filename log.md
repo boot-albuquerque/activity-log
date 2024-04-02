@@ -12235,3 +12235,4 @@
 | 2024-04-02 08:37 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | feat: create health check endpoint |
 | 2024-04-02 09:24 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
 | 2024-04-02 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | feat: create admin management interface |
+| 2024-04-02 12:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: add performance benchmark tests |
