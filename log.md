@@ -12230,3 +12230,4 @@
 | 2024-04-01 20:40 | MacBook-Pro-de-Lucas | Local | `config-files` | `develop` | chore: configure ESLint and Prettier |
 | 2024-04-01 22:58 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | feat: create background job processor |
 | 2024-04-02 00:47 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v1.0` | feat: implement JWT refresh token |
+| 2024-04-02 07:38 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | test: fix flaky test in async handler |
