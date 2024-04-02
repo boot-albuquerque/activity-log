@@ -12237,3 +12237,4 @@
 | 2024-04-02 11:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | feat: create admin management interface |
 | 2024-04-02 12:01 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | test: add performance benchmark tests |
 | 2024-04-02 13:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | feat: create dashboard metrics endpoint |
+| 2024-04-02 14:06 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | fix: resolve CORS configuration |
