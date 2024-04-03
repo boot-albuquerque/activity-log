@@ -12244,3 +12244,4 @@
 | 2024-04-02 17:41 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | fix: handle empty response from external API |
 | 2024-04-02 18:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | docs: update API documentation |
 | 2024-04-02 23:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | refactor: reduce cyclomatic complexity |
+| 2024-04-03 10:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle missing environment variable |
