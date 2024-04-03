@@ -12246,3 +12246,4 @@
 | 2024-04-02 23:26 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | refactor: reduce cyclomatic complexity |
 | 2024-04-03 10:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2024-04-03 13:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | fix: handle empty response from external API |
+| 2024-04-03 18:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | chore: add pre-commit hooks |
