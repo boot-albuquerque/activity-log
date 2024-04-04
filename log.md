@@ -12249,3 +12249,4 @@
 | 2024-04-03 18:30 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2024-04-03 20:47 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | docs: update API documentation |
 | 2024-04-03 20:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `hotfix/prod-issue` | test: improve test coverage to 80% |
+| 2024-04-03 21:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | chore: add pre-commit hooks |
