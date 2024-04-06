@@ -12254,3 +12254,4 @@
 | 2024-04-05 07:59 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/prod-issue` | security: update SSL certificates config |
 | 2024-04-05 08:46 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/null-pointer` | refactor: clean up unused imports |
 | 2024-04-05 14:59 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v2.0` | fix: correct validation error messages |
+| 2024-04-06 10:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/auth-improvements` | fix: handle malformed JSON input |
