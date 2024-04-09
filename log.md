@@ -12258,3 +12258,4 @@
 | 2024-04-06 12:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | fix: resolve deadlock in transaction |
 | 2024-04-07 11:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | refactor: improve code readability |
 | 2024-04-08 16:49 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add file upload support |
+| 2024-04-09 13:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | test: cover edge cases in validator |
