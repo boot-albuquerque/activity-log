@@ -12260,3 +12260,4 @@
 | 2024-04-08 16:49 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add file upload support |
 | 2024-04-09 13:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | test: cover edge cases in validator |
 | 2024-04-09 14:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | feat: implement JWT refresh token |
+| 2024-04-09 15:43 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | feat: add email notification on status change |
