@@ -12259,3 +12259,4 @@
 | 2024-04-07 11:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | refactor: improve code readability |
 | 2024-04-08 16:49 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add file upload support |
 | 2024-04-09 13:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | test: cover edge cases in validator |
+| 2024-04-09 14:36 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/race-condition` | feat: implement JWT refresh token |
