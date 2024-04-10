@@ -12276,3 +12276,4 @@
 | 2024-04-10 16:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/update-deps` | chore: update dependencies |
 | 2024-04-10 16:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | perf: optimize database queries |
 | 2024-04-10 17:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
+| 2024-04-10 19:22 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
