@@ -12264,3 +12264,4 @@
 | 2024-04-09 15:54 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | chore: add Docker Compose for local dev |
 | 2024-04-09 16:33 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/rate-limiting` | feat: add OpenAPI documentation |
 | 2024-04-09 16:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add OpenAPI documentation |
+| 2024-04-09 21:08 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create admin management interface |
