@@ -12266,3 +12266,4 @@
 | 2024-04-09 16:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | feat: add OpenAPI documentation |
 | 2024-04-09 21:08 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create admin management interface |
 | 2024-04-09 22:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | perf: implement response compression |
+| 2024-04-10 09:39 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | fix: resolve race condition in queue worker |
