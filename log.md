@@ -12278,3 +12278,4 @@
 | 2024-04-10 17:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | chore: configure GitHub Actions CI |
 | 2024-04-10 19:22 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: replace raw SQL with query builder |
 | 2024-04-10 22:36 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | refactor: improve code readability |
+| 2024-04-10 22:53 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | fix: correct cache invalidation logic |
