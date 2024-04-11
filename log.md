@@ -12288,3 +12288,4 @@
 | 2024-04-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: create order processing service |
 | 2024-04-11 16:35 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2024-04-11 17:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | security: update SSL certificates config |
+| 2024-04-11 19:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | chore: configure GitHub Actions CI |
