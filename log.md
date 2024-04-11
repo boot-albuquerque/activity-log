@@ -12286,3 +12286,4 @@
 | 2024-04-11 09:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | perf: implement response compression |
 | 2024-04-11 12:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: handle missing environment variable |
 | 2024-04-11 13:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | feat: create order processing service |
+| 2024-04-11 16:35 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | chore: add pre-commit hooks |
