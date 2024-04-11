@@ -12284,3 +12284,4 @@
 | 2024-04-11 00:17 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2024-04-11 08:45 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | refactor: reduce cyclomatic complexity |
 | 2024-04-11 09:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | perf: implement response compression |
+| 2024-04-11 12:42 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v1.0` | fix: handle missing environment variable |
