@@ -12293,3 +12293,4 @@
 | 2024-04-11 22:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | fix: correct null check in user service |
 | 2024-04-11 22:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: implement rate limiting middleware |
 | 2024-04-12 08:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `chore/update-deps` | docs: add README setup instructions |
+| 2024-04-12 11:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v2.0` | feat: add audit log trail |
