@@ -12290,3 +12290,4 @@
 | 2024-04-11 17:14 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | security: update SSL certificates config |
 | 2024-04-11 19:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2024-04-11 19:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | test: cover edge cases in validator |
+| 2024-04-11 22:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | fix: correct null check in user service |
