@@ -12291,3 +12291,4 @@
 | 2024-04-11 19:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2024-04-11 19:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2024-04-11 22:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | fix: correct null check in user service |
+| 2024-04-11 22:32 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | feat: implement rate limiting middleware |
