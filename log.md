@@ -12308,3 +12308,4 @@
 | 2024-04-15 18:41 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2024-04-15 20:58 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | db: add migration for new schema |
 | 2024-04-16 19:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | style: fix indentation and whitespace |
+| 2024-04-17 10:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | feat: add search with filters |
