@@ -12310,3 +12310,4 @@
 | 2024-04-16 19:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | style: fix indentation and whitespace |
 | 2024-04-17 10:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | feat: add search with filters |
 | 2024-04-17 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: resolve deadlock in transaction |
+| 2024-04-17 17:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: handle malformed JSON input |
