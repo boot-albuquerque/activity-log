@@ -12311,3 +12311,4 @@
 | 2024-04-17 10:01 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | feat: add search with filters |
 | 2024-04-17 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: resolve deadlock in transaction |
 | 2024-04-17 17:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: handle malformed JSON input |
+| 2024-04-17 23:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: implement rate limiting middleware |
