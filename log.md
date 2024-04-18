@@ -12312,3 +12312,4 @@
 | 2024-04-17 15:42 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | fix: resolve deadlock in transaction |
 | 2024-04-17 17:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | fix: handle malformed JSON input |
 | 2024-04-17 23:51 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/auth-improvements` | feat: implement rate limiting middleware |
+| 2024-04-18 00:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v1.0` | db: add composite index |
