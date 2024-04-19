@@ -12317,3 +12317,4 @@
 | 2024-04-18 14:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/rate-limiting` | fix: correct validation error messages |
 | 2024-04-18 18:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | ci: configure staging environment |
 | 2024-04-18 19:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | feat: add file upload support |
+| 2024-04-18 21:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | infra: update Terraform modules |
