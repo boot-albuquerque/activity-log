@@ -12318,3 +12318,4 @@
 | 2024-04-18 18:26 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | ci: configure staging environment |
 | 2024-04-18 19:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | feat: add file upload support |
 | 2024-04-18 21:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | infra: update Terraform modules |
+| 2024-04-19 14:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | fix: handle empty response from external API |
