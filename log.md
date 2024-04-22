@@ -12322,3 +12322,4 @@
 | 2024-04-22 00:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
 | 2024-04-22 12:59 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | refactor: move constants to config module |
 | 2024-04-22 13:40 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | feat: create order processing service |
+| 2024-04-22 17:19 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | refactor: extract business logic to service layer |
