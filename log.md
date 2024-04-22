@@ -12319,3 +12319,4 @@
 | 2024-04-18 19:40 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | feat: add file upload support |
 | 2024-04-18 21:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | infra: update Terraform modules |
 | 2024-04-19 14:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | fix: handle empty response from external API |
+| 2024-04-22 00:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | refactor: adopt repository pattern |
