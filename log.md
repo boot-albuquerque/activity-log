@@ -12326,3 +12326,4 @@
 | 2024-04-22 18:17 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `refactor/extract-service` | chore: configure GitHub Actions CI |
 | 2024-04-22 21:58 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/add-caching` | test: add performance benchmark tests |
 | 2024-04-22 23:58 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/new-endpoint` | fix: correct pagination offset calculation |
+| 2024-04-23 10:32 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | docs: add README setup instructions |
