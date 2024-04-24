@@ -12329,3 +12329,4 @@
 | 2024-04-23 10:32 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | docs: add README setup instructions |
 | 2024-04-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2024-04-23 12:18 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | security: update SSL certificates config |
+| 2024-04-23 21:25 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: add email notification on status change |
