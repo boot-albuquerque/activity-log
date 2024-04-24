@@ -12333,3 +12333,4 @@
 | 2024-04-23 21:51 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | style: fix indentation and whitespace |
 | 2024-04-24 09:21 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | refactor: improve code readability |
 | 2024-04-24 10:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: mock external dependencies in tests |
+| 2024-04-24 11:14 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/auth-improvements` | docs: document environment variables |
