@@ -12341,3 +12341,4 @@
 | 2024-04-25 10:04 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | style: format code according to style guide |
 | 2024-04-25 14:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: add user authentication endpoint |
 | 2024-04-25 14:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2024-04-25 14:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: correct null check in user service |
