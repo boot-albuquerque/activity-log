@@ -12344,3 +12344,4 @@
 | 2024-04-25 14:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: correct null check in user service |
 | 2024-04-25 14:53 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/new-endpoint` | refactor: move constants to config module |
 | 2024-04-25 21:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
+| 2024-04-26 15:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: implement JWT refresh token |
