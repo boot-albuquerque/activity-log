@@ -12346,3 +12346,4 @@
 | 2024-04-25 21:41 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2024-04-26 15:54 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v1.0` | feat: implement JWT refresh token |
 | 2024-04-28 11:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | perf: add database indexes |
+| 2024-04-28 14:50 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v1.0` | fix: handle malformed JSON input |
