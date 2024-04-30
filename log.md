@@ -12350,3 +12350,4 @@
 | 2024-04-28 15:46 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | fix: resolve race condition in queue worker |
 | 2024-04-28 18:05 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2024-04-28 22:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | db: optimize slow queries |
+| 2024-04-30 07:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: handle edge case in date parsing |
