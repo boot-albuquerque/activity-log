@@ -12352,3 +12352,4 @@
 | 2024-04-28 22:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | db: optimize slow queries |
 | 2024-04-30 07:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | fix: handle edge case in date parsing |
 | 2024-04-30 10:24 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
+| 2024-04-30 12:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
