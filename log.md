@@ -12355,3 +12355,4 @@
 | 2024-04-30 12:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/new-endpoint` | feat: implement webhook receiver |
 | 2024-04-30 13:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | chore: update dependencies |
 | 2024-04-30 14:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | fix: resolve CORS configuration |
+| 2024-04-30 15:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add user authentication endpoint |
