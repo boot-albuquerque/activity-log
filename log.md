@@ -12359,3 +12359,4 @@
 | 2024-04-30 15:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | refactor: improve code readability |
 | 2024-04-30 22:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2024-05-01 10:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: add search with filters |
+| 2024-05-01 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | refactor: improve code readability |
