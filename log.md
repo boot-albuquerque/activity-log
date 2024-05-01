@@ -12357,3 +12357,4 @@
 | 2024-04-30 14:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | fix: resolve CORS configuration |
 | 2024-04-30 15:01 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | feat: add user authentication endpoint |
 | 2024-04-30 15:50 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | refactor: improve code readability |
+| 2024-04-30 22:13 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: add Docker Compose for local dev |
