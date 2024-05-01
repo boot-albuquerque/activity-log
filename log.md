@@ -12361,3 +12361,4 @@
 | 2024-05-01 10:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: add search with filters |
 | 2024-05-01 11:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | refactor: improve code readability |
 | 2024-05-01 14:00 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | perf: reduce bundle size |
+| 2024-05-01 17:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
