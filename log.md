@@ -12363,3 +12363,4 @@
 | 2024-05-01 14:00 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | perf: reduce bundle size |
 | 2024-05-01 17:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2024-05-01 19:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | chore: add pre-commit hooks |
+| 2024-05-02 12:12 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | chore: configure ESLint and Prettier |
