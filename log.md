@@ -12381,3 +12381,4 @@
 | 2024-05-03 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | infra: configure auto-scaling policies |
 | 2024-05-03 14:28 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2024-05-03 17:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | refactor: clean up unused imports |
+| 2024-05-03 19:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | ci: add automated deployment pipeline |
