@@ -12378,3 +12378,4 @@
 | 2024-05-03 09:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/new-endpoint` | feat: implement caching layer |
 | 2024-05-03 10:37 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: create dashboard metrics endpoint |
 | 2024-05-03 11:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/refactor-queries` | fix: resolve CORS configuration |
+| 2024-05-03 13:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | infra: configure auto-scaling policies |
