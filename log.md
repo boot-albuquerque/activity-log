@@ -12391,3 +12391,4 @@
 | 2024-05-06 15:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: add pagination to list endpoint |
 | 2024-05-06 15:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: handle malformed JSON input |
 | 2024-05-06 20:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | refactor: move constants to config module |
+| 2024-05-06 20:42 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v3.0` | docs: update API documentation |
