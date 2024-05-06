@@ -12388,3 +12388,4 @@
 | 2024-05-05 13:23 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | security: fix SQL injection vulnerability |
 | 2024-05-06 08:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | infra: update Terraform modules |
 | 2024-05-06 08:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | fix: handle malformed JSON input |
+| 2024-05-06 15:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: add pagination to list endpoint |
