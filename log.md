@@ -12389,3 +12389,4 @@
 | 2024-05-06 08:29 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/extract-service` | infra: update Terraform modules |
 | 2024-05-06 08:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | fix: handle malformed JSON input |
 | 2024-05-06 15:30 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/rate-limiting` | feat: add pagination to list endpoint |
+| 2024-05-06 15:55 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | fix: handle malformed JSON input |
