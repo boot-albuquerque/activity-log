@@ -12396,3 +12396,4 @@
 | 2024-05-07 18:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | infra: update Terraform modules |
 | 2024-05-08 10:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | test: add unit tests for payment service |
 | 2024-05-08 13:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: improve test coverage to 80% |
+| 2024-05-08 14:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `chore/cleanup` | feat: implement JWT refresh token |
