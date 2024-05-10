@@ -12420,3 +12420,4 @@
 | 2024-05-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | ci: configure staging environment |
 | 2024-05-10 14:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | perf: reduce bundle size |
 | 2024-05-10 17:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | refactor: split large controller into smaller ones |
+| 2024-05-10 19:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | infra: add Kubernetes manifests |
