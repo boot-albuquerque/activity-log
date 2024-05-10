@@ -12411,3 +12411,4 @@
 | 2024-05-09 17:58 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/update-deps` | refactor: split large controller into smaller ones |
 | 2024-05-09 18:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | docs: document environment variables |
 | 2024-05-09 21:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/null-pointer` | chore: configure ESLint and Prettier |
+| 2024-05-09 21:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add file upload support |
