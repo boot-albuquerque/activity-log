@@ -12414,3 +12414,4 @@
 | 2024-05-09 21:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add file upload support |
 | 2024-05-10 07:27 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/rate-limiting` | test: add e2e tests for checkout flow |
 | 2024-05-10 08:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `main` | infra: configure auto-scaling policies |
+| 2024-05-10 09:52 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | feat: implement soft delete pattern |
