@@ -12418,3 +12418,4 @@
 | 2024-05-10 10:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | feat: create background job processor |
 | 2024-05-10 12:34 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/race-condition` | feat: add search with filters |
 | 2024-05-10 12:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | ci: configure staging environment |
+| 2024-05-10 14:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | perf: reduce bundle size |
