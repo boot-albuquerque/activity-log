@@ -12424,3 +12424,4 @@
 | 2024-05-10 20:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | fix: handle malformed JSON input |
 | 2024-05-10 20:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | security: fix SQL injection vulnerability |
 | 2024-05-11 08:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: add search with filters |
+| 2024-05-11 12:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: mock external dependencies in tests |
