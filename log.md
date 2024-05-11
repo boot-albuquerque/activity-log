@@ -12422,3 +12422,4 @@
 | 2024-05-10 17:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2024-05-10 19:11 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/cleanup` | infra: add Kubernetes manifests |
 | 2024-05-10 20:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | fix: handle malformed JSON input |
+| 2024-05-10 20:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | security: fix SQL injection vulnerability |
