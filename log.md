@@ -12425,3 +12425,4 @@
 | 2024-05-10 20:33 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | security: fix SQL injection vulnerability |
 | 2024-05-11 08:25 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | feat: add search with filters |
 | 2024-05-11 12:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: mock external dependencies in tests |
+| 2024-05-11 13:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: move constants to config module |
