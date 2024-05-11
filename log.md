@@ -12427,3 +12427,4 @@
 | 2024-05-11 12:29 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2024-05-11 13:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | refactor: move constants to config module |
 | 2024-05-11 16:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | test: mock external dependencies in tests |
+| 2024-05-11 16:11 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: cover edge cases in validator |
