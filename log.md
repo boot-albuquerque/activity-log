@@ -12431,3 +12431,4 @@
 | 2024-05-11 21:34 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | feat: implement caching layer |
 | 2024-05-12 16:55 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/null-pointer` | feat: add pagination to list endpoint |
 | 2024-05-12 20:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | test: cover edge cases in validator |
+| 2024-05-12 20:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | chore: add pre-commit hooks |
