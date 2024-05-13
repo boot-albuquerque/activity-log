@@ -12435,3 +12435,4 @@
 | 2024-05-12 22:03 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | style: format code according to style guide |
 | 2024-05-13 08:29 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/typo-response` | chore: configure GitHub Actions CI |
 | 2024-05-13 09:50 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
+| 2024-05-13 10:06 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: handle missing environment variable |
