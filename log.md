@@ -12443,3 +12443,4 @@
 | 2024-05-13 15:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2024-05-13 15:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: correct pagination offset calculation |
 | 2024-05-13 18:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | fix: resolve deadlock in transaction |
+| 2024-05-13 20:01 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | test: cover edge cases in validator |
