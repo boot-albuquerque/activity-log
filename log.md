@@ -12442,3 +12442,4 @@
 | 2024-05-13 14:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | feat: implement JWT refresh token |
 | 2024-05-13 15:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2024-05-13 15:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | fix: correct pagination offset calculation |
+| 2024-05-13 18:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | fix: resolve deadlock in transaction |
