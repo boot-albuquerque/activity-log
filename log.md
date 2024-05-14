@@ -12447,3 +12447,4 @@
 | 2024-05-13 23:19 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | test: add performance benchmark tests |
 | 2024-05-14 00:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2024-05-14 14:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: split large controller into smaller ones |
+| 2024-05-14 18:58 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: add search with filters |
