@@ -12445,3 +12445,4 @@
 | 2024-05-13 18:20 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | fix: resolve deadlock in transaction |
 | 2024-05-13 20:01 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | test: cover edge cases in validator |
 | 2024-05-13 23:19 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/rate-limiting` | test: add performance benchmark tests |
+| 2024-05-14 00:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | fix: resolve N+1 query problem |
