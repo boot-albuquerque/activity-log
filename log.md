@@ -12448,3 +12448,4 @@
 | 2024-05-14 00:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2024-05-14 14:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | refactor: split large controller into smaller ones |
 | 2024-05-14 18:58 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: add search with filters |
+| 2024-05-14 22:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | fix: handle malformed JSON input |
