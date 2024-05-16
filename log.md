@@ -12460,3 +12460,4 @@
 | 2024-05-16 14:06 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/critical-fix` | feat: implement soft delete pattern |
 | 2024-05-16 14:09 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | fix: correct pagination offset calculation |
 | 2024-05-16 16:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
+| 2024-05-16 19:56 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | refactor: move constants to config module |
