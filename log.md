@@ -12456,3 +12456,4 @@
 | 2024-05-16 11:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | test: add unit tests for payment service |
 | 2024-05-16 12:29 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/cleanup` | feat: implement rate limiting middleware |
 | 2024-05-16 13:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | fix: correct decimal precision in billing |
+| 2024-05-16 13:48 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: add OpenAPI documentation |
