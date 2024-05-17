@@ -12466,3 +12466,4 @@
 | 2024-05-17 15:14 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | style: format code according to style guide |
 | 2024-05-17 16:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | docs: add README setup instructions |
 | 2024-05-17 18:12 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | refactor: move constants to config module |
+| 2024-05-17 18:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | fix: resolve race condition in queue worker |
