@@ -12462,3 +12462,4 @@
 | 2024-05-16 16:46 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
 | 2024-05-16 19:56 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2024-05-17 09:12 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | feat: add audit log trail |
+| 2024-05-17 09:24 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: add Docker Compose for local dev |
