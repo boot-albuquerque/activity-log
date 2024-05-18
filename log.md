@@ -12467,3 +12467,4 @@
 | 2024-05-17 16:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | docs: add README setup instructions |
 | 2024-05-17 18:12 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/pagination` | refactor: move constants to config module |
 | 2024-05-17 18:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2024-05-18 14:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | test: improve test coverage to 80% |
