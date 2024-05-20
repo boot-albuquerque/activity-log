@@ -12469,3 +12469,4 @@
 | 2024-05-17 18:34 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2024-05-18 14:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v3.0` | test: improve test coverage to 80% |
 | 2024-05-18 19:56 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2024-05-20 15:21 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | chore: configure GitHub Actions CI |
