@@ -12480,3 +12480,4 @@
 | 2024-05-21 13:32 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/pagination` | refactor: split large controller into smaller ones |
 | 2024-05-21 15:00 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | style: fix indentation and whitespace |
 | 2024-05-21 15:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | fix: handle edge case in date parsing |
+| 2024-05-21 15:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | test: cover edge cases in validator |
