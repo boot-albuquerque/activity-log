@@ -12489,3 +12489,4 @@
 | 2024-05-22 12:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | feat: implement webhook receiver |
 | 2024-05-22 13:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add search with filters |
 | 2024-05-22 13:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | fix: resolve CORS configuration |
+| 2024-05-22 14:33 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | feat: add file upload support |
