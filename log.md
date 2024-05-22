@@ -12486,3 +12486,4 @@
 | 2024-05-22 07:00 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | test: add e2e tests for checkout flow |
 | 2024-05-22 09:31 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | docs: update API documentation |
 | 2024-05-22 09:37 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | test: mock external dependencies in tests |
+| 2024-05-22 12:54 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v2.0` | feat: implement webhook receiver |
