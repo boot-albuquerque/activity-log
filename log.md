@@ -12490,3 +12490,4 @@
 | 2024-05-22 13:19 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add search with filters |
 | 2024-05-22 13:49 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | fix: resolve CORS configuration |
 | 2024-05-22 14:33 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `hotfix/prod-issue` | feat: add file upload support |
+| 2024-05-22 15:30 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | refactor: move constants to config module |
