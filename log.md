@@ -12500,3 +12500,4 @@
 | 2024-05-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | refactor: split large controller into smaller ones |
 | 2024-05-23 11:27 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: resolve memory leak in connection pool |
 | 2024-05-23 12:08 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v3.0` | test: cover edge cases in validator |
+| 2024-05-23 12:21 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | fix: correct validation error messages |
