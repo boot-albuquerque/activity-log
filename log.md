@@ -12504,3 +12504,4 @@
 | 2024-05-23 12:45 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | refactor: clean up unused imports |
 | 2024-05-23 16:29 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/add-caching` | infra: update Terraform modules |
 | 2024-05-23 17:39 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | refactor: move constants to config module |
+| 2024-05-23 19:46 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | feat: add export to CSV/Excel |
