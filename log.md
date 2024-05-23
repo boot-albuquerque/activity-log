@@ -12498,3 +12498,4 @@
 | 2024-05-23 08:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | feat: add search with filters |
 | 2024-05-23 09:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2024-05-23 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/add-caching` | refactor: split large controller into smaller ones |
+| 2024-05-23 11:27 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: resolve memory leak in connection pool |
