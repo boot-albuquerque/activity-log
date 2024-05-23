@@ -12496,3 +12496,4 @@
 | 2024-05-22 21:14 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | security: fix SQL injection vulnerability |
 | 2024-05-23 07:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2024-05-23 08:11 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/update-deps` | feat: add search with filters |
+| 2024-05-23 09:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | fix: correct decimal precision in billing |
