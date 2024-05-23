@@ -12494,3 +12494,4 @@
 | 2024-05-22 17:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | docs: update API documentation |
 | 2024-05-22 18:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | fix: handle empty response from external API |
 | 2024-05-22 21:14 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | security: fix SQL injection vulnerability |
+| 2024-05-23 07:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | feat: implement rate limiting middleware |
