@@ -12493,3 +12493,4 @@
 | 2024-05-22 15:30 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | refactor: move constants to config module |
 | 2024-05-22 17:19 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | docs: update API documentation |
 | 2024-05-22 18:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | fix: handle empty response from external API |
+| 2024-05-22 21:14 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | security: fix SQL injection vulnerability |
