@@ -12508,3 +12508,4 @@
 | 2024-05-23 20:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2024-05-24 10:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | feat: create admin management interface |
 | 2024-05-24 10:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | fix: handle missing environment variable |
+| 2024-05-24 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
