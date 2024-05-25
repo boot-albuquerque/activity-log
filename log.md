@@ -12510,3 +12510,4 @@
 | 2024-05-24 10:16 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `refactor/clean-architecture` | fix: handle missing environment variable |
 | 2024-05-24 20:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2024-05-24 20:45 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | security: add input sanitization |
+| 2024-05-25 16:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | chore: update dependencies |
