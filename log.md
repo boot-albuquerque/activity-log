@@ -12525,3 +12525,4 @@
 | 2024-05-27 14:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2024-05-27 16:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | perf: implement response compression |
 | 2024-05-27 16:39 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | feat: add OpenAPI documentation |
+| 2024-05-27 18:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | test: add integration tests for API endpoints |
