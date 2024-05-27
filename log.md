@@ -12517,3 +12517,4 @@
 | 2024-05-26 15:41 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/pagination` | test: add integration tests for API endpoints |
 | 2024-05-26 17:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `chore/update-deps` | fix: resolve memory leak in connection pool |
 | 2024-05-27 00:12 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: consolidate error handling |
+| 2024-05-27 10:04 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | perf: add database indexes |
