@@ -12528,3 +12528,4 @@
 | 2024-05-27 18:05 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | test: add integration tests for API endpoints |
 | 2024-05-27 19:03 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/pagination` | fix: resolve N+1 query problem |
 | 2024-05-28 00:16 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | fix: correct null check in user service |
+| 2024-05-28 00:30 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: implement caching layer |
