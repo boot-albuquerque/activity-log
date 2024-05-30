@@ -12548,3 +12548,4 @@
 | 2024-05-30 08:56 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | fix: correct null check in user service |
 | 2024-05-30 11:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2024-05-30 13:21 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | refactor: adopt repository pattern |
+| 2024-05-30 14:35 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | feat: add pagination to list endpoint |
