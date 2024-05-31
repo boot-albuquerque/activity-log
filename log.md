@@ -12554,3 +12554,4 @@
 | 2024-05-31 07:44 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | feat: add bulk operations support |
 | 2024-05-31 14:36 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | feat: implement JWT refresh token |
 | 2024-05-31 15:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `develop` | refactor: replace raw SQL with query builder |
+| 2024-05-31 15:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
