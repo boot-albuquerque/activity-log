@@ -12559,3 +12559,4 @@
 | 2024-05-31 22:40 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | test: mock external dependencies in tests |
 | 2024-06-03 11:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | test: add performance benchmark tests |
 | 2024-06-03 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | feat: add bulk operations support |
+| 2024-06-03 13:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | security: update SSL certificates config |
