@@ -12557,3 +12557,4 @@
 | 2024-05-31 15:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2024-05-31 17:06 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | refactor: split large controller into smaller ones |
 | 2024-05-31 22:40 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v3.0` | test: mock external dependencies in tests |
+| 2024-06-03 11:05 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | test: add performance benchmark tests |
