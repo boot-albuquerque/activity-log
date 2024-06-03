@@ -12561,3 +12561,4 @@
 | 2024-06-03 11:13 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v3.0` | feat: add bulk operations support |
 | 2024-06-03 13:27 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | security: update SSL certificates config |
 | 2024-06-03 20:53 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/validation-bug` | fix: correct validation error messages |
+| 2024-06-03 20:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | test: add performance benchmark tests |
