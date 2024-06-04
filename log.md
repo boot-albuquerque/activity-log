@@ -12564,3 +12564,4 @@
 | 2024-06-03 20:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | test: add performance benchmark tests |
 | 2024-06-03 21:02 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
 | 2024-06-03 22:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | feat: add bulk operations support |
+| 2024-06-04 00:55 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | fix: correct null check in user service |
