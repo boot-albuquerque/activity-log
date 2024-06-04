@@ -12570,3 +12570,4 @@
 | 2024-06-04 14:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | feat: add export to CSV/Excel |
 | 2024-06-04 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2024-06-04 15:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | chore: upgrade to latest Node.js LTS |
+| 2024-06-04 17:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: add user authentication endpoint |
