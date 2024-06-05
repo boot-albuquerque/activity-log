@@ -12576,3 +12576,4 @@
 | 2024-06-05 12:51 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | db: add migration for new schema |
 | 2024-06-05 15:00 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2024-06-05 15:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | security: fix SQL injection vulnerability |
+| 2024-06-05 16:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: implement JWT refresh token |
