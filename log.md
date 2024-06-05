@@ -12571,3 +12571,4 @@
 | 2024-06-04 15:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | infra: add Kubernetes manifests |
 | 2024-06-04 15:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | chore: upgrade to latest Node.js LTS |
 | 2024-06-04 17:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/clean-architecture` | feat: add user authentication endpoint |
+| 2024-06-05 09:11 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | feat: implement caching layer |
