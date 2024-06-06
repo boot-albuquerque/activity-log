@@ -12580,3 +12580,4 @@
 | 2024-06-05 17:43 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2024-06-05 17:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | ci: add automated deployment pipeline |
 | 2024-06-05 18:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | refactor: simplify authentication flow |
+| 2024-06-05 22:50 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/clean-architecture` | refactor: extract business logic to service layer |
