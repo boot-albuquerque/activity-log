@@ -12586,3 +12586,4 @@
 | 2024-06-08 10:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2024-06-08 13:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | docs: update API documentation |
 | 2024-06-08 15:35 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `release/v1.0` | feat: implement JWT refresh token |
+| 2024-06-08 19:34 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/race-condition` | fix: handle missing environment variable |
