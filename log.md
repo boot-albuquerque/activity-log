@@ -12584,3 +12584,4 @@
 | 2024-06-06 10:43 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/race-condition` | perf: optimize database queries |
 | 2024-06-06 15:21 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2024-06-08 10:19 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | feat: implement JWT refresh token |
+| 2024-06-08 13:59 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v3.0` | docs: update API documentation |
