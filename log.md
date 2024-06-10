@@ -12594,3 +12594,4 @@
 | 2024-06-10 08:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle malformed JSON input |
 | 2024-06-10 11:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2024-06-10 12:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | fix: resolve CORS configuration |
+| 2024-06-10 14:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | test: add unit tests for payment service |
