@@ -12592,3 +12592,4 @@
 | 2024-06-09 16:04 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/memory-leak` | feat: add search with filters |
 | 2024-06-09 17:15 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | fix: resolve CORS configuration |
 | 2024-06-10 08:07 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | fix: handle malformed JSON input |
+| 2024-06-10 11:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | fix: correct cache invalidation logic |
