@@ -12595,3 +12595,4 @@
 | 2024-06-10 11:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2024-06-10 12:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | fix: resolve CORS configuration |
 | 2024-06-10 14:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | test: add unit tests for payment service |
+| 2024-06-10 15:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | chore: update dependencies |
