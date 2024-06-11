@@ -12597,3 +12597,4 @@
 | 2024-06-10 14:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | test: add unit tests for payment service |
 | 2024-06-10 15:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | chore: update dependencies |
 | 2024-06-10 23:11 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | security: update SSL certificates config |
+| 2024-06-11 00:41 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: improve test coverage to 80% |
