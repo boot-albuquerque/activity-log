@@ -12610,3 +12610,4 @@
 | 2024-06-13 14:35 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | feat: implement rate limiting middleware |
 | 2024-06-13 16:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/pagination` | fix: resolve deadlock in transaction |
 | 2024-06-13 18:52 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | fix: correct validation error messages |
+| 2024-06-13 19:36 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: adopt repository pattern |
