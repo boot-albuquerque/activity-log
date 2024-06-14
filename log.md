@@ -12614,3 +12614,4 @@
 | 2024-06-13 20:32 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `develop` | test: add performance benchmark tests |
 | 2024-06-14 00:41 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/race-condition` | refactor: consolidate error handling |
 | 2024-06-14 10:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: create background job processor |
+| 2024-06-14 11:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: correct pagination offset calculation |
