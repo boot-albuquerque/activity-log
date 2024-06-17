@@ -12616,3 +12616,4 @@
 | 2024-06-14 10:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: create background job processor |
 | 2024-06-14 11:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | fix: correct pagination offset calculation |
 | 2024-06-14 12:55 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: resolve deadlock in transaction |
+| 2024-06-17 07:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | feat: add OpenAPI documentation |
