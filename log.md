@@ -12626,3 +12626,4 @@
 | 2024-06-18 16:24 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `release/v1.0` | feat: create background job processor |
 | 2024-06-18 18:22 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | chore: update dependencies |
 | 2024-06-18 21:18 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | fix: correct null check in user service |
+| 2024-06-18 21:22 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/validation-bug` | infra: update Terraform modules |
