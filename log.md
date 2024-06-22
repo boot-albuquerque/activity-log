@@ -12631,3 +12631,4 @@
 | 2024-06-21 15:24 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | security: update SSL certificates config |
 | 2024-06-22 10:56 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | fix: handle timeout in async operation |
 | 2024-06-22 14:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | docs: document environment variables |
+| 2024-06-22 18:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | feat: implement webhook receiver |
