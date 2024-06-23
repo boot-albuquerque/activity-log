@@ -12633,3 +12633,4 @@
 | 2024-06-22 14:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v2.0` | docs: document environment variables |
 | 2024-06-22 18:28 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | feat: implement webhook receiver |
 | 2024-06-22 22:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | feat: add search with filters |
+| 2024-06-23 10:13 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | refactor: adopt repository pattern |
