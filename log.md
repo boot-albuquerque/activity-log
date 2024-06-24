@@ -12638,3 +12638,4 @@
 | 2024-06-24 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create health check endpoint |
 | 2024-06-24 11:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | db: optimize slow queries |
 | 2024-06-24 12:47 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: add README setup instructions |
+| 2024-06-24 16:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | ci: configure staging environment |
