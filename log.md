@@ -12637,3 +12637,4 @@
 | 2024-06-23 22:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | feat: implement caching layer |
 | 2024-06-24 10:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: create health check endpoint |
 | 2024-06-24 11:36 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | db: optimize slow queries |
+| 2024-06-24 12:47 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: add README setup instructions |
