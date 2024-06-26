@@ -12640,3 +12640,4 @@
 | 2024-06-24 12:47 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | docs: add README setup instructions |
 | 2024-06-24 16:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | ci: configure staging environment |
 | 2024-06-25 20:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/critical-fix` | docs: update API documentation |
+| 2024-06-26 08:53 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
