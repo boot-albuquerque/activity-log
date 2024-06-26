@@ -12651,3 +12651,4 @@
 | 2024-06-26 13:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/critical-fix` | feat: add user authentication endpoint |
 | 2024-06-26 15:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | perf: implement response compression |
 | 2024-06-26 15:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
+| 2024-06-26 16:18 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | test: fix flaky test in async handler |
