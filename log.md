@@ -12661,3 +12661,4 @@
 | 2024-06-27 11:00 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | test: fix flaky test in async handler |
 | 2024-06-27 11:15 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | refactor: extract business logic to service layer |
 | 2024-06-27 11:31 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2024-06-27 11:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | fix: resolve memory leak in connection pool |
