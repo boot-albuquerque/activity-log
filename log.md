@@ -12657,3 +12657,4 @@
 | 2024-06-26 20:39 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | fix: handle malformed JSON input |
 | 2024-06-26 20:48 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | perf: implement response compression |
 | 2024-06-27 08:30 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | test: fix flaky test in async handler |
+| 2024-06-27 10:59 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | refactor: extract business logic to service layer |
