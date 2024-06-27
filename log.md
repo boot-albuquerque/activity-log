@@ -12664,3 +12664,4 @@
 | 2024-06-27 11:54 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/add-caching` | fix: resolve memory leak in connection pool |
 | 2024-06-27 14:42 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: create dashboard metrics endpoint |
 | 2024-06-27 15:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | feat: create dashboard metrics endpoint |
+| 2024-06-27 16:07 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `chore/cleanup` | feat: add export to CSV/Excel |
