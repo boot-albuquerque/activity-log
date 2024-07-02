@@ -12676,3 +12676,4 @@
 | 2024-07-02 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | refactor: consolidate error handling |
 | 2024-07-02 14:24 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: handle edge case in date parsing |
 | 2024-07-02 14:51 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | feat: create admin management interface |
+| 2024-07-02 14:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | refactor: consolidate error handling |
