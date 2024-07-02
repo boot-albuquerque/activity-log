@@ -12679,3 +12679,4 @@
 | 2024-07-02 14:57 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | refactor: consolidate error handling |
 | 2024-07-02 14:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | feat: add pagination to list endpoint |
 | 2024-07-02 15:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | refactor: replace raw SQL with query builder |
+| 2024-07-02 20:34 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/memory-leak` | infra: update Terraform modules |
