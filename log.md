@@ -12684,3 +12684,4 @@
 | 2024-07-02 21:32 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | refactor: split large controller into smaller ones |
 | 2024-07-03 15:14 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | feat: create admin management interface |
 | 2024-07-04 10:19 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | ci: add automated deployment pipeline |
+| 2024-07-04 11:28 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | test: mock external dependencies in tests |
