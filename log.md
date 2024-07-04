@@ -12691,3 +12691,4 @@
 | 2024-07-04 16:26 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | feat: add real-time notifications |
 | 2024-07-04 17:12 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/pagination` | style: fix indentation and whitespace |
 | 2024-07-04 17:25 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
+| 2024-07-04 19:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | db: add migration for new schema |
