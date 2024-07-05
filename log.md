@@ -12693,3 +12693,4 @@
 | 2024-07-04 17:25 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/validation-bug` | fix: resolve memory leak in connection pool |
 | 2024-07-04 19:01 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/refactor-queries` | db: add migration for new schema |
 | 2024-07-04 21:04 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | test: add performance benchmark tests |
+| 2024-07-04 21:19 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | db: optimize slow queries |
