@@ -12700,3 +12700,4 @@
 | 2024-07-06 16:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | ci: configure staging environment |
 | 2024-07-07 19:50 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/pagination` | docs: document environment variables |
 | 2024-07-07 20:32 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v3.0` | test: cover edge cases in validator |
+| 2024-07-08 17:05 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | refactor: extract business logic to service layer |
