@@ -12708,3 +12708,4 @@
 | 2024-07-09 12:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2024-07-09 15:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | chore: add pre-commit hooks |
 | 2024-07-09 16:49 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | refactor: clean up unused imports |
+| 2024-07-10 08:45 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `main` | fix: correct cache invalidation logic |
