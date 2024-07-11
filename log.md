@@ -12721,3 +12721,4 @@
 | 2024-07-11 14:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | feat: implement caching layer |
 | 2024-07-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | chore: update dependencies |
 | 2024-07-11 16:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | fix: resolve race condition in queue worker |
+| 2024-07-11 17:00 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | docs: add README setup instructions |
