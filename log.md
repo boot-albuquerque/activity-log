@@ -12714,3 +12714,4 @@
 | 2024-07-10 15:53 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | style: fix indentation and whitespace |
 | 2024-07-11 07:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2024-07-11 08:31 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | feat: add file upload support |
+| 2024-07-11 08:47 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/cleanup` | db: add migration for new schema |
