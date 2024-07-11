@@ -12720,3 +12720,4 @@
 | 2024-07-11 13:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | ci: configure staging environment |
 | 2024-07-11 14:47 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/memory-leak` | feat: implement caching layer |
 | 2024-07-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | chore: update dependencies |
+| 2024-07-11 16:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | fix: resolve race condition in queue worker |
