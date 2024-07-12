@@ -12723,3 +12723,4 @@
 | 2024-07-11 16:39 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2024-07-11 17:00 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/validation-bug` | docs: add README setup instructions |
 | 2024-07-11 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | chore: add pre-commit hooks |
+| 2024-07-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
