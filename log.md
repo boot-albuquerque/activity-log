@@ -12732,3 +12732,4 @@
 | 2024-07-12 16:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | fix: handle empty response from external API |
 | 2024-07-12 17:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2024-07-12 18:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | feat: add bulk operations support |
+| 2024-07-12 18:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | feat: add pagination to list endpoint |
