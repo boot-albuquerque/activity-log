@@ -12725,3 +12725,4 @@
 | 2024-07-11 17:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/validation-bug` | chore: add pre-commit hooks |
 | 2024-07-11 20:28 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2024-07-12 08:34 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2024-07-12 12:53 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | test: add e2e tests for checkout flow |
