@@ -12729,3 +12729,4 @@
 | 2024-07-12 13:21 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | db: add composite index |
 | 2024-07-12 14:16 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: create order processing service |
 | 2024-07-12 14:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | db: add migration for new schema |
+| 2024-07-12 16:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | fix: handle empty response from external API |
