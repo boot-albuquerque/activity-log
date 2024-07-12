@@ -12728,3 +12728,4 @@
 | 2024-07-12 12:53 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2024-07-12 13:21 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `hotfix/prod-issue` | db: add composite index |
 | 2024-07-12 14:16 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/null-pointer` | feat: create order processing service |
+| 2024-07-12 14:59 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | db: add migration for new schema |
