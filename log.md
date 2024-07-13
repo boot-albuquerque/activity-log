@@ -12733,3 +12733,4 @@
 | 2024-07-12 17:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2024-07-12 18:30 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | feat: add bulk operations support |
 | 2024-07-12 18:40 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | feat: add pagination to list endpoint |
+| 2024-07-12 23:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | refactor: extract business logic to service layer |
