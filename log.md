@@ -12738,3 +12738,4 @@
 | 2024-07-13 21:13 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | feat: implement webhook receiver |
 | 2024-07-14 11:42 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | feat: add search with filters |
 | 2024-07-14 13:19 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/extract-service` | db: add migration for new schema |
+| 2024-07-14 17:12 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/refactor-queries` | refactor: move constants to config module |
