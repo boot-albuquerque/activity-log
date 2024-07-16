@@ -12750,3 +12750,4 @@
 | 2024-07-16 13:10 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/new-endpoint` | feat: implement webhook receiver |
 | 2024-07-16 13:26 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2024-07-16 15:04 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/refactor-queries` | feat: implement rate limiting middleware |
+| 2024-07-16 17:08 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: configure GitHub Actions CI |
