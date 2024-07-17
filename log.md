@@ -12753,3 +12753,4 @@
 | 2024-07-16 17:08 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | chore: configure GitHub Actions CI |
 | 2024-07-16 20:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/typo-response` | test: add integration tests for API endpoints |
 | 2024-07-17 00:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | refactor: extract business logic to service layer |
+| 2024-07-17 07:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | refactor: replace raw SQL with query builder |
