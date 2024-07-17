@@ -12758,3 +12758,4 @@
 | 2024-07-17 14:07 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | infra: configure auto-scaling policies |
 | 2024-07-17 14:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2024-07-17 14:51 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `main` | style: format code according to style guide |
+| 2024-07-17 15:01 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/null-pointer` | docs: add README setup instructions |
