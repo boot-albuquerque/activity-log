@@ -12781,3 +12781,4 @@
 | 2024-07-19 12:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | style: fix indentation and whitespace |
 | 2024-07-19 15:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | refactor: clean up unused imports |
 | 2024-07-19 15:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | security: update SSL certificates config |
+| 2024-07-19 16:32 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: add email notification on status change |
