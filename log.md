@@ -12783,3 +12783,4 @@
 | 2024-07-19 15:25 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/refactor-queries` | security: update SSL certificates config |
 | 2024-07-19 16:32 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/validation-bug` | feat: add email notification on status change |
 | 2024-07-19 16:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | refactor: adopt repository pattern |
+| 2024-07-19 17:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | fix: resolve memory leak in connection pool |
