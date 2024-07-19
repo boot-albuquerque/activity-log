@@ -12785,3 +12785,4 @@
 | 2024-07-19 16:34 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | refactor: adopt repository pattern |
 | 2024-07-19 17:14 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | fix: resolve memory leak in connection pool |
 | 2024-07-19 17:27 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | refactor: move constants to config module |
+| 2024-07-19 19:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | feat: implement caching layer |
