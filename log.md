@@ -12779,3 +12779,4 @@
 | 2024-07-19 10:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | chore: configure ESLint and Prettier |
 | 2024-07-19 10:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/race-condition` | feat: add search with filters |
 | 2024-07-19 12:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | style: fix indentation and whitespace |
+| 2024-07-19 15:18 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v3.0` | refactor: clean up unused imports |
