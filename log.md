@@ -12791,3 +12791,4 @@
 | 2024-07-22 07:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | test: cover edge cases in validator |
 | 2024-07-22 09:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | style: format code according to style guide |
 | 2024-07-22 09:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | fix: resolve N+1 query problem |
+| 2024-07-22 10:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
