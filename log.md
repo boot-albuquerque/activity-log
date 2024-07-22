@@ -12792,3 +12792,4 @@
 | 2024-07-22 09:05 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | style: format code according to style guide |
 | 2024-07-22 09:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/pagination` | fix: resolve N+1 query problem |
 | 2024-07-22 10:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `hotfix/critical-fix` | fix: correct pagination offset calculation |
+| 2024-07-22 13:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/cleanup` | feat: add file upload support |
