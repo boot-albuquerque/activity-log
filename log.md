@@ -12798,3 +12798,4 @@
 | 2024-07-23 14:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `hotfix/prod-issue` | fix: handle missing environment variable |
 | 2024-07-24 11:36 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/race-condition` | feat: add real-time notifications |
 | 2024-07-24 13:32 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | refactor: replace raw SQL with query builder |
+| 2024-07-24 13:34 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | refactor: adopt repository pattern |
