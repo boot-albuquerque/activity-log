@@ -12801,3 +12801,4 @@
 | 2024-07-24 13:34 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | refactor: adopt repository pattern |
 | 2024-07-24 14:30 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2024-07-24 14:40 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | style: fix indentation and whitespace |
+| 2024-07-24 15:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | fix: handle malformed JSON input |
