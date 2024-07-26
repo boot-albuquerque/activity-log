@@ -12812,3 +12812,4 @@
 | 2024-07-26 11:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/validation-bug` | style: fix indentation and whitespace |
 | 2024-07-26 17:08 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | feat: implement webhook receiver |
 | 2024-07-26 17:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | feat: implement rate limiting middleware |
+| 2024-07-26 18:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: correct null check in user service |
