@@ -12816,3 +12816,4 @@
 | 2024-07-26 20:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | feat: create order processing service |
 | 2024-07-27 14:16 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | fix: correct validation error messages |
 | 2024-07-27 14:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: correct decimal precision in billing |
+| 2024-07-27 14:40 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | test: add unit tests for payment service |
