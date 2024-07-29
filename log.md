@@ -12822,3 +12822,4 @@
 | 2024-07-28 14:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | refactor: extract business logic to service layer |
 | 2024-07-29 09:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | ci: configure staging environment |
 | 2024-07-29 10:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: add audit log trail |
+| 2024-07-29 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | refactor: adopt repository pattern |
