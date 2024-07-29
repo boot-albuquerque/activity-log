@@ -12824,3 +12824,4 @@
 | 2024-07-29 10:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: add audit log trail |
 | 2024-07-29 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | refactor: adopt repository pattern |
 | 2024-07-29 18:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: fix flaky test in async handler |
+| 2024-07-29 19:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: add pre-commit hooks |
