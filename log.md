@@ -12823,3 +12823,4 @@
 | 2024-07-29 09:08 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | ci: configure staging environment |
 | 2024-07-29 10:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | feat: add audit log trail |
 | 2024-07-29 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | refactor: adopt repository pattern |
+| 2024-07-29 18:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: fix flaky test in async handler |
