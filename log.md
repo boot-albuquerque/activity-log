@@ -12827,3 +12827,4 @@
 | 2024-07-29 19:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: add pre-commit hooks |
 | 2024-07-30 10:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2024-07-30 11:07 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
+| 2024-07-30 12:52 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | refactor: extract business logic to service layer |
