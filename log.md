@@ -12825,3 +12825,4 @@
 | 2024-07-29 15:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v3.0` | refactor: adopt repository pattern |
 | 2024-07-29 18:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: fix flaky test in async handler |
 | 2024-07-29 19:38 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | chore: add pre-commit hooks |
+| 2024-07-30 10:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
