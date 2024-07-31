@@ -12835,3 +12835,4 @@
 | 2024-07-31 11:11 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | infra: add Kubernetes manifests |
 | 2024-07-31 11:22 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | fix: correct null check in user service |
 | 2024-07-31 12:07 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
+| 2024-07-31 13:53 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | fix: handle missing environment variable |
