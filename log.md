@@ -12841,3 +12841,4 @@
 | 2024-08-01 07:02 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | fix: handle edge case in date parsing |
 | 2024-08-01 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | test: add unit tests for payment service |
 | 2024-08-01 13:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: resolve memory leak in connection pool |
+| 2024-08-01 13:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | db: add composite index |
