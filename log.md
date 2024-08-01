@@ -12844,3 +12844,4 @@
 | 2024-08-01 13:39 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | db: add composite index |
 | 2024-08-01 15:25 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `chore/update-deps` | test: add unit tests for payment service |
 | 2024-08-01 15:39 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: add search with filters |
+| 2024-08-01 19:11 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/update-deps` | perf: reduce bundle size |
