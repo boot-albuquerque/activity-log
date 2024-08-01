@@ -12840,3 +12840,4 @@
 | 2024-07-31 16:38 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/typo-response` | feat: implement rate limiting middleware |
 | 2024-08-01 07:02 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | fix: handle edge case in date parsing |
 | 2024-08-01 11:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `main` | test: add unit tests for payment service |
+| 2024-08-01 13:09 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | fix: resolve memory leak in connection pool |
