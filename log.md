@@ -12851,3 +12851,4 @@
 | 2024-08-03 20:57 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | style: format code according to style guide |
 | 2024-08-05 07:52 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
 | 2024-08-05 08:44 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v1.0` | refactor: clean up unused imports |
+| 2024-08-05 11:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | feat: create admin management interface |
