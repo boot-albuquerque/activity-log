@@ -12864,3 +12864,4 @@
 | 2024-08-06 12:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add search with filters |
 | 2024-08-06 12:51 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | refactor: clean up unused imports |
 | 2024-08-06 14:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
+| 2024-08-06 14:54 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct null check in user service |
