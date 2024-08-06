@@ -12866,3 +12866,4 @@
 | 2024-08-06 14:06 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | feat: create health check endpoint |
 | 2024-08-06 14:54 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | fix: correct null check in user service |
 | 2024-08-06 16:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v2.0` | fix: handle malformed JSON input |
+| 2024-08-06 18:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | fix: resolve CORS configuration |
