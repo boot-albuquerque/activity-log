@@ -12860,3 +12860,4 @@
 | 2024-08-06 00:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | refactor: extract business logic to service layer |
 | 2024-08-06 07:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | style: fix indentation and whitespace |
 | 2024-08-06 10:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/null-pointer` | docs: update API documentation |
+| 2024-08-06 11:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | chore: configure ESLint and Prettier |
