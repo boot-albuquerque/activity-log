@@ -12857,3 +12857,4 @@
 | 2024-08-05 14:15 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | test: improve test coverage to 80% |
 | 2024-08-05 14:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2024-08-05 15:40 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | fix: correct cache invalidation logic |
+| 2024-08-06 00:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/rate-limiting` | refactor: extract business logic to service layer |
