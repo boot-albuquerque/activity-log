@@ -12877,3 +12877,4 @@
 | 2024-08-08 00:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/auth-improvements` | docs: document environment variables |
 | 2024-08-08 07:42 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | chore: update dependencies |
 | 2024-08-08 09:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v3.0` | security: fix SQL injection vulnerability |
+| 2024-08-08 09:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v1.0` | security: update SSL certificates config |
