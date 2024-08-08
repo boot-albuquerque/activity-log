@@ -12882,3 +12882,4 @@
 | 2024-08-08 11:55 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | refactor: consolidate error handling |
 | 2024-08-08 12:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2024-08-08 12:23 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/memory-leak` | feat: implement JWT refresh token |
+| 2024-08-08 13:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | test: add e2e tests for checkout flow |
