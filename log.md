@@ -12885,3 +12885,4 @@
 | 2024-08-08 13:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/null-pointer` | test: add e2e tests for checkout flow |
 | 2024-08-08 14:51 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | feat: add bulk operations support |
 | 2024-08-08 16:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v2.0` | infra: configure auto-scaling policies |
+| 2024-08-08 21:35 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `hotfix/critical-fix` | db: add migration for new schema |
