@@ -12891,3 +12891,4 @@
 | 2024-08-11 10:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `develop` | perf: optimize database queries |
 | 2024-08-11 12:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2024-08-12 00:06 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | refactor: clean up unused imports |
+| 2024-08-12 08:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/refactor-queries` | refactor: replace raw SQL with query builder |
