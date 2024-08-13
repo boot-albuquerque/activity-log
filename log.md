@@ -12900,3 +12900,4 @@
 | 2024-08-12 15:42 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/typo-response` | db: optimize slow queries |
 | 2024-08-12 17:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2024-08-12 18:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add bulk operations support |
+| 2024-08-12 23:42 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | test: add e2e tests for checkout flow |
