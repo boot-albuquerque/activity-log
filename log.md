@@ -12902,3 +12902,4 @@
 | 2024-08-12 18:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | feat: add bulk operations support |
 | 2024-08-12 23:42 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | test: add e2e tests for checkout flow |
 | 2024-08-13 00:31 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | style: fix indentation and whitespace |
+| 2024-08-13 11:02 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/rate-limiting` | chore: add pre-commit hooks |
