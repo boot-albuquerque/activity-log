@@ -12908,3 +12908,4 @@
 | 2024-08-14 07:03 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/validation-bug` | chore: update dependencies |
 | 2024-08-14 09:17 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | test: improve test coverage to 80% |
 | 2024-08-14 09:42 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | refactor: move constants to config module |
+| 2024-08-14 09:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: add migration for new schema |
