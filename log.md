@@ -12911,3 +12911,4 @@
 | 2024-08-14 09:53 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `hotfix/critical-fix` | db: add migration for new schema |
 | 2024-08-14 12:00 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | ci: configure staging environment |
 | 2024-08-14 16:29 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: correct validation error messages |
+| 2024-08-14 18:17 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
