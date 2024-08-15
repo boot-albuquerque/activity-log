@@ -12917,3 +12917,4 @@
 | 2024-08-14 23:17 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | docs: update API documentation |
 | 2024-08-15 13:07 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | test: add unit tests for payment service |
 | 2024-08-15 13:43 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | ci: add automated deployment pipeline |
+| 2024-08-15 13:54 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | test: add integration tests for API endpoints |
