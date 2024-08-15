@@ -12913,3 +12913,4 @@
 | 2024-08-14 16:29 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/add-caching` | fix: correct validation error messages |
 | 2024-08-14 18:17 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/rate-limiting` | chore: add Docker Compose for local dev |
 | 2024-08-14 18:57 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/typo-response` | feat: implement rate limiting middleware |
+| 2024-08-14 21:05 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | feat: implement soft delete pattern |
