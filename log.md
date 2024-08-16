@@ -12932,3 +12932,4 @@
 | 2024-08-16 12:25 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v3.0` | fix: correct null check in user service |
 | 2024-08-16 12:49 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2024-08-16 14:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v3.0` | style: fix indentation and whitespace |
+| 2024-08-16 14:32 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `chore/cleanup` | fix: resolve N+1 query problem |
