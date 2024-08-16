@@ -12926,3 +12926,4 @@
 | 2024-08-15 18:44 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | docs: update API documentation |
 | 2024-08-15 21:50 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | test: fix flaky test in async handler |
 | 2024-08-15 23:56 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | fix: resolve race condition in queue worker |
+| 2024-08-16 10:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `hotfix/critical-fix` | db: optimize slow queries |
