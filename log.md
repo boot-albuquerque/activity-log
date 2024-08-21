@@ -12946,3 +12946,4 @@
 | 2024-08-21 11:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | fix: handle missing environment variable |
 | 2024-08-21 12:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add integration tests for API endpoints |
 | 2024-08-21 17:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
+| 2024-08-21 20:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: add file upload support |
