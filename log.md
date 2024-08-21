@@ -12944,3 +12944,4 @@
 | 2024-08-21 00:11 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `chore/cleanup` | test: improve test coverage to 80% |
 | 2024-08-21 00:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | style: fix indentation and whitespace |
 | 2024-08-21 11:23 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | fix: handle missing environment variable |
+| 2024-08-21 12:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add integration tests for API endpoints |
