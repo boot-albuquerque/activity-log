@@ -12948,3 +12948,4 @@
 | 2024-08-21 17:48 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | chore: upgrade to latest Node.js LTS |
 | 2024-08-21 20:24 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | feat: add file upload support |
 | 2024-08-21 23:40 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | feat: implement webhook receiver |
+| 2024-08-22 07:50 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | docs: add README setup instructions |
