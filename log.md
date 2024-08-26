@@ -12961,3 +12961,4 @@
 | 2024-08-24 13:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | perf: add database indexes |
 | 2024-08-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | fix: correct validation error messages |
 | 2024-08-26 13:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
+| 2024-08-26 14:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
