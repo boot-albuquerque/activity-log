@@ -12960,3 +12960,4 @@
 | 2024-08-24 08:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2024-08-24 13:26 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | perf: add database indexes |
 | 2024-08-25 13:01 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/new-endpoint` | fix: correct validation error messages |
+| 2024-08-26 13:57 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | docs: document environment variables |
