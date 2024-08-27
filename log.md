@@ -12968,3 +12968,4 @@
 | 2024-08-27 11:58 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: add search with filters |
 | 2024-08-27 12:37 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/pagination` | db: optimize slow queries |
 | 2024-08-27 16:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
+| 2024-08-27 17:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | refactor: extract business logic to service layer |
