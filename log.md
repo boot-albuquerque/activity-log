@@ -12974,3 +12974,4 @@
 | 2024-08-28 00:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: create health check endpoint |
 | 2024-08-28 12:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | security: add input sanitization |
 | 2024-08-28 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: replace raw SQL with query builder |
+| 2024-08-28 15:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: implement soft delete pattern |
