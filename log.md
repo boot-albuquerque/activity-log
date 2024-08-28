@@ -12977,3 +12977,4 @@
 | 2024-08-28 15:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: implement soft delete pattern |
 | 2024-08-28 15:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
 | 2024-08-28 18:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | chore: upgrade to latest Node.js LTS |
+| 2024-08-28 20:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | ci: add automated deployment pipeline |
