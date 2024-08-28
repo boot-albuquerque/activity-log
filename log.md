@@ -12976,3 +12976,4 @@
 | 2024-08-28 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: replace raw SQL with query builder |
 | 2024-08-28 15:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v2.0` | feat: implement soft delete pattern |
 | 2024-08-28 15:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/prod-issue` | fix: resolve N+1 query problem |
+| 2024-08-28 18:46 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | chore: upgrade to latest Node.js LTS |
