@@ -12973,3 +12973,4 @@
 | 2024-08-27 23:38 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | docs: add README setup instructions |
 | 2024-08-28 00:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: create health check endpoint |
 | 2024-08-28 12:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | security: add input sanitization |
+| 2024-08-28 13:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: replace raw SQL with query builder |
