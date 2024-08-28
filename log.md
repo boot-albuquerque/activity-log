@@ -12972,3 +12972,4 @@
 | 2024-08-27 20:17 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/refactor-queries` | perf: implement response compression |
 | 2024-08-27 23:38 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | docs: add README setup instructions |
 | 2024-08-28 00:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: create health check endpoint |
+| 2024-08-28 12:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | security: add input sanitization |
