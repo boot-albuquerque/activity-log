@@ -12983,3 +12983,4 @@
 | 2024-08-29 12:07 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | fix: resolve CORS configuration |
 | 2024-08-29 15:31 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `release/v1.0` | refactor: split large controller into smaller ones |
 | 2024-08-30 12:27 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | feat: create order processing service |
+| 2024-08-30 13:05 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `feature/new-endpoint` | feat: implement soft delete pattern |
