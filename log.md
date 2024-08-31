@@ -12988,3 +12988,4 @@
 | 2024-08-30 17:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | chore: upgrade to latest Node.js LTS |
 | 2024-08-30 18:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | ci: add automated deployment pipeline |
 | 2024-08-31 15:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | fix: correct null check in user service |
+| 2024-08-31 17:34 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add performance benchmark tests |
