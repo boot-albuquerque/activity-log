@@ -12990,3 +12990,4 @@
 | 2024-08-31 15:08 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/critical-fix` | fix: correct null check in user service |
 | 2024-08-31 17:34 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | test: add performance benchmark tests |
 | 2024-09-01 11:08 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/add-caching` | perf: implement response compression |
+| 2024-09-02 14:41 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | fix: correct null check in user service |
