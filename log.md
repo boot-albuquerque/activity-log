@@ -12993,3 +12993,4 @@
 | 2024-09-02 14:41 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `develop` | fix: correct null check in user service |
 | 2024-09-03 00:35 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/critical-fix` | refactor: extract business logic to service layer |
 | 2024-09-03 00:59 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `fix/null-pointer` | security: update SSL certificates config |
+| 2024-09-03 10:27 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | fix: resolve deadlock in transaction |
