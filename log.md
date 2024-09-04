@@ -12999,3 +12999,4 @@
 | 2024-09-03 13:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2024-09-04 09:22 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2024-09-04 11:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/update-deps` | db: add composite index |
+| 2024-09-04 12:17 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | feat: add user authentication endpoint |
