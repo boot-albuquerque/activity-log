@@ -13011,3 +13011,4 @@
 | 2024-09-06 11:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/update-deps` | db: optimize slow queries |
 | 2024-09-06 13:40 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/auth-improvements` | refactor: improve code readability |
 | 2024-09-06 14:22 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: implement JWT refresh token |
+| 2024-09-06 15:01 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | fix: resolve memory leak in connection pool |
