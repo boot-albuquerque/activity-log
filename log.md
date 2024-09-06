@@ -13007,3 +13007,4 @@
 | 2024-09-05 18:50 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/add-caching` | chore: configure GitHub Actions CI |
 | 2024-09-05 23:16 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `develop` | fix: resolve deadlock in transaction |
 | 2024-09-06 07:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | fix: correct null check in user service |
+| 2024-09-06 10:33 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | db: optimize slow queries |
