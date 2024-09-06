@@ -13016,3 +13016,4 @@
 | 2024-09-06 16:51 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | test: cover edge cases in validator |
 | 2024-09-06 16:54 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/validation-bug` | db: add migration for new schema |
 | 2024-09-06 17:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | perf: add database indexes |
+| 2024-09-06 18:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | refactor: adopt repository pattern |
