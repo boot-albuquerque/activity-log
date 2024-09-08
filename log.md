@@ -13018,3 +13018,4 @@
 | 2024-09-06 17:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | perf: add database indexes |
 | 2024-09-06 18:55 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | refactor: adopt repository pattern |
 | 2024-09-06 19:12 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct cache invalidation logic |
+| 2024-09-07 23:10 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
