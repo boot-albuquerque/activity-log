@@ -13020,3 +13020,4 @@
 | 2024-09-06 19:12 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | fix: correct cache invalidation logic |
 | 2024-09-07 23:10 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
 | 2024-09-09 07:32 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | feat: add audit log trail |
+| 2024-09-09 09:22 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `main` | fix: correct pagination offset calculation |
