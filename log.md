@@ -13026,3 +13026,4 @@
 | 2024-09-09 14:34 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/update-deps` | db: optimize slow queries |
 | 2024-09-09 15:09 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | chore: add pre-commit hooks |
 | 2024-09-09 20:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | db: add migration for new schema |
+| 2024-09-10 09:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
