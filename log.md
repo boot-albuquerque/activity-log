@@ -13029,3 +13029,4 @@
 | 2024-09-10 09:37 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
 | 2024-09-10 12:07 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | style: format code according to style guide |
 | 2024-09-11 12:08 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `refactor/extract-service` | chore: add Docker Compose for local dev |
+| 2024-09-11 12:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `refactor/extract-service` | chore: upgrade to latest Node.js LTS |
