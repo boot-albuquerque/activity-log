@@ -13046,3 +13046,4 @@
 | 2024-09-13 16:38 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2024-09-13 16:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | fix: handle timeout in async operation |
 | 2024-09-13 21:07 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/add-caching` | chore: configure GitHub Actions CI |
+| 2024-09-14 17:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/new-endpoint` | fix: handle malformed JSON input |
