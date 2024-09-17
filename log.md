@@ -13061,3 +13061,4 @@
 | 2024-09-17 13:24 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | feat: add audit log trail |
 | 2024-09-17 13:37 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | chore: configure GitHub Actions CI |
 | 2024-09-17 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | db: add migration for new schema |
+| 2024-09-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | test: improve test coverage to 80% |
