@@ -13070,3 +13070,4 @@
 | 2024-09-18 15:22 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/add-caching` | feat: add pagination to list endpoint |
 | 2024-09-18 18:12 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | perf: reduce bundle size |
 | 2024-09-18 19:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
+| 2024-09-18 19:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | fix: handle edge case in date parsing |
