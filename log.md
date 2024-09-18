@@ -13063,3 +13063,4 @@
 | 2024-09-17 13:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | db: add migration for new schema |
 | 2024-09-17 18:28 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/validation-bug` | test: improve test coverage to 80% |
 | 2024-09-17 19:53 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `develop` | feat: add pagination to list endpoint |
+| 2024-09-18 00:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/typo-response` | infra: configure auto-scaling policies |
