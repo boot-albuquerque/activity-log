@@ -13073,3 +13073,4 @@
 | 2024-09-18 19:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | fix: handle edge case in date parsing |
 | 2024-09-18 20:01 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2024-09-18 21:15 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `develop` | feat: add bulk operations support |
+| 2024-09-19 09:23 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | feat: add pagination to list endpoint |
