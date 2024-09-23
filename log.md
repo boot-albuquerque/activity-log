@@ -13083,3 +13083,4 @@
 | 2024-09-22 13:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/pagination` | refactor: move constants to config module |
 | 2024-09-22 15:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/update-deps` | chore: upgrade to latest Node.js LTS |
 | 2024-09-22 15:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
+| 2024-09-23 10:07 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | refactor: split large controller into smaller ones |
