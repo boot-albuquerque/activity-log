@@ -13085,3 +13085,4 @@
 | 2024-09-22 15:57 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
 | 2024-09-23 10:07 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | refactor: split large controller into smaller ones |
 | 2024-09-23 12:57 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `chore/update-deps` | db: add composite index |
+| 2024-09-23 14:25 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | test: add performance benchmark tests |
