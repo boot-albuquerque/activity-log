@@ -13090,3 +13090,4 @@
 | 2024-09-23 16:11 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `develop` | refactor: extract business logic to service layer |
 | 2024-09-23 19:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | feat: create dashboard metrics endpoint |
 | 2024-09-23 20:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | chore: add Docker Compose for local dev |
+| 2024-09-24 08:51 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | feat: add search with filters |
