@@ -13095,3 +13095,4 @@
 | 2024-09-25 09:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2024-09-25 09:40 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | infra: add Kubernetes manifests |
 | 2024-09-25 10:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/add-caching` | fix: handle empty response from external API |
+| 2024-09-25 11:58 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | feat: add OpenAPI documentation |
