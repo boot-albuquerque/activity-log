@@ -13092,3 +13092,4 @@
 | 2024-09-23 20:51 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | chore: add Docker Compose for local dev |
 | 2024-09-24 08:51 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | feat: add search with filters |
 | 2024-09-24 15:27 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | infra: update Terraform modules |
+| 2024-09-25 09:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: add user authentication endpoint |
