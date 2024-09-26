@@ -13102,3 +13102,4 @@
 | 2024-09-25 21:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/new-endpoint` | test: add performance benchmark tests |
 | 2024-09-26 09:59 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | fix: handle edge case in date parsing |
 | 2024-09-26 11:07 | MacBook-Pro-de-Lucas | Local | `scripts` | `release/v2.0` | infra: configure auto-scaling policies |
+| 2024-09-26 13:18 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/rate-limiting` | fix: resolve race condition in queue worker |
