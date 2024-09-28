@@ -13108,3 +13108,4 @@
 | 2024-09-28 12:33 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | infra: add Kubernetes manifests |
 | 2024-09-28 13:12 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
 | 2024-09-28 15:07 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | feat: add export to CSV/Excel |
+| 2024-09-28 18:13 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `develop` | feat: add bulk operations support |
