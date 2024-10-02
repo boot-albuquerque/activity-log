@@ -13118,3 +13118,4 @@
 | 2024-10-02 00:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/extract-service` | fix: resolve race condition in queue worker |
 | 2024-10-02 00:45 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v1.0` | test: add unit tests for payment service |
 | 2024-10-02 10:12 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | chore: configure GitHub Actions CI |
+| 2024-10-02 10:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | fix: correct null check in user service |
