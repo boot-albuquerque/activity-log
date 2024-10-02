@@ -13120,3 +13120,4 @@
 | 2024-10-02 10:12 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2024-10-02 10:28 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v2.0` | fix: correct null check in user service |
 | 2024-10-02 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: add file upload support |
+| 2024-10-02 11:11 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | security: update SSL certificates config |
