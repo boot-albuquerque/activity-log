@@ -13122,3 +13122,4 @@
 | 2024-10-02 11:00 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: add file upload support |
 | 2024-10-02 11:11 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | security: update SSL certificates config |
 | 2024-10-02 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/validation-bug` | feat: implement JWT refresh token |
+| 2024-10-02 18:02 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | db: optimize slow queries |
