@@ -13127,3 +13127,4 @@
 | 2024-10-02 21:57 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2024-10-02 23:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | feat: add OpenAPI documentation |
 | 2024-10-03 08:43 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add search with filters |
+| 2024-10-03 08:45 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | fix: correct pagination offset calculation |
