@@ -13128,3 +13128,4 @@
 | 2024-10-02 23:48 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | feat: add OpenAPI documentation |
 | 2024-10-03 08:43 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | feat: add search with filters |
 | 2024-10-03 08:45 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | fix: correct pagination offset calculation |
+| 2024-10-03 09:04 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | refactor: move constants to config module |
