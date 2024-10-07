@@ -13136,3 +13136,4 @@
 | 2024-10-05 20:57 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/pagination` | fix: handle malformed JSON input |
 | 2024-10-07 00:10 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `chore/update-deps` | feat: add file upload support |
 | 2024-10-07 10:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | feat: add email notification on status change |
+| 2024-10-07 12:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
