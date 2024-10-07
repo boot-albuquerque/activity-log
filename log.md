@@ -13138,3 +13138,4 @@
 | 2024-10-07 10:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | feat: add email notification on status change |
 | 2024-10-07 12:13 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/prod-issue` | fix: resolve deadlock in transaction |
 | 2024-10-07 12:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | ci: configure staging environment |
+| 2024-10-07 13:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | infra: configure auto-scaling policies |
