@@ -13141,3 +13141,4 @@
 | 2024-10-07 13:15 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | infra: configure auto-scaling policies |
 | 2024-10-07 13:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | fix: correct null check in user service |
 | 2024-10-07 14:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: handle malformed JSON input |
+| 2024-10-07 15:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | db: add migration for new schema |
