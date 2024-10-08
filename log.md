@@ -13144,3 +13144,4 @@
 | 2024-10-07 15:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | db: add migration for new schema |
 | 2024-10-08 10:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | feat: add OpenAPI documentation |
 | 2024-10-08 11:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v2.0` | security: fix SQL injection vulnerability |
+| 2024-10-08 12:21 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | fix: resolve deadlock in transaction |
