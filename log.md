@@ -13142,3 +13142,4 @@
 | 2024-10-07 13:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | fix: correct null check in user service |
 | 2024-10-07 14:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `refactor/clean-architecture` | fix: handle malformed JSON input |
 | 2024-10-07 15:34 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | db: add migration for new schema |
+| 2024-10-08 10:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v3.0` | feat: add OpenAPI documentation |
