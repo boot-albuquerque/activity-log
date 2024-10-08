@@ -13150,3 +13150,4 @@
 | 2024-10-08 14:14 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: correct validation error messages |
 | 2024-10-08 14:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | feat: implement JWT refresh token |
 | 2024-10-08 15:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/race-condition` | docs: update API documentation |
+| 2024-10-08 19:17 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
