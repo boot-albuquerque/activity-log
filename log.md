@@ -13148,3 +13148,4 @@
 | 2024-10-08 12:24 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | feat: add real-time notifications |
 | 2024-10-08 12:57 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | db: add migration for new schema |
 | 2024-10-08 14:14 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: correct validation error messages |
+| 2024-10-08 14:50 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | feat: implement JWT refresh token |
