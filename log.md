@@ -13155,3 +13155,4 @@
 | 2024-10-09 12:35 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v1.0` | docs: document environment variables |
 | 2024-10-09 15:15 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | infra: update Terraform modules |
 | 2024-10-10 07:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/extract-service` | docs: update API documentation |
+| 2024-10-10 09:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/auth-improvements` | refactor: move constants to config module |
