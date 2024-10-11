@@ -13169,3 +13169,4 @@
 | 2024-10-11 10:09 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: resolve memory leak in connection pool |
 | 2024-10-11 12:16 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `feature/pagination` | feat: add file upload support |
 | 2024-10-11 12:51 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
+| 2024-10-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | chore: add Docker Compose for local dev |
