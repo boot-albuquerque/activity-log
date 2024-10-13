@@ -13173,3 +13173,4 @@
 | 2024-10-11 22:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add performance benchmark tests |
 | 2024-10-13 14:03 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2024-10-13 15:24 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/pagination` | db: optimize slow queries |
+| 2024-10-13 17:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/race-condition` | fix: correct pagination offset calculation |
