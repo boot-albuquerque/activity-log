@@ -13171,3 +13171,4 @@
 | 2024-10-11 12:51 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/typo-response` | chore: upgrade to latest Node.js LTS |
 | 2024-10-11 15:13 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | chore: add Docker Compose for local dev |
 | 2024-10-11 22:43 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add performance benchmark tests |
+| 2024-10-13 14:03 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
