@@ -13182,3 +13182,4 @@
 | 2024-10-16 13:37 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | feat: implement webhook receiver |
 | 2024-10-16 22:19 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | fix: resolve deadlock in transaction |
 | 2024-10-19 11:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | fix: correct decimal precision in billing |
+| 2024-10-19 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | test: mock external dependencies in tests |
