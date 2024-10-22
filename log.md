@@ -13185,3 +13185,4 @@
 | 2024-10-19 22:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | test: mock external dependencies in tests |
 | 2024-10-22 10:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add search with filters |
 | 2024-10-22 19:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: create background job processor |
+| 2024-10-22 20:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: simplify authentication flow |
