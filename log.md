@@ -13188,3 +13188,4 @@
 | 2024-10-22 20:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2024-10-22 21:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | db: add migration for new schema |
 | 2024-10-23 08:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | feat: implement soft delete pattern |
+| 2024-10-23 09:25 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | feat: add export to CSV/Excel |
