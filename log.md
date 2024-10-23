@@ -13186,3 +13186,4 @@
 | 2024-10-22 10:52 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/memory-leak` | feat: add search with filters |
 | 2024-10-22 19:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: create background job processor |
 | 2024-10-22 20:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: simplify authentication flow |
+| 2024-10-22 21:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | db: add migration for new schema |
