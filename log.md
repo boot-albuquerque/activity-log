@@ -13190,3 +13190,4 @@
 | 2024-10-23 08:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | feat: implement soft delete pattern |
 | 2024-10-23 09:25 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | feat: add export to CSV/Excel |
 | 2024-10-23 11:37 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/refactor-queries` | chore: add Docker Compose for local dev |
+| 2024-10-23 15:18 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/validation-bug` | fix: correct null check in user service |
