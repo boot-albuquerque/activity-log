@@ -13187,3 +13187,4 @@
 | 2024-10-22 19:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/auth-improvements` | feat: create background job processor |
 | 2024-10-22 20:59 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2024-10-22 21:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/update-deps` | db: add migration for new schema |
+| 2024-10-23 08:11 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/race-condition` | feat: implement soft delete pattern |
