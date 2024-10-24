@@ -13199,3 +13199,4 @@
 | 2024-10-24 15:14 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | refactor: move constants to config module |
 | 2024-10-24 16:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: resolve deadlock in transaction |
 | 2024-10-24 18:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | perf: add database indexes |
+| 2024-10-24 19:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | perf: implement response compression |
