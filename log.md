@@ -13200,3 +13200,4 @@
 | 2024-10-24 16:22 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: resolve deadlock in transaction |
 | 2024-10-24 18:55 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | perf: add database indexes |
 | 2024-10-24 19:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | perf: implement response compression |
+| 2024-10-25 14:49 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | test: mock external dependencies in tests |
