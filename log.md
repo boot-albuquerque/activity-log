@@ -13208,3 +13208,4 @@
 | 2024-10-26 07:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: improve test coverage to 80% |
 | 2024-10-26 12:57 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | refactor: extract business logic to service layer |
 | 2024-10-26 14:41 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/race-condition` | refactor: reduce cyclomatic complexity |
+| 2024-10-26 19:56 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | chore: add Docker Compose for local dev |
