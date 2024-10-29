@@ -13214,3 +13214,4 @@
 | 2024-10-27 12:26 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | style: fix indentation and whitespace |
 | 2024-10-27 19:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | perf: implement response compression |
 | 2024-10-27 20:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | style: format code according to style guide |
+| 2024-10-29 15:20 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | fix: correct validation error messages |
