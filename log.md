@@ -13225,3 +13225,4 @@
 | 2024-10-30 17:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | refactor: extract business logic to service layer |
 | 2024-10-30 17:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | refactor: move constants to config module |
 | 2024-10-30 18:02 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | feat: create dashboard metrics endpoint |
+| 2024-10-30 20:01 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | feat: implement soft delete pattern |
