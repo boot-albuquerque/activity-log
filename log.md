@@ -13221,3 +13221,4 @@
 | 2024-10-30 12:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2024-10-30 12:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/prod-issue` | test: cover edge cases in validator |
 | 2024-10-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
+| 2024-10-30 16:51 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | refactor: simplify authentication flow |
