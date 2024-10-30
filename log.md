@@ -13223,3 +13223,4 @@
 | 2024-10-30 13:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
 | 2024-10-30 16:51 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v1.0` | refactor: simplify authentication flow |
 | 2024-10-30 17:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | refactor: extract business logic to service layer |
+| 2024-10-30 17:50 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | refactor: move constants to config module |
