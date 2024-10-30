@@ -13215,3 +13215,4 @@
 | 2024-10-27 19:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | perf: implement response compression |
 | 2024-10-27 20:13 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | style: format code according to style guide |
 | 2024-10-29 15:20 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | fix: correct validation error messages |
+| 2024-10-30 00:55 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v3.0` | docs: document environment variables |
