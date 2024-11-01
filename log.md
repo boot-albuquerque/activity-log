@@ -13230,3 +13230,4 @@
 | 2024-10-31 13:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | test: fix flaky test in async handler |
 | 2024-10-31 15:09 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/refactor-queries` | fix: correct validation error messages |
 | 2024-10-31 17:46 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | refactor: extract business logic to service layer |
+| 2024-10-31 23:00 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | db: optimize slow queries |
