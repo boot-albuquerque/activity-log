@@ -13249,3 +13249,4 @@
 | 2024-11-04 12:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2024-11-04 15:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `hotfix/prod-issue` | test: add performance benchmark tests |
 | 2024-11-04 15:35 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `develop` | feat: add audit log trail |
+| 2024-11-04 16:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
