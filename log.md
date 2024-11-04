@@ -13252,3 +13252,4 @@
 | 2024-11-04 16:27 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2024-11-04 16:34 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | refactor: improve code readability |
 | 2024-11-04 16:46 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | fix: handle edge case in date parsing |
+| 2024-11-04 19:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v3.0` | fix: resolve deadlock in transaction |
