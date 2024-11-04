@@ -13238,3 +13238,4 @@
 | 2024-11-01 15:36 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | refactor: replace raw SQL with query builder |
 | 2024-11-01 17:32 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2024-11-02 08:18 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | fix: resolve CORS configuration |
+| 2024-11-03 22:40 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
