@@ -13246,3 +13246,4 @@
 | 2024-11-04 11:39 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | test: mock external dependencies in tests |
 | 2024-11-04 12:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | db: optimize slow queries |
 | 2024-11-04 12:33 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | feat: add bulk operations support |
+| 2024-11-04 12:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
