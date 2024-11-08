@@ -13267,3 +13267,4 @@
 | 2024-11-07 13:14 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `refactor/extract-service` | feat: create dashboard metrics endpoint |
 | 2024-11-07 14:14 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/race-condition` | security: fix SQL injection vulnerability |
 | 2024-11-07 14:37 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | chore: add pre-commit hooks |
+| 2024-11-08 13:06 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | perf: reduce bundle size |
