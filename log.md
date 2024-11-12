@@ -13274,3 +13274,4 @@
 | 2024-11-12 09:56 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v1.0` | security: add input sanitization |
 | 2024-11-12 10:05 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `chore/cleanup` | perf: add database indexes |
 | 2024-11-12 10:16 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | style: format code according to style guide |
+| 2024-11-12 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `release/v1.0` | test: add performance benchmark tests |
