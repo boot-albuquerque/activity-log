@@ -13284,3 +13284,4 @@
 | 2024-11-15 08:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | db: add migration for new schema |
 | 2024-11-15 09:58 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v1.0` | feat: create order processing service |
 | 2024-11-15 11:23 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | fix: handle malformed JSON input |
+| 2024-11-15 19:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | ci: configure staging environment |
