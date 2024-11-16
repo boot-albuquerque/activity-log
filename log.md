@@ -13287,3 +13287,4 @@
 | 2024-11-15 19:45 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | ci: configure staging environment |
 | 2024-11-15 22:30 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | security: update SSL certificates config |
 | 2024-11-16 11:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | feat: add export to CSV/Excel |
+| 2024-11-16 15:44 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: update dependencies |
