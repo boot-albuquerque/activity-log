@@ -13296,3 +13296,4 @@
 | 2024-11-18 13:42 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | feat: implement caching layer |
 | 2024-11-18 15:05 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | refactor: consolidate error handling |
 | 2024-11-18 18:34 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | feat: add pagination to list endpoint |
+| 2024-11-18 19:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/auth-improvements` | docs: add README setup instructions |
