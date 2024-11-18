@@ -13293,3 +13293,4 @@
 | 2024-11-16 21:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/add-caching` | feat: implement rate limiting middleware |
 | 2024-11-17 19:34 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `main` | db: add migration for new schema |
 | 2024-11-18 08:41 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | feat: implement rate limiting middleware |
+| 2024-11-18 13:42 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | feat: implement caching layer |
