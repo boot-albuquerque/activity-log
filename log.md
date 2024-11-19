@@ -13301,3 +13301,4 @@
 | 2024-11-18 20:52 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/null-pointer` | fix: correct null check in user service |
 | 2024-11-18 22:14 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2024-11-19 11:04 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | refactor: adopt repository pattern |
+| 2024-11-19 12:55 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/validation-bug` | refactor: simplify authentication flow |
