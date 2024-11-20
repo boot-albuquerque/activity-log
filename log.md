@@ -13311,3 +13311,4 @@
 | 2024-11-20 13:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add pagination to list endpoint |
 | 2024-11-20 14:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | docs: add README setup instructions |
 | 2024-11-20 16:36 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add audit log trail |
+| 2024-11-20 18:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: correct null check in user service |
