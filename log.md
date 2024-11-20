@@ -13308,3 +13308,4 @@
 | 2024-11-19 14:28 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `refactor/clean-architecture` | security: fix SQL injection vulnerability |
 | 2024-11-19 19:28 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `fix/typo-response` | feat: add export to CSV/Excel |
 | 2024-11-19 20:10 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v1.0` | refactor: replace raw SQL with query builder |
+| 2024-11-20 13:48 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add pagination to list endpoint |
