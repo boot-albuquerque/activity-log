@@ -13312,3 +13312,4 @@
 | 2024-11-20 14:12 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | docs: add README setup instructions |
 | 2024-11-20 16:36 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/refactor-queries` | feat: add audit log trail |
 | 2024-11-20 18:25 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | fix: correct null check in user service |
+| 2024-11-20 22:34 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/race-condition` | fix: correct validation error messages |
