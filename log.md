@@ -13317,3 +13317,4 @@
 | 2024-11-21 11:03 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2024-11-21 14:16 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/typo-response` | security: fix SQL injection vulnerability |
 | 2024-11-21 16:14 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/auth-improvements` | refactor: replace raw SQL with query builder |
+| 2024-11-21 17:03 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | chore: add pre-commit hooks |
