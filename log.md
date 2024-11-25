@@ -13326,3 +13326,4 @@
 | 2024-11-22 15:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | security: fix SQL injection vulnerability |
 | 2024-11-24 09:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | test: add performance benchmark tests |
 | 2024-11-25 11:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
+| 2024-11-25 13:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | refactor: split large controller into smaller ones |
