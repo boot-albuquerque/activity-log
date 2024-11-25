@@ -13325,3 +13325,4 @@
 | 2024-11-22 12:26 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v3.0` | style: fix indentation and whitespace |
 | 2024-11-22 15:28 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | security: fix SQL injection vulnerability |
 | 2024-11-24 09:32 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | test: add performance benchmark tests |
+| 2024-11-25 11:51 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
