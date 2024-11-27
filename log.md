@@ -13335,3 +13335,4 @@
 | 2024-11-27 11:58 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
 | 2024-11-27 12:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | perf: add database indexes |
 | 2024-11-27 13:13 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `main` | infra: update Terraform modules |
+| 2024-11-27 13:44 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add integration tests for API endpoints |
