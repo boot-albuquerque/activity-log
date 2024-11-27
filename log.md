@@ -13333,3 +13333,4 @@
 | 2024-11-27 08:39 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `develop` | feat: add user authentication endpoint |
 | 2024-11-27 08:57 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v2.0` | fix: handle malformed JSON input |
 | 2024-11-27 11:58 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v2.0` | chore: upgrade to latest Node.js LTS |
+| 2024-11-27 12:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/refactor-queries` | perf: add database indexes |
