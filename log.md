@@ -13338,3 +13338,4 @@
 | 2024-11-27 13:44 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | test: add integration tests for API endpoints |
 | 2024-11-27 14:38 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/critical-fix` | refactor: replace raw SQL with query builder |
 | 2024-11-27 15:01 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/extract-service` | refactor: clean up unused imports |
+| 2024-11-27 15:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | fix: resolve N+1 query problem |
