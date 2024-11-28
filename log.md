@@ -13347,3 +13347,4 @@
 | 2024-11-27 22:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | docs: add README setup instructions |
 | 2024-11-28 00:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | infra: update Terraform modules |
 | 2024-11-28 08:58 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | refactor: improve code readability |
+| 2024-11-28 14:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | fix: handle empty response from external API |
