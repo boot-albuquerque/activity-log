@@ -13365,3 +13365,4 @@
 | 2024-11-29 18:17 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | test: add performance benchmark tests |
 | 2024-11-30 11:39 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | security: add input sanitization |
 | 2024-11-30 11:42 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | chore: add Docker Compose for local dev |
+| 2024-11-30 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | feat: add file upload support |
