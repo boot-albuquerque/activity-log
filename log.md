@@ -13367,3 +13367,4 @@
 | 2024-11-30 11:42 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | chore: add Docker Compose for local dev |
 | 2024-11-30 13:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/race-condition` | feat: add file upload support |
 | 2024-11-30 14:42 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/critical-fix` | fix: resolve deadlock in transaction |
+| 2024-12-01 13:12 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | chore: configure GitHub Actions CI |
