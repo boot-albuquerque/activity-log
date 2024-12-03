@@ -13379,3 +13379,4 @@
 | 2024-12-03 08:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: correct null check in user service |
 | 2024-12-03 09:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | infra: update Terraform modules |
 | 2024-12-03 12:46 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | ci: configure staging environment |
+| 2024-12-03 12:50 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/null-pointer` | feat: add OpenAPI documentation |
