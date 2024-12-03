@@ -13377,3 +13377,4 @@
 | 2024-12-02 16:21 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | docs: update API documentation |
 | 2024-12-02 17:25 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | feat: implement rate limiting middleware |
 | 2024-12-03 08:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: correct null check in user service |
+| 2024-12-03 09:04 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/memory-leak` | infra: update Terraform modules |
