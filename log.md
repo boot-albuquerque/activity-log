@@ -13385,3 +13385,4 @@
 | 2024-12-03 18:35 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/new-endpoint` | test: mock external dependencies in tests |
 | 2024-12-03 21:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2024-12-04 08:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | fix: handle empty response from external API |
+| 2024-12-04 18:49 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: resolve CORS configuration |
