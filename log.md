@@ -13386,3 +13386,4 @@
 | 2024-12-03 21:45 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `develop` | chore: upgrade to latest Node.js LTS |
 | 2024-12-04 08:43 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | fix: handle empty response from external API |
 | 2024-12-04 18:49 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/auth-improvements` | fix: resolve CORS configuration |
+| 2024-12-05 11:05 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/rate-limiting` | db: add migration for new schema |
