@@ -13400,3 +13400,4 @@
 | 2024-12-10 07:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2024-12-10 13:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
 | 2024-12-10 14:37 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | fix: resolve N+1 query problem |
+| 2024-12-10 18:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: add audit log trail |
