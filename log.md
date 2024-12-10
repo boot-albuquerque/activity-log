@@ -13398,3 +13398,4 @@
 | 2024-12-07 22:49 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | refactor: clean up unused imports |
 | 2024-12-10 00:04 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | test: mock external dependencies in tests |
 | 2024-12-10 07:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
+| 2024-12-10 13:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
