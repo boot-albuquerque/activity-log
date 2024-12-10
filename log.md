@@ -13399,3 +13399,4 @@
 | 2024-12-10 00:04 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | test: mock external dependencies in tests |
 | 2024-12-10 07:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
 | 2024-12-10 13:12 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | security: add input sanitization |
+| 2024-12-10 14:37 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | fix: resolve N+1 query problem |
