@@ -13412,3 +13412,4 @@
 | 2024-12-11 12:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | chore: add Docker Compose for local dev |
 | 2024-12-11 12:35 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | feat: add email notification on status change |
 | 2024-12-11 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
+| 2024-12-11 19:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | test: fix flaky test in async handler |
