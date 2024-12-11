@@ -13411,3 +13411,4 @@
 | 2024-12-11 12:07 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/validation-bug` | fix: resolve race condition in queue worker |
 | 2024-12-11 12:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | chore: add Docker Compose for local dev |
 | 2024-12-11 12:35 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | feat: add email notification on status change |
+| 2024-12-11 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
