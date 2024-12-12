@@ -13414,3 +13414,4 @@
 | 2024-12-11 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2024-12-11 19:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | test: fix flaky test in async handler |
 | 2024-12-12 09:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | test: add e2e tests for checkout flow |
+| 2024-12-12 10:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/new-endpoint` | infra: update Terraform modules |
