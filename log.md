@@ -13417,3 +13417,4 @@
 | 2024-12-12 10:12 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2024-12-12 11:23 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/typo-response` | feat: create dashboard metrics endpoint |
 | 2024-12-12 12:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
+| 2024-12-12 15:15 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | db: add composite index |
