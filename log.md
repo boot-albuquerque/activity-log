@@ -13413,3 +13413,4 @@
 | 2024-12-11 12:35 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/memory-leak` | feat: add email notification on status change |
 | 2024-12-11 16:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2024-12-11 19:30 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `chore/cleanup` | test: fix flaky test in async handler |
+| 2024-12-12 09:38 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `chore/update-deps` | test: add e2e tests for checkout flow |
