@@ -13419,3 +13419,4 @@
 | 2024-12-12 12:43 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2024-12-12 15:15 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/null-pointer` | db: add composite index |
 | 2024-12-12 17:01 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `develop` | fix: resolve deadlock in transaction |
+| 2024-12-13 07:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | feat: add user authentication endpoint |
