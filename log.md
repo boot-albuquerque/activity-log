@@ -13429,3 +13429,4 @@
 | 2024-12-14 18:45 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | chore: add pre-commit hooks |
 | 2024-12-14 20:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | refactor: clean up unused imports |
 | 2024-12-16 00:24 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | test: cover edge cases in validator |
+| 2024-12-16 00:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: add search with filters |
