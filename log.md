@@ -13433,3 +13433,4 @@
 | 2024-12-16 16:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | docs: document environment variables |
 | 2024-12-16 17:41 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | refactor: move constants to config module |
 | 2024-12-16 17:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/add-caching` | feat: add user authentication endpoint |
+| 2024-12-16 18:21 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | test: mock external dependencies in tests |
