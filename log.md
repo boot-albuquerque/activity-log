@@ -13430,3 +13430,4 @@
 | 2024-12-14 20:11 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | refactor: clean up unused imports |
 | 2024-12-16 00:24 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/validation-bug` | test: cover edge cases in validator |
 | 2024-12-16 00:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | feat: add search with filters |
+| 2024-12-16 16:09 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/validation-bug` | docs: document environment variables |
