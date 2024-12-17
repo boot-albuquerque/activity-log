@@ -13441,3 +13441,4 @@
 | 2024-12-17 11:14 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `feature/add-caching` | db: optimize slow queries |
 | 2024-12-17 12:03 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | feat: implement rate limiting middleware |
 | 2024-12-17 12:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | feat: add pagination to list endpoint |
+| 2024-12-17 13:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | fix: handle malformed JSON input |
