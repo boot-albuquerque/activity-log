@@ -13437,3 +13437,4 @@
 | 2024-12-16 18:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: handle missing environment variable |
 | 2024-12-16 23:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/null-pointer` | refactor: reduce cyclomatic complexity |
 | 2024-12-17 09:57 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/pagination` | feat: add bulk operations support |
+| 2024-12-17 11:10 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/rate-limiting` | fix: resolve memory leak in connection pool |
