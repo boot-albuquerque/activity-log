@@ -13443,3 +13443,4 @@
 | 2024-12-17 12:13 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | feat: add pagination to list endpoint |
 | 2024-12-17 13:27 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | fix: handle malformed JSON input |
 | 2024-12-17 14:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/add-caching` | feat: add email notification on status change |
+| 2024-12-17 19:10 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v3.0` | feat: implement rate limiting middleware |
