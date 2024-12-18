@@ -13447,3 +13447,4 @@
 | 2024-12-17 22:14 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `hotfix/critical-fix` | feat: add search with filters |
 | 2024-12-17 22:43 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `chore/update-deps` | db: add composite index |
 | 2024-12-18 08:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v1.0` | test: fix flaky test in async handler |
+| 2024-12-18 12:09 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | refactor: move constants to config module |
