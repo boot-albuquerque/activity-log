@@ -13455,3 +13455,4 @@
 | 2024-12-18 15:19 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | perf: add database indexes |
 | 2024-12-18 16:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | refactor: extract business logic to service layer |
 | 2024-12-18 17:03 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/critical-fix` | chore: configure GitHub Actions CI |
+| 2024-12-18 17:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | refactor: simplify authentication flow |
