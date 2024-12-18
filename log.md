@@ -13450,3 +13450,4 @@
 | 2024-12-18 12:09 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/validation-bug` | refactor: move constants to config module |
 | 2024-12-18 13:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | feat: implement caching layer |
 | 2024-12-18 13:27 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | fix: handle edge case in date parsing |
+| 2024-12-18 13:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | test: add e2e tests for checkout flow |
