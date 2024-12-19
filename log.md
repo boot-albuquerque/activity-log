@@ -13458,3 +13458,4 @@
 | 2024-12-18 17:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | refactor: simplify authentication flow |
 | 2024-12-18 21:25 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v2.0` | feat: add pagination to list endpoint |
 | 2024-12-18 22:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v1.0` | fix: handle timeout in async operation |
+| 2024-12-19 17:29 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | fix: handle timeout in async operation |
