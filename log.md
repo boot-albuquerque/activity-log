@@ -13467,3 +13467,4 @@
 | 2024-12-23 12:51 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/prod-issue` | feat: implement soft delete pattern |
 | 2024-12-23 13:34 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `refactor/extract-service` | refactor: move constants to config module |
 | 2024-12-23 13:40 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | infra: update Terraform modules |
+| 2024-12-23 14:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v1.0` | fix: handle empty response from external API |
