@@ -13472,3 +13472,4 @@
 | 2024-12-24 09:45 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | test: add integration tests for API endpoints |
 | 2024-12-24 12:20 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `hotfix/prod-issue` | security: add input sanitization |
 | 2024-12-24 13:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `main` | style: format code according to style guide |
+| 2024-12-24 14:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | perf: optimize database queries |
