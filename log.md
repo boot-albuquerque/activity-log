@@ -13469,3 +13469,4 @@
 | 2024-12-23 13:40 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | infra: update Terraform modules |
 | 2024-12-23 14:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v1.0` | fix: handle empty response from external API |
 | 2024-12-23 21:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `hotfix/critical-fix` | docs: update API documentation |
+| 2024-12-24 09:45 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | test: add integration tests for API endpoints |
