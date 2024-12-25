@@ -13480,3 +13480,4 @@
 | 2024-12-25 12:48 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | fix: handle missing environment variable |
 | 2024-12-25 14:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/typo-response` | feat: implement soft delete pattern |
 | 2024-12-25 16:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | docs: add README setup instructions |
+| 2024-12-25 18:56 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/refactor-queries` | feat: add OpenAPI documentation |
