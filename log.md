@@ -13498,3 +13498,4 @@
 | 2024-12-30 18:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/refactor-queries` | security: update SSL certificates config |
 | 2024-12-30 22:00 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/critical-fix` | feat: implement JWT refresh token |
 | 2024-12-30 23:17 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: implement caching layer |
+| 2024-12-31 10:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | fix: handle edge case in date parsing |
