@@ -13500,3 +13500,4 @@
 | 2024-12-30 23:17 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/validation-bug` | feat: implement caching layer |
 | 2024-12-31 10:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/rate-limiting` | fix: handle edge case in date parsing |
 | 2024-12-31 14:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/update-deps` | fix: resolve race condition in queue worker |
+| 2024-12-31 15:03 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `release/v2.0` | refactor: simplify authentication flow |
