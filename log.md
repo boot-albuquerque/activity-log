@@ -13508,3 +13508,4 @@
 | 2025-01-01 00:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | infra: update Terraform modules |
 | 2025-01-01 07:13 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add OpenAPI documentation |
 | 2025-01-01 09:43 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | chore: update dependencies |
+| 2025-01-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: add database indexes |
