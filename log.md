@@ -13510,3 +13510,4 @@
 | 2025-01-01 09:43 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | chore: update dependencies |
 | 2025-01-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | perf: add database indexes |
 | 2025-01-01 10:28 | MacBook-Pro-de-Lucas | Local | `scripts` | `refactor/clean-architecture` | fix: resolve race condition in queue worker |
+| 2025-01-01 12:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | refactor: adopt repository pattern |
