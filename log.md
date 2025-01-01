@@ -13506,3 +13506,4 @@
 | 2024-12-31 19:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2024-12-31 19:54 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | feat: add real-time notifications |
 | 2025-01-01 00:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | infra: update Terraform modules |
+| 2025-01-01 07:13 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/validation-bug` | feat: add OpenAPI documentation |
