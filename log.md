@@ -13520,3 +13520,4 @@
 | 2025-01-03 10:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add search with filters |
 | 2025-01-03 11:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | refactor: improve code readability |
 | 2025-01-03 11:43 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | test: fix flaky test in async handler |
+| 2025-01-03 16:35 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | fix: handle empty response from external API |
