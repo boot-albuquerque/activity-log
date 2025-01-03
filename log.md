@@ -13517,3 +13517,4 @@
 | 2025-01-02 16:00 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | style: format code according to style guide |
 | 2025-01-02 23:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/rate-limiting` | feat: implement caching layer |
 | 2025-01-03 00:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | test: add unit tests for payment service |
+| 2025-01-03 10:50 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | feat: add search with filters |
