@@ -13552,3 +13552,4 @@
 | 2025-01-07 20:19 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: add export to CSV/Excel |
 | 2025-01-08 11:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2025-01-08 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | refactor: move constants to config module |
+| 2025-01-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | test: add unit tests for payment service |
