@@ -13556,3 +13556,4 @@
 | 2025-01-08 16:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
 | 2025-01-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | refactor: adopt repository pattern |
 | 2025-01-08 17:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | infra: update Terraform modules |
+| 2025-01-08 17:45 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `release/v3.0` | fix: resolve N+1 query problem |
