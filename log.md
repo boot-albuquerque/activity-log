@@ -13554,3 +13554,4 @@
 | 2025-01-08 12:52 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/validation-bug` | refactor: move constants to config module |
 | 2025-01-08 13:16 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | test: add unit tests for payment service |
 | 2025-01-08 16:54 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/auth-improvements` | fix: resolve memory leak in connection pool |
+| 2025-01-08 17:07 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `refactor/extract-service` | refactor: adopt repository pattern |
