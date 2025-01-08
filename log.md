@@ -13550,3 +13550,4 @@
 | 2025-01-07 17:27 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/add-caching` | feat: add OpenAPI documentation |
 | 2025-01-07 20:06 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/validation-bug` | feat: add file upload support |
 | 2025-01-07 20:19 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | feat: add export to CSV/Excel |
+| 2025-01-08 11:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/pagination` | feat: add OpenAPI documentation |
