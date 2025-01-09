@@ -13562,3 +13562,4 @@
 | 2025-01-08 22:18 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/refactor-queries` | refactor: clean up unused imports |
 | 2025-01-08 23:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `refactor/extract-service` | refactor: extract business logic to service layer |
 | 2025-01-09 07:27 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | fix: handle malformed JSON input |
+| 2025-01-09 08:19 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | feat: add OpenAPI documentation |
