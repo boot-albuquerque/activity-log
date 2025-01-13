@@ -13576,3 +13576,4 @@
 | 2025-01-13 10:09 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/new-endpoint` | test: fix flaky test in async handler |
 | 2025-01-13 10:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | test: improve test coverage to 80% |
 | 2025-01-13 11:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | refactor: extract business logic to service layer |
+| 2025-01-13 12:48 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | perf: add database indexes |
