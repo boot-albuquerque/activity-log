@@ -13579,3 +13579,4 @@
 | 2025-01-13 12:48 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | perf: add database indexes |
 | 2025-01-13 13:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | test: add unit tests for payment service |
 | 2025-01-13 13:57 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `release/v2.0` | feat: implement rate limiting middleware |
+| 2025-01-13 14:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
