@@ -13584,3 +13584,4 @@
 | 2025-01-13 22:27 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/race-condition` | chore: add pre-commit hooks |
 | 2025-01-14 00:28 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/memory-leak` | feat: add pagination to list endpoint |
 | 2025-01-14 08:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: mock external dependencies in tests |
+| 2025-01-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
