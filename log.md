@@ -13586,3 +13586,4 @@
 | 2025-01-14 08:41 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `hotfix/critical-fix` | test: mock external dependencies in tests |
 | 2025-01-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
 | 2025-01-14 19:51 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | refactor: simplify authentication flow |
+| 2025-01-14 21:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: resolve race condition in queue worker |
