@@ -13592,3 +13592,4 @@
 | 2025-01-16 09:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/extract-service` | feat: implement caching layer |
 | 2025-01-16 13:20 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | feat: create dashboard metrics endpoint |
 | 2025-01-16 14:14 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | fix: correct pagination offset calculation |
+| 2025-01-16 14:25 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | fix: correct decimal precision in billing |
