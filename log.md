@@ -13587,3 +13587,4 @@
 | 2025-01-14 11:08 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `refactor/clean-architecture` | test: add integration tests for API endpoints |
 | 2025-01-14 19:51 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | refactor: simplify authentication flow |
 | 2025-01-14 21:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | fix: resolve race condition in queue worker |
+| 2025-01-15 21:34 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `hotfix/prod-issue` | feat: implement JWT refresh token |
