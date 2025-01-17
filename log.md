@@ -13600,3 +13600,4 @@
 | 2025-01-17 14:02 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | refactor: simplify authentication flow |
 | 2025-01-17 14:45 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2025-01-17 16:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | infra: add Kubernetes manifests |
+| 2025-01-17 16:43 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | docs: add README setup instructions |
