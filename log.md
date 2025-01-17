@@ -13596,3 +13596,4 @@
 | 2025-01-16 17:02 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | db: add migration for new schema |
 | 2025-01-16 17:28 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `feature/auth-improvements` | feat: create order processing service |
 | 2025-01-16 18:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | ci: add automated deployment pipeline |
+| 2025-01-17 11:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/add-caching` | chore: add Docker Compose for local dev |
