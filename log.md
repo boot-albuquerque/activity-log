@@ -13616,3 +13616,4 @@
 | 2025-01-21 10:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add real-time notifications |
 | 2025-01-21 16:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | style: fix indentation and whitespace |
 | 2025-01-21 18:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2025-01-21 18:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: add email notification on status change |
