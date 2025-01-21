@@ -13615,3 +13615,4 @@
 | 2025-01-20 23:35 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2025-01-21 10:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v2.0` | feat: add real-time notifications |
 | 2025-01-21 16:09 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | style: fix indentation and whitespace |
+| 2025-01-21 18:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | chore: add Docker Compose for local dev |
