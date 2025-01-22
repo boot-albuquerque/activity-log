@@ -13619,3 +13619,4 @@
 | 2025-01-21 18:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: add email notification on status change |
 | 2025-01-21 22:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | refactor: move constants to config module |
 | 2025-01-21 22:30 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: add user authentication endpoint |
+| 2025-01-22 12:48 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/update-deps` | feat: add OpenAPI documentation |
