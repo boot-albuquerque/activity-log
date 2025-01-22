@@ -13618,3 +13618,4 @@
 | 2025-01-21 18:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | chore: add Docker Compose for local dev |
 | 2025-01-21 18:37 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: add email notification on status change |
 | 2025-01-21 22:02 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | refactor: move constants to config module |
+| 2025-01-21 22:30 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | feat: add user authentication endpoint |
