@@ -13631,3 +13631,4 @@
 | 2025-01-23 09:30 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/auth-improvements` | db: add composite index |
 | 2025-01-23 11:03 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/null-pointer` | ci: configure staging environment |
 | 2025-01-23 12:04 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | feat: create dashboard metrics endpoint |
+| 2025-01-23 18:28 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | refactor: move constants to config module |
