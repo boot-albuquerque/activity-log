@@ -13635,3 +13635,4 @@
 | 2025-01-23 19:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | feat: create order processing service |
 | 2025-01-23 19:29 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: create background job processor |
 | 2025-01-23 20:58 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | fix: handle edge case in date parsing |
+| 2025-01-23 23:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | test: add e2e tests for checkout flow |
