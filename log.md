@@ -13647,3 +13647,4 @@
 | 2025-01-24 15:54 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | perf: add database indexes |
 | 2025-01-24 17:05 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | fix: handle empty response from external API |
 | 2025-01-24 18:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | test: mock external dependencies in tests |
+| 2025-01-24 22:08 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: resolve deadlock in transaction |
