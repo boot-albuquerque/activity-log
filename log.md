@@ -13649,3 +13649,4 @@
 | 2025-01-24 18:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | test: mock external dependencies in tests |
 | 2025-01-24 22:08 | MacBook-Pro-de-Lucas | Local | `config-files` | `main` | fix: resolve deadlock in transaction |
 | 2025-01-24 22:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/memory-leak` | feat: add export to CSV/Excel |
+| 2025-01-24 22:53 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
