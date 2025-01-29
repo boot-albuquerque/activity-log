@@ -13664,3 +13664,4 @@
 | 2025-01-28 17:24 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/typo-response` | db: add migration for new schema |
 | 2025-01-28 18:38 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | chore: configure GitHub Actions CI |
 | 2025-01-28 19:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add file upload support |
+| 2025-01-28 22:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | refactor: extract business logic to service layer |
