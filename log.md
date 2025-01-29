@@ -13669,3 +13669,4 @@
 | 2025-01-29 12:00 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add Docker Compose for local dev |
 | 2025-01-29 12:07 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | refactor: move constants to config module |
 | 2025-01-29 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | infra: update Terraform modules |
+| 2025-01-29 16:06 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/add-caching` | fix: handle edge case in date parsing |
