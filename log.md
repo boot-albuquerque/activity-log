@@ -13666,3 +13666,4 @@
 | 2025-01-28 19:28 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `fix/null-pointer` | feat: add file upload support |
 | 2025-01-28 22:02 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | refactor: extract business logic to service layer |
 | 2025-01-29 08:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle timeout in async operation |
+| 2025-01-29 12:00 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add Docker Compose for local dev |
