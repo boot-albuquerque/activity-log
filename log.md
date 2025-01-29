@@ -13668,3 +13668,4 @@
 | 2025-01-29 08:46 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `release/v2.0` | fix: handle timeout in async operation |
 | 2025-01-29 12:00 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | chore: add Docker Compose for local dev |
 | 2025-01-29 12:07 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/refactor-queries` | refactor: move constants to config module |
+| 2025-01-29 13:04 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | infra: update Terraform modules |
