@@ -13673,3 +13673,4 @@
 | 2025-01-29 17:56 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | test: cover edge cases in validator |
 | 2025-01-29 18:37 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | fix: resolve CORS configuration |
 | 2025-01-29 19:51 | MacBook-Pro-de-Lucas | Local | `config-files` | `chore/cleanup` | docs: update API documentation |
+| 2025-01-30 14:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: correct null check in user service |
