@@ -13681,3 +13681,4 @@
 | 2025-02-02 11:35 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `main` | fix: correct null check in user service |
 | 2025-02-02 13:41 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | refactor: move constants to config module |
 | 2025-02-02 21:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `develop` | refactor: consolidate error handling |
+| 2025-02-03 16:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | fix: correct decimal precision in billing |
