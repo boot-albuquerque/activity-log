@@ -13700,3 +13700,4 @@
 | 2025-02-05 15:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | chore: update dependencies |
 | 2025-02-05 15:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | ci: configure staging environment |
 | 2025-02-05 17:34 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | feat: add search with filters |
+| 2025-02-05 17:37 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle empty response from external API |
