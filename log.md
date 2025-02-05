@@ -13702,3 +13702,4 @@
 | 2025-02-05 17:34 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/auth-improvements` | feat: add search with filters |
 | 2025-02-05 17:37 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle empty response from external API |
 | 2025-02-05 19:09 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/refactor-queries` | feat: create background job processor |
+| 2025-02-05 20:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | docs: document environment variables |
