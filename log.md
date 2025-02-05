@@ -13698,3 +13698,4 @@
 | 2025-02-05 12:16 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/pagination` | feat: add real-time notifications |
 | 2025-02-05 15:27 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/pagination` | chore: configure ESLint and Prettier |
 | 2025-02-05 15:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | chore: update dependencies |
+| 2025-02-05 15:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | ci: configure staging environment |
