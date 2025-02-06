@@ -13712,3 +13712,4 @@
 | 2025-02-06 14:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add email notification on status change |
 | 2025-02-06 14:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | feat: implement webhook receiver |
 | 2025-02-06 16:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
+| 2025-02-06 16:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: resolve N+1 query problem |
