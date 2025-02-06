@@ -13709,3 +13709,4 @@
 | 2025-02-06 10:46 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `main` | ci: add automated deployment pipeline |
 | 2025-02-06 12:42 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | feat: add file upload support |
 | 2025-02-06 12:56 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/add-caching` | feat: add real-time notifications |
+| 2025-02-06 14:31 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `release/v3.0` | feat: add email notification on status change |
