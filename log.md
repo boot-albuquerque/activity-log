@@ -13713,3 +13713,4 @@
 | 2025-02-06 14:44 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `develop` | feat: implement webhook receiver |
 | 2025-02-06 16:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | test: fix flaky test in async handler |
 | 2025-02-06 16:46 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/refactor-queries` | fix: resolve N+1 query problem |
+| 2025-02-06 20:47 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
