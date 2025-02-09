@@ -13721,3 +13721,4 @@
 | 2025-02-08 10:42 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | chore: update dependencies |
 | 2025-02-09 13:34 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | security: add input sanitization |
 | 2025-02-09 16:32 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | feat: add pagination to list endpoint |
+| 2025-02-09 17:17 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | fix: resolve race condition in queue worker |
