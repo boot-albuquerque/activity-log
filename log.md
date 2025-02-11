@@ -13735,3 +13735,4 @@
 | 2025-02-11 12:39 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/memory-leak` | fix: correct null check in user service |
 | 2025-02-11 16:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | refactor: split large controller into smaller ones |
 | 2025-02-11 19:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: update dependencies |
+| 2025-02-11 19:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | chore: add pre-commit hooks |
