@@ -13736,3 +13736,4 @@
 | 2025-02-11 16:25 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | refactor: split large controller into smaller ones |
 | 2025-02-11 19:43 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | chore: update dependencies |
 | 2025-02-11 19:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | chore: add pre-commit hooks |
+| 2025-02-13 09:27 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | refactor: extract business logic to service layer |
