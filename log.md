@@ -13742,3 +13742,4 @@
 | 2025-02-13 16:51 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/validation-bug` | security: fix SQL injection vulnerability |
 | 2025-02-13 17:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2025-02-13 19:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: add performance benchmark tests |
+| 2025-02-13 20:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | fix: handle missing environment variable |
