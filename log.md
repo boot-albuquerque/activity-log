@@ -13743,3 +13743,4 @@
 | 2025-02-13 17:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v1.0` | chore: configure ESLint and Prettier |
 | 2025-02-13 19:07 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | test: add performance benchmark tests |
 | 2025-02-13 20:33 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | fix: handle missing environment variable |
+| 2025-02-13 23:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | feat: add search with filters |
