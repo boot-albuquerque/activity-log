@@ -13752,3 +13752,4 @@
 | 2025-02-14 15:29 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v3.0` | db: add composite index |
 | 2025-02-14 17:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2025-02-14 18:09 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/clean-architecture` | test: add performance benchmark tests |
+| 2025-02-14 18:14 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
