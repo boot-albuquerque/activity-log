@@ -13756,3 +13756,4 @@
 | 2025-02-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | feat: create background job processor |
 | 2025-02-16 15:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | ci: configure staging environment |
 | 2025-02-16 22:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
+| 2025-02-17 11:24 | MacBook-Pro-de-Lucas | Local | `study-notes` | `fix/null-pointer` | feat: add OpenAPI documentation |
