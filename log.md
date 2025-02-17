@@ -13755,3 +13755,4 @@
 | 2025-02-14 18:14 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2025-02-14 23:22 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/race-condition` | feat: create background job processor |
 | 2025-02-16 15:36 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | ci: configure staging environment |
+| 2025-02-16 22:44 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | chore: upgrade to latest Node.js LTS |
