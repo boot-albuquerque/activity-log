@@ -13762,3 +13762,4 @@
 | 2025-02-18 09:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/auth-improvements` | fix: handle edge case in date parsing |
 | 2025-02-18 10:33 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/pagination` | refactor: replace raw SQL with query builder |
 | 2025-02-18 12:56 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/memory-leak` | chore: configure ESLint and Prettier |
+| 2025-02-18 13:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | test: fix flaky test in async handler |
