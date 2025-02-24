@@ -13794,3 +13794,4 @@
 | 2025-02-24 13:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `chore/cleanup` | refactor: replace raw SQL with query builder |
 | 2025-02-24 14:54 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `main` | security: fix SQL injection vulnerability |
 | 2025-02-24 18:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: add pagination to list endpoint |
+| 2025-02-24 19:20 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | db: add migration for new schema |
