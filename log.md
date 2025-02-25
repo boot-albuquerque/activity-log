@@ -13796,3 +13796,4 @@
 | 2025-02-24 18:06 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: add pagination to list endpoint |
 | 2025-02-24 19:20 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | db: add migration for new schema |
 | 2025-02-25 09:19 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | chore: configure GitHub Actions CI |
+| 2025-02-25 11:06 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `main` | fix: correct decimal precision in billing |
