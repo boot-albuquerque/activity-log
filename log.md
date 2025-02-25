@@ -13804,3 +13804,4 @@
 | 2025-02-25 14:42 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/new-endpoint` | fix: resolve race condition in queue worker |
 | 2025-02-25 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | chore: update dependencies |
 | 2025-02-25 17:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | security: update SSL certificates config |
+| 2025-02-25 18:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: consolidate error handling |
