@@ -13805,3 +13805,4 @@
 | 2025-02-25 15:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `refactor/clean-architecture` | chore: update dependencies |
 | 2025-02-25 17:16 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/extract-service` | security: update SSL certificates config |
 | 2025-02-25 18:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: consolidate error handling |
+| 2025-02-25 19:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: resolve deadlock in transaction |
