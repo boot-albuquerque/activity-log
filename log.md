@@ -13807,3 +13807,4 @@
 | 2025-02-25 18:35 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `refactor/clean-architecture` | refactor: consolidate error handling |
 | 2025-02-25 19:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `main` | fix: resolve deadlock in transaction |
 | 2025-02-25 21:24 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: correct validation error messages |
+| 2025-02-26 13:24 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | refactor: simplify authentication flow |
