@@ -13828,3 +13828,4 @@
 | 2025-03-03 14:39 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | test: add e2e tests for checkout flow |
 | 2025-03-03 16:09 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/cleanup` | fix: resolve CORS configuration |
 | 2025-03-03 17:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/memory-leak` | feat: implement rate limiting middleware |
+| 2025-03-03 18:00 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `develop` | docs: add README setup instructions |
