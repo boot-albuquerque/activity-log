@@ -13834,3 +13834,4 @@
 | 2025-03-04 00:47 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/new-endpoint` | fix: resolve memory leak in connection pool |
 | 2025-03-04 09:44 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/add-caching` | infra: add Kubernetes manifests |
 | 2025-03-04 09:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | refactor: split large controller into smaller ones |
+| 2025-03-04 11:25 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/auth-improvements` | fix: correct cache invalidation logic |
