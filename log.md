@@ -13843,3 +13843,4 @@
 | 2025-03-04 18:13 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | security: fix SQL injection vulnerability |
 | 2025-03-04 18:43 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | feat: implement rate limiting middleware |
 | 2025-03-04 19:10 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `chore/update-deps` | feat: add search with filters |
+| 2025-03-04 19:23 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | db: optimize slow queries |
