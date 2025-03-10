@@ -13869,3 +13869,4 @@
 | 2025-03-09 15:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2025-03-09 20:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/race-condition` | chore: upgrade to latest Node.js LTS |
 | 2025-03-09 22:48 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/validation-bug` | refactor: clean up unused imports |
+| 2025-03-10 08:18 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | fix: correct null check in user service |
