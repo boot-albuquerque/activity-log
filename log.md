@@ -13883,3 +13883,4 @@
 | 2025-03-11 20:46 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/refactor-queries` | feat: implement caching layer |
 | 2025-03-11 20:46 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: mock external dependencies in tests |
 | 2025-03-13 00:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: reduce cyclomatic complexity |
+| 2025-03-13 08:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct pagination offset calculation |
