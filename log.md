@@ -13884,3 +13884,4 @@
 | 2025-03-11 20:46 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | test: mock external dependencies in tests |
 | 2025-03-13 00:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | refactor: reduce cyclomatic complexity |
 | 2025-03-13 08:23 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `main` | fix: correct pagination offset calculation |
+| 2025-03-13 09:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/memory-leak` | fix: resolve memory leak in connection pool |
