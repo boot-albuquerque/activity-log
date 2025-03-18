@@ -13911,3 +13911,4 @@
 | 2025-03-17 15:01 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | style: format code according to style guide |
 | 2025-03-17 15:56 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | test: add integration tests for API endpoints |
 | 2025-03-17 19:32 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/refactor-queries` | infra: configure auto-scaling policies |
+| 2025-03-17 22:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/add-caching` | docs: add README setup instructions |
