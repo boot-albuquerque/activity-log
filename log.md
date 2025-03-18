@@ -13916,3 +13916,4 @@
 | 2025-03-18 07:35 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | perf: add database indexes |
 | 2025-03-18 10:52 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/auth-improvements` | feat: create background job processor |
 | 2025-03-18 11:35 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/typo-response` | feat: create dashboard metrics endpoint |
+| 2025-03-18 11:40 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `develop` | feat: implement soft delete pattern |
