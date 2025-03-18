@@ -13921,3 +13921,4 @@
 | 2025-03-18 13:02 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | feat: implement rate limiting middleware |
 | 2025-03-18 13:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `hotfix/critical-fix` | security: add input sanitization |
 | 2025-03-18 15:36 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | fix: correct pagination offset calculation |
+| 2025-03-18 17:04 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | fix: correct cache invalidation logic |
