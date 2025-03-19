@@ -13927,3 +13927,4 @@
 | 2025-03-18 23:44 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/extract-service` | db: add composite index |
 | 2025-03-19 00:43 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | infra: configure auto-scaling policies |
 | 2025-03-19 00:51 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/refactor-queries` | test: improve test coverage to 80% |
+| 2025-03-19 15:48 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | refactor: move constants to config module |
