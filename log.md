@@ -13950,3 +13950,4 @@
 | 2025-03-24 09:41 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v1.0` | test: add e2e tests for checkout flow |
 | 2025-03-24 15:22 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `chore/update-deps` | test: fix flaky test in async handler |
 | 2025-03-24 15:38 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/typo-response` | feat: implement soft delete pattern |
+| 2025-03-24 16:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | docs: document environment variables |
