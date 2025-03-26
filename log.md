@@ -13961,3 +13961,4 @@
 | 2025-03-25 23:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | style: format code according to style guide |
 | 2025-03-26 00:37 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | db: add composite index |
 | 2025-03-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | fix: correct cache invalidation logic |
+| 2025-03-26 10:29 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
