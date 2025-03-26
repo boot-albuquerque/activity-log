@@ -13959,3 +13959,4 @@
 | 2025-03-25 19:53 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | fix: resolve CORS configuration |
 | 2025-03-25 20:03 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle edge case in date parsing |
 | 2025-03-25 23:52 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/add-caching` | style: format code according to style guide |
+| 2025-03-26 00:37 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | db: add composite index |
