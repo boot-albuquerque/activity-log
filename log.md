@@ -13962,3 +13962,4 @@
 | 2025-03-26 00:37 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v3.0` | db: add composite index |
 | 2025-03-26 09:39 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v3.0` | fix: correct cache invalidation logic |
 | 2025-03-26 10:29 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/null-pointer` | refactor: replace raw SQL with query builder |
+| 2025-03-26 11:36 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/memory-leak` | refactor: extract business logic to service layer |
