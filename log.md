@@ -13969,3 +13969,4 @@
 | 2025-03-26 18:56 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | test: mock external dependencies in tests |
 | 2025-03-27 00:59 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v1.0` | infra: configure auto-scaling policies |
 | 2025-03-27 07:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | security: update SSL certificates config |
+| 2025-03-27 08:53 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `develop` | feat: create health check endpoint |
