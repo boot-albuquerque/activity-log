@@ -13976,3 +13976,4 @@
 | 2025-03-27 13:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/rate-limiting` | perf: optimize database queries |
 | 2025-03-27 13:30 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/memory-leak` | test: cover edge cases in validator |
 | 2025-03-27 14:30 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `chore/cleanup` | ci: configure staging environment |
+| 2025-03-27 15:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `release/v2.0` | feat: add export to CSV/Excel |
