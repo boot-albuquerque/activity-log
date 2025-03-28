@@ -13983,3 +13983,4 @@
 | 2025-03-27 22:03 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | fix: correct null check in user service |
 | 2025-03-27 22:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v3.0` | feat: create background job processor |
 | 2025-03-28 00:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
+| 2025-03-28 10:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
