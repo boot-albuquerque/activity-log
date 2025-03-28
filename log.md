@@ -13985,3 +13985,4 @@
 | 2025-03-28 00:55 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/critical-fix` | fix: resolve race condition in queue worker |
 | 2025-03-28 10:15 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2025-03-28 15:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: handle malformed JSON input |
+| 2025-03-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | infra: configure auto-scaling policies |
