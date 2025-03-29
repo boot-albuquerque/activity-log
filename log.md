@@ -13987,3 +13987,4 @@
 | 2025-03-28 15:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v1.0` | fix: handle malformed JSON input |
 | 2025-03-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | infra: configure auto-scaling policies |
 | 2025-03-28 20:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
+| 2025-03-29 12:47 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | docs: update API documentation |
