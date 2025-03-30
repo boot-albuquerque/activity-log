@@ -13988,3 +13988,4 @@
 | 2025-03-28 18:23 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | infra: configure auto-scaling policies |
 | 2025-03-28 20:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2025-03-29 12:47 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | docs: update API documentation |
+| 2025-03-29 23:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | test: improve test coverage to 80% |
