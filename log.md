@@ -13991,3 +13991,4 @@
 | 2025-03-29 23:19 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | test: improve test coverage to 80% |
 | 2025-04-01 07:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | feat: add user authentication endpoint |
 | 2025-04-01 10:06 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/validation-bug` | feat: create background job processor |
+| 2025-04-01 11:14 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `refactor/extract-service` | docs: add README setup instructions |
