@@ -14002,3 +14002,4 @@
 | 2025-04-03 00:33 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `develop` | infra: update Terraform modules |
 | 2025-04-03 10:14 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | security: add input sanitization |
 | 2025-04-03 11:06 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v1.0` | fix: correct pagination offset calculation |
+| 2025-04-03 13:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
