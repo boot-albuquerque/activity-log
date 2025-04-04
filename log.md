@@ -14009,3 +14009,4 @@
 | 2025-04-04 18:25 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | db: add composite index |
 | 2025-04-04 20:24 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | fix: handle timeout in async operation |
 | 2025-04-04 20:36 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: add audit log trail |
+| 2025-04-04 20:44 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/typo-response` | fix: resolve memory leak in connection pool |
