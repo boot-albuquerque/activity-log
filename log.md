@@ -14015,3 +14015,4 @@
 | 2025-04-06 10:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: handle timeout in async operation |
 | 2025-04-06 13:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | infra: update Terraform modules |
 | 2025-04-06 14:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | db: optimize slow queries |
+| 2025-04-06 15:58 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/rate-limiting` | docs: document environment variables |
