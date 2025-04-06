@@ -14014,3 +14014,4 @@
 | 2025-04-05 19:04 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: add audit log trail |
 | 2025-04-06 10:03 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | fix: handle timeout in async operation |
 | 2025-04-06 13:33 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `fix/null-pointer` | infra: update Terraform modules |
+| 2025-04-06 14:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | db: optimize slow queries |
