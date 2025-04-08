@@ -14027,3 +14027,4 @@
 | 2025-04-08 12:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | feat: add file upload support |
 | 2025-04-08 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2025-04-08 19:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | feat: add search with filters |
+| 2025-04-08 20:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add bulk operations support |
