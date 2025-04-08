@@ -14025,3 +14025,4 @@
 | 2025-04-08 10:18 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/new-endpoint` | feat: add file upload support |
 | 2025-04-08 11:31 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | fix: handle missing environment variable |
 | 2025-04-08 12:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `refactor/extract-service` | feat: add file upload support |
+| 2025-04-08 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
