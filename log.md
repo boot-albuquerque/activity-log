@@ -14031,3 +14031,4 @@
 | 2025-04-09 09:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: add pre-commit hooks |
 | 2025-04-09 11:29 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `fix/race-condition` | refactor: simplify authentication flow |
 | 2025-04-09 12:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v1.0` | chore: add pre-commit hooks |
+| 2025-04-09 17:32 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | feat: add email notification on status change |
