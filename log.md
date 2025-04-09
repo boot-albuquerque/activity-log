@@ -14028,3 +14028,4 @@
 | 2025-04-08 13:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | security: fix SQL injection vulnerability |
 | 2025-04-08 19:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | feat: add search with filters |
 | 2025-04-08 20:01 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/refactor-queries` | feat: add bulk operations support |
+| 2025-04-09 09:58 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `refactor/extract-service` | chore: add pre-commit hooks |
