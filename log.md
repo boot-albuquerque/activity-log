@@ -14054,3 +14054,4 @@
 | 2025-04-11 15:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | fix: correct null check in user service |
 | 2025-04-11 16:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | docs: update API documentation |
 | 2025-04-11 17:04 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `chore/cleanup` | fix: resolve N+1 query problem |
+| 2025-04-11 19:09 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | refactor: replace raw SQL with query builder |
