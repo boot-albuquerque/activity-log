@@ -14047,3 +14047,4 @@
 | 2025-04-10 23:14 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/validation-bug` | chore: configure ESLint and Prettier |
 | 2025-04-11 07:58 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `chore/update-deps` | fix: correct pagination offset calculation |
 | 2025-04-11 09:35 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v2.0` | feat: create order processing service |
+| 2025-04-11 12:18 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v1.0` | chore: upgrade to latest Node.js LTS |
