@@ -14052,3 +14052,4 @@
 | 2025-04-11 13:38 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/typo-response` | fix: handle malformed JSON input |
 | 2025-04-11 14:40 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
 | 2025-04-11 15:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | fix: correct null check in user service |
+| 2025-04-11 16:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/race-condition` | docs: update API documentation |
