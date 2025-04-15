@@ -14063,3 +14063,4 @@
 | 2025-04-14 17:59 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | fix: handle timeout in async operation |
 | 2025-04-14 22:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/null-pointer` | feat: create health check endpoint |
 | 2025-04-15 07:13 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `chore/cleanup` | test: add performance benchmark tests |
+| 2025-04-15 10:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | test: add integration tests for API endpoints |
