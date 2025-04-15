@@ -14069,3 +14069,4 @@
 | 2025-04-15 14:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | db: add composite index |
 | 2025-04-15 14:31 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/pagination` | feat: create background job processor |
 | 2025-04-15 17:31 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `feature/add-caching` | fix: correct null check in user service |
+| 2025-04-15 18:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | test: mock external dependencies in tests |
