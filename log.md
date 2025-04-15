@@ -14066,3 +14066,4 @@
 | 2025-04-15 10:54 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v2.0` | test: add integration tests for API endpoints |
 | 2025-04-15 12:22 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `feature/new-endpoint` | refactor: move constants to config module |
 | 2025-04-15 12:59 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/race-condition` | test: mock external dependencies in tests |
+| 2025-04-15 14:10 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `chore/cleanup` | db: add composite index |
