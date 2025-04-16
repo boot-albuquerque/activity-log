@@ -14077,3 +14077,4 @@
 | 2025-04-16 16:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement soft delete pattern |
 | 2025-04-16 17:34 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
 | 2025-04-16 17:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
+| 2025-04-16 18:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | db: add composite index |
