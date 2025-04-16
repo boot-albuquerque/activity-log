@@ -14072,3 +14072,4 @@
 | 2025-04-15 18:27 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/add-caching` | test: mock external dependencies in tests |
 | 2025-04-15 19:54 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/refactor-queries` | feat: add user authentication endpoint |
 | 2025-04-15 21:32 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
+| 2025-04-16 08:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add search with filters |
