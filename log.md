@@ -14075,3 +14075,4 @@
 | 2025-04-16 08:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add search with filters |
 | 2025-04-16 11:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
 | 2025-04-16 16:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement soft delete pattern |
+| 2025-04-16 17:34 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/refactor-queries` | chore: configure ESLint and Prettier |
