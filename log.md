@@ -14074,3 +14074,4 @@
 | 2025-04-15 21:32 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | infra: add Kubernetes manifests |
 | 2025-04-16 08:06 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | feat: add search with filters |
 | 2025-04-16 11:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/critical-fix` | chore: upgrade to latest Node.js LTS |
+| 2025-04-16 16:21 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/update-deps` | feat: implement soft delete pattern |
