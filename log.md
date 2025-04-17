@@ -14079,3 +14079,4 @@
 | 2025-04-16 17:51 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/new-endpoint` | feat: create dashboard metrics endpoint |
 | 2025-04-16 18:58 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | db: add composite index |
 | 2025-04-17 08:41 | MacBook-Pro-de-Lucas | Local | `scripts` | `feature/pagination` | feat: add file upload support |
+| 2025-04-17 12:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/refactor-queries` | fix: correct pagination offset calculation |
