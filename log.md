@@ -14089,3 +14089,4 @@
 | 2025-04-21 12:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: correct cache invalidation logic |
 | 2025-04-21 12:55 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/update-deps` | chore: configure GitHub Actions CI |
 | 2025-04-21 16:22 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `hotfix/prod-issue` | perf: reduce bundle size |
+| 2025-04-21 17:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | fix: handle malformed JSON input |
