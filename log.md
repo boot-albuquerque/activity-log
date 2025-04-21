@@ -14086,3 +14086,4 @@
 | 2025-04-20 13:54 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | feat: create admin management interface |
 | 2025-04-20 23:56 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2025-04-21 09:09 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | fix: resolve N+1 query problem |
+| 2025-04-21 12:52 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `chore/update-deps` | fix: correct cache invalidation logic |
