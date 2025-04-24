@@ -14097,3 +14097,4 @@
 | 2025-04-24 09:08 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/race-condition` | chore: update dependencies |
 | 2025-04-24 10:31 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
 | 2025-04-24 11:14 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/typo-response` | feat: add email notification on status change |
+| 2025-04-24 13:13 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | fix: resolve CORS configuration |
