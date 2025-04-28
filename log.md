@@ -14118,3 +14118,4 @@
 | 2025-04-26 22:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2025-04-27 10:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
 | 2025-04-28 10:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | infra: add Kubernetes manifests |
+| 2025-04-28 11:11 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | docs: update API documentation |
