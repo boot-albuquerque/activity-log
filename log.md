@@ -14117,3 +14117,4 @@
 | 2025-04-26 22:47 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | test: add unit tests for payment service |
 | 2025-04-26 22:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/typo-response` | chore: configure ESLint and Prettier |
 | 2025-04-27 10:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | feat: add export to CSV/Excel |
+| 2025-04-28 10:06 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `chore/cleanup` | infra: add Kubernetes manifests |
