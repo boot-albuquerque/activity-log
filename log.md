@@ -14121,3 +14121,4 @@
 | 2025-04-28 11:11 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/null-pointer` | docs: update API documentation |
 | 2025-04-28 15:08 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `release/v2.0` | perf: add database indexes |
 | 2025-04-28 19:02 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `feature/add-caching` | refactor: simplify authentication flow |
+| 2025-04-29 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: implement rate limiting middleware |
