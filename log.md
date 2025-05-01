@@ -14124,3 +14124,4 @@
 | 2025-04-29 09:45 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `feature/add-caching` | feat: implement rate limiting middleware |
 | 2025-05-01 11:55 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/rate-limiting` | ci: add automated deployment pipeline |
 | 2025-05-01 12:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | refactor: improve code readability |
+| 2025-05-01 14:40 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | db: add migration for new schema |
