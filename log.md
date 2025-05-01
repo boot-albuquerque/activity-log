@@ -14126,3 +14126,4 @@
 | 2025-05-01 12:31 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `feature/refactor-queries` | refactor: improve code readability |
 | 2025-05-01 14:40 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `refactor/clean-architecture` | db: add migration for new schema |
 | 2025-05-01 18:29 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `develop` | refactor: improve code readability |
+| 2025-05-01 18:32 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `develop` | refactor: replace raw SQL with query builder |
