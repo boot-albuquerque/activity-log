@@ -14139,3 +14139,4 @@
 | 2025-05-05 07:40 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | refactor: consolidate error handling |
 | 2025-05-05 11:58 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/update-deps` | perf: implement response compression |
 | 2025-05-05 12:01 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/clean-architecture` | refactor: simplify authentication flow |
+| 2025-05-05 12:02 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `main` | test: mock external dependencies in tests |
