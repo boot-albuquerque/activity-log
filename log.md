@@ -14147,3 +14147,4 @@
 | 2025-05-05 15:24 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create health check endpoint |
 | 2025-05-05 15:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: add search with filters |
 | 2025-05-05 16:22 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `release/v2.0` | refactor: split large controller into smaller ones |
+| 2025-05-05 17:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | fix: resolve race condition in queue worker |
