@@ -14145,3 +14145,4 @@
 | 2025-05-05 14:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2025-05-05 15:21 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/race-condition` | fix: handle empty response from external API |
 | 2025-05-05 15:24 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | feat: create health check endpoint |
+| 2025-05-05 15:58 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `fix/memory-leak` | feat: add search with filters |
