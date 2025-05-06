@@ -14150,3 +14150,4 @@
 | 2025-05-05 17:07 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/validation-bug` | fix: resolve race condition in queue worker |
 | 2025-05-05 21:12 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | db: add migration for new schema |
 | 2025-05-06 08:22 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `fix/validation-bug` | style: fix indentation and whitespace |
+| 2025-05-06 09:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | security: fix SQL injection vulnerability |
