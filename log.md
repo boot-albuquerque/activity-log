@@ -14160,3 +14160,4 @@
 | 2025-05-07 15:32 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | feat: implement rate limiting middleware |
 | 2025-05-07 20:05 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/new-endpoint` | feat: add search with filters |
 | 2025-05-07 22:04 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/pagination` | fix: handle empty response from external API |
+| 2025-05-08 00:14 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | fix: correct decimal precision in billing |
