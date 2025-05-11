@@ -14167,3 +14167,4 @@
 | 2025-05-08 21:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2025-05-11 08:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | feat: add search with filters |
 | 2025-05-11 09:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
+| 2025-05-11 13:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | docs: update API documentation |
