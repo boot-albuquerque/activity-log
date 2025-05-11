@@ -14166,3 +14166,4 @@
 | 2025-05-08 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | feat: add email notification on status change |
 | 2025-05-08 21:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | fix: handle timeout in async operation |
 | 2025-05-11 08:00 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/null-pointer` | feat: add search with filters |
+| 2025-05-11 09:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
