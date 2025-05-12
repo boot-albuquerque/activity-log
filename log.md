@@ -14169,3 +14169,4 @@
 | 2025-05-11 09:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | ci: configure staging environment |
 | 2025-05-11 13:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `release/v1.0` | docs: update API documentation |
 | 2025-05-11 15:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | test: improve test coverage to 80% |
+| 2025-05-12 12:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
