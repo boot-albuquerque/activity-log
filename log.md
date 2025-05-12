@@ -14171,3 +14171,4 @@
 | 2025-05-11 15:20 | MacBook-Pro-de-Lucas | Local | `config-files` | `refactor/extract-service` | test: improve test coverage to 80% |
 | 2025-05-12 12:26 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | feat: implement rate limiting middleware |
 | 2025-05-12 13:26 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
+| 2025-05-12 16:44 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/memory-leak` | refactor: extract business logic to service layer |
