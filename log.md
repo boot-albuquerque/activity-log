@@ -14182,3 +14182,4 @@
 | 2025-05-14 07:50 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: replace raw SQL with query builder |
 | 2025-05-14 09:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: add export to CSV/Excel |
 | 2025-05-14 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | perf: optimize database queries |
+| 2025-05-14 13:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: simplify authentication flow |
