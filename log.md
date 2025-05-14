@@ -14179,3 +14179,4 @@
 | 2025-05-13 10:21 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | fix: handle empty response from external API |
 | 2025-05-13 14:54 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/add-caching` | refactor: move constants to config module |
 | 2025-05-13 23:17 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/critical-fix` | security: add input sanitization |
+| 2025-05-14 07:50 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `fix/typo-response` | refactor: replace raw SQL with query builder |
