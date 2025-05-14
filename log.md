@@ -14183,3 +14183,4 @@
 | 2025-05-14 09:03 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `develop` | feat: add export to CSV/Excel |
 | 2025-05-14 13:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `release/v2.0` | perf: optimize database queries |
 | 2025-05-14 13:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: simplify authentication flow |
+| 2025-05-14 14:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | docs: document environment variables |
