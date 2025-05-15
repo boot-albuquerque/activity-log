@@ -14186,3 +14186,4 @@
 | 2025-05-14 14:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | docs: document environment variables |
 | 2025-05-14 23:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | style: format code according to style guide |
 | 2025-05-15 00:30 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | test: add e2e tests for checkout flow |
+| 2025-05-15 08:47 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/refactor-queries` | perf: reduce bundle size |
