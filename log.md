@@ -14185,3 +14185,4 @@
 | 2025-05-14 13:37 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `hotfix/prod-issue` | refactor: simplify authentication flow |
 | 2025-05-14 14:24 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | docs: document environment variables |
 | 2025-05-14 23:10 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `feature/auth-improvements` | style: format code according to style guide |
+| 2025-05-15 00:30 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | test: add e2e tests for checkout flow |
