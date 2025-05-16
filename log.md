@@ -14193,3 +14193,4 @@
 | 2025-05-15 12:57 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `chore/update-deps` | docs: update API documentation |
 | 2025-05-15 18:42 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `release/v3.0` | fix: resolve N+1 query problem |
 | 2025-05-16 08:54 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | perf: reduce bundle size |
+| 2025-05-16 09:00 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | db: optimize slow queries |
