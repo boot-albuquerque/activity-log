@@ -14200,3 +14200,4 @@
 | 2025-05-16 13:30 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/race-condition` | test: add e2e tests for checkout flow |
 | 2025-05-16 16:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `hotfix/prod-issue` | infra: add Kubernetes manifests |
 | 2025-05-16 17:53 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/refactor-queries` | feat: add real-time notifications |
+| 2025-05-16 18:31 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | feat: add export to CSV/Excel |
