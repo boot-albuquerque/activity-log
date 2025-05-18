@@ -14203,3 +14203,4 @@
 | 2025-05-16 18:31 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `fix/null-pointer` | feat: add export to CSV/Excel |
 | 2025-05-16 20:36 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/refactor-queries` | db: optimize slow queries |
 | 2025-05-16 21:51 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v1.0` | fix: resolve memory leak in connection pool |
+| 2025-05-18 08:53 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `refactor/clean-architecture` | fix: resolve N+1 query problem |
