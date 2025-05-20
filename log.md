@@ -14209,3 +14209,4 @@
 | 2025-05-18 14:34 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | perf: add database indexes |
 | 2025-05-19 09:05 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/validation-bug` | test: add unit tests for payment service |
 | 2025-05-20 14:17 | MacBook-Pro-de-Lucas | Local | `study-notes` | `refactor/clean-architecture` | feat: create health check endpoint |
+| 2025-05-20 17:53 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v3.0` | fix: correct decimal precision in billing |
