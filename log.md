@@ -14217,3 +14217,4 @@
 | 2025-05-21 18:12 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | chore: configure ESLint and Prettier |
 | 2025-05-22 08:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | feat: create order processing service |
 | 2025-05-22 12:18 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `feature/rate-limiting` | fix: handle timeout in async operation |
+| 2025-05-22 12:30 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `release/v2.0` | feat: implement JWT refresh token |
