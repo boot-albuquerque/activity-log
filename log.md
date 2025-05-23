@@ -14222,3 +14222,4 @@
 | 2025-05-22 15:00 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | fix: correct null check in user service |
 | 2025-05-22 16:50 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | docs: update API documentation |
 | 2025-05-22 18:20 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `chore/cleanup` | test: mock external dependencies in tests |
+| 2025-05-22 21:11 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `develop` | security: update SSL certificates config |
