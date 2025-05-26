@@ -14229,3 +14229,4 @@
 | 2025-05-26 08:35 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | perf: implement response compression |
 | 2025-05-26 10:27 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `fix/validation-bug` | security: update SSL certificates config |
 | 2025-05-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add file upload support |
+| 2025-05-26 14:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | refactor: simplify authentication flow |
