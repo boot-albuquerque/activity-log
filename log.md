@@ -14231,3 +14231,4 @@
 | 2025-05-26 13:58 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `main` | feat: add file upload support |
 | 2025-05-26 14:31 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/rate-limiting` | refactor: simplify authentication flow |
 | 2025-05-26 14:51 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `main` | test: add integration tests for API endpoints |
+| 2025-05-26 17:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `fix/memory-leak` | perf: add database indexes |
