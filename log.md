@@ -14244,3 +14244,4 @@
 | 2025-05-28 15:18 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `hotfix/critical-fix` | security: update SSL certificates config |
 | 2025-05-28 16:10 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `feature/add-caching` | feat: implement rate limiting middleware |
 | 2025-05-28 17:42 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `hotfix/critical-fix` | feat: add audit log trail |
+| 2025-05-29 10:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
