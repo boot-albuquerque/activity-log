@@ -14247,3 +14247,4 @@
 | 2025-05-29 10:49 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
 | 2025-05-29 11:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | feat: implement caching layer |
 | 2025-05-29 15:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `main` | chore: configure ESLint and Prettier |
+| 2025-05-29 18:27 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `fix/validation-bug` | test: add integration tests for API endpoints |
