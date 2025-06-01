@@ -14258,3 +14258,4 @@
 | 2025-05-30 19:23 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | feat: add email notification on status change |
 | 2025-05-30 23:03 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v3.0` | chore: configure GitHub Actions CI |
 | 2025-05-30 23:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: resolve memory leak in connection pool |
+| 2025-06-01 00:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add OpenAPI documentation |
