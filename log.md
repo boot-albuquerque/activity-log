@@ -14263,3 +14263,4 @@
 | 2025-06-01 14:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add export to CSV/Excel |
 | 2025-06-01 17:17 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | test: add performance benchmark tests |
 | 2025-06-01 17:33 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
+| 2025-06-01 17:57 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: add email notification on status change |
