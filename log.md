@@ -14260,3 +14260,4 @@
 | 2025-05-30 23:49 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | fix: resolve memory leak in connection pool |
 | 2025-06-01 00:37 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `main` | feat: add OpenAPI documentation |
 | 2025-06-01 07:35 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | fix: resolve N+1 query problem |
+| 2025-06-01 14:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `develop` | feat: add export to CSV/Excel |
