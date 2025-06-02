@@ -14264,3 +14264,4 @@
 | 2025-06-01 17:17 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | test: add performance benchmark tests |
 | 2025-06-01 17:33 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `refactor/clean-architecture` | fix: resolve deadlock in transaction |
 | 2025-06-01 17:57 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | feat: add email notification on status change |
+| 2025-06-02 09:55 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `refactor/clean-architecture` | chore: add Docker Compose for local dev |
