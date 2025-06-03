@@ -14277,3 +14277,4 @@
 | 2025-06-02 23:40 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/pagination` | feat: add search with filters |
 | 2025-06-03 00:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | test: improve test coverage to 80% |
 | 2025-06-03 09:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: move constants to config module |
+| 2025-06-03 09:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | db: add composite index |
