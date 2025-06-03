@@ -14280,3 +14280,4 @@
 | 2025-06-03 09:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | db: add composite index |
 | 2025-06-03 13:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | fix: correct cache invalidation logic |
 | 2025-06-03 13:47 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/auth-improvements` | db: optimize slow queries |
+| 2025-06-03 15:30 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v2.0` | refactor: consolidate error handling |
