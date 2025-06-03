@@ -14272,3 +14272,4 @@
 | 2025-06-02 13:50 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `feature/pagination` | test: fix flaky test in async handler |
 | 2025-06-02 15:35 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/validation-bug` | feat: create admin management interface |
 | 2025-06-02 16:46 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | style: format code according to style guide |
+| 2025-06-02 21:59 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | test: add e2e tests for checkout flow |
