@@ -14278,3 +14278,4 @@
 | 2025-06-03 00:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `main` | test: improve test coverage to 80% |
 | 2025-06-03 09:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: move constants to config module |
 | 2025-06-03 09:27 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `main` | db: add composite index |
+| 2025-06-03 13:11 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/new-endpoint` | fix: correct cache invalidation logic |
