@@ -14284,3 +14284,4 @@
 | 2025-06-03 16:52 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `refactor/extract-service` | refactor: clean up unused imports |
 | 2025-06-03 17:07 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/race-condition` | perf: reduce bundle size |
 | 2025-06-03 20:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | refactor: simplify authentication flow |
+| 2025-06-03 22:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
