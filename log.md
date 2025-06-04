@@ -14286,3 +14286,4 @@
 | 2025-06-03 20:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | refactor: simplify authentication flow |
 | 2025-06-03 22:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2025-06-04 08:58 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: add real-time notifications |
+| 2025-06-04 11:17 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | chore: add Docker Compose for local dev |
