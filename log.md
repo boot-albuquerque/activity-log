@@ -14287,3 +14287,4 @@
 | 2025-06-03 22:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | test: mock external dependencies in tests |
 | 2025-06-04 08:58 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/memory-leak` | feat: add real-time notifications |
 | 2025-06-04 11:17 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/add-caching` | chore: add Docker Compose for local dev |
+| 2025-06-04 17:04 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/pagination` | test: add unit tests for payment service |
