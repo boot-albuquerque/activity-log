@@ -14295,3 +14295,4 @@
 | 2025-06-05 14:12 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `release/v2.0` | refactor: replace raw SQL with query builder |
 | 2025-06-05 14:35 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `main` | refactor: extract business logic to service layer |
 | 2025-06-05 17:12 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | db: add migration for new schema |
+| 2025-06-05 17:19 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
