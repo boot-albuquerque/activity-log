@@ -14291,3 +14291,4 @@
 | 2025-06-04 18:45 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | db: add migration for new schema |
 | 2025-06-04 22:08 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `main` | chore: configure ESLint and Prettier |
 | 2025-06-05 10:31 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `develop` | refactor: improve code readability |
+| 2025-06-05 10:47 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | feat: add export to CSV/Excel |
