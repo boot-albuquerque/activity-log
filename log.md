@@ -14297,3 +14297,4 @@
 | 2025-06-05 17:12 | MacBook-Pro-de-Lucas | Local | `config-files` | `hotfix/prod-issue` | db: add migration for new schema |
 | 2025-06-05 17:19 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/auth-improvements` | fix: resolve deadlock in transaction |
 | 2025-06-05 20:18 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | fix: handle timeout in async operation |
+| 2025-06-05 20:38 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | test: cover edge cases in validator |
