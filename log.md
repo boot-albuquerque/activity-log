@@ -14306,3 +14306,4 @@
 | 2025-06-06 13:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | db: add migration for new schema |
 | 2025-06-06 16:38 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: handle timeout in async operation |
 | 2025-06-06 22:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | perf: add database indexes |
+| 2025-06-07 09:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: correct null check in user service |
