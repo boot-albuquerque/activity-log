@@ -14305,3 +14305,4 @@
 | 2025-06-06 13:15 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/memory-leak` | test: mock external dependencies in tests |
 | 2025-06-06 13:37 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/new-endpoint` | db: add migration for new schema |
 | 2025-06-06 16:38 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | fix: handle timeout in async operation |
+| 2025-06-06 22:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | perf: add database indexes |
