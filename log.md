@@ -14308,3 +14308,4 @@
 | 2025-06-06 22:29 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v1.0` | perf: add database indexes |
 | 2025-06-07 09:58 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `develop` | fix: correct null check in user service |
 | 2025-06-07 22:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | fix: correct cache invalidation logic |
+| 2025-06-08 13:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
