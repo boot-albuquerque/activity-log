@@ -14310,3 +14310,4 @@
 | 2025-06-07 22:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | fix: correct cache invalidation logic |
 | 2025-06-08 13:00 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `hotfix/prod-issue` | fix: resolve race condition in queue worker |
 | 2025-06-08 17:08 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/cleanup` | feat: implement rate limiting middleware |
+| 2025-06-08 18:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: adopt repository pattern |
