@@ -14313,3 +14313,4 @@
 | 2025-06-08 18:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `main` | refactor: adopt repository pattern |
 | 2025-06-08 21:18 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/prod-issue` | feat: add export to CSV/Excel |
 | 2025-06-09 07:12 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v3.0` | feat: add export to CSV/Excel |
+| 2025-06-09 08:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | db: add migration for new schema |
