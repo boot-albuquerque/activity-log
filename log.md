@@ -14316,3 +14316,4 @@
 | 2025-06-09 08:29 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/rate-limiting` | db: add migration for new schema |
 | 2025-06-09 09:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/update-deps` | security: update SSL certificates config |
 | 2025-06-09 11:46 | MacBook-Pro-de-Lucas | Local | `config-files` | `release/v2.0` | test: add integration tests for API endpoints |
+| 2025-06-09 12:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | fix: handle edge case in date parsing |
