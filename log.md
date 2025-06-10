@@ -14336,3 +14336,4 @@
 | 2025-06-10 14:09 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: adopt repository pattern |
 | 2025-06-10 15:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | refactor: extract business logic to service layer |
 | 2025-06-10 17:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | feat: implement JWT refresh token |
+| 2025-06-10 17:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add user authentication endpoint |
