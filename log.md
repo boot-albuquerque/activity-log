@@ -14326,3 +14326,4 @@
 | 2025-06-09 18:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `fix/typo-response` | feat: add user authentication endpoint |
 | 2025-06-09 19:05 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `develop` | infra: add Kubernetes manifests |
 | 2025-06-09 19:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | fix: handle missing environment variable |
+| 2025-06-09 22:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | test: add unit tests for payment service |
