@@ -14334,3 +14334,4 @@
 | 2025-06-10 13:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `chore/cleanup` | feat: add audit log trail |
 | 2025-06-10 13:55 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v1.0` | test: improve test coverage to 80% |
 | 2025-06-10 14:09 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | refactor: adopt repository pattern |
+| 2025-06-10 15:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `chore/update-deps` | refactor: extract business logic to service layer |
