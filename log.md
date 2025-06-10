@@ -14328,3 +14328,4 @@
 | 2025-06-09 19:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | fix: handle missing environment variable |
 | 2025-06-09 22:17 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `release/v1.0` | test: add unit tests for payment service |
 | 2025-06-10 09:55 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `release/v3.0` | feat: implement webhook receiver |
+| 2025-06-10 10:15 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/auth-improvements` | refactor: move constants to config module |
