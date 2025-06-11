@@ -14338,3 +14338,4 @@
 | 2025-06-10 17:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `feature/new-endpoint` | feat: implement JWT refresh token |
 | 2025-06-10 17:21 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | feat: add user authentication endpoint |
 | 2025-06-10 20:34 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `feature/pagination` | chore: update dependencies |
+| 2025-06-10 21:17 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add OpenAPI documentation |
