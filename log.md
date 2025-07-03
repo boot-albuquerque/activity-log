@@ -14359,3 +14359,4 @@
 | 2025-07-03 13:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2025-07-03 17:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `chore/update-deps` | feat: create background job processor |
 | 2025-07-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | refactor: simplify authentication flow |
+| 2025-07-03 18:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
