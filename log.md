@@ -14356,3 +14356,4 @@
 | 2025-07-03 10:28 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `main` | test: add e2e tests for checkout flow |
 | 2025-07-03 11:45 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/critical-fix` | feat: add bulk operations support |
 | 2025-07-03 12:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `feature/refactor-queries` | refactor: reduce cyclomatic complexity |
+| 2025-07-03 13:31 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `hotfix/prod-issue` | fix: correct null check in user service |
