@@ -14361,3 +14361,4 @@
 | 2025-07-03 18:44 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v2.0` | refactor: simplify authentication flow |
 | 2025-07-03 18:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | refactor: split large controller into smaller ones |
 | 2025-07-03 19:56 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | test: add performance benchmark tests |
+| 2025-07-03 22:14 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `hotfix/prod-issue` | refactor: move constants to config module |
