@@ -14365,3 +14365,4 @@
 | 2025-07-03 22:34 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | db: add composite index |
 | 2025-07-04 08:44 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | perf: optimize database queries |
 | 2025-07-04 11:45 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `refactor/extract-service` | docs: add README setup instructions |
+| 2025-07-04 12:51 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `fix/null-pointer` | fix: correct cache invalidation logic |
