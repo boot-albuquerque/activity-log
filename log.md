@@ -14378,3 +14378,4 @@
 | 2025-07-10 09:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | docs: document environment variables |
 | 2025-07-10 10:06 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | refactor: move constants to config module |
 | 2025-07-10 12:20 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `fix/validation-bug` | test: add integration tests for API endpoints |
+| 2025-07-10 15:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | fix: correct decimal precision in billing |
