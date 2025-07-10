@@ -14374,3 +14374,4 @@
 | 2025-07-09 18:45 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `develop` | fix: correct decimal precision in billing |
 | 2025-07-09 21:42 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `feature/pagination` | refactor: move constants to config module |
 | 2025-07-09 23:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | docs: add README setup instructions |
+| 2025-07-10 00:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: implement soft delete pattern |
