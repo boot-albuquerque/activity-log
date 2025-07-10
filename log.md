@@ -14376,3 +14376,4 @@
 | 2025-07-09 23:07 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/validation-bug` | docs: add README setup instructions |
 | 2025-07-10 00:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/auth-improvements` | feat: implement soft delete pattern |
 | 2025-07-10 09:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | docs: document environment variables |
+| 2025-07-10 10:06 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `release/v3.0` | refactor: move constants to config module |
