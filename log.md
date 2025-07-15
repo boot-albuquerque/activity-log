@@ -14384,3 +14384,4 @@
 | 2025-07-10 19:28 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v3.0` | docs: add README setup instructions |
 | 2025-07-10 21:02 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `feature/pagination` | chore: add pre-commit hooks |
 | 2025-07-10 23:07 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | fix: correct null check in user service |
+| 2025-07-15 11:29 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `hotfix/prod-issue` | fix: correct pagination offset calculation |
