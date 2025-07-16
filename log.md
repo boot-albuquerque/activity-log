@@ -14391,3 +14391,4 @@
 | 2025-07-16 09:50 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/null-pointer` | fix: correct null check in user service |
 | 2025-07-16 10:02 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | security: fix SQL injection vulnerability |
 | 2025-07-16 15:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/cleanup` | chore: add Docker Compose for local dev |
+| 2025-07-16 15:49 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | fix: correct pagination offset calculation |
