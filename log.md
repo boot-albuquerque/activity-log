@@ -14400,3 +14400,4 @@
 | 2025-07-17 14:15 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `main` | feat: add user authentication endpoint |
 | 2025-07-17 20:08 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | chore: add Docker Compose for local dev |
 | 2025-07-17 23:53 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: add unit tests for payment service |
+| 2025-08-09 00:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | fix: resolve race condition in queue worker |
