@@ -14403,3 +14403,4 @@
 | 2025-08-09 00:22 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | fix: resolve race condition in queue worker |
 | 2025-08-16 10:56 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | refactor: simplify authentication flow |
 | 2025-08-16 12:35 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/typo-response` | feat: add search with filters |
+| 2025-08-16 13:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
