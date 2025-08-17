@@ -14406,3 +14406,4 @@
 | 2025-08-16 13:26 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `refactor/clean-architecture` | feat: add pagination to list endpoint |
 | 2025-08-16 21:44 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/race-condition` | test: mock external dependencies in tests |
 | 2025-08-17 12:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | chore: add pre-commit hooks |
+| 2025-08-17 17:03 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: add pre-commit hooks |
