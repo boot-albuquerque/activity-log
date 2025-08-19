@@ -14408,3 +14408,4 @@
 | 2025-08-17 12:54 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `hotfix/prod-issue` | chore: add pre-commit hooks |
 | 2025-08-17 17:03 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `develop` | chore: add pre-commit hooks |
 | 2025-08-19 12:18 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/null-pointer` | infra: configure auto-scaling policies |
+| 2025-08-19 12:26 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `hotfix/critical-fix` | fix: handle edge case in date parsing |
