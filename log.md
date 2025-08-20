@@ -14417,3 +14417,4 @@
 | 2025-08-20 00:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2025-08-20 08:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: create health check endpoint |
 | 2025-08-20 10:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add real-time notifications |
+| 2025-08-20 11:56 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | fix: resolve deadlock in transaction |
