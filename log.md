@@ -14416,3 +14416,4 @@
 | 2025-08-19 18:28 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | infra: update Terraform modules |
 | 2025-08-20 00:06 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | refactor: split large controller into smaller ones |
 | 2025-08-20 08:23 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | feat: create health check endpoint |
+| 2025-08-20 10:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `develop` | feat: add real-time notifications |
