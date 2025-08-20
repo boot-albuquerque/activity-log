@@ -14422,3 +14422,4 @@
 | 2025-08-20 16:03 | MacBook-Pro-de-Lucas | Local | `scripts` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2025-08-20 16:12 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `main` | docs: document environment variables |
 | 2025-08-20 17:04 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `main` | fix: resolve N+1 query problem |
+| 2025-08-20 17:14 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `release/v3.0` | test: add e2e tests for checkout flow |
