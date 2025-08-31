@@ -14428,3 +14428,4 @@
 | 2025-08-20 23:16 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | feat: implement JWT refresh token |
 | 2025-08-30 14:59 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `fix/race-condition` | refactor: replace raw SQL with query builder |
 | 2025-08-31 08:06 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/add-caching` | perf: implement response compression |
+| 2025-08-31 11:46 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v3.0` | fix: resolve race condition in queue worker |
