@@ -14434,3 +14434,4 @@
 | 2025-09-01 10:46 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | test: fix flaky test in async handler |
 | 2025-09-01 12:13 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/new-endpoint` | refactor: split large controller into smaller ones |
 | 2025-09-01 12:16 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `fix/memory-leak` | perf: add database indexes |
+| 2025-09-01 12:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
