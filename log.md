@@ -14437,3 +14437,4 @@
 | 2025-09-01 12:45 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `feature/new-endpoint` | chore: add Docker Compose for local dev |
 | 2025-09-01 13:40 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `chore/cleanup` | fix: resolve N+1 query problem |
 | 2025-09-01 19:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: add integration tests for API endpoints |
+| 2025-09-01 21:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | db: add composite index |
