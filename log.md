@@ -14439,3 +14439,4 @@
 | 2025-09-01 19:34 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `chore/cleanup` | test: add integration tests for API endpoints |
 | 2025-09-01 21:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | db: add composite index |
 | 2025-09-01 21:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | infra: update Terraform modules |
+| 2025-09-01 21:52 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: handle missing environment variable |
