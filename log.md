@@ -14440,3 +14440,4 @@
 | 2025-09-01 21:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `chore/update-deps` | db: add composite index |
 | 2025-09-01 21:27 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/rate-limiting` | infra: update Terraform modules |
 | 2025-09-01 21:52 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `feature/auth-improvements` | fix: handle missing environment variable |
+| 2025-09-01 22:22 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `release/v2.0` | fix: correct cache invalidation logic |
