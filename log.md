@@ -14448,3 +14448,4 @@
 | 2025-09-02 21:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: implement JWT refresh token |
 | 2025-09-03 08:04 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `fix/validation-bug` | feat: add user authentication endpoint |
 | 2025-09-03 14:53 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `refactor/clean-architecture` | fix: handle malformed JSON input |
+| 2025-09-03 15:07 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `release/v1.0` | fix: correct cache invalidation logic |
