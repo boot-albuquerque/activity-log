@@ -14445,3 +14445,4 @@
 | 2025-09-02 13:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | test: add e2e tests for checkout flow |
 | 2025-09-02 16:00 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/rate-limiting` | feat: add email notification on status change |
 | 2025-09-02 18:10 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | feat: create background job processor |
+| 2025-09-02 21:52 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/race-condition` | feat: implement JWT refresh token |
