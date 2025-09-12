@@ -14468,3 +14468,4 @@
 | 2025-09-08 18:46 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `develop` | refactor: clean up unused imports |
 | 2025-09-09 17:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | feat: add pagination to list endpoint |
 | 2025-09-12 09:32 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `hotfix/critical-fix` | docs: update API documentation |
+| 2025-09-12 13:49 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `main` | fix: correct cache invalidation logic |
