@@ -14472,3 +14472,4 @@
 | 2025-09-12 14:54 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `fix/null-pointer` | fix: handle timeout in async operation |
 | 2025-09-12 14:59 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/validation-bug` | docs: update API documentation |
 | 2025-09-12 16:49 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/update-deps` | test: fix flaky test in async handler |
+| 2025-09-12 18:47 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `release/v1.0` | fix: handle missing environment variable |
