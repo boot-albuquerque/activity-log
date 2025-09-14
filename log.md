@@ -14476,3 +14476,4 @@
 | 2025-09-12 21:30 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2025-09-13 16:24 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | style: fix indentation and whitespace |
 | 2025-09-13 19:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: correct validation error messages |
+| 2025-09-14 15:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add performance benchmark tests |
