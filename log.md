@@ -14481,3 +14481,4 @@
 | 2025-09-15 12:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | security: add input sanitization |
 | 2025-09-15 14:16 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/refactor-queries` | feat: add real-time notifications |
 | 2025-09-15 15:47 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `chore/cleanup` | feat: implement webhook receiver |
+| 2025-09-15 15:49 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | fix: correct decimal precision in billing |
