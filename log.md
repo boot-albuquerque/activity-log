@@ -14478,3 +14478,4 @@
 | 2025-09-13 19:11 | MacBook-Pro-de-Lucas | Local | `scripts` | `develop` | fix: correct validation error messages |
 | 2025-09-14 15:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `develop` | test: add performance benchmark tests |
 | 2025-09-15 11:24 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | db: add migration for new schema |
+| 2025-09-15 12:52 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/prod-issue` | security: add input sanitization |
