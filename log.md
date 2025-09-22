@@ -14485,3 +14485,4 @@
 | 2025-09-15 17:16 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `release/v2.0` | feat: add email notification on status change |
 | 2025-09-15 21:47 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `feature/pagination` | feat: add OpenAPI documentation |
 | 2025-09-22 00:06 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | test: add e2e tests for checkout flow |
+| 2025-09-22 08:49 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | refactor: simplify authentication flow |
