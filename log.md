@@ -14496,3 +14496,4 @@
 | 2025-09-23 17:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | feat: add search with filters |
 | 2025-09-23 19:07 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | perf: optimize database queries |
 | 2025-09-24 07:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
+| 2025-09-24 10:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | chore: add Docker Compose for local dev |
