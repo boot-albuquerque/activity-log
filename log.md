@@ -14495,3 +14495,4 @@
 | 2025-09-23 14:55 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | feat: add export to CSV/Excel |
 | 2025-09-23 17:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `fix/typo-response` | feat: add search with filters |
 | 2025-09-23 19:07 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `hotfix/prod-issue` | perf: optimize database queries |
+| 2025-09-24 07:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
