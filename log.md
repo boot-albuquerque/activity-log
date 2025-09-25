@@ -14498,3 +14498,4 @@
 | 2025-09-24 07:51 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/cleanup` | chore: upgrade to latest Node.js LTS |
 | 2025-09-24 10:03 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/memory-leak` | chore: add Docker Compose for local dev |
 | 2025-09-24 11:48 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `feature/new-endpoint` | refactor: improve code readability |
+| 2025-09-24 21:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
