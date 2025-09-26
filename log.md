@@ -14501,3 +14501,4 @@
 | 2025-09-24 21:09 | MacBook-Pro-de-Lucas | Local | `study-notes` | `hotfix/prod-issue` | chore: configure ESLint and Prettier |
 | 2025-09-25 00:05 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `main` | feat: implement rate limiting middleware |
 | 2025-09-26 15:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: add Docker Compose for local dev |
+| 2025-09-26 17:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | security: add input sanitization |
