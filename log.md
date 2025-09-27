@@ -14503,3 +14503,4 @@
 | 2025-09-26 15:50 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | chore: add Docker Compose for local dev |
 | 2025-09-26 17:22 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `release/v2.0` | security: add input sanitization |
 | 2025-09-26 18:36 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/rate-limiting` | feat: add real-time notifications |
+| 2025-09-26 22:50 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `main` | docs: document environment variables |
