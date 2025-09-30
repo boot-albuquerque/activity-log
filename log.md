@@ -14522,3 +14522,4 @@
 | 2025-09-30 15:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | ci: configure staging environment |
 | 2025-09-30 15:47 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | feat: add pagination to list endpoint |
 | 2025-09-30 16:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add e2e tests for checkout flow |
+| 2025-09-30 18:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: correct null check in user service |
