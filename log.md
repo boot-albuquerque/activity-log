@@ -14520,3 +14520,4 @@
 | 2025-09-30 12:48 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | feat: add bulk operations support |
 | 2025-09-30 13:27 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `refactor/clean-architecture` | fix: resolve CORS configuration |
 | 2025-09-30 15:35 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/add-caching` | ci: configure staging environment |
+| 2025-09-30 15:47 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/add-caching` | feat: add pagination to list endpoint |
