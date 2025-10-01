@@ -14535,3 +14535,4 @@
 | 2025-10-01 16:01 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `refactor/clean-architecture` | fix: correct decimal precision in billing |
 | 2025-10-01 18:12 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `main` | feat: create health check endpoint |
 | 2025-10-01 18:23 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | fix: handle missing environment variable |
+| 2025-10-01 18:29 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct validation error messages |
