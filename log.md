@@ -14537,3 +14537,4 @@
 | 2025-10-01 18:23 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `refactor/clean-architecture` | fix: handle missing environment variable |
 | 2025-10-01 18:29 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `develop` | fix: correct validation error messages |
 | 2025-10-01 20:10 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/race-condition` | docs: add README setup instructions |
+| 2025-10-01 20:20 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `release/v1.0` | feat: add search with filters |
