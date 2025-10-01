@@ -14524,3 +14524,4 @@
 | 2025-09-30 16:11 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `refactor/extract-service` | test: add e2e tests for checkout flow |
 | 2025-09-30 18:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2025-09-30 19:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | db: add composite index |
+| 2025-09-30 21:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | test: add unit tests for payment service |
