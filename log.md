@@ -14525,3 +14525,4 @@
 | 2025-09-30 18:36 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `feature/refactor-queries` | fix: correct null check in user service |
 | 2025-09-30 19:05 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `hotfix/prod-issue` | db: add composite index |
 | 2025-09-30 21:14 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `chore/cleanup` | test: add unit tests for payment service |
+| 2025-09-30 21:58 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | docs: update API documentation |
