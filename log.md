@@ -14530,3 +14530,4 @@
 | 2025-10-01 00:59 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `feature/rate-limiting` | perf: reduce bundle size |
 | 2025-10-01 09:15 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `fix/race-condition` | feat: implement soft delete pattern |
 | 2025-10-01 11:15 | MacBook-Pro-de-Lucas | GitHub | `mobile` | `feature/add-caching` | fix: resolve race condition in queue worker |
+| 2025-10-01 12:19 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `feature/add-caching` | feat: implement JWT refresh token |
