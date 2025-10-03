@@ -14541,3 +14541,4 @@
 | 2025-10-01 23:47 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/auth-improvements` | feat: create health check endpoint |
 | 2025-10-02 23:47 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `refactor/clean-architecture` | fix: handle edge case in date parsing |
 | 2025-10-03 09:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | fix: correct null check in user service |
+| 2025-10-03 11:51 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v3.0` | perf: add database indexes |
