@@ -14547,3 +14547,4 @@
 | 2025-10-03 18:09 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | ci: configure staging environment |
 | 2025-10-03 21:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/new-endpoint` | fix: resolve CORS configuration |
 | 2025-10-03 23:35 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `release/v3.0` | refactor: improve code readability |
+| 2025-10-04 11:34 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `release/v1.0` | infra: configure auto-scaling policies |
