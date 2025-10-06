@@ -14552,3 +14552,4 @@
 | 2025-10-05 15:49 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | chore: configure ESLint and Prettier |
 | 2025-10-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | fix: handle malformed JSON input |
 | 2025-10-06 15:11 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | db: optimize slow queries |
+| 2025-10-06 15:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: add README setup instructions |
