@@ -14557,3 +14557,4 @@
 | 2026-04-05 21:16 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | chore: add .gitignore and remove .idea from tracking |
 | 2025-10-07 08:31 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/memory-leak` | fix: resolve race condition in queue worker |
 | 2025-10-07 09:29 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/extract-service` | security: add input sanitization |
+| 2025-10-07 12:09 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | refactor: adopt repository pattern |
