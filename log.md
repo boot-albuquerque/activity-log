@@ -14562,3 +14562,4 @@
 | 2025-10-09 00:20 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `hotfix/prod-issue` | feat: implement webhook receiver |
 | 2025-10-09 11:16 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/typo-response` | test: add unit tests for payment service |
 | 2025-10-09 12:49 | MacBook-Pro-de-Lucas | Local | `scripts` | `chore/update-deps` | test: improve test coverage to 80% |
+| 2025-10-09 14:52 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | refactor: replace raw SQL with query builder |
