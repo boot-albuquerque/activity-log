@@ -14570,3 +14570,4 @@
 | 2025-10-10 08:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | refactor: improve code readability |
 | 2025-10-10 09:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | perf: implement response compression |
 | 2025-10-10 11:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | fix: resolve N+1 query problem |
+| 2025-10-10 13:06 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/race-condition` | security: fix SQL injection vulnerability |
