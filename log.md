@@ -14569,3 +14569,4 @@
 | 2025-10-10 07:58 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/pagination` | refactor: split large controller into smaller ones |
 | 2025-10-10 08:42 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `release/v2.0` | refactor: improve code readability |
 | 2025-10-10 09:44 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `fix/memory-leak` | perf: implement response compression |
+| 2025-10-10 11:01 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/race-condition` | fix: resolve N+1 query problem |
