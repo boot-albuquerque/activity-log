@@ -14574,3 +14574,4 @@
 | 2025-10-10 14:03 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/extract-service` | feat: implement JWT refresh token |
 | 2025-10-10 15:51 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `main` | perf: optimize database queries |
 | 2025-10-10 18:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | docs: add README setup instructions |
+| 2025-10-10 20:21 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | feat: add search with filters |
