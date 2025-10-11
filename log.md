@@ -14576,3 +14576,4 @@
 | 2025-10-10 18:04 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `refactor/extract-service` | docs: add README setup instructions |
 | 2025-10-10 20:21 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `refactor/clean-architecture` | feat: add search with filters |
 | 2025-10-10 21:11 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `fix/race-condition` | test: add unit tests for payment service |
+| 2025-10-10 23:10 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `release/v1.0` | feat: add email notification on status change |
