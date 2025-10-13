@@ -14585,3 +14585,4 @@
 | 2025-10-12 21:14 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | perf: optimize database queries |
 | 2025-10-13 09:26 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | perf: add database indexes |
 | 2025-10-13 10:47 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `main` | refactor: simplify authentication flow |
+| 2025-10-13 13:47 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/validation-bug` | chore: add Docker Compose for local dev |
