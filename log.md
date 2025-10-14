@@ -14596,3 +14596,4 @@
 | 2025-10-13 22:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | ci: add automated deployment pipeline |
 | 2025-10-14 00:30 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | chore: add pre-commit hooks |
 | 2025-10-14 14:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | chore: configure GitHub Actions CI |
+| 2025-10-14 15:08 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `fix/validation-bug` | fix: resolve deadlock in transaction |
