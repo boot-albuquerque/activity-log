@@ -14593,3 +14593,4 @@
 | 2025-10-13 18:54 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `release/v2.0` | feat: implement soft delete pattern |
 | 2025-10-13 19:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | feat: add audit log trail |
 | 2025-10-13 20:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | perf: reduce bundle size |
+| 2025-10-13 22:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | ci: add automated deployment pipeline |
