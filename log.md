@@ -14594,3 +14594,4 @@
 | 2025-10-13 19:25 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `feature/add-caching` | feat: add audit log trail |
 | 2025-10-13 20:03 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `feature/new-endpoint` | perf: reduce bundle size |
 | 2025-10-13 22:02 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `release/v2.0` | ci: add automated deployment pipeline |
+| 2025-10-14 00:30 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/rate-limiting` | chore: add pre-commit hooks |
