@@ -14600,3 +14600,4 @@
 | 2025-10-14 15:44 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `release/v2.0` | chore: add pre-commit hooks |
 | 2025-10-14 16:48 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/add-caching` | feat: create health check endpoint |
 | 2025-10-14 17:17 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `refactor/clean-architecture` | security: fix SQL injection vulnerability |
+| 2025-10-16 12:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | feat: implement soft delete pattern |
