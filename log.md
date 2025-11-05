@@ -14605,3 +14605,4 @@
 | 2025-10-17 23:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | db: add composite index |
 | 2025-11-05 09:25 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2025-11-05 10:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | perf: optimize database queries |
+| 2025-11-05 12:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: implement JWT refresh token |
