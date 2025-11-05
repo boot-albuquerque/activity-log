@@ -14606,3 +14606,4 @@
 | 2025-11-05 09:25 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
 | 2025-11-05 10:23 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `release/v2.0` | perf: optimize database queries |
 | 2025-11-05 12:06 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `main` | feat: implement JWT refresh token |
+| 2025-11-05 13:08 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `develop` | feat: add file upload support |
