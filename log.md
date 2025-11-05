@@ -14603,3 +14603,4 @@
 | 2025-10-16 12:27 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `develop` | feat: implement soft delete pattern |
 | 2025-10-16 15:28 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `fix/null-pointer` | fix: handle malformed JSON input |
 | 2025-10-17 23:48 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/refactor-queries` | db: add composite index |
+| 2025-11-05 09:25 | MacBook-Pro-de-Lucas | GitHub | `cms-backend` | `feature/rate-limiting` | refactor: reduce cyclomatic complexity |
