@@ -14614,3 +14614,4 @@
 | 2025-11-06 14:34 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `main` | style: fix indentation and whitespace |
 | 2025-11-06 16:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | db: add migration for new schema |
 | 2025-11-06 17:33 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | fix: handle missing environment variable |
+| 2025-11-06 17:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement JWT refresh token |
