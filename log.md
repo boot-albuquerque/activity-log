@@ -14615,3 +14615,4 @@
 | 2025-11-06 16:38 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `release/v2.0` | db: add migration for new schema |
 | 2025-11-06 17:33 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/refactor-queries` | fix: handle missing environment variable |
 | 2025-11-06 17:36 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `main` | feat: implement JWT refresh token |
+| 2025-11-06 18:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | fix: resolve race condition in queue worker |
