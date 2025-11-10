@@ -14620,3 +14620,4 @@
 | 2025-11-10 10:41 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: create order processing service |
 | 2025-11-10 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2025-11-10 13:08 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `develop` | fix: handle timeout in async operation |
+| 2025-11-10 14:33 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/refactor-queries` | chore: configure GitHub Actions CI |
