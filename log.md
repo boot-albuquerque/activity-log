@@ -14618,3 +14618,4 @@
 | 2025-11-06 18:58 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | fix: resolve race condition in queue worker |
 | 2025-11-10 07:19 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `fix/typo-response` | refactor: simplify authentication flow |
 | 2025-11-10 10:41 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `main` | feat: create order processing service |
+| 2025-11-10 12:25 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | infra: update Terraform modules |
