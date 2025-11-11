@@ -14637,3 +14637,4 @@
 | 2025-11-11 13:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | fix: resolve race condition in queue worker |
 | 2025-11-11 16:26 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `release/v3.0` | feat: add user authentication endpoint |
 | 2025-11-11 17:38 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `release/v1.0` | perf: reduce bundle size |
+| 2025-11-11 19:43 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `refactor/extract-service` | feat: add OpenAPI documentation |
