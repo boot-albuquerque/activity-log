@@ -14634,3 +14634,4 @@
 | 2025-11-11 11:41 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `chore/update-deps` | fix: correct decimal precision in billing |
 | 2025-11-11 11:43 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `fix/null-pointer` | refactor: split large controller into smaller ones |
 | 2025-11-11 11:54 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | chore: add Docker Compose for local dev |
+| 2025-11-11 13:00 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `chore/update-deps` | fix: resolve race condition in queue worker |
