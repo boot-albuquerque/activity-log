@@ -14628,3 +14628,4 @@
 | 2025-11-10 19:09 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `develop` | fix: handle missing environment variable |
 | 2025-11-10 21:59 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `fix/validation-bug` | fix: handle edge case in date parsing |
 | 2025-11-11 10:31 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
+| 2025-11-11 10:52 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `fix/memory-leak` | ci: add automated deployment pipeline |
