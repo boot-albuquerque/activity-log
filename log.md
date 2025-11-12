@@ -14645,3 +14645,4 @@
 | 2025-11-12 11:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: implement webhook receiver |
 | 2025-11-12 12:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle missing environment variable |
 | 2025-11-12 13:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | fix: correct null check in user service |
+| 2025-11-12 17:45 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `release/v3.0` | feat: create health check endpoint |
