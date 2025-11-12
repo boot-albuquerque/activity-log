@@ -14644,3 +14644,4 @@
 | 2025-11-12 08:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | db: add migration for new schema |
 | 2025-11-12 11:40 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `main` | feat: implement webhook receiver |
 | 2025-11-12 12:06 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | fix: handle missing environment variable |
+| 2025-11-12 13:00 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/add-caching` | fix: correct null check in user service |
