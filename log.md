@@ -14641,3 +14641,4 @@
 | 2025-11-11 20:50 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/pagination` | fix: handle malformed JSON input |
 | 2025-11-12 00:07 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2025-11-12 07:23 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/refactor-queries` | fix: resolve memory leak in connection pool |
+| 2025-11-12 08:07 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `release/v2.0` | db: add migration for new schema |
