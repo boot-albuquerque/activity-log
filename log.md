@@ -14654,3 +14654,4 @@
 | 2025-11-13 13:05 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2025-11-13 13:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | feat: implement soft delete pattern |
 | 2025-11-13 16:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | feat: implement soft delete pattern |
+| 2025-11-13 18:50 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `fix/null-pointer` | refactor: extract business logic to service layer |
