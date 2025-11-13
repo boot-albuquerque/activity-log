@@ -14653,3 +14653,4 @@
 | 2025-11-13 12:11 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `hotfix/critical-fix` | feat: create admin management interface |
 | 2025-11-13 13:05 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `fix/race-condition` | fix: resolve CORS configuration |
 | 2025-11-13 13:30 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `refactor/extract-service` | feat: implement soft delete pattern |
+| 2025-11-13 16:54 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `refactor/clean-architecture` | feat: implement soft delete pattern |
