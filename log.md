@@ -14663,3 +14663,4 @@
 | 2025-11-14 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | feat: add OpenAPI documentation |
 | 2025-11-14 16:45 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v2.0` | refactor: improve code readability |
 | 2025-11-14 17:57 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | test: fix flaky test in async handler |
+| 2025-11-14 20:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | docs: update API documentation |
