@@ -14660,3 +14660,4 @@
 | 2025-11-14 00:05 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `release/v3.0` | test: add integration tests for API endpoints |
 | 2025-11-14 09:59 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `refactor/clean-architecture` | infra: update Terraform modules |
 | 2025-11-14 13:09 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `chore/cleanup` | chore: add pre-commit hooks |
+| 2025-11-14 16:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/null-pointer` | feat: add OpenAPI documentation |
