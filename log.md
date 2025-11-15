@@ -14665,3 +14665,4 @@
 | 2025-11-14 17:57 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `fix/null-pointer` | test: fix flaky test in async handler |
 | 2025-11-14 20:26 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `release/v2.0` | docs: update API documentation |
 | 2025-11-15 14:53 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `chore/cleanup` | refactor: move constants to config module |
+| 2025-11-15 16:06 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/new-endpoint` | feat: add pagination to list endpoint |
