@@ -14671,3 +14671,4 @@
 | 2025-11-16 10:51 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `refactor/extract-service` | feat: implement caching layer |
 | 2025-11-16 17:10 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `release/v1.0` | feat: add real-time notifications |
 | 2025-11-16 19:29 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `release/v1.0` | refactor: clean up unused imports |
+| 2025-11-17 10:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: add pagination to list endpoint |
