@@ -14674,3 +14674,4 @@
 | 2025-11-17 10:51 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `develop` | feat: add pagination to list endpoint |
 | 2025-11-17 12:17 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `main` | refactor: replace raw SQL with query builder |
 | 2025-11-17 13:03 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/clean-architecture` | security: update SSL certificates config |
+| 2025-11-17 13:05 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `feature/auth-improvements` | chore: add Docker Compose for local dev |
