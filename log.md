@@ -14687,3 +14687,4 @@
 | 2025-11-18 16:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add pagination to list endpoint |
 | 2025-11-18 16:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | refactor: extract business logic to service layer |
 | 2025-11-18 16:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/null-pointer` | fix: handle malformed JSON input |
+| 2025-11-18 17:27 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `main` | fix: correct pagination offset calculation |
