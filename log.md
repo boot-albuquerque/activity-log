@@ -14685,3 +14685,4 @@
 | 2025-11-18 15:52 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `feature/pagination` | refactor: consolidate error handling |
 | 2025-11-18 16:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | infra: update Terraform modules |
 | 2025-11-18 16:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add pagination to list endpoint |
+| 2025-11-18 16:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | refactor: extract business logic to service layer |
