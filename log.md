@@ -14686,3 +14686,4 @@
 | 2025-11-18 16:00 | MacBook-Pro-de-Lucas | Local | `study-notes` | `release/v1.0` | infra: update Terraform modules |
 | 2025-11-18 16:08 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | feat: add pagination to list endpoint |
 | 2025-11-18 16:10 | MacBook-Pro-de-Lucas | GitHub | `sdk-python` | `fix/null-pointer` | refactor: extract business logic to service layer |
+| 2025-11-18 16:25 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `fix/null-pointer` | fix: handle malformed JSON input |
