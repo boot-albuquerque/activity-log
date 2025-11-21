@@ -14701,3 +14701,4 @@
 | 2025-11-20 15:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `feature/refactor-queries` | feat: implement soft delete pattern |
 | 2025-11-20 21:12 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | test: improve test coverage to 80% |
 | 2025-11-21 13:57 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `chore/update-deps` | feat: implement rate limiting middleware |
+| 2025-11-21 13:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
