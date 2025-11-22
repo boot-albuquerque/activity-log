@@ -14704,3 +14704,4 @@
 | 2025-11-21 13:57 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2025-11-21 20:52 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/pagination` | feat: implement JWT refresh token |
 | 2025-11-21 21:00 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `refactor/extract-service` | test: cover edge cases in validator |
+| 2025-11-22 15:54 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v2.0` | chore: add Docker Compose for local dev |
