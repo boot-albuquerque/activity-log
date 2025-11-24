@@ -14709,3 +14709,4 @@
 | 2025-11-23 17:07 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `fix/null-pointer` | chore: update dependencies |
 | 2025-11-23 17:12 | MacBook-Pro-de-Lucas | GitHub | `search-service` | `fix/memory-leak` | refactor: improve code readability |
 | 2025-11-23 20:23 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `fix/memory-leak` | refactor: move constants to config module |
+| 2025-11-23 21:16 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `fix/memory-leak` | fix: resolve N+1 query problem |
