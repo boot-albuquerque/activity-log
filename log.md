@@ -14719,3 +14719,4 @@
 | 2025-11-25 11:31 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `hotfix/prod-issue` | refactor: move constants to config module |
 | 2025-11-25 11:47 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `feature/pagination` | infra: add Kubernetes manifests |
 | 2025-11-25 11:59 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `fix/typo-response` | test: improve test coverage to 80% |
+| 2025-11-25 13:43 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
