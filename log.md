@@ -14715,3 +14715,4 @@
 | 2025-11-24 12:37 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-api` | `feature/auth-improvements` | perf: optimize database queries |
 | 2025-11-24 14:52 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | refactor: clean up unused imports |
 | 2025-11-24 15:38 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `feature/auth-improvements` | perf: reduce bundle size |
+| 2025-11-25 00:34 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/extract-service` | test: mock external dependencies in tests |
