@@ -14724,3 +14724,4 @@
 | 2025-11-25 14:13 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `fix/race-condition` | feat: create order processing service |
 | 2025-11-25 14:40 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/memory-leak` | fix: handle empty response from external API |
 | 2025-11-25 14:47 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | refactor: simplify authentication flow |
+| 2025-11-25 23:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
