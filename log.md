@@ -14726,3 +14726,4 @@
 | 2025-11-25 14:47 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `feature/auth-improvements` | refactor: simplify authentication flow |
 | 2025-11-25 23:39 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `hotfix/critical-fix` | chore: configure ESLint and Prettier |
 | 2025-11-27 00:03 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `develop` | chore: update dependencies |
+| 2025-11-27 00:26 | MacBook-Pro-de-Lucas | GitHub | `desktop` | `main` | fix: correct null check in user service |
