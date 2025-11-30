@@ -14740,3 +14740,4 @@
 | 2025-11-28 12:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `fix/memory-leak` | chore: update dependencies |
 | 2025-11-28 18:11 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | refactor: reduce cyclomatic complexity |
 | 2025-11-28 22:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | feat: implement rate limiting middleware |
+| 2025-11-30 15:21 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | fix: correct pagination offset calculation |
