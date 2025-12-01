@@ -14742,3 +14742,4 @@
 | 2025-11-28 22:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/refactor-queries` | feat: implement rate limiting middleware |
 | 2025-11-30 15:21 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/memory-leak` | fix: correct pagination offset calculation |
 | 2025-11-30 15:24 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `chore/cleanup` | infra: add Kubernetes manifests |
+| 2025-12-01 09:53 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `fix/memory-leak` | test: add performance benchmark tests |
