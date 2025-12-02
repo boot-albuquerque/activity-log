@@ -14755,3 +14755,4 @@
 | 2025-12-02 13:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2025-12-02 15:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2025-12-02 15:58 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
+| 2025-12-02 20:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | chore: add Docker Compose for local dev |
