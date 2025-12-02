@@ -14749,3 +14749,4 @@
 | 2025-12-01 23:03 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | fix: resolve race condition in queue worker |
 | 2025-12-01 23:23 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `fix/race-condition` | feat: create admin management interface |
 | 2025-12-01 23:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | feat: implement JWT refresh token |
+| 2025-12-02 00:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | security: fix SQL injection vulnerability |
