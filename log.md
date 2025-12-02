@@ -14754,3 +14754,4 @@
 | 2025-12-02 12:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | fix: correct decimal precision in billing |
 | 2025-12-02 13:45 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | refactor: simplify authentication flow |
 | 2025-12-02 15:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: handle malformed JSON input |
+| 2025-12-02 15:58 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
