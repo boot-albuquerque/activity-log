@@ -14746,3 +14746,4 @@
 | 2025-12-01 15:41 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `refactor/clean-architecture` | feat: add export to CSV/Excel |
 | 2025-12-01 19:06 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | test: mock external dependencies in tests |
 | 2025-12-01 21:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `feature/rate-limiting` | refactor: simplify authentication flow |
+| 2025-12-01 23:03 | MacBook-Pro-de-Lucas | GitHub | `k8s-manifests` | `fix/null-pointer` | fix: resolve race condition in queue worker |
