@@ -14751,3 +14751,4 @@
 | 2025-12-01 23:53 | MacBook-Pro-de-Lucas | GitHub | `marketplace-api` | `release/v3.0` | feat: implement JWT refresh token |
 | 2025-12-02 00:43 | MacBook-Pro-de-Lucas | GitHub | `ci-cd-templates` | `chore/cleanup` | security: fix SQL injection vulnerability |
 | 2025-12-02 10:48 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `develop` | chore: add pre-commit hooks |
+| 2025-12-02 12:32 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `release/v1.0` | fix: correct decimal precision in billing |
