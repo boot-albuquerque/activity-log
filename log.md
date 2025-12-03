@@ -14756,3 +14756,4 @@
 | 2025-12-02 15:04 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/new-endpoint` | fix: handle malformed JSON input |
 | 2025-12-02 15:58 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `hotfix/critical-fix` | feat: add pagination to list endpoint |
 | 2025-12-02 20:30 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `release/v2.0` | chore: add Docker Compose for local dev |
+| 2025-12-03 00:37 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `develop` | perf: implement response compression |
