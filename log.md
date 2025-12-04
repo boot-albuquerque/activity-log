@@ -14764,3 +14764,4 @@
 | 2025-12-03 17:50 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | infra: configure auto-scaling policies |
 | 2025-12-03 22:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: mock external dependencies in tests |
 | 2025-12-04 14:46 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `fix/race-condition` | feat: create background job processor |
+| 2025-12-04 15:15 | MacBook-Pro-de-Lucas | GitHub | `e-commerce-web` | `feature/auth-improvements` | fix: handle empty response from external API |
