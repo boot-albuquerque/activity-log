@@ -14762,3 +14762,4 @@
 | 2025-12-03 13:40 | MacBook-Pro-de-Lucas | GitHub | `landing-page` | `feature/refactor-queries` | feat: create admin management interface |
 | 2025-12-03 16:10 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/refactor-queries` | fix: handle empty response from external API |
 | 2025-12-03 17:50 | MacBook-Pro-de-Lucas | GitLab | `deploy-scripts` | `feature/add-caching` | infra: configure auto-scaling policies |
+| 2025-12-03 22:12 | MacBook-Pro-de-Lucas | Local | `scripts` | `fix/null-pointer` | test: mock external dependencies in tests |
