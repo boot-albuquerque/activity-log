@@ -14779,3 +14779,4 @@
 | 2025-12-08 11:24 | MacBook-Pro-de-Lucas | GitHub | `etl-jobs` | `feature/auth-improvements` | chore: upgrade to latest Node.js LTS |
 | 2025-12-08 12:14 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `feature/pagination` | chore: add Docker Compose for local dev |
 | 2025-12-08 12:41 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | ci: configure staging environment |
+| 2025-12-08 17:05 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `fix/race-condition` | security: fix SQL injection vulnerability |
