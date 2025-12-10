@@ -14792,3 +14792,4 @@
 | 2025-12-10 14:47 | MacBook-Pro-de-Lucas | Local | `config-files` | `fix/race-condition` | fix: handle malformed JSON input |
 | 2025-12-10 16:04 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `hotfix/prod-issue` | refactor: reduce cyclomatic complexity |
 | 2025-12-10 17:33 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | perf: implement response compression |
+| 2025-12-10 20:58 | MacBook-Pro-de-Lucas | Local | `config-files` | `feature/auth-improvements` | test: add integration tests for API endpoints |
