@@ -20,3 +20,4 @@
 | 2025-12-11 15:59 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em BroadcastSlackUserController |
 | 2025-12-11 16:00 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em AudienceController |
 | 2025-12-11 16:03 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | feat(security): adiciona SqlInjectionFilter para validação global de input |
+| 2025-12-11 16:05 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | feat(security): implementa logging de segurança centralizado |
