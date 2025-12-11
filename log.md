@@ -15,3 +15,4 @@
 | 2025-12-11 15:50 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em ClassificationController |
 | 2025-12-11 15:52 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em QuestionLocaleController |
 | 2025-12-11 15:54 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em FoodloverController |
+| 2025-12-11 15:55 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em CalibrationController |
