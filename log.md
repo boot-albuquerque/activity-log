@@ -25,3 +25,4 @@
 | 2025-12-11 16:34 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | refactor: padroniza nomenclatura ALLOWED_SORT_FIELDS e simplifica comentários |
 | 2025-12-11 16:43 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | test: corrige SecurityConfigTest para incluir SqlInjectionFilter |
 | 2025-12-11 17:10 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | fix(security): corrige SQL Injection no parâmetro sortBy |
+| 2025-12-11 17:18 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | feat(security): adiciona filtro global de detecção de SQL Injection |
