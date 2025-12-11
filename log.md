@@ -9,3 +9,4 @@
 | 2025-12-11 15:40 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em SlackUserController |
 | 2025-12-11 15:41 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em HayController |
 | 2025-12-11 15:43 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em CommitteeFoodloverController |
+| 2025-12-11 15:44 | 17986-nb | Git | `ifood-tm-backend` | `fix/sql-injection-vulnerability-backup` | fix(security): corrige SQL Injection em FoodloverSeasonHistoryController |
