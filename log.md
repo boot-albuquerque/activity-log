@@ -27,3 +27,4 @@
 | 2025-12-11 17:10 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | fix(security): corrige SQL Injection no parâmetro sortBy |
 | 2025-12-11 17:18 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | feat(security): adiciona filtro global de detecção de SQL Injection |
 | 2025-12-11 22:59 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | refactor: usa PageRequest em vez de strings para paginação |
+| 2025-12-12 18:29 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | fix(security): corrige inicializacao do SqlInjectionFilter e adiciona testes |
