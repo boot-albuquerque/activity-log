@@ -29,3 +29,4 @@
 | 2025-12-11 22:59 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | refactor: usa PageRequest em vez de strings para paginação |
 | 2025-12-12 18:29 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | fix(security): corrige inicializacao do SqlInjectionFilter e adiciona testes |
 | 2025-12-15 22:20 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-global-filter` | chore: adiciona CLAUDE.md e .claude/ ao gitignore |
+| 2025-12-18 21:32 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/update-tomcat-dependency` | fix(security): atualiza tomcat-embed para 10.1.45 |
