@@ -14807,3 +14807,4 @@
 | 2025-12-17 19:29 | MacBook-Pro-de-Lucas | GitHub | `cache-layer` | `fix/memory-leak` | style: fix indentation and whitespace |
 | 2025-12-17 20:58 | MacBook-Pro-de-Lucas | GitHub | `infra-terraform` | `main` | fix: correct cache invalidation logic |
 | 2025-12-17 21:02 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v3.0` | chore: add Docker Compose for local dev |
+| 2025-12-27 17:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | refactor: move constants to config module |
