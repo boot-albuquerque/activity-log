@@ -30,3 +30,4 @@
 | 2025-12-12 18:29 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-sort-fields` | fix(security): corrige inicializacao do SqlInjectionFilter e adiciona testes |
 | 2025-12-15 22:20 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/sql-injection-global-filter` | chore: adiciona CLAUDE.md e .claude/ ao gitignore |
 | 2025-12-18 21:32 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/update-tomcat-dependency` | fix(security): atualiza tomcat-embed para 10.1.45 |
+| 2026-01-06 04:21 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/update-spring-core-dependency` | fix(security): atualiza Spring Boot para 3.3.13 |
