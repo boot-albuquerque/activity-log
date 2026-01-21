@@ -33,3 +33,4 @@
 | 2026-01-06 04:21 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/update-spring-core-dependency` | fix(security): atualiza Spring Boot para 3.3.13 |
 | 2026-01-14 17:42 | 17986-nb | Git | `people-wl-gateway` | `fix/update-spring-cloud-gateway-vulnerability` | fix: update spring-cloud-gateway-server to 4.3.2 to fix security vulnerabilities |
 | 2026-01-15 06:35 | 17986-nb | Git | `core` | `fix/update-react-router-vulnerability` | chore: adiciona scripts lint e test para pipeline CI |
+| 2026-01-21 02:31 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-355-360-update-dependencies` | fix(security): atualiza tomcat-embed para versao 10.1.50 |
