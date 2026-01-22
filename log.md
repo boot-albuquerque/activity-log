@@ -34,3 +34,4 @@
 | 2026-01-14 17:42 | 17986-nb | Git | `people-wl-gateway` | `fix/update-spring-cloud-gateway-vulnerability` | fix: update spring-cloud-gateway-server to 4.3.2 to fix security vulnerabilities |
 | 2026-01-15 06:35 | 17986-nb | Git | `core` | `fix/update-react-router-vulnerability` | chore: adiciona scripts lint e test para pipeline CI |
 | 2026-01-21 02:31 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-355-360-update-dependencies` | fix(security): atualiza tomcat-embed para versao 10.1.50 |
+| 2026-01-22 14:58 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: atualiza análise com detalhes dos tickets SWPPCOR |
