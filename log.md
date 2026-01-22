@@ -36,3 +36,4 @@
 | 2026-01-21 02:31 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-355-360-update-dependencies` | fix(security): atualiza tomcat-embed para versao 10.1.50 |
 | 2026-01-22 14:58 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: atualiza análise com detalhes dos tickets SWPPCOR |
 | 2026-01-22 15:01 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: ajusta cronograma para deadline 11/02 (14 dias úteis) |
+| 2026-01-22 15:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona modelo de Clean Architecture + DDD |
