@@ -64,3 +64,4 @@
 | 2026-01-23 13:39 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: implementa evaluation_controller e handshake_controller com padrão Cl |
 | 2026-01-23 13:43 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa métodos create/update em repositories para evaluations e hands |
 | 2026-01-23 13:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa lógica dos 5 endpoints que retornavam 501 |
+| 2026-01-23 13:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: setup load testing com Locust para 8k conexões |
