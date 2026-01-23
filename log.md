@@ -67,3 +67,4 @@
 | 2026-01-23 13:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: setup load testing com Locust para 8k conexões |
 | 2026-01-23 13:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: implementa testes E2E para todos 18 endpoints |
 | 2026-01-23 13:53 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona PROJECT_COMPLETION_REPORT com status final de conclusão |
+| 2026-01-23 13:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona QUICK_START.md com guia de verificação e testes |
