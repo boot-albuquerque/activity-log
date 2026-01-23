@@ -74,3 +74,4 @@
 | 2026-01-23 14:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: remove outdated synchronous repository tests |
 | 2026-01-23 15:04 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: corrige e garante funcionalidade completa da pasta tests |
 | 2026-01-23 15:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa Swagger/OpenAPI com todos os 19 endpoints |
+| 2026-01-23 15:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | chore: remove documentação obsoleta e templates de MR |
