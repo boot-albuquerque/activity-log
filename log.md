@@ -55,3 +55,4 @@
 | 2026-01-23 13:20 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa endpoints foodlover com acesso ao banco de dados |
 | 2026-01-23 13:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: remove deleted_at references and correct session usage in endpoints |
 | 2026-01-23 13:22 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: map database fields to response schema fields in endpoints |
+| 2026-01-23 13:31 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: adiciona middleware global, response formatter com stack trace, e reposito |
