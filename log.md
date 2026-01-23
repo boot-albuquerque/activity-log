@@ -49,3 +49,4 @@
 | 2026-01-23 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adiciona email-validator e corrige bugs no logger e dtos |
 | 2026-01-23 12:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige inicializacao do app e container |
 | 2026-01-23 13:05 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa endpoint GET /foodlovers/{id} |
+| 2026-01-23 13:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | revert: simplifica foodlover controller e remove DI complexa |
