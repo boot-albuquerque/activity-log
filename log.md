@@ -68,3 +68,4 @@
 | 2026-01-23 13:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: implementa testes E2E para todos 18 endpoints |
 | 2026-01-23 13:53 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona PROJECT_COMPLETION_REPORT com status final de conclusão |
 | 2026-01-23 13:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona QUICK_START.md com guia de verificação e testes |
+| 2026-01-23 14:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: refatora controllers para usar use cases via Clean Architecture |
