@@ -72,3 +72,4 @@
 | 2026-01-23 14:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona relatório final de refatoração arquitetural completa |
 | 2026-01-23 14:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: unificar estrutura de testes em diretório único |
 | 2026-01-23 14:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: remove outdated synchronous repository tests |
+| 2026-01-23 15:04 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: corrige e garante funcionalidade completa da pasta tests |
