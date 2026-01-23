@@ -76,3 +76,4 @@
 | 2026-01-23 15:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa Swagger/OpenAPI com todos os 19 endpoints |
 | 2026-01-23 15:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | chore: remove documentação obsoleta e templates de MR |
 | 2026-01-23 17:56 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementar Redis-based event publisher similar to BullMQ |
+| 2026-01-23 18:14 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir AsyncSession factory para usar async_sessionmaker |
