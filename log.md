@@ -59,3 +59,4 @@
 | 2026-01-23 13:32 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: refatora foodlover_controller para usar repositories |
 | 2026-01-23 13:33 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa factory pattern para repositórios com sessões frescas |
 | 2026-01-23 13:33 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona IMPLEMENTATION_SUMMARY com status completo da arquitetura |
+| 2026-01-23 13:34 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona ENDPOINT_IMPLEMENTATION_GUIDE com padrões e exemplos |
