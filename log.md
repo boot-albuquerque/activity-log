@@ -53,3 +53,4 @@
 | 2026-01-23 13:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige import de sqlalchemy text e Request parameter |
 | 2026-01-23 13:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: remove request parameter causing SyntaxError in multiple endpoints |
 | 2026-01-23 13:20 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa endpoints foodlover com acesso ao banco de dados |
+| 2026-01-23 13:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: remove deleted_at references and correct session usage in endpoints |
