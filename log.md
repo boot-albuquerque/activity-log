@@ -70,3 +70,4 @@
 | 2026-01-23 13:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona QUICK_START.md com guia de verificação e testes |
 | 2026-01-23 14:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: refatora controllers para usar use cases via Clean Architecture |
 | 2026-01-23 14:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona relatório final de refatoração arquitetural completa |
+| 2026-01-23 14:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | test: unificar estrutura de testes em diretório único |
