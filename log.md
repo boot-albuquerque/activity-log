@@ -47,3 +47,4 @@
 | 2026-01-23 12:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa Phase 2 + Phase 4 - Dependencies e Response Patterns |
 | 2026-01-23 12:47 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adiciona suporte Python 3.10 com importacao condicional de tomllib |
 | 2026-01-23 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adiciona email-validator e corrige bugs no logger e dtos |
+| 2026-01-23 12:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige inicializacao do app e container |
