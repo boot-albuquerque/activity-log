@@ -38,3 +38,4 @@
 | 2026-01-22 15:01 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: ajusta cronograma para deadline 11/02 (14 dias úteis) |
 | 2026-01-22 15:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona modelo de Clean Architecture + DDD |
 | 2026-01-22 15:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona catálogo completo de endpoints (seção 2) |
+| 2026-01-23 10:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa Presentation Layer com 17 endpoints FastAPI |
