@@ -62,3 +62,4 @@
 | 2026-01-23 13:34 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona ENDPOINT_IMPLEMENTATION_GUIDE com padrões e exemplos |
 | 2026-01-23 13:35 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adiciona FINAL_STATUS com resumo visual de conclusão |
 | 2026-01-23 13:39 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: implementa evaluation_controller e handshake_controller com padrão Cl |
+| 2026-01-23 13:43 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implementa métodos create/update em repositories para evaluations e hands |
