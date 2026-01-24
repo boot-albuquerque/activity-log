@@ -90,3 +90,4 @@
 | 2026-01-24 02:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: apply remaining bugfixes from agent work |
 | 2026-01-24 08:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige mismatch do campo department em EvaluatorDTO |
 | 2026-01-24 08:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implement get_subordinates and get_by_manager_id methods in FoodloverRepos |
+| 2026-01-24 08:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implement CSV export to S3 for handshake data |
