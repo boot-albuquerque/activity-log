@@ -95,3 +95,4 @@
 | 2026-01-24 08:28 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: resolver 8 TODOs em use_cases de evaluation |
 | 2026-01-24 08:30 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: atualizar docstrings e comentários da camada presentation para PT BR |
 | 2026-01-24 08:32 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: resolve circular import in event_handlers by using dependency injection |
+| 2026-01-24 08:33 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige asserts dos testes para validar mensagens de erro em português |
