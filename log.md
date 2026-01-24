@@ -101,3 +101,4 @@
 | 2026-01-24 08:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: traduzir docstrings de __init__.py e exceções do domain para PT BR |
 | 2026-01-24 08:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: completar tradução de docstrings da camada domain para PT BR |
 | 2026-01-24 09:06 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: traduzir comentários e docstrings para português brasileiro |
+| 2026-01-24 09:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: traduzir docstrings e comentários em inglês para português brasileiro n |
