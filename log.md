@@ -88,3 +88,4 @@
 | 2026-01-24 02:00 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: resolve coroutine handling and schema mismatch issues |
 | 2026-01-24 02:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige tipos de retorno do mapper de avaliações e use case |
 | 2026-01-24 02:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: apply remaining bugfixes from agent work |
+| 2026-01-24 08:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige mismatch do campo department em EvaluatorDTO |
