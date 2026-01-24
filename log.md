@@ -81,3 +81,4 @@
 | 2026-01-23 18:29 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adicionar mapeamento de nivel numérico para grade e converter dict em enti |
 | 2026-01-24 01:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adicionar métodos missing ao LazyRepository e converter dicts para entitie |
 | 2026-01-24 01:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: usar FoodloverMapper.from_dict em GetLeadershipChainUseCase |
+| 2026-01-24 01:25 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir bugs críticos dos endpoints GET /audience e GET /handshake/partic |
