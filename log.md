@@ -108,3 +108,4 @@
 | 2026-01-24 09:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: traduzir últimos comentários em inglês para português brasileiro |
 | 2026-01-24 09:24 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: restaurar repositórios de domínio com correções de schema |
 | 2026-01-24 14:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir endpoints de foodlover e json error |
+| 2026-01-24 15:34 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: melhorar documentação do endpoint get_foodlover_evaluators |
