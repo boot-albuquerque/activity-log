@@ -86,3 +86,4 @@
 | 2026-01-24 01:36 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: add dict-to-DTO conversion for evaluation endpoints |
 | 2026-01-24 01:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: fix schema mismatches and implement missing endpoints |
 | 2026-01-24 02:00 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: resolve coroutine handling and schema mismatch issues |
+| 2026-01-24 02:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrige tipos de retorno do mapper de avaliações e use case |
