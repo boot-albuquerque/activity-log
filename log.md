@@ -113,3 +113,4 @@
 | 2026-01-24 15:40 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: improve get_handshake_schedule endpoint documentation |
 | 2026-01-24 20:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir endpoints de evaluation com métodos e propriedades faltantes |
 | 2026-01-24 20:22 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir endpoints de handshake faltando tabela e método |
+| 2026-01-24 20:32 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir todos os 14 endpoints conforme especificação de testes |
