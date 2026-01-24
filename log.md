@@ -92,3 +92,4 @@
 | 2026-01-24 08:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implement get_subordinates and get_by_manager_id methods in FoodloverRepos |
 | 2026-01-24 08:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implement CSV export to S3 for handshake data |
 | 2026-01-24 08:23 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: implement business logic for event handlers |
+| 2026-01-24 08:28 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: resolver 8 TODOs em use_cases de evaluation |
