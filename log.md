@@ -79,3 +79,4 @@
 | 2026-01-23 18:14 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir AsyncSession factory para usar async_sessionmaker |
 | 2026-01-23 18:26 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir async_sessionmaker invocations sem await |
 | 2026-01-23 18:29 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adicionar mapeamento de nivel numérico para grade e converter dict em enti |
+| 2026-01-24 01:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: adicionar métodos missing ao LazyRepository e converter dicts para entitie |
