@@ -84,3 +84,4 @@
 | 2026-01-24 01:25 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir bugs críticos dos endpoints GET /audience e GET /handshake/partic |
 | 2026-01-24 01:29 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir GET /audience para retornar DTO com valores padrão |
 | 2026-01-24 01:36 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: add dict-to-DTO conversion for evaluation endpoints |
+| 2026-01-24 01:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | feat: fix schema mismatches and implement missing endpoints |
