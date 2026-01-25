@@ -129,3 +129,4 @@
 | 2026-01-25 13:59 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: remove empty services folders from domain layer |
 | 2026-01-25 14:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir import de ParticipantInfoDTO em FoodloverMapper |
 | 2026-01-25 14:31 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir inicialização do EndHandshakeWithReportUseCase no container |
+| 2026-01-25 14:35 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: remover documentação temporária de auditorias |
