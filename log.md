@@ -122,3 +122,4 @@
 | 2026-01-25 02:32 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adicionar README completo da FASE 4 |
 | 2026-01-25 02:32 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: adicionar sumário visual da FASE 4 |
 | 2026-01-25 07:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: implementar camada de apresentação e novos use cases |
+| 2026-01-25 08:42 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: refatoração completa DRY & SOLID na camada Application (4 sprints) |
