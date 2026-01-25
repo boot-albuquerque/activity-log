@@ -131,3 +131,4 @@
 | 2026-01-25 14:31 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: corrigir inicialização do EndHandshakeWithReportUseCase no container |
 | 2026-01-25 14:35 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: remover documentação temporária de auditorias |
 | 2026-01-25 14:35 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: remover comentários desnecessários em EvaluationActionStrategy |
+| 2026-01-25 14:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: Phase 1 - Eliminate DRY violations and establish Clean Architecture ex |
