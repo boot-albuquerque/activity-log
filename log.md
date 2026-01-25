@@ -125,3 +125,4 @@
 | 2026-01-25 08:42 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: refatoração completa DRY & SOLID na camada Application (4 sprints) |
 | 2026-01-25 09:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | SPRINT 3: Architectural Fixes - Strategy Pattern & SOLID Principles |
 | 2026-01-25 09:42 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: comprehensive domain layer audit and architectural improvements |
+| 2026-01-25 13:56 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: restore clean architecture - domain layer refactoring (Phase 1-3) |
