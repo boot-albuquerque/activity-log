@@ -143,3 +143,4 @@
 | 2026-01-25 16:14 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: add comprehensive README and project documentation |
 | 2026-01-25 16:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: create comprehensive documentation suite |
 | 2026-01-25 16:23 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: add PR template and creation guide for documentation merge |
+| 2026-01-25 16:27 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | docs: traduzir documentação para português brasileiro com termos técnicos em |
