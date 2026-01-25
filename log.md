@@ -134,3 +134,4 @@
 | 2026-01-25 14:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: Phase 1 - Eliminate DRY violations and establish Clean Architecture ex |
 | 2026-01-25 14:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: Phase 2 - Abstract FeatureFlagStore to remove Redis dependency |
 | 2026-01-25 14:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: Phase 4.1 - Separate monolithic Settings class into domain-specific co |
+| 2026-01-25 14:57 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: Phase 4.4 - Remove Singleton anti-pattern from logger |
