@@ -148,3 +148,4 @@
 | 2026-01-26 08:59 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | chore: remove comments |
 | 2026-01-26 13:01 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: implement /api/v2 prefix and restructure API versioning |
 | 2026-01-26 13:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | fix: resolve Makefile targets and add 'make run' alias |
+| 2026-01-26 13:15 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-386-otimizar-queries-sql-custosas` | refactor: reorganize port assignments for src and legacy APIs |
