@@ -197,3 +197,4 @@
 | 2026-01-28 17:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize FILE_PATH + caller_context pattern in foodlover use cases  |
 | 2026-01-28 17:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize handshake application layer logging with FILE_PATH and cal |
 | 2026-01-28 18:06 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize shared application layer logging with FILE_PATH and caller |
+| 2026-01-28 18:14 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize presentation API layer logging with FILE_PATH and caller_c |
