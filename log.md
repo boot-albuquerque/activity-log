@@ -156,3 +156,4 @@
 | 2026-01-28 12:42 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | docs: add comprehensive logging standards documentation in Portuguese |
 | 2026-01-28 12:43 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | test: add comprehensive unit tests for professional logging |
 | 2026-01-28 12:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | improvement: add newline between logs for better visualization |
+| 2026-01-28 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove 'Professional' terminology from logging system |
