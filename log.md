@@ -181,3 +181,4 @@
 | 2026-01-28 15:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: eliminate logging repetition using constants and local variables acros |
 | 2026-01-28 15:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: correct indentation of caller_context variable in 20 files |
 | 2026-01-28 15:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: remover duplicação de código em 7 arquivos de services |
+| 2026-01-28 16:03 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: apply FILE_PATH + caller_context pattern to 18 core and infrastructure |
