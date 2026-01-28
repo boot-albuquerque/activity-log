@@ -193,3 +193,4 @@
 | 2026-01-28 17:36 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: translate pagination logging messages from English to Portuguese |
 | 2026-01-28 17:40 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize exception handlers logging with FILE_PATH and caller_conte |
 | 2026-01-28 17:43 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize container logging with FILE_PATH and caller_context |
+| 2026-01-28 17:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize evaluation application layer logging with FILE_PATH and ca |
