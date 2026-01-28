@@ -206,3 +206,4 @@
 | 2026-01-28 18:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: correct logger call format in connection_manager.py |
 | 2026-01-28 18:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: add SERVICE_NAME fallback with default value |
 | 2026-01-28 18:47 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: replace all logger.warning() calls with logger.warn() |
+| 2026-01-28 18:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove caller field from JSON logs |
