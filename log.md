@@ -208,3 +208,4 @@
 | 2026-01-28 18:47 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: replace all logger.warning() calls with logger.warn() |
 | 2026-01-28 18:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove caller field from JSON logs |
 | 2026-01-28 18:58 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove all newlines and decoration characters from logs |
+| 2026-01-28 19:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: remove duplicate app creation and clean up log output |
