@@ -178,3 +178,4 @@
 | 2026-01-28 15:22 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: atualizar todos os logs para padrão PT-BR com relative_path |
 | 2026-01-28 15:29 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: atualizar logs em camada de infraestrutura para padrão PT-BR |
 | 2026-01-28 15:33 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: padronizar logs dos 6 arquivos de infraestrutura com padrão PT-BR |
+| 2026-01-28 15:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: eliminate logging repetition using constants and local variables acros |
