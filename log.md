@@ -171,3 +171,4 @@
 | 2026-01-28 13:41 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add professional logging to S3 services |
 | 2026-01-28 13:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add professional logging to remaining infrastructure services |
 | 2026-01-28 14:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add comprehensive logging to critical application use cases |
+| 2026-01-28 14:41 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add comprehensive logging to HIGH priority query use cases (part 1) |
