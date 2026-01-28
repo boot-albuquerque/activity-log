@@ -189,3 +189,4 @@
 | 2026-01-28 17:20 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize evaluation repository logging with FILE_PATH and caller_co |
 | 2026-01-28 17:23 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize persistence layer repositories with FILE_PATH and caller_c |
 | 2026-01-28 17:24 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize repository factory logging with FILE_PATH and caller_conte |
+| 2026-01-28 17:31 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: standardize remaining persistence layer files with FILE_PATH and calle |
