@@ -203,3 +203,4 @@
 | 2026-01-28 18:30 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: add FILE_PATH and caller_context to formatter.py example code |
 | 2026-01-28 18:39 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: add FILE_PATH and caller_context to legacy_src/app.py |
 | 2026-01-28 18:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: correct indentation errors in logger.py |
+| 2026-01-28 18:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: correct logger call format in connection_manager.py |
