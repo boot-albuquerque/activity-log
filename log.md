@@ -176,3 +176,4 @@
 | 2026-01-28 15:03 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add comprehensive logging to MEDIUM priority services |
 | 2026-01-28 15:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: atualizar padrão de logs para PT-BR com relative_path |
 | 2026-01-28 15:22 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: atualizar todos os logs para padrão PT-BR com relative_path |
+| 2026-01-28 15:29 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: atualizar logs em camada de infraestrutura para padrão PT-BR |
