@@ -212,3 +212,4 @@
 | 2026-01-28 19:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: eliminate duplicate logs by disabling propagation |
 | 2026-01-28 19:20 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: remove Redis authentication requirement to resolve connection compatibility |
 | 2026-01-28 19:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: add missing CLIENT_ID configuration to ServerSettings |
+| 2026-01-28 20:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add benchmark infrastructure for legacy API baseline |
