@@ -184,3 +184,4 @@
 | 2026-01-28 16:03 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: apply FILE_PATH + caller_context pattern to 18 core and infrastructure |
 | 2026-01-28 16:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: refactor cache layer files to use FILE_PATH + caller_context pattern |
 | 2026-01-28 16:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | fix: add caller_context to delete() method in cache_service |
+| 2026-01-28 17:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: refactor events layer files to use FILE_PATH + caller_context pattern |
