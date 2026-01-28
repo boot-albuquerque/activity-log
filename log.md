@@ -158,3 +158,4 @@
 | 2026-01-28 12:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | improvement: add newline between logs for better visualization |
 | 2026-01-28 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove 'Professional' terminology from logging system |
 | 2026-01-28 12:56 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | refactor: remove remaining 'Professional' terminology from docstrings and docume |
+| 2026-01-28 13:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: remove legacy logging and implement colored formatter with setup |
