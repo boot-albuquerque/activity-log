@@ -215,3 +215,4 @@
 | 2026-01-28 20:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add benchmark infrastructure for legacy API baseline |
 | 2026-01-28 21:00 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | docs: add sandbox database configuration and setup instructions |
 | 2026-01-28 21:06 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | docs: rename and translate documentation files to pt-br |
+| 2026-01-28 21:17 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | docs: add scripts to execute legacy_src benchmark with sandbox db |
