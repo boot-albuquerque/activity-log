@@ -246,3 +246,4 @@
 | 2026-01-29 16:41 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor(P2): eliminar code smells para 100% Clean Architecture compliance |
 | 2026-01-29 17:04 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implement Celery for async background task processing |
 | 2026-01-29 17:19 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor(P1.1): mover calculo de estatisticas para GetManagedEvaluationsUseCase |
+| 2026-01-29 17:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: fix domain services initialization order and DTO naming |
