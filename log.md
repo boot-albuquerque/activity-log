@@ -225,3 +225,4 @@
 | 2026-01-29 11:14 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | feat: add environment configuration templates for local and sandbox environments |
 | 2026-01-29 11:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | chore: update gitignore to protect all sensitive env files |
 | 2026-01-29 11:19 | 17986-nb | Git | `ifood-tm-handshake` | `feature/legacy-benchmark-baseline` | chore: remove local.env from git tracking |
+| 2026-01-29 11:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: extrair lógica de geração de CSV para EvaluationCsvGeneratorService |
