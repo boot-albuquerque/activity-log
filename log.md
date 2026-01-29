@@ -235,3 +235,4 @@
 | 2026-01-29 14:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: criar validadores reutilizáveis para eliminar duplicação de código |
 | 2026-01-29 14:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: adicionar paginação ao endpoint get_foodlover_evaluations |
 | 2026-01-29 14:57 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: adicionar paginação ao endpoint get_foodlover_evaluators |
+| 2026-01-29 15:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implementar filtro de status no endpoint get_manager_evaluations |
