@@ -228,3 +228,4 @@
 | 2026-01-29 11:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: extrair lógica de geração de CSV para EvaluationCsvGeneratorService |
 | 2026-01-29 11:51 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implement EvaluationStatisticsService to encapsulate evaluation statistics |
 | 2026-01-29 11:56 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: integrate EndHandshakeWithReportUseCase into handshake controller |
+| 2026-01-29 11:58 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: use GetHandshakeByIdUseCase in get_handshake_by_id endpoint |
