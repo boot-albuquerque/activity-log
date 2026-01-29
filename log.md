@@ -238,3 +238,4 @@
 | 2026-01-29 15:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implementar filtro de status no endpoint get_manager_evaluations |
 | 2026-01-29 16:04 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implementar GetFoodloverEvaluationStatusUseCase para endpoint evaluation-s |
 | 2026-01-29 16:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar Presenters para Foodlover eliminando duplicacao de codigo |
+| 2026-01-29 16:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar validators.py para Foodlover eliminando validacoes duplicadas |
