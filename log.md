@@ -236,3 +236,4 @@
 | 2026-01-29 14:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: adicionar paginação ao endpoint get_foodlover_evaluations |
 | 2026-01-29 14:57 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: adicionar paginação ao endpoint get_foodlover_evaluators |
 | 2026-01-29 15:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implementar filtro de status no endpoint get_manager_evaluations |
+| 2026-01-29 16:04 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: implementar GetFoodloverEvaluationStatusUseCase para endpoint evaluation-s |
