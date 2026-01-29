@@ -231,3 +231,4 @@
 | 2026-01-29 11:58 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: use GetHandshakeByIdUseCase in get_handshake_by_id endpoint |
 | 2026-01-29 11:59 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: move handshake_id validation to input DTO validation |
 | 2026-01-29 14:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: remove direct repository access from add_evaluator endpoint |
+| 2026-01-29 14:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: criar EvaluationPresenter e EvaluatorPresenter para eliminar duplicaç |
