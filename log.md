@@ -240,3 +240,4 @@
 | 2026-01-29 16:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar Presenters para Foodlover eliminando duplicacao de codigo |
 | 2026-01-29 16:09 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar validators.py para Foodlover eliminando validacoes duplicadas |
 | 2026-01-29 16:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar PaginationPresenter para calculo de metadados de paginacao |
+| 2026-01-29 16:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: adicionar validate_bulk_request_body e limpar endpoint de migracao |
