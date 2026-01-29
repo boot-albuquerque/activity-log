@@ -233,3 +233,4 @@
 | 2026-01-29 14:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: remove direct repository access from add_evaluator endpoint |
 | 2026-01-29 14:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: criar EvaluationPresenter e EvaluatorPresenter para eliminar duplicaç |
 | 2026-01-29 14:52 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: criar validadores reutilizáveis para eliminar duplicação de código |
+| 2026-01-29 14:54 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: adicionar paginação ao endpoint get_foodlover_evaluations |
