@@ -242,3 +242,4 @@
 | 2026-01-29 16:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat: criar PaginationPresenter para calculo de metadados de paginacao |
 | 2026-01-29 16:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: adicionar validate_bulk_request_body e limpar endpoint de migracao |
 | 2026-01-29 16:35 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(P0): eliminar acessos diretos ao repositorio em handshake_controller |
+| 2026-01-29 16:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat(P1): criar Presenters e Validators para Handshake eliminando duplicacao |
