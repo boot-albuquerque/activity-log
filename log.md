@@ -257,3 +257,4 @@
 | 2026-01-31 12:36 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | feat(Database): make shared database optional with conditional initialization |
 | 2026-01-31 12:37 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | chore: remove obsolete documentation and migration files |
 | 2026-01-31 16:49 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | i18n: traduzir documentação e logs do banco compartilhado para PT-BR |
+| 2026-02-03 09:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): corrigir caminho do Dockerfile e adicionar CHANGELOG.md |
