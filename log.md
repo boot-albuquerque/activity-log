@@ -277,3 +277,4 @@
 | 2026-02-06 17:37 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(security): atualizar aiobotocore e locust para versões sem vulnerabilidades |
 | 2026-02-06 17:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(deps): remover arquivos requirements.txt obsoletos que confundem o Snyk |
 | 2026-02-06 17:59 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | docs(readme): atualizar instruções de setup para usar apenas Poetry |
+| 2026-02-06 18:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: consolidar pasta de testes - remover ./test/ duplicado |
