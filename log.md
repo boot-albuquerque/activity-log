@@ -261,3 +261,4 @@
 | 2026-02-05 17:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: corrigir task assíncrona do Celery e configuração de schema do banco |
 | 2026-02-05 18:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): corrigir erro de pipeline - adicionar targets check_poetry e load_env |
 | 2026-02-05 18:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): simplificar checks de poetry e .env para compatibilidade com CI |
+| 2026-02-06 10:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | chore: remove file |
