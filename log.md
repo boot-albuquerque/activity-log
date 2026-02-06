@@ -275,3 +275,4 @@
 | 2026-02-06 17:13 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(security): atualizar FastAPI e Starlette para versões sem vulnerabilidades |
 | 2026-02-06 17:18 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(docker): adicionar --no-root ao poetry install no build |
 | 2026-02-06 17:37 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(security): atualizar aiobotocore e locust para versões sem vulnerabilidades |
+| 2026-02-06 17:48 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(deps): remover arquivos requirements.txt obsoletos que confundem o Snyk |
