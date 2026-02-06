@@ -279,3 +279,4 @@
 | 2026-02-06 17:59 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | docs(readme): atualizar instruções de setup para usar apenas Poetry |
 | 2026-02-06 18:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: consolidar pasta de testes - remover ./test/ duplicado |
 | 2026-02-06 18:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): permitir falha dos jobs de provision sem bloquear merge |
+| 2026-02-06 18:28 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): desabilitar jobs de provision app role que estão bloqueando merge |
