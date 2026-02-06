@@ -271,3 +271,4 @@
 | 2026-02-06 16:41 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(deps): remover extras inválidos do pyproject.toml |
 | 2026-02-06 16:45 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(deps): atualizar poetry.lock após remoção de extras |
 | 2026-02-06 17:00 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(security): atualizar dependências vulneráveis |
+| 2026-02-06 17:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(security): atualizar todas dependências vulneráveis para versões seguras |
