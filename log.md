@@ -265,3 +265,4 @@
 | 2026-02-06 10:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): instalar dependências de dev para rodar testes |
 | 2026-02-06 16:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(tests): melhorar configuração de testes e cobertura |
 | 2026-02-06 16:19 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): ajustar testes para pipeline passar |
+| 2026-02-06 16:26 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): remover helpers não utilizados |
