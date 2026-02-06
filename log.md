@@ -263,3 +263,4 @@
 | 2026-02-05 18:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): simplificar checks de poetry e .env para compatibilidade com CI |
 | 2026-02-06 10:10 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | chore: remove file |
 | 2026-02-06 10:55 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(CI): instalar dependências de dev para rodar testes |
+| 2026-02-06 16:11 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(tests): melhorar configuração de testes e cobertura |
