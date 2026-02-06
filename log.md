@@ -268,3 +268,4 @@
 | 2026-02-06 16:26 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): remover helpers não utilizados |
 | 2026-02-06 16:31 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): corrigir comando de cobertura na pipeline |
 | 2026-02-06 16:36 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(logging): remover código órfão em patterns.py causando erro de sintaxe |
+| 2026-02-06 16:41 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(deps): remover extras inválidos do pyproject.toml |
