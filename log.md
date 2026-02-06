@@ -280,3 +280,4 @@
 | 2026-02-06 18:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: consolidar pasta de testes - remover ./test/ duplicado |
 | 2026-02-06 18:16 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): permitir falha dos jobs de provision sem bloquear merge |
 | 2026-02-06 18:28 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): desabilitar jobs de provision app role que estão bloqueando merge |
+| 2026-02-06 18:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): configurar provision jobs como manuais e opcionais para não bloquear m |
