@@ -285,3 +285,4 @@
 | 2026-02-08 04:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: corrigir warnings de conexão pool, cache serialization e evaluation type |
 | 2026-02-08 04:05 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: adicionar validação de serialização em get_with_fallback |
 | 2026-02-08 04:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: adicionar validação serialização em todos métodos set_* do cache |
+| 2026-02-08 04:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: mudar nível de log de warn para debug em serialização de cache |
