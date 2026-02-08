@@ -287,3 +287,4 @@
 | 2026-02-08 04:07 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: adicionar validação serialização em todos métodos set_* do cache |
 | 2026-02-08 04:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: mudar nível de log de warn para debug em serialização de cache |
 | 2026-02-08 04:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: garantir fechamento de sessões SQLAlchemy em todas as requisições |
+| 2026-02-08 04:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: corrigir acesso ao repository_factory no cleanup de sessões |
