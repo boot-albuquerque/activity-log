@@ -282,3 +282,4 @@
 | 2026-02-06 18:28 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): desabilitar jobs de provision app role que estão bloqueando merge |
 | 2026-02-06 18:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix(ci): configurar provision jobs como manuais e opcionais para não bloquear m |
 | 2026-02-08 03:46 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | refactor: remove v1 compat layer e ajusta rotas v2 para BFF |
+| 2026-02-08 04:02 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: corrigir warnings de conexão pool, cache serialization e evaluation type |
