@@ -14810,3 +14810,4 @@
 | 2025-12-27 17:51 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2026-02-09 12:00 | MacBook-Pro-de-Lucas | GitLab | `infra-playbooks` | `release/v1.0` | feat: implement rate limiting middleware |
 | 2026-02-09 12:36 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `hotfix/prod-issue` | docs: document environment variables |
+| 2026-02-09 12:50 | MacBook-Pro-de-Lucas | GitHub | `notification-service` | `release/v3.0` | perf: implement response compression |
