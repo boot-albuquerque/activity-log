@@ -14829,3 +14829,4 @@
 | 2026-02-11 11:58 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `chore/cleanup` | chore: configure GitHub Actions CI |
 | 2026-02-11 14:15 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `hotfix/prod-issue` | test: add integration tests for API endpoints |
 | 2026-02-11 15:58 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-handshake` | `develop` | fix: handle malformed JSON input |
+| 2026-02-11 17:30 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `fix/validation-bug` | chore: add Docker Compose for local dev |
