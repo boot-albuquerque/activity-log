@@ -14836,3 +14836,4 @@
 | 2026-02-12 08:08 | MacBook-Pro-de-Lucas | GitHub | `payment-service` | `refactor/extract-service` | infra: configure auto-scaling policies |
 | 2026-02-12 08:50 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `hotfix/critical-fix` | infra: update Terraform modules |
 | 2026-02-12 15:35 | MacBook-Pro-de-Lucas | GitHub | `cms-frontend` | `feature/pagination` | fix: resolve N+1 query problem |
+| 2026-02-12 17:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | refactor: move constants to config module |
