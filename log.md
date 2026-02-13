@@ -14842,3 +14842,4 @@
 | 2026-02-12 21:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | feat: add user authentication endpoint |
 | 2026-02-13 00:41 | MacBook-Pro-de-Lucas | GitHub | `microservices-core` | `feature/pagination` | infra: configure auto-scaling policies |
 | 2026-02-13 11:11 | MacBook-Pro-de-Lucas | GitHub | `sdk-nodejs` | `main` | feat: add real-time notifications |
+| 2026-02-13 12:48 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `hotfix/prod-issue` | refactor: replace raw SQL with query builder |
