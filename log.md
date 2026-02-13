@@ -14846,3 +14846,4 @@
 | 2026-02-13 13:29 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `fix/validation-bug` | fix: correct decimal precision in billing |
 | 2026-02-13 13:33 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `chore/cleanup` | db: optimize slow queries |
 | 2026-02-13 14:20 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `chore/update-deps` | feat: add OpenAPI documentation |
+| 2026-02-13 17:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | docs: add README setup instructions |
