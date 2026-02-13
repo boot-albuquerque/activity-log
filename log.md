@@ -14839,3 +14839,4 @@
 | 2026-02-12 17:56 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `refactor/clean-architecture` | refactor: move constants to config module |
 | 2026-02-12 17:57 | MacBook-Pro-de-Lucas | GitHub | `elixir-app` | `release/v3.0` | perf: add database indexes |
 | 2026-02-12 19:45 | MacBook-Pro-de-Lucas | GitLab | `db-migrations` | `feature/rate-limiting` | infra: add Kubernetes manifests |
+| 2026-02-12 21:07 | MacBook-Pro-de-Lucas | GitHub | `api-gateway` | `feature/auth-improvements` | feat: add user authentication endpoint |
