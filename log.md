@@ -14849,3 +14849,4 @@
 | 2026-02-13 17:52 | MacBook-Pro-de-Lucas | GitHub | `tudobrigadeiro` | `feature/rate-limiting` | docs: add README setup instructions |
 | 2026-02-13 18:12 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `hotfix/prod-issue` | chore: upgrade to latest Node.js LTS |
 | 2026-02-13 20:33 | MacBook-Pro-de-Lucas | Local | `dotfiles` | `feature/new-endpoint` | refactor: extract business logic to service layer |
+| 2026-02-13 23:11 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | fix: correct null check in user service |
