@@ -14852,3 +14852,4 @@
 | 2026-02-13 23:11 | MacBook-Pro-de-Lucas | GitHub | `queue-workers` | `hotfix/prod-issue` | fix: correct null check in user service |
 | 2026-02-14 07:20 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-evaluation` | `main` | feat: add OpenAPI documentation |
 | 2026-02-14 08:07 | MacBook-Pro-de-Lucas | Local | `study-notes` | `develop` | test: add unit tests for payment service |
+| 2026-02-14 13:18 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `develop` | fix: correct cache invalidation logic |
