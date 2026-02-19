@@ -288,3 +288,4 @@
 | 2026-02-08 04:08 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: mudar nível de log de warn para debug em serialização de cache |
 | 2026-02-08 04:12 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: garantir fechamento de sessões SQLAlchemy em todas as requisições |
 | 2026-02-08 04:21 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-385_optimize_create_handshake_bulk_ops` | fix: corrigir acesso ao repository_factory no cleanup de sessões |
+| 2026-02-19 19:23 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: add managed_by and ifood_name fields to GET /foodlover/{id}/evaluations |
