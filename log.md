@@ -292,3 +292,4 @@
 | 2026-02-19 19:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: add managed_by, ifood_name and fix is_approved/evaluator_approved in GET /f |
 | 2026-02-19 19:44 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: exclude manager_id/manager_grade from manager in leadership-chain response |
 | 2026-02-19 19:50 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: align GET /foodlovers/audience/{id} response with v1 |
+| 2026-02-19 20:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: align PATCH /evaluation/{id} error handling with v1 |
