@@ -295,3 +295,4 @@
 | 2026-02-19 20:38 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: align PATCH /evaluation/{id} error handling with v1 |
 | 2026-02-20 06:27 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix: return 404 for non-existent audience in POST /evaluation/audience/{id} |
 | 2026-02-20 07:00 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | feat: add ONA as valid evaluation type for historical DB records |
+| 2026-02-20 08:43 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | feat: align GET /handshake/schedule/audience/{id} with legacy commit 61076a9 |
