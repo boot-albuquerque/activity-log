@@ -14875,3 +14875,4 @@
 | 2026-02-25 14:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | docs: add README setup instructions |
 | 2026-02-25 15:51 | MacBook-Pro-de-Lucas | GitHub | `filarapida` | `main` | feat: add real-time notifications |
 | 2026-02-25 19:00 | MacBook-Pro-de-Lucas | GitHub | `report-service` | `refactor/extract-service` | feat: add pagination to list endpoint |
+| 2026-02-25 19:48 | MacBook-Pro-de-Lucas | GitHub | `integrations-hub` | `fix/null-pointer` | test: fix flaky test in async handler |
