@@ -14872,3 +14872,4 @@
 | 2026-02-25 08:50 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-desktop-manager` | `fix/typo-response` | perf: optimize database queries |
 | 2026-02-25 12:31 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `fix/validation-bug` | chore: upgrade to latest Node.js LTS |
 | 2026-02-25 14:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-frontend` | `feature/refactor-queries` | feat: add audit log trail |
+| 2026-02-25 14:21 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `feature/new-endpoint` | docs: add README setup instructions |
