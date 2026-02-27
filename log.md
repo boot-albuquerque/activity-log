@@ -14898,3 +14898,4 @@
 | 2026-02-27 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | db: add composite index |
 | 2026-02-27 12:49 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | refactor: replace raw SQL with query builder |
 | 2026-02-27 13:38 | MacBook-Pro-de-Lucas | GitHub | `crm-backend` | `refactor/clean-architecture` | fix: resolve CORS configuration |
+| 2026-02-27 14:22 | MacBook-Pro-de-Lucas | GitHub | `admin-panel` | `chore/cleanup` | fix: correct null check in user service |
