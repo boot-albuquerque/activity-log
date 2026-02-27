@@ -14896,3 +14896,4 @@
 | 2026-02-27 07:30 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `chore/update-deps` | docs: add README setup instructions |
 | 2026-02-27 11:09 | MacBook-Pro-de-Lucas | GitHub | `webhooks-service` | `develop` | fix: correct null check in user service |
 | 2026-02-27 11:13 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-prework` | `fix/memory-leak` | db: add composite index |
+| 2026-02-27 12:49 | MacBook-Pro-de-Lucas | GitHub | `auth-service` | `main` | refactor: replace raw SQL with query builder |
