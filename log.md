@@ -14902,3 +14902,4 @@
 | 2026-02-27 14:23 | MacBook-Pro-de-Lucas | GitHub | `deliciosu-delivery-api` | `main` | db: optimize slow queries |
 | 2026-02-27 14:35 | MacBook-Pro-de-Lucas | GitHub | `legacy-evaluation` | `release/v3.0` | feat: add real-time notifications |
 | 2026-02-27 16:07 | MacBook-Pro-de-Lucas | GitHub | `order-service` | `release/v1.0` | perf: add database indexes |
+| 2026-02-27 17:58 | MacBook-Pro-de-Lucas | GitHub | `user-service` | `feature/refactor-queries` | refactor: move constants to config module |
