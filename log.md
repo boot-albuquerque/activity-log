@@ -307,3 +307,4 @@
 | 2026-03-03 15:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): corrigir cron para expressao string (everyMinute nao existe) |
 | 2026-03-03 15:26 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): restaurar cron para every15minutes apos validacao em sandbox |
 | 2026-03-03 16:40 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | test(SWPPCOR-517): reverter cron para '* * * * *' para confirmar problema do Arg |
+| 2026-03-03 16:49 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): restaurar cron para Cron.every15minutes() apos confirmacao d |
