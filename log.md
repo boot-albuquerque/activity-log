@@ -304,3 +304,4 @@
 | 2026-03-03 13:35 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): corrige diretório da migration add_notified_column_to_solicit |
 | 2026-03-03 14:37 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): remove @ConditionalOnBean do SolicitationJobComponent |
 | 2026-03-03 15:07 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): reduzir cron para 1 minuto para validacao em sandbox |
+| 2026-03-03 15:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): corrigir cron para expressao string (everyMinute nao existe) |
