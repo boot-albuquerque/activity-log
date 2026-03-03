@@ -302,3 +302,4 @@
 | 2026-03-02 22:50 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): melhorias no BroadcastJobService e testes unitários |
 | 2026-03-03 12:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): corrige nome da variavel de ambiente do Slack bot token |
 | 2026-03-03 13:35 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): corrige diretório da migration add_notified_column_to_solicit |
+| 2026-03-03 14:37 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): remove @ConditionalOnBean do SolicitationJobComponent |
