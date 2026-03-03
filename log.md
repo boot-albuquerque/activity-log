@@ -300,3 +300,4 @@
 | 2026-02-20 14:17 | 17986-nb | Git | `ifood-tm-handshake` | `feature/SWPPCOR-513_prevent-duplicate-subordinates-evaluation` | fix(SWPPCOR-513): align log messages to PT-BR standard and fix integration test  |
 | 2026-03-02 18:58 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): notificacao Slack ao concluir solicitacao de troca de lideran |
 | 2026-03-02 22:50 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): melhorias no BroadcastJobService e testes unitários |
+| 2026-03-03 12:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | fix(SWPPCOR-517): corrige nome da variavel de ambiente do Slack bot token |
