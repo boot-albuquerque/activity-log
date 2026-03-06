@@ -313,3 +313,4 @@
 | 2026-03-05 15:28 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | chore(SWPPCOR-517): reverter cron para every15minutes apos validacao sandbox |
 | 2026-03-06 13:08 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): adicionar query e DAO getByParticipantAllCycles para seletor  |
 | 2026-03-06 13:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | chore(SWPPCOR-519): atualizar TODO de cache — Ehcache 3 já configurado no pro |
+| 2026-03-06 13:42 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): endpoint GET /campaign/participant/cycles com cache Ehcache e |
