@@ -323,3 +323,4 @@
 | 2026-03-07 01:18 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): corrigir crash no CardLeader quando strengths/weaknesses é un |
 | 2026-03-07 01:30 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): mover seletor de campanha para prework-detail e recarregar da |
 | 2026-03-07 01:30 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): migrations Flyway para autoridades de endpoints de ciclos de  |
+| 2026-03-07 01:57 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): exibir mensagem específica e traduzível quando formulário  |
