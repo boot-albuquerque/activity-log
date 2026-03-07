@@ -315,3 +315,4 @@
 | 2026-03-06 13:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | chore(SWPPCOR-519): atualizar TODO de cache — Ehcache 3 já configurado no pro |
 | 2026-03-06 13:42 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): endpoint GET /campaign/participant/cycles com cache Ehcache e |
 | 2026-03-06 22:31 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: SWPPCOR-519 - modo consulta (read-only) para avaliações de campanhas enc |
+| 2026-03-06 23:03 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat: SWPPCOR-519 - endpoint GET /campaign/participant/prework-cycles |
