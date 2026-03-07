@@ -320,3 +320,4 @@
 | 2026-03-06 23:14 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: SWPPCOR-519 - modo consulta (read-only) no prework-detail |
 | 2026-03-07 01:17 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): bloquear writes em campanha expirada e permitir leitura hist√ |
 | 2026-03-07 01:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | fix(SWPPCOR-519): corrigir dropdown de campanhas no prework para incluir tempora |
+| 2026-03-07 01:18 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): corrigir crash no CardLeader quando strengths/weaknesses √© un |
