@@ -324,3 +324,4 @@
 | 2026-03-07 01:30 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): mover seletor de campanha para prework-detail e recarregar da |
 | 2026-03-07 01:30 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat(SWPPCOR-519): migrations Flyway para autoridades de endpoints de ciclos de  |
 | 2026-03-07 01:57 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): exibir mensagem específica e traduzível quando formulário  |
+| 2026-03-07 02:09 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | feat(SWPPCOR-519): filtrar dados de 360/JIT pela campanha selecionada no dropdow |
