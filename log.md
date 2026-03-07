@@ -317,3 +317,4 @@
 | 2026-03-06 22:31 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: SWPPCOR-519 - modo consulta (read-only) para avaliações de campanhas enc |
 | 2026-03-06 23:03 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | feat: SWPPCOR-519 - endpoint GET /campaign/participant/prework-cycles |
 | 2026-03-06 23:13 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: SWPPCOR-519 - seletor de campanha prework e prop threading até o card |
+| 2026-03-06 23:14 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: SWPPCOR-519 - modo consulta (read-only) no prework-detail |
