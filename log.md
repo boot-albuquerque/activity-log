@@ -334,3 +334,4 @@
 | 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
 | 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
 | 2026-03-10 13:15 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-510): alerta de alterações não salvas no prework-detail |
+| 2026-03-10 13:29 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix: adicionar prefixo de schema em tabelas sem qualificação em foodlover_quer |
