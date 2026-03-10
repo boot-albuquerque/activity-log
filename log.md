@@ -330,3 +330,4 @@
 | 2026-03-09 14:51 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | chore(SWPPCOR-519): simplificar comentários nos serviços e controller |
 | 2026-03-09 17:14 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix: atualiza mocks de teste para refletir campaign_id opcional em get_foodlover |
 | 2026-03-09 19:35 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): corrigir 7 falhas de QA no filtro e formulário de avaliação |
+| 2026-03-10 10:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): não enviar questões sem resposta no bulk save |
