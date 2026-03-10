@@ -332,3 +332,4 @@
 | 2026-03-09 19:35 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): corrigir 7 falhas de QA no filtro e formulário de avaliação |
 | 2026-03-10 10:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): não enviar questões sem resposta no bulk save |
 | 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
+| 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
