@@ -339,3 +339,4 @@
 | 2026-03-10 14:01 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | feat: expor fillingStatus no endpoint de prework |
 | 2026-03-10 18:48 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): mover combobox de campanha para filtros do prework e adiciona |
 | 2026-03-10 19:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): alinhar espaçamento entre label e campo do combobox de campan |
+| 2026-03-10 19:45 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): renomear label 'Campanha' para 'Ciclo' e remover campo Tempor |
