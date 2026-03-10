@@ -336,3 +336,4 @@
 | 2026-03-10 13:15 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-510): alerta de alterações não salvas no prework-detail |
 | 2026-03-10 13:29 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix: adicionar prefixo de schema em tabelas sem qualificação em foodlover_quer |
 | 2026-03-10 14:00 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): corrigir isDirty sempre falso quando evaluation não tem respo |
+| 2026-03-10 14:01 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | feat: expor fillingStatus no endpoint de prework |
