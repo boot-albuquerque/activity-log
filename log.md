@@ -333,3 +333,4 @@
 | 2026-03-10 10:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): não enviar questões sem resposta no bulk save |
 | 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
 | 2026-03-10 12:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: tornar botão 'Gerar Insights' data-driven via question.tip e adicionar nul |
+| 2026-03-10 13:15 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-510): alerta de alterações não salvas no prework-detail |
