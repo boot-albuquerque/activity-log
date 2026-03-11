@@ -342,3 +342,4 @@
 | 2026-03-10 19:45 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-519): renomear label 'Campanha' para 'Ciclo' e remover campo Tempor |
 | 2026-03-11 17:44 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | feat(cache): migra cache de EHCache para Redis distribuído |
 | 2026-03-11 17:44 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(cache): migra cache de EHCache para Redis distribuído |
+| 2026-03-11 18:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): regras de acionamento do Gerar Insight por tamanho do feedbac |
