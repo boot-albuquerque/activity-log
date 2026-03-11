@@ -346,3 +346,4 @@
 | 2026-03-11 18:08 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): regras de acionamento do Gerar Insight por tamanho do feedbac |
 | 2026-03-11 18:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | feat(cache): adiciona cache Redis para insights por campanha |
 | 2026-03-11 18:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(cache): adiciona cache Redis para insights por campanha |
+| 2026-03-11 18:23 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore(devcontainer): adiciona dev container com isolamento de porta por worktree |
