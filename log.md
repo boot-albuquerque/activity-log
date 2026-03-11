@@ -353,3 +353,4 @@
 | 2026-03-11 18:32 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir design do Modal de feedback curto para seguir padrão |
 | 2026-03-11 18:32 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir design do Modal de feedback curto para seguir padrão |
 | 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
+| 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
