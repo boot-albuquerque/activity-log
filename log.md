@@ -354,3 +354,4 @@
 | 2026-03-11 18:32 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir design do Modal de feedback curto para seguir padrão |
 | 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
 | 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
+| 2026-03-11 18:55 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | revert: remover cherry-picks SWPPCOR-675 para deixar MR \!96 ativo (675 → 492) |
