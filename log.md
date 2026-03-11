@@ -349,3 +349,4 @@
 | 2026-03-11 18:23 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore(devcontainer): adiciona dev container com isolamento de porta por worktree |
 | 2026-03-11 18:23 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore(devcontainer): adiciona dev container com isolamento de porta por worktree |
 | 2026-03-11 18:27 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): trocar Alert inline por Modal no aviso de feedback curto |
+| 2026-03-11 18:27 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): trocar Alert inline por Modal no aviso de feedback curto |
