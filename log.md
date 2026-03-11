@@ -351,3 +351,4 @@
 | 2026-03-11 18:27 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): trocar Alert inline por Modal no aviso de feedback curto |
 | 2026-03-11 18:27 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): trocar Alert inline por Modal no aviso de feedback curto |
 | 2026-03-11 18:32 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir design do Modal de feedback curto para seguir padrão |
+| 2026-03-11 18:32 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir design do Modal de feedback curto para seguir padrão |
