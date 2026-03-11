@@ -358,3 +358,4 @@
 | 2026-03-11 19:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | fix(cache): corrige self-invocation no cache de insights por campanha |
 | 2026-03-11 19:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(cache): corrige self-invocation no cache de insights por campanha |
 | 2026-03-11 19:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore: move .devcontainer/ para gitignore |
+| 2026-03-11 19:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore: move .devcontainer/ para gitignore |
