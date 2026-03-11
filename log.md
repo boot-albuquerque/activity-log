@@ -355,3 +355,4 @@
 | 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
 | 2026-03-11 18:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): corrigir texto da mensagem de feedback curto para match exato  |
 | 2026-03-11 18:55 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | revert: remover cherry-picks SWPPCOR-675 para deixar MR \!96 ativo (675 → 492) |
+| 2026-03-11 19:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | fix(cache): corrige self-invocation no cache de insights por campanha |
