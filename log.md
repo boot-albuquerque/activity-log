@@ -366,3 +366,4 @@
 | 2026-03-12 09:31 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore: remove comment from .gitignore |
 | 2026-03-12 09:31 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore: remove comment from .gitignore |
 | 2026-03-12 12:24 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-861_hcm-feature-flags` | feat(SWPPCOR-861): substituir env vars HCM por feature flags dinâmicas |
+| 2026-03-12 16:17 | 17986-nb | Git | `ifood-tm-backend` | `feature/ibuddy-people-tm-backend-production-htrmbv35` | fix: remove duplicate workload.mesh key in values-prod.yaml |
