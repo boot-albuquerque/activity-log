@@ -361,3 +361,4 @@
 | 2026-03-11 19:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore: move .devcontainer/ para gitignore |
 | 2026-03-12 09:09 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore: remove comentários desnecessários |
 | 2026-03-12 09:09 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore: remove comentários desnecessários |
+| 2026-03-12 09:25 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | chore: remove unnecessary comments from production and test code |
