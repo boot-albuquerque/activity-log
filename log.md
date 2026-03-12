@@ -372,3 +372,4 @@
 | 2026-03-12 18:43 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir busca de FoodLover e mensagem de sem dados no Pre-Work |
 | 2026-03-12 18:51 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): não exibir hierarquia mock quando FoodLover não tem dados no cic |
 | 2026-03-12 19:17 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): reduzir tamanho de fonte do modal de feedback curto |
+| 2026-03-12 20:37 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix(SWPPCOR-510): endpoint subordinates aceita campaign_id para filtrar hierarqu |
