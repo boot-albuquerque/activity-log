@@ -363,3 +363,4 @@
 | 2026-03-12 09:09 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | chore: remove comentários desnecessários |
 | 2026-03-12 09:25 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | chore: remove unnecessary comments from production and test code |
 | 2026-03-12 09:25 | 17986-nb | Git | `ifood-tm-bff` | `feature/SWPPCOR-492_features-unificadas` | chore: remove unnecessary inline comment from CORS middleware |
+| 2026-03-12 09:31 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_redis-cache` | chore: remove comment from .gitignore |
