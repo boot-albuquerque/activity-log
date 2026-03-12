@@ -370,3 +370,4 @@
 | 2026-03-12 16:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-backend-elasticache` | feat(people-tm-backend): provisiona Valkey ElastiCache para sandbox |
 | 2026-03-12 17:53 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | Revert "revert: remover cherry-picks SWPPCOR-675 para deixar MR \!96 ativo (675  |
 | 2026-03-12 18:43 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir busca de FoodLover e mensagem de sem dados no Pre-Work |
+| 2026-03-12 18:51 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): não exibir hierarquia mock quando FoodLover não tem dados no cic |
