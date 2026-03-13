@@ -375,3 +375,4 @@
 | 2026-03-12 20:37 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix(SWPPCOR-510): endpoint subordinates aceita campaign_id para filtrar hierarqu |
 | 2026-03-12 20:37 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): prework envia campaign_id ao endpoint de subordinados |
 | 2026-03-12 20:44 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | test(SWPPCOR-510): atualiza mock do test_get_foodlovers_and_subordinates para in |
+| 2026-03-12 22:44 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(SWPPCOR-519): corrige filtro de campanhas na tela de Pre-Work |
