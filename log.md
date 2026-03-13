@@ -381,3 +381,4 @@
 | 2026-03-13 08:01 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | feat(campaign): adiciona endpoint para filtrar ciclos pelo avaliado |
 | 2026-03-13 08:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(evaluation): filtra dropdown de Ciclo ao selecionar email do avaliado |
 | 2026-03-13 17:09 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(SWPPCOR-519): simplifica filtro de ciclos AvD — usa avd=true sem is_ptr |
+| 2026-03-13 20:07 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | revert(SWPPCOR-519): remove filtro de Ciclo por email do avaliado |
