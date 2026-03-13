@@ -378,3 +378,4 @@
 | 2026-03-12 22:44 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(SWPPCOR-519): corrige filtro de campanhas na tela de Pre-Work |
 | 2026-03-12 23:27 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(campaign): excluir campanhas legado/teste do seletor de Avaliação |
 | 2026-03-13 00:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(campaign): excluir campanhas indevidas do seletor de Avaliação por regras  |
+| 2026-03-13 08:01 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | feat(campaign): adiciona endpoint para filtrar ciclos pelo avaliado |
