@@ -402,3 +402,4 @@
 | 2026-03-14 13:04 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir largura e z-index do dropdown E-mail Foodlover |
 | 2026-03-14 15:07 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): corrigir bugs no fluxo de save e modal de alterações não sa |
 | 2026-03-14 17:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): dispara ModalUnsavedChanges independente do fillingStatus |
+| 2026-03-14 18:50 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix(SWPPCOR-519): corrige get_evaluation_metadata para campanhas sem avd=TRUE |
