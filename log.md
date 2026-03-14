@@ -400,3 +400,4 @@
 | 2026-03-14 12:53 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir filtro de email no campo E-mail Foodlover |
 | 2026-03-14 12:55 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir largura do dropdown do campo E-mail Foodlover |
 | 2026-03-14 13:04 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir largura e z-index do dropdown E-mail Foodlover |
+| 2026-03-14 15:07 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): corrigir bugs no fluxo de save e modal de alterações não sa |
