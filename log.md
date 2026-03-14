@@ -390,3 +390,4 @@
 | 2026-03-14 00:31 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.190` | style(SWPPCOR-510): substitui p-dialog por overlay HTML/CSS puro estilo Pomodoro |
 | 2026-03-14 00:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): extrai modal de feedback curto para componente dedicado e atu |
 | 2026-03-14 00:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-675): extrai modal de feedback curto para componente dedicado e atu |
+| 2026-03-14 09:31 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix(SWPPCOR-519): propaga campaign_id em get_evaluation_metadata para campanhas  |
