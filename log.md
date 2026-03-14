@@ -397,3 +397,4 @@
 | 2026-03-14 11:46 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix(SWPPCOR-519): propaga audience_id no endpoint de subordinados para respeitar |
 | 2026-03-14 11:47 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix(SWPPCOR-519): usa campaign_id (não audience_id) no endpoint de subordinados |
 | 2026-03-14 12:30 | 17986-nb | Git | `ifood-tm-bff` | `feature/SWPPCOR-492_features-unificadas` | chore: atualiza launch.json com porta 8083 e env vars para debug local |
+| 2026-03-14 12:53 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(prework): corrigir filtro de email no campo E-mail Foodlover |
