@@ -395,3 +395,4 @@
 | 2026-03-14 09:43 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_modo-consulta-avaliacao` | fix(SWPPCOR-519): corrige seletores de campanha e filtro de avaliações por cam |
 | 2026-03-14 11:46 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-519): exibe empty-state quando não há liderados na campanha seleci |
 | 2026-03-14 11:46 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix(SWPPCOR-519): propaga audience_id no endpoint de subordinados para respeitar |
+| 2026-03-14 11:47 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-519_filtrar-prework-campanha` | fix(SWPPCOR-519): usa campaign_id (não audience_id) no endpoint de subordinados |
