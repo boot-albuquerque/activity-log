@@ -385,3 +385,4 @@
 | 2026-03-13 20:07 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | revert(SWPPCOR-519): remove endpoint e query de ciclos por avaliado |
 | 2026-03-13 21:10 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | fix(SWPPCOR-519): filtra avaliações por pertencimento à campanha no search/pa |
 | 2026-03-14 00:17 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-510): envia postMessage TM_EVALUATION_DIRTY na primeira mudança do |
+| 2026-03-14 00:17 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.190` | feat(SWPPCOR-510): implementa US2 — dialog de alterações não salvas ao nave |
