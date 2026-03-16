@@ -410,3 +410,4 @@
 | 2026-03-16 17:04 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-510): exibir alerta de alterações ao enviar avaliação com mudan� |
 | 2026-03-16 17:40 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | refactor(SWPPCOR-517): substituir polling por notificacao event-driven no Solici |
 | 2026-03-16 17:58 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): remover Alert e usar span simples no modal de feedback curto |
+| 2026-03-16 17:58 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): remover Alert e usar span simples no modal de feedback curto |
