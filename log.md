@@ -411,3 +411,4 @@
 | 2026-03-16 17:40 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | refactor(SWPPCOR-517): substituir polling por notificacao event-driven no Solici |
 | 2026-03-16 17:58 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): remover Alert e usar span simples no modal de feedback curto |
 | 2026-03-16 17:58 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): remover Alert e usar span simples no modal de feedback curto |
+| 2026-03-16 18:42 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): adicionar feature toggle para notificacao Slack de solicitaca |
