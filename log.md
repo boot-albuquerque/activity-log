@@ -405,3 +405,4 @@
 | 2026-03-14 18:50 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix(SWPPCOR-519): corrige get_evaluation_metadata para campanhas sem avd=TRUE |
 | 2026-03-14 18:54 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | test(SWPPCOR-519): atualiza mocks de get_evaluation_metadata para incluir campai |
 | 2026-03-16 16:54 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): atualizar copy e formatação do modal de feedback curto |
+| 2026-03-16 16:54 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-675): atualizar copy e formatação do modal de feedback curto |
