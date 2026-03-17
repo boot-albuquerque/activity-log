@@ -416,3 +416,4 @@
 | 2026-03-17 09:49 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | chore: início de jornada 2026-03-17 |
 | 2026-03-17 10:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: nao exibir modal de lead-check em campanhas encerradas |
 | 2026-03-17 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `bugfix/handshake-phase2-grade-access` | fix: usa min_grade_evaluators para can_access_handshake na hierarquia |
+| 2026-03-17 12:52 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.186` | fix: sempre chama hasAccess() ao entrar em pares-ona |
