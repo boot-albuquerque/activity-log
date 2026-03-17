@@ -414,3 +414,4 @@
 | 2026-03-16 18:42 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): adicionar feature toggle para notificacao Slack de solicitaca |
 | 2026-03-16 18:53 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-517_reativar-notificacao-mudanca-lideranca` | feat(SWPPCOR-517): set slack notification toggle default to false |
 | 2026-03-17 09:49 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-492_features-unificadas` | chore: início de jornada 2026-03-17 |
+| 2026-03-17 10:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: nao exibir modal de lead-check em campanhas encerradas |
