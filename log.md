@@ -417,3 +417,4 @@
 | 2026-03-17 10:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: nao exibir modal de lead-check em campanhas encerradas |
 | 2026-03-17 12:51 | 17986-nb | Git | `ifood-tm-handshake` | `bugfix/handshake-phase2-grade-access` | fix: usa min_grade_evaluators para can_access_handshake na hierarquia |
 | 2026-03-17 12:52 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.186` | fix: sempre chama hasAccess() ao entrar em pares-ona |
+| 2026-03-17 15:57 | 17986-nb | Git | `ifood-tm-handshake` | `fix/valkey-intEnum-ttl-cache` | fix(cache): converte TTL para int puro antes de passar ao Redis/Valkey |
