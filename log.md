@@ -432,3 +432,4 @@
 | 2026-03-19 17:26 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | fix: remove COALESCE em direct_manager_cte que causava usuário como próprio ge |
 | 2026-03-19 17:27 | 17986-nb | Git | `ifood-tm-frontend` | `fix/bug2-hierarchy-manager-ngif` | fix: ocultar linha do gestor quando manager.id for nulo na hierarquia prework |
 | 2026-03-19 17:53 | 17986-nb | Git | `ifood-tm-frontend` | `fix/bug2-hierarchy-manager-ngif` | revert: remove ngIf do gestor na hierarquia prework (comportamento atual está c |
+| 2026-03-19 17:53 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | fix: restaura COALESCE e corrige contagem de liderados do gestor na hierarquia p |
