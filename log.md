@@ -424,3 +424,4 @@
 | 2026-03-19 13:04 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix: corrige busca de perguntas do liderado direto no prework |
 | 2026-03-19 13:04 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-perguntas-liderado-direto` | fix: corrige busca de perguntas do liderado direto no prework |
 | 2026-03-19 14:18 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix: remove filtro por ssn_id na busca de evaluation_metadata |
+| 2026-03-19 14:18 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-perguntas-liderado-direto` | fix: remove filtro por ssn_id na busca de evaluation_metadata |
