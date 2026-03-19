@@ -426,3 +426,4 @@
 | 2026-03-19 14:18 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix: remove filtro por ssn_id na busca de evaluation_metadata |
 | 2026-03-19 14:18 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-perguntas-liderado-direto` | fix: remove filtro por ssn_id na busca de evaluation_metadata |
 | 2026-03-19 14:35 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | revert: remove fixes de perguntas do prework da branch unificada |
+| 2026-03-19 15:55 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: mover useEffect de initialInsightSnapshot para antes dos early returns (Rul |
