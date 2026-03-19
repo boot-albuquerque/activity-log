@@ -428,3 +428,4 @@
 | 2026-03-19 14:35 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | revert: remove fixes de perguntas do prework da branch unificada |
 | 2026-03-19 15:55 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: mover useEffect de initialInsightSnapshot para antes dos early returns (Rul |
 | 2026-03-19 16:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: corrige race condition no modal 'Você fez alterações' |
+| 2026-03-19 16:44 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: corrige race condition no modal 'Você fez alterações' |
