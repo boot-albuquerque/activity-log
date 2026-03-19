@@ -421,3 +421,4 @@
 | 2026-03-19 10:23 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat: atualizar data de corte de 30/09 para 28/02 na modal de confirmacao de lid |
 | 2026-03-19 12:22 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | feat(SWPPCOR-953): atualizar carrossel com textos e links da AvD 26.1 |
 | 2026-03-19 13:04 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | fix: corrige busca de perguntas do liderado direto no prework |
+| 2026-03-19 13:04 | 17986-nb | Git | `ifood-tm-prework` | `fix/prework-leader-questions-campaign` | fix: corrige busca de perguntas do liderado direto no prework |
