@@ -435,3 +435,4 @@
 | 2026-03-19 17:53 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-492_features-unificadas` | fix: restaura COALESCE e corrige contagem de liderados do gestor na hierarquia p |
 | 2026-03-19 18:11 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix: corrige loop infinito de requisições ao /cycles quando retorna 403 ou lis |
 | 2026-03-19 20:27 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-956): impede sinal TM_EVALUATION_DIRTY em formulários somente leitu |
+| 2026-03-20 23:09 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.190` | fix: guard unsaved changes before logout |
