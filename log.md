@@ -443,3 +443,4 @@
 | 2026-03-21 23:00 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-994): não disparar TM_EVALUATION_DIRTY em modo consulta |
 | 2026-03-21 23:28 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-992): ocultar botão Pular Pares&ONA em campanhas inativas |
 | 2026-03-22 00:19 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-992): isCampaignActive false quando campanha nao carregada |
+| 2026-03-22 00:54 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-990): exibir botão Consultar em campanhas inativas |
