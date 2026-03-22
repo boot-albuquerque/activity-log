@@ -438,3 +438,4 @@
 | 2026-03-20 23:09 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.190` | fix: guard unsaved changes before logout |
 | 2026-03-21 21:39 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-987): limita alerta de alteracoes a avaliacoes finalizadas |
 | 2026-03-21 21:54 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-987): remove beforeunload nativo para avaliacoes nao finalizadas |
+| 2026-03-21 21:56 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.190` | fix(SWPPCOR-987): alerta Angular so ativa para avaliacao finalizada |
