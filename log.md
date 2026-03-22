@@ -442,3 +442,4 @@
 | 2026-03-21 22:37 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-988): resetar campos do modal ao abrir |
 | 2026-03-21 23:00 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-994): não disparar TM_EVALUATION_DIRTY em modo consulta |
 | 2026-03-21 23:28 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-992): ocultar botão Pular Pares&ONA em campanhas inativas |
+| 2026-03-22 00:19 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-992): isCampaignActive false quando campanha nao carregada |
