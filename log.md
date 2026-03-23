@@ -446,3 +446,4 @@
 | 2026-03-22 00:54 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.52` | fix(SWPPCOR-990): exibir botão Consultar em campanhas inativas |
 | 2026-03-23 08:22 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-519_authority-cycles-common-bp` | chore: início de jornada 2026-03-23 |
 | 2026-03-23 10:33 | 17986-nb | Git | `ifood-tm-evaluation` | `stash` | alter values-prod.yaml apigws |
+| 2026-03-23 10:59 | 17986-nb | Git | `ifood-tm-evaluation` | `stash` | revert: restore security.rules.apigws to unblock quality gate |
