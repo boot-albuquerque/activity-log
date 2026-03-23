@@ -454,3 +454,4 @@
 | 2026-03-23 16:46 | 17986-nb | Git | `ifood-tm-backend` | `stash` | feat(SWPPCOR-519): cache Valkey distribuído para endpoints de avaliação |
 | 2026-03-23 16:50 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): configurar Valkey ElastiCache para sandbox/production |
 | 2026-03-23 16:50 | 17986-nb | Git | `ifood-tm-backend` | `stash` | feat(SWPPCOR-519): configurar Valkey ElastiCache para sandbox/production |
+| 2026-03-23 18:16 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-987): modal de alterações aparece para qualquer status ao navegar |
