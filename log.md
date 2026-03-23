@@ -448,3 +448,4 @@
 | 2026-03-23 10:33 | 17986-nb | Git | `ifood-tm-evaluation` | `stash` | alter values-prod.yaml apigws |
 | 2026-03-23 10:59 | 17986-nb | Git | `ifood-tm-evaluation` | `stash` | revert: restore security.rules.apigws to unblock quality gate |
 | 2026-03-23 15:33 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.53` | fix(SWPPCOR-992): exibir botão pular para qualquer perfil ONA em campanha ativa |
+| 2026-03-23 15:39 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.53` | fix(SWPPCOR-992): corrigir precedência - ONA nunca exibe Pular em campanha inat |
