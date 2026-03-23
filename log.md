@@ -451,3 +451,4 @@
 | 2026-03-23 15:39 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.53` | fix(SWPPCOR-992): corrigir precedência - ONA nunca exibe Pular em campanha inat |
 | 2026-03-23 16:21 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-492): reverter form ao cancelar alterações antes de enviar avalia� |
 | 2026-03-23 16:46 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): cache Valkey distribuído para endpoints de avaliação |
+| 2026-03-23 16:46 | 17986-nb | Git | `ifood-tm-backend` | `stash` | feat(SWPPCOR-519): cache Valkey distribuído para endpoints de avaliação |
