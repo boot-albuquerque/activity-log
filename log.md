@@ -460,3 +460,4 @@
 | 2026-03-24 11:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | feat(SWPPCOR-1006): ocultar status de preenchimento em ciclo encerrado para não |
 | 2026-03-24 12:06 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: remove isFinished condition from blocker — exibe modal para qualquer stat |
 | 2026-03-24 12:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: enviar TM_EVALUATION_DIRTY para qualquer status de avaliação |
+| 2026-03-24 12:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: enviar TM_EVALUATION_DIRTY para qualquer status de avaliação |
