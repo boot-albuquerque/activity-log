@@ -457,3 +457,4 @@
 | 2026-03-23 18:16 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-987): modal de alterações aparece para qualquer status ao navegar |
 | 2026-03-23 18:17 | 17986-nb | Git | `ifood-tm-frontend` | `fix/SWPPCOR-987_modal-alteracoes-qualquer-status` | fix(SWPPCOR-987): isEvaluationDirty ativado para qualquer status de avaliação |
 | 2026-03-24 11:35 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-1005): continuar depois exibe modal de alterações não salvas |
+| 2026-03-24 11:36 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | feat(SWPPCOR-1006): ocultar status de preenchimento em ciclo encerrado para não |
