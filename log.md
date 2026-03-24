@@ -461,3 +461,4 @@
 | 2026-03-24 12:06 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: remove isFinished condition from blocker — exibe modal para qualquer stat |
 | 2026-03-24 12:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: enviar TM_EVALUATION_DIRTY para qualquer status de avaliação |
 | 2026-03-24 12:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix: enviar TM_EVALUATION_DIRTY para qualquer status de avaliação |
+| 2026-03-24 12:27 | 17986-nb | Git | `ifood-tm-frontend` | `fix/SWPPCOR-987_modal-alteracoes-qualquer-status` | fix(SWPPCOR-1005): remover campo isEvaluationFinished — agora obsoleto |
