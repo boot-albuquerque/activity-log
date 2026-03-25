@@ -470,3 +470,4 @@
 | 2026-03-24 21:15 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1005_status-nao-atualiza-ao-salvar-alteracoes` | fix(SWPPCOR-1005): exibir modal de alterações ao clicar em "Continuar Depois"  |
 | 2026-03-24 21:27 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1005_status-nao-atualiza-ao-salvar-alteracoes` | fix: corrigir script de test no package.json (caminho jest local hardcoded) |
 | 2026-03-24 21:37 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1005_status-nao-atualiza-ao-salvar-alteracoes` | chore: adicionar jest.config.js, babel.config.js e mocks ao repositório |
+| 2026-03-24 22:11 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.191` | fix(SWPPCOR-987): isEvaluationDirty ativado para qualquer status de avaliação |
