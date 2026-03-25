@@ -473,3 +473,4 @@
 | 2026-03-24 22:11 | 17986-nb | Git | `ifood-tm-frontend` | `tags/v2.24.191` | fix(SWPPCOR-987): isEvaluationDirty ativado para qualquer status de avaliação |
 | 2026-03-24 22:13 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.56` | fix(SWPPCOR-1005): exibir modal de alterações ao clicar em "Continuar Depois"  |
 | 2026-03-24 23:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.57` | fix: sempre buscar resultado via REST quando SSE falha na Judite |
+| 2026-03-25 10:18 | 17986-nb | Git | `ifood-tm-backend` | `stash` | index on SWPPCOR-519_valkey-cache: 9b22308b feat(cache): add Valkey fallback err |
