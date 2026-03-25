@@ -482,3 +482,4 @@
 | 2026-03-25 12:13 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | docs(SWPPCOR-519): documentar env vars Valkey nos values k8s |
 | 2026-03-25 12:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): limpar endpoints Valkey em prod até provisionar ElastiCache |
 | 2026-03-25 12:24 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): TTL configurável por cache via VALKEY_*_TTL |
+| 2026-03-25 12:27 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | docs(SWPPCOR-519): descomentar e documentar VALKEY_*_TTL em sandbox e prod |
