@@ -480,3 +480,4 @@
 | 2026-03-25 12:06 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): adicionar VALKEY_CLEAR_CACHE_ON_STARTUP nos ambientes |
 | 2026-03-25 12:11 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): adicionar aliases VALKEY_HOST/VALKEY_READER_HOST nos ambiente |
 | 2026-03-25 12:13 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | docs(SWPPCOR-519): documentar env vars Valkey nos values k8s |
+| 2026-03-25 12:14 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): limpar endpoints Valkey em prod até provisionar ElastiCache |
