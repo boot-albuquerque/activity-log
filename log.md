@@ -475,3 +475,4 @@
 | 2026-03-24 23:26 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.57` | fix: sempre buscar resultado via REST quando SSE falha na Judite |
 | 2026-03-25 10:18 | 17986-nb | Git | `ifood-tm-backend` | `stash` | index on SWPPCOR-519_valkey-cache: 9b22308b feat(cache): add Valkey fallback err |
 | 2026-03-25 10:24 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): corrigir testes e adicionar log de conexão Valkey |
+| 2026-03-25 10:29 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): adicionar env vars Valkey no k8s e log de cache HIT/MISS |
