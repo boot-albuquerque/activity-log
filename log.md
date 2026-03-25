@@ -467,3 +467,4 @@
 | 2026-03-24 16:31 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.55` | fix(SWPPCOR-1005): enviar TM_EVALUATION_DIRTY para o Angular em qualquer status |
 | 2026-03-24 17:58 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(cache): add Valkey fallback error handler with logging |
 | 2026-03-24 17:58 | 17986-nb | Git | `ifood-tm-backend` | `stash` | feat(cache): add Valkey fallback error handler with logging |
+| 2026-03-24 21:15 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1005_status-nao-atualiza-ao-salvar-alteracoes` | fix(SWPPCOR-1005): exibir modal de alterações ao clicar em "Continuar Depois"  |
