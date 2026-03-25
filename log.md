@@ -486,3 +486,4 @@
 | 2026-03-25 12:51 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): corrigir LoggingAspect parado após implementação Valkey |
 | 2026-03-25 14:10 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): corrigir indentação do comentário LOG no values-dev |
 | 2026-03-25 14:46 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): configurar endpoints ElastiCache Valkey em prod |
+| 2026-03-25 17:56 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-675): SSE insights never rendering after generation |
