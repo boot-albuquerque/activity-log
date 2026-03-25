@@ -485,3 +485,4 @@
 | 2026-03-25 12:27 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | docs(SWPPCOR-519): descomentar e documentar VALKEY_*_TTL em sandbox e prod |
 | 2026-03-25 12:51 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): corrigir LoggingAspect parado após implementação Valkey |
 | 2026-03-25 14:10 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | fix(SWPPCOR-519): corrigir indentação do comentário LOG no values-dev |
+| 2026-03-25 14:46 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-519_valkey-cache` | feat(SWPPCOR-519): configurar endpoints ElastiCache Valkey em prod |
