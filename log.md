@@ -497,3 +497,4 @@
 | 2026-03-26 11:32 | 17986-nb | Git | `ifood-tm-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): add missing mock for findLatestFinishedByEvaluationId in recon |
 | 2026-03-26 12:53 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): partial insights loading — show available sections while re |
 | 2026-03-26 16:16 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): hide empty sections when not actively retrying |
+| 2026-03-26 16:42 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): keep Judite panel visible when emptyResult after retries |
