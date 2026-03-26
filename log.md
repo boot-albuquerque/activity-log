@@ -499,3 +499,4 @@
 | 2026-03-26 16:16 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): hide empty sections when not actively retrying |
 | 2026-03-26 16:42 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): keep Judite panel visible when emptyResult after retries |
 | 2026-03-26 16:49 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): keep Judite panel open on revisit after failed generation |
+| 2026-03-26 17:06 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): remove Reconnect button, make error handling automatic |
