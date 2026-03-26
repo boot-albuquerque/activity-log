@@ -493,3 +493,4 @@
 | 2026-03-26 07:51 | 17986-nb | Git | `ifood-tm-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): prevent ToqanParseUtils from parsing HTML/plain text as JSON |
 | 2026-03-26 07:51 | 17986-nb | Git | `ifood-tm-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): SSE reconnect sends cached result + prevent HTML JSON parsing |
 | 2026-03-26 08:53 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): SSE auto-reconnect on disconnect + retry on empty Toqan respo |
+| 2026-03-26 11:25 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): extract handleSSEDisconnect and add onclose handler |
