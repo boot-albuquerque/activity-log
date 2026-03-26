@@ -502,3 +502,4 @@
 | 2026-03-26 17:06 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): remove Reconnect button, make error handling automatic |
 | 2026-03-26 17:15 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): show emptyResult message when REST fallback fails |
 | 2026-03-26 17:18 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): add retry button on emptyResult state |
+| 2026-03-26 17:21 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): remove Judite icon from emptyResult state |
