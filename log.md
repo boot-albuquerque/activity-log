@@ -489,3 +489,4 @@
 | 2026-03-25 17:56 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | fix(SWPPCOR-675): SSE insights never rendering after generation |
 | 2026-03-25 19:01 | 17986-nb | Git | `legacy-evaluation` | `tags/v1.0.58` | Revert "Merge branch 'fix/SWPPCOR-675_sse-insights-not-rendering' into 'sandbox- |
 | 2026-03-26 07:49 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): handle SSE insight-success with empty sections and insight-er |
+| 2026-03-26 07:49 | 17986-nb | Git | `ifood-tm-evaluation` | `stash` | index on SWPPCOR-492_features-unificadas: fa94bed Merge branch 'hotfix/canary-co |
