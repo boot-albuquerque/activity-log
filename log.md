@@ -498,3 +498,4 @@
 | 2026-03-26 12:53 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): partial insights loading — show available sections while re |
 | 2026-03-26 16:16 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): hide empty sections when not actively retrying |
 | 2026-03-26 16:42 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): keep Judite panel visible when emptyResult after retries |
+| 2026-03-26 16:49 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): keep Judite panel open on revisit after failed generation |
