@@ -503,3 +503,4 @@
 | 2026-03-26 17:15 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): show emptyResult message when REST fallback fails |
 | 2026-03-26 17:18 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | feat(SWPPCOR-675): add retry button on emptyResult state |
 | 2026-03-26 17:21 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): remove Judite icon from emptyResult state |
+| 2026-03-26 17:36 | 17986-nb | Git | `legacy-evaluation` | `feat/SWPPCOR-675_sse-insights-realtime` | fix(SWPPCOR-675): distinguish mount reconnect from active generation on REST fai |
