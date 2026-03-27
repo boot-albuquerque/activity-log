@@ -507,3 +507,4 @@
 | 2026-03-26 21:43 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-683_remover-adocao-ia` | feat(SWPPCOR-683): remover seção "Autoavaliação uso de IA" da matriz |
 | 2026-03-26 21:43 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-684_renomear-matriz` | feat(SWPPCOR-684): renomear "Avaliação 180º" para "Matriz de Avaliação" |
 | 2026-03-26 21:43 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-685_pilar-ia-matriz` | feat(SWPPCOR-685): posicionar pilar "Inteligência Artificial" na matriz |
+| 2026-03-26 21:43 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): atualizar labels de referência para Checkpoint 25.2 |
