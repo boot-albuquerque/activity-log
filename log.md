@@ -511,3 +511,4 @@
 | 2026-03-26 21:43 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-527-525_consulta-historico-campanha` | feat(SWPPCOR-677): atualizar query de hierarquia para Checkpoint 25.2 |
 | 2026-03-26 21:44 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-685_pilar-ia-matriz` | feat(SWPPCOR-685): mapear pilar Tech para "Inteligência Artificial" |
 | 2026-03-27 17:27 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-680_nota-algoritmo` | feat(SWPPCOR-680): add gating for algorithm_evaluation and match_evaluation |
+| 2026-03-27 17:27 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-680_nota-algoritmo` | feat(SWPPCOR-680): add Nota Algoritmo StatusCard with post-evaluation reveal |
