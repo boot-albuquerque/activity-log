@@ -514,3 +514,4 @@
 | 2026-03-27 17:27 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-680_nota-algoritmo` | feat(SWPPCOR-680): add Nota Algoritmo StatusCard with post-evaluation reveal |
 | 2026-03-31 08:55 | 17986-nb | Git | `ifood-tm-prework` | `fix/SWPPCOR-495_suave-desvio-terminologia` | fix(SWPPCOR-495): corrige terminologia 'Baixo Desvio' para 'Suave Desvio' |
 | 2026-03-31 08:55 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_prework-card-profile-mapping` | fix(SWPPCOR-495): corrige mapeamento de perfis nos cards JIT e Líder iFood |
+| 2026-03-31 13:28 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-527-525_consulta-historico-campanha` | feat(SWPPCOR-527): modo somente leitura e botão Consultar em campanha encerrada |
