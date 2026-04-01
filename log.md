@@ -517,3 +517,4 @@
 | 2026-03-31 13:28 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-527-525_consulta-historico-campanha` | feat(SWPPCOR-527): modo somente leitura e botão Consultar em campanha encerrada |
 | 2026-03-31 17:50 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): remove referências hardcoded de campanha — frontend |
 | 2026-03-31 17:51 | 17986-nb | Git | `ifood-tm-prework` | `stash` | feat(SWPPCOR-677): remove magic numbers de campanha — backend |
+| 2026-04-01 03:34 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | feat(SWPPCOR-678,679): add Algorithm Recommendation and Deviation Tag to hierarc |
