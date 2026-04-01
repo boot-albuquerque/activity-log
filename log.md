@@ -520,3 +520,4 @@
 | 2026-04-01 03:34 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | feat(SWPPCOR-678,679): add Algorithm Recommendation and Deviation Tag to hierarc |
 | 2026-04-01 03:36 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-681_desvio-tempo-real` | feat(SWPPCOR-681): add Deviation StatusCard in prework detail header |
 | 2026-04-01 03:41 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-682_alerta-envio-desvio` | feat(SWPPCOR-682): show final evaluation note and deviation in send confirmation |
+| 2026-04-01 07:16 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | fix(SWPPCOR-680): remove hardcoded cla_id=50 filter from detail query |
