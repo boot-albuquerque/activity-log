@@ -518,3 +518,4 @@
 | 2026-03-31 17:50 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): remove referências hardcoded de campanha — frontend |
 | 2026-03-31 17:51 | 17986-nb | Git | `ifood-tm-prework` | `stash` | feat(SWPPCOR-677): remove magic numbers de campanha — backend |
 | 2026-04-01 03:34 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | feat(SWPPCOR-678,679): add Algorithm Recommendation and Deviation Tag to hierarc |
+| 2026-04-01 03:36 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-681_desvio-tempo-real` | feat(SWPPCOR-681): add Deviation StatusCard in prework detail header |
