@@ -525,3 +525,4 @@
 | 2026-04-01 10:08 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: normalize "Sem avaliação" casing to match Figma |
 | 2026-04-01 10:14 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: align prework-detail header with Figma design |
 | 2026-04-01 10:30 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: align status cards horizontally in prework-detail header |
+| 2026-04-01 10:39 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: match status card typography and sizing with Figma design |
