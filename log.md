@@ -531,3 +531,4 @@
 | 2026-04-01 11:06 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: add "Nota" prefix to Card 1 title and use correct campaign source |
 | 2026-04-01 12:19 | 17986-nb | Git | `ifood-tm-prework` | `stash` | fix(SWPPCOR-677): use reference_campaign and avd_campaign CTEs for header cards |
 | 2026-04-01 12:19 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): use reference_campaign_name and avd_campaign_name for card tit |
+| 2026-04-01 12:51 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): add missing i18n keys and interpolation for header cards |
