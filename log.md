@@ -527,3 +527,4 @@
 | 2026-04-01 10:30 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: align status cards horizontally in prework-detail header |
 | 2026-04-01 10:39 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: match status card typography and sizing with Figma design |
 | 2026-04-01 10:47 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: rename Card 2 title to "Resultado Algoritmo {{value}}" |
+| 2026-04-01 10:58 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: use previous_campaign_name for algorithm card title |
