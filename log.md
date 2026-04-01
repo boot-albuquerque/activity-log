@@ -532,3 +532,4 @@
 | 2026-04-01 12:19 | 17986-nb | Git | `ifood-tm-prework` | `stash` | fix(SWPPCOR-677): use reference_campaign and avd_campaign CTEs for header cards |
 | 2026-04-01 12:19 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): use reference_campaign_name and avd_campaign_name for card tit |
 | 2026-04-01 12:51 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): add missing i18n keys and interpolation for header cards |
+| 2026-04-01 12:59 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): sync design changes from SWPPCOR-678 branch |
