@@ -523,3 +523,4 @@
 | 2026-04-01 07:16 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | fix(SWPPCOR-680): remove hardcoded cla_id=50 filter from detail query |
 | 2026-04-01 08:17 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | refactor: simplify _calculate_match_evaluation to accept strings directly |
 | 2026-04-01 10:08 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: normalize "Sem avaliação" casing to match Figma |
+| 2026-04-01 10:14 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-678_rec-algoritmo-hierarquia` | fix: align prework-detail header with Figma design |
