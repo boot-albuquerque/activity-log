@@ -534,3 +534,4 @@
 | 2026-04-01 12:51 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): add missing i18n keys and interpolation for header cards |
 | 2026-04-01 12:59 | 17986-nb | Git | `legacy-evaluation` | `stash` | fix(SWPPCOR-677): sync design changes from SWPPCOR-678 branch |
 | 2026-04-01 13:01 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): add normalizeDesvio to evaluation.utils |
+| 2026-04-01 13:04 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): add missing i18n keys for algorithm column and indirect area |
