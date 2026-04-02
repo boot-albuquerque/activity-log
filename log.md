@@ -540,3 +540,4 @@
 | 2026-04-02 12:18 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | feat(SWPPCOR-677): substituir CTEs dinamicas por FK columns para campanha de ref |
 | 2026-04-02 12:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-495_features-unificadas` | feat(SWPPCOR-677): adiciona colunas FK last_campaign_cpg_id e previous_campaign_ |
 | 2026-04-02 14:09 | 17986-nb | Git | `legacy-evaluation` | `stash` | index on SWPPCOR-677_nota-checkpoint-25-2: 078e5ea0 feat(SWPPCOR-677): add missi |
+| 2026-04-02 15:02 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | fix(SWPPCOR-677): atualiza service e teste para novos campos FK de campanha |
