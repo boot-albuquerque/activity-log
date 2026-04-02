@@ -538,3 +538,4 @@
 | 2026-04-01 14:38 | 17986-nb | Git | `ifood-tm-prework` | `stash` | fix(SWPPCOR-677): corrige queries de referência e avd_campaign para consulta hi |
 | 2026-04-02 12:15 | 17986-nb | Git | `ifood-tm-prework` | `stash` | index on SWPPCOR-677_nota-checkpoint-25-2: 5cccc47 fix(SWPPCOR-677): corrige que |
 | 2026-04-02 12:18 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | feat(SWPPCOR-677): substituir CTEs dinamicas por FK columns para campanha de ref |
+| 2026-04-02 12:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-495_features-unificadas` | feat(SWPPCOR-677): adiciona colunas FK last_campaign_cpg_id e previous_campaign_ |
