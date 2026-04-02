@@ -536,3 +536,4 @@
 | 2026-04-01 13:01 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): add normalizeDesvio to evaluation.utils |
 | 2026-04-01 13:04 | 17986-nb | Git | `legacy-evaluation` | `stash` | feat(SWPPCOR-677): add missing i18n keys for algorithm column and indirect area |
 | 2026-04-01 14:38 | 17986-nb | Git | `ifood-tm-prework` | `stash` | fix(SWPPCOR-677): corrige queries de referência e avd_campaign para consulta hi |
+| 2026-04-02 12:15 | 17986-nb | Git | `ifood-tm-prework` | `stash` | index on SWPPCOR-677_nota-checkpoint-25-2: 5cccc47 fix(SWPPCOR-677): corrige que |
