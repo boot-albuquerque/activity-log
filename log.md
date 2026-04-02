@@ -542,3 +542,4 @@
 | 2026-04-02 14:09 | 17986-nb | Git | `legacy-evaluation` | `stash` | index on SWPPCOR-677_nota-checkpoint-25-2: 078e5ea0 feat(SWPPCOR-677): add missi |
 | 2026-04-02 15:02 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | fix(SWPPCOR-677): atualiza service e teste para novos campos FK de campanha |
 | 2026-04-02 15:13 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | fix(SWPPCOR-677): restaura _calculate_match_evaluation para aceitar tuplas/lista |
+| 2026-04-02 15:29 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-677_nota-checkpoint-25-2` | refactor(SWPPCOR-677): remove comentarios de helpers.py |
