@@ -3766,3 +3766,4 @@
 | 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(users): add missing AutoMapper profile for GetUserResult to GetUserResponse |
 | 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(config): url-encode @ character in MongoDB connection string password |
 | 2026-04-05 17:30 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(sales): remove concurrency token from RowVersion to prevent null comparison  |
+| 2026-04-05 17:45 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(sales): resolve concurrency exception in sale update handler |
