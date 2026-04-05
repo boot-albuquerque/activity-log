@@ -3762,3 +3762,4 @@
 | 2026-04-05 17:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(carts): use base controller JWT claim extraction in delete endpoint |
 >>>>>>> 68c3445 (activity: [GitHub] developer-evaluation/main — fix(carts): use base controller JWT claim extraction in delete endpoint)
 | 2026-04-05 17:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(sales): cascade delete sale items on sale update and item removal |
+| 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(users): correct named argument casing in CreateUserCommand constructor call |
