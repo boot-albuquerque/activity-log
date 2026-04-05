@@ -3779,3 +3779,4 @@
 | 2026-04-05 19:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix: update coverage-report.sh solution name and ignore OMC state |
 | 2026-04-05 19:12 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | chore: remove appsettings.Development.json from tracking |
 | 2026-04-05 19:14 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | feat: add global CLAUDE.md with rules for all repos |
+| 2026-04-05 19:24 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | chore: remove IDE and tool folders from tracking |
