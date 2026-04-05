@@ -3771,3 +3771,4 @@
 | 2026-04-05 18:00 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(sales): prevent duplicate key on item operations by checking existing DB ids |
 | 2026-04-05 18:00 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat(branches): add PUT and DELETE endpoints |
 | 2026-04-05 18:00 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(api): accept string enum values in JSON requests |
+| 2026-04-05 18:07 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: rename Ambev.DeveloperEvaluation to DeveloperEvaluation |
