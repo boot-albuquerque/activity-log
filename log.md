@@ -3764,3 +3764,4 @@
 | 2026-04-05 17:25 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(sales): cascade delete sale items on sale update and item removal |
 | 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(users): correct named argument casing in CreateUserCommand constructor call |
 | 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(users): add missing AutoMapper profile for GetUserResult to GetUserResponse |
+| 2026-04-05 17:26 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix(config): url-encode @ character in MongoDB connection string password |
