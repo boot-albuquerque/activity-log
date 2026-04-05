@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 set -e
 
-AUTHOR_EMAIL="lucas.albuquerque.gk@gmail.com"
+AUTHOR_EMAIL="${GIT_AUTHOR_EMAIL:-$(git config --global user.email)}"
 MIRROR_DIR="$HOME/.git-mirror/activity-log"
 LOG_FILE="$MIRROR_DIR/log.md"
-SINCE="3 years ago"
-SEARCH_ROOTS=("$HOME/Documents" "$HOME/Projects" "$HOME/dev" "$HOME/workspace" "$HOME/code" "$HOME/Desktop")
+SINCE="5 years ago"
+SEARCH_ROOTS=("$HOME/Documents" "$HOME/Documentos" "$HOME/Projects" "$HOME/dev" "$HOME/workspace" "$HOME/code" "$HOME/Desktop")
 
 echo "==> Backfill de histórico git para activity-log"
 echo "    Autor:  $AUTHOR_EMAIL"
@@ -88,6 +88,7 @@ for REPO in "${REPOS[@]}"; do
   done < <(git -C "$REPO" log \
     --author="$AUTHOR_EMAIL" \
     --since="$SINCE" \
+    --all \
     --pretty=format:"%H%x01%aI%x01%D%x01%s" \
     --no-merges 2>/dev/null)
 
