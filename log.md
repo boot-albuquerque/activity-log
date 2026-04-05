@@ -3777,3 +3777,4 @@
 | 2026-04-05 18:44 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | feat: add playwright mcp, omc guide and commit rules docs |
 | 2026-04-05 18:49 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | docs(omc): replace stub with full omc-guia-completo |
 | 2026-04-05 19:11 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix: update coverage-report.sh solution name and ignore OMC state |
+| 2026-04-05 19:12 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | chore: remove appsettings.Development.json from tracking |
