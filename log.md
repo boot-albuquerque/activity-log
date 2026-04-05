@@ -3774,3 +3774,4 @@
 | 2026-04-05 18:07 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | refactor: rename Ambev.DeveloperEvaluation to DeveloperEvaluation |
 | 2026-04-05 18:32 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | fix: remove remaining Ambev references from docker, launch settings and seeder |
 | 2026-04-05 18:33 | MacBook-Pro-de-Lucas | GitHub | `developer-evaluation` | `main` | feat: implement complete DeveloperEvaluation REST API |
+| 2026-04-05 18:44 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | feat: add playwright mcp, omc guide and commit rules docs |
