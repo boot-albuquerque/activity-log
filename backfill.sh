@@ -38,7 +38,7 @@ echo "    ${#REPOS[@]} repositórios encontrados."
 echo ""
 
 # Coletar todos os commits históricos
-declare -A SEEN_HASHES
+SEEN_HASHES_FILE=$(mktemp)
 COMMIT_LINES=()
 
 for REPO in "${REPOS[@]}"; do
@@ -66,8 +66,8 @@ for REPO in "${REPOS[@]}"; do
   # Obter commits do autor no período
   while IFS=$'\x01' read -r hash iso_date branch_hint msg; do
     [ -z "$hash" ] && continue
-    [ "${SEEN_HASHES[$hash]+_}" ] && continue
-    SEEN_HASHES[$hash]=1
+    grep -qxF "$hash" "$SEEN_HASHES_FILE" && continue
+    echo "$hash" >> "$SEEN_HASHES_FILE"
 
     # Branch: tentar obter do hash (aproximado)
     BRANCH=$(git -C "$REPO" name-rev --name-only "$hash" 2>/dev/null | sed 's/remotes\/origin\///' | sed 's/~.*//' | sed 's/\^.*//' || echo "main")
@@ -92,6 +92,7 @@ for REPO in "${REPOS[@]}"; do
     --no-merges 2>/dev/null)
 
 done
+rm -f "$SEEN_HASHES_FILE"
 
 TOTAL=${#COMMIT_LINES[@]}
 echo "==> $TOTAL commits históricos encontrados."
