@@ -14553,3 +14553,5 @@
 | 2025-10-06 14:17 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `hotfix/prod-issue` | fix: handle malformed JSON input |
 | 2025-10-06 15:11 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `release/v1.0` | db: optimize slow queries |
 | 2025-10-06 15:29 | MacBook-Pro-de-Lucas | GitHub | `gitops-infra` | `refactor/extract-service` | docs: add README setup instructions |
+| 2025-10-06 17:59 | MacBook-Pro-de-Lucas | GitHub | `aulapratica` | `develop` | db: add migration for new schema |
+| 2026-04-05 21:16 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | chore: add .gitignore and remove .idea from tracking |
