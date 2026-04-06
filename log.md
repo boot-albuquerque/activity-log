@@ -23917,3 +23917,4 @@
 | 2026-04-06 00:28 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | perf: eliminar N+1 queries na listagem de vendas |
 | 2026-04-06 00:35 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | feat: infinite scroll na listagem de vendas via HTMX |
 | 2026-04-06 00:35 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
+| 2026-04-06 01:00 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | perf: eliminar N+1 queries em compras e dashboard |
