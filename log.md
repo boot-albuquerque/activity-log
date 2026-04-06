@@ -23910,3 +23910,4 @@
 | 2019-12-31 18:40 | MacBook-Pro-de-Lucas | GitHub | `shared-libs` | `develop` | db: add migration for new schema |
 | 2019-12-31 21:27 | MacBook-Pro-de-Lucas | GitLab | `monitoring-stack` | `feature/auth-improvements` | feat: add pagination to list endpoint |
 | 2026-04-05 23:02 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | feat: corrigir fiado/pendente, custos subreceitas e resumo vendas |
+| 2026-04-05 23:03 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | merge: integrar prd em sbx |
