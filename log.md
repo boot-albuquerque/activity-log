@@ -23924,3 +23924,4 @@
 | 2026-04-06 16:00 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: adicionar mini_ovo, bombom_aberto, tortinha aos filtros de produtos |
 | 2026-04-06 16:05 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | refactor: filtros de produto usam dados do banco (lookup_values) |
 | 2026-04-06 16:10 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: badges de tipo em produtos usam labels do banco |
+| 2026-04-06 16:17 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
