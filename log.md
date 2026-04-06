@@ -23913,3 +23913,4 @@
 | 2026-04-05 23:03 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | merge: integrar prd em sbx |
 | 2026-04-05 23:17 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | chore: replace streak-stats with github-readme-stats including all commits |
 | 2026-04-05 23:19 | MacBook-Pro-de-Lucas | GitHub | `LucasGeek` | `main` | revert: restore streak-stats (activity-log now public, cache updates in ~24h) |
+| 2026-04-06 00:16 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: fallback de pagamento não criar payment quando status é fiado |
