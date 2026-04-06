@@ -11780,3 +11780,4 @@
 | 2024-01-06 13:19 | MacBook-Pro-de-Lucas | GitHub | `analytics-service` | `chore/update-deps` | db: add migration for new schema |
 | 2024-01-06 14:25 | MacBook-Pro-de-Lucas | GitHub | `data-pipeline` | `main` | feat: add OpenAPI documentation |
 | 2024-01-06 15:26 | MacBook-Pro-de-Lucas | GitHub | `ifood-tm-backend` | `feature/pagination` | test: improve test coverage to 80% |
+| 2026-04-05 21:12 | MacBook-Pro-de-Lucas | GitHub | `notification-app-java-php` | `main` | fix: use Amazon Corretto 23 on Java Dockerfile for ARM64 compatibility |
