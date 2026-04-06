@@ -23916,3 +23916,4 @@
 | 2026-04-06 00:16 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: fallback de pagamento não criar payment quando status é fiado |
 | 2026-04-06 00:28 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | perf: eliminar N+1 queries na listagem de vendas |
 | 2026-04-06 00:35 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | feat: infinite scroll na listagem de vendas via HTMX |
+| 2026-04-06 00:35 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
