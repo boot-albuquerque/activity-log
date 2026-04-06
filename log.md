@@ -23925,3 +23925,4 @@
 | 2026-04-06 16:05 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | refactor: filtros de produto usam dados do banco (lookup_values) |
 | 2026-04-06 16:10 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: badges de tipo em produtos usam labels do banco |
 | 2026-04-06 16:17 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
+| 2026-04-06 19:13 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-495_features-unificadas` | feat(SWPPCOR-495): persistência de filtros no prework e layout responsivo do ca |
