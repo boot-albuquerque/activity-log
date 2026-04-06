@@ -23919,3 +23919,4 @@
 | 2026-04-06 00:35 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
 | 2026-04-06 01:00 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | perf: eliminar N+1 queries em compras e dashboard |
 | 2026-04-06 13:25 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-495_features-unificadas` | Merge fix/SWPPCOR-495_suave-desvio-terminologia — atualiza terminologia para ' |
+| 2026-04-06 15:46 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | refactor: remover categoria ingrediente_premium de compras |
