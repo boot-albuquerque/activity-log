@@ -23927,3 +23927,4 @@
 | 2026-04-06 16:17 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | Merge remote-tracking branch 'origin/prd' into sbx |
 | 2026-04-06 19:13 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-495_features-unificadas` | feat(SWPPCOR-495): persistência de filtros no prework e layout responsivo do ca |
 | 2026-04-06 18:29 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | feat: dashboard Top Vendas + Top Produtos + client_summary ordenado |
+| 2026-04-06 18:31 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | style: badges e margem colorida no Top Produtos do dashboard |
