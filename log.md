@@ -23929,3 +23929,4 @@
 | 2026-04-06 18:29 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | feat: dashboard Top Vendas + Top Produtos + client_summary ordenado |
 | 2026-04-06 18:31 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | style: badges e margem colorida no Top Produtos do dashboard |
 | 2026-04-06 18:32 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: Top Produtos ordena por maior lucro total no período |
+| 2026-04-07 05:27 | MacBook-Pro-de-Lucas | GitLab | `gitops-infra` | `main` | deploy(prd+sbx):tudobrigadeiro -> 55b182a |
