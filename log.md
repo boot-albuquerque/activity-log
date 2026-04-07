@@ -23936,3 +23936,4 @@
 | 2026-04-07 05:50 | MacBook-Pro-de-Lucas | GitLab | `gitops-infra` | `main` | fix: SHA correto d6634d2b |
 | 2026-04-07 06:41 | MacBook-Pro-de-Lucas | GitHub | `java-microservices-reference` | `main` | docs(sdd): add Spec-Driven Development foundation and project tooling |
 | 2026-04-07 12:16 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): corrige bugs no módulo JIT e Líder iFood |
+| 2026-04-07 12:36 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | feat(SWPPCOR-1148): JIT, Líder iFood e Matriz usam last_campaign_cpg_id do cicl |
