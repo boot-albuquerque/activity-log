@@ -23940,3 +23940,4 @@
 | 2026-04-07 13:29 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): expose jit_audience_id and jit_campaign_id in outer SELECT |
 | 2026-04-07 13:58 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-495_features-unificadas` | merge: update feature/SWPPCOR-495_features-unificadas with main |
 | 2026-04-07 13:09 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Initial commit: Java best practices reference with RAG knowledge base |
+| 2026-04-07 13:11 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Add reference PDFs via Git LFS |
