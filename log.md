@@ -23944,3 +23944,4 @@
 | 2026-04-07 14:42 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): form usa prework_campaign_id para perguntas do ciclo atual |
 | 2026-04-07 16:13 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | merge(SWPPCOR-1148): integra fix/prework-leader-questions-campaign |
 | 2026-04-07 15:43 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Add RAG audit tools, expand chapters 17-36, move PDFs to book/00-pdf |
+| 2026-04-07 17:06 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): remove prework_current_campaign CTE; todos os campos usam cic |
