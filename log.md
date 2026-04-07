@@ -23931,3 +23931,4 @@
 | 2026-04-06 18:32 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: Top Produtos ordena por maior lucro total no período |
 | 2026-04-07 05:27 | MacBook-Pro-de-Lucas | GitLab | `gitops-infra` | `main` | deploy(prd+sbx):tudobrigadeiro -> 55b182a |
 | 2026-04-07 05:31 | MacBook-Pro-de-Lucas | GitLab | `gitops-infra` | `main` | fix: SHA 8 chars 55b182a8 |
+| 2026-04-07 05:33 | MacBook-Pro-de-Lucas | GitLab | `tudobrigadeiro` | `sbx` | fix: adicionar recipe_yield_quantity ao ProductRecipeComponentResponseDTO |
