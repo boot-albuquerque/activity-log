@@ -23947,3 +23947,4 @@
 | 2026-04-07 17:06 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): remove prework_current_campaign CTE; todos os campos usam cic |
 | 2026-04-07 18:38 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | merge: integra feature/SWPPCOR-495_features-unificadas na SWPPCOR-1148 |
 | 2026-04-07 18:38 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix: algorithm_evaluation_value usa current_campaign (Resultado do ciclo selecio |
+| 2026-04-07 20:32 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Expand chapters 37-58, consolidate book structure, remove legacy dirs |
