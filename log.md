@@ -23974,3 +23974,4 @@
 | 2026-04-08 14:51 | 17986-nb | Git | `legacy-evaluation` | `detached` | feat(prework): modo consulta e seletor de ciclo para todos os perfis |
 | 2026-04-08 14:07 | MacBook-Pro-de-Lucas | GitHub | `boot-albuquerque` | `main` | fix: correct username references from lucasgeek to boot-albuquerque |
 | 2026-04-08 15:18 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-495_features-unificadas` | fix(auth): adiciona authority prework-cycles para ROLE_ADMIN |
+| 2026-04-08 15:29 | 17986-nb | Git | `legacy-evaluation` | `detached` | feat(prework): modo consulta e seletor de ciclo para todos os perfis |
