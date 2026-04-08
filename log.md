@@ -23956,3 +23956,4 @@
 | 2026-04-07 22:28 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 10, 15, 19, 22, 30, 37 from RAG audit (batch 5) |
 | 2026-04-07 22:33 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 03, 06, 24, 33, 34, 47 from RAG audit (batch 6) |
 | 2026-04-07 23:45 | 17986-nb | Git | `ifood-tm-prework` | `feature/SWPPCOR-1148` | fix(SWPPCOR-1148): corrige alias das colunas last_cpg_id e previous_cpg_id |
+| 2026-04-07 23:45 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-1148` | feat(SWPPCOR-1148): adiciona migration DDL para colunas last_cpg_id e previous_c |
