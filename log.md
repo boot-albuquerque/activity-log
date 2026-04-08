@@ -23969,3 +23969,4 @@
 | 2026-04-08 00:17 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Add java-rag-query skill documentation and update skills catalog |
 | 2026-04-08 10:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-prework-elasticache` | feat(people-tm-prework): provisiona Valkey ElastiCache para sandbox |
 | 2026-04-08 10:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-prework-elasticache-prod` | feat(people-tm-prework): provisiona Valkey ElastiCache para produção |
+| 2026-04-08 10:33 | 17986-nb | Git | `ifood-tm-prework` | `feat/valkey-cache-service` | feat: migra cache de subordinados para Valkey |
