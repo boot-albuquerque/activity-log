@@ -23970,3 +23970,4 @@
 | 2026-04-08 10:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-prework-elasticache` | feat(people-tm-prework): provisiona Valkey ElastiCache para sandbox |
 | 2026-04-08 10:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-prework-elasticache-prod` | feat(people-tm-prework): provisiona Valkey ElastiCache para produção |
 | 2026-04-08 10:33 | 17986-nb | Git | `ifood-tm-prework` | `feat/valkey-cache-service` | feat: migra cache de subordinados para Valkey |
+| 2026-04-08 14:49 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-495_features-unificadas` | feat(prework): modo consulta e seletor de ciclo para todos os perfis |
