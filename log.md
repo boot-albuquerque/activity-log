@@ -23953,3 +23953,4 @@
 | 2026-04-07 20:55 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 08, 23, 29, 38, 39 from RAG audit (batch 2) |
 | 2026-04-07 22:14 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 01, 12, 41, 51, 53, 55 from RAG audit (batch 3) |
 | 2026-04-07 22:20 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 02, 05, 35, 49, 56 from RAG audit (batch 4) |
+| 2026-04-07 22:28 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 10, 15, 19, 22, 30, 37 from RAG audit (batch 5) |
