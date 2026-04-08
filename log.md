@@ -23966,3 +23966,4 @@
 | 2026-04-07 23:35 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Remove Python scripts, document MCP RAG architecture in README |
 | 2026-04-07 23:39 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Clean obsolete artifacts, simplify .gitignore |
 | 2026-04-08 00:08 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Sync prompts with skills, enhance all 6 Java skills with project auto-detection |
+| 2026-04-08 00:17 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Add java-rag-query skill documentation and update skills catalog |
