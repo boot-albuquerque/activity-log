@@ -23959,3 +23959,4 @@
 | 2026-04-07 23:45 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-1148` | feat(SWPPCOR-1148): adiciona migration DDL para colunas last_cpg_id e previous_c |
 | 2026-04-07 22:52 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich chapters 09, 18, 31, 43, 48, 52 from RAG audit (batch 7) |
 | 2026-04-07 22:55 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Enrich remaining chapters from RAG audit (final batch 8) |
+| 2026-04-07 23:11 | MacBook-Pro-de-Lucas | Local | `java-best-practices` | `main` | Fix checklist gaps, clean duplicate headers, add metadata JSON, restore concurre |
