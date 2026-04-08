@@ -23967,3 +23967,4 @@
 | 2026-04-07 23:39 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Clean obsolete artifacts, simplify .gitignore |
 | 2026-04-08 00:08 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Sync prompts with skills, enhance all 6 Java skills with project auto-detection |
 | 2026-04-08 00:17 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Add java-rag-query skill documentation and update skills catalog |
+| 2026-04-08 10:32 | 17986-nb | Git | `aws-infrastructure-live` | `feat/people-tm-prework-elasticache` | feat(people-tm-prework): provisiona Valkey ElastiCache para sandbox |
