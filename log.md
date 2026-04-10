@@ -23983,3 +23983,4 @@
 | 2026-04-10 14:41 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: inicializar hasInsights com evaluation.hasInsight da API |
 | 2026-04-10 15:10 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: desabilitar botão Gerar Insights no modo leitura (campanha encerrada) |
 | 2026-04-10 15:16 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | chore: remove infraestrutura de testes (jest, __mocks__, __tests__) |
+| 2026-04-10 15:21 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: restaurar script test como no-op para CI não quebrar |
