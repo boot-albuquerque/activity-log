@@ -23987,3 +23987,4 @@
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: habilita Gerar Insights quando feedback salvo mas sem insight gerado |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: inicializar hasInsights com evaluation.hasInsight da API |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: desabilitar botão Gerar Insights no modo leitura (campanha encerrada) |
+| 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | chore: remove infraestrutura de testes (jest, __mocks__, __tests__) |
