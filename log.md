@@ -23989,3 +23989,4 @@
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: desabilitar botão Gerar Insights no modo leitura (campanha encerrada) |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | chore: remove infraestrutura de testes (jest, __mocks__, __tests__) |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: restaurar script test como no-op para CI não quebrar |
+| 2026-04-10 15:31 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | feat: update new comments |
