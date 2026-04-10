@@ -23991,3 +23991,4 @@
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: restaurar script test como no-op para CI não quebrar |
 | 2026-04-10 15:31 | MacBook-Pro-de-Lucas | GitHub | `prompts-base` | `main` | feat: update new comments |
 | 2026-04-10 16:59 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: manter botão Gerar Insights desabilitado após receber resposta da IA |
+| 2026-04-10 17:20 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: remover error do loadingLLM para não bloquear primeira interação |
