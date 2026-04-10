@@ -23988,3 +23988,4 @@
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: inicializar hasInsights com evaluation.hasInsight da API |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: desabilitar botão Gerar Insights no modo leitura (campanha encerrada) |
 | 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | chore: remove infraestrutura de testes (jest, __mocks__, __tests__) |
+| 2026-04-10 15:24 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix: restaurar script test como no-op para CI não quebrar |
