@@ -23981,3 +23981,4 @@
 | 2026-04-08 21:55 | MacBook-Pro-de-Lucas | GitHub | `java-best-practices` | `main` | Expand Part V with 35+ additional Java ecosystem technologies |
 | 2026-04-10 14:10 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: habilita Gerar Insights quando feedback salvo mas sem insight gerado |
 | 2026-04-10 14:41 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: inicializar hasInsights com evaluation.hasInsight da API |
+| 2026-04-10 15:10 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: desabilitar botão Gerar Insights no modo leitura (campanha encerrada) |
