@@ -23994,3 +23994,4 @@
 | 2026-04-10 17:20 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-495_gerar-insights-bloqueado-sem-insight` | fix: remover error do loadingLLM para não bloquear primeira interação |
 | 2026-04-17 17:24 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1271_button-gerar-insights-disabled-on-mount` | fix(SWPPCOR-1271): skip loading state on mount when no active insight process |
 | 2026-04-17 17:51 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix(SWPPCOR-1271): skip loading state on mount when no active insight process |
+| 2026-04-17 19:17 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1273_maximum-update-depth-insights` | fix(SWPPCOR-1273): remove callback from useEffect deps to prevent render loop |
