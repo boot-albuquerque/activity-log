@@ -23996,3 +23996,4 @@
 | 2026-04-17 17:51 | 17986-nb | Git | `legacy-evaluation` | `detached` | fix(SWPPCOR-1271): skip loading state on mount when no active insight process |
 | 2026-04-17 19:17 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-1273_maximum-update-depth-insights` | fix(SWPPCOR-1273): remove callback from useEffect deps to prevent render loop |
 | 2026-04-20 10:32 | 17986-nb | Git | `legacy-evaluation` | `feature/SWPPCOR-494_features-unificadas` | Merge fix/SWPPCOR-1273 into feature/SWPPCOR-494_features-unificadas |
+| 2026-04-20 11:01 | 17986-nb | Git | `ifood-tm-backend` | `fix/SWPPCOR-1281_cascade-delete-cluster-calibration` | fix(SWPPCOR-1281): adiciona cmt_id no filtro de delete de cluster_calibration |
