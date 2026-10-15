@@ -198914,3 +198914,4 @@
 | 2026-10-14 23:01 | 17986-nb | Git | `SWPPCOR-3183_review-0910` | `feature/SWPPCOR-3183_review-0910-formatacao-dominio-visualizacao` | feat: SWPPCOR-3183 - a ficha so abre dentro do escopo de quem consulta e a perfo |
 | 2026-10-14 23:14 | 17986-nb | Git | `SWPPCOR-3183_review-0910` | `feature/SWPPCOR-3183_review-0910-formatacao-dominio-visualizacao` | refactor: SWPPCOR-3183 - os modelos de negocio vao para domain.model por subdomi |
 | 2026-10-15 10:27 | 17986-nb | Git | `SWPPCOR-3186_interests` | `feature/SWPPCOR-3186_perfil-areas-de-interesse` | feat: SWPPCOR-3186 - CRUD das areas de interesse futuro na ficha, escrito so pel |
+| 2026-10-15 10:48 | 17986-nb | Git | `SWPPCOR-3187_interests` | `feature/SWPPCOR-3187_perfil-areas-de-interesse` | feat: SWPPCOR-3187 - bloco de areas de interesse futuro editavel pela propria pe |
