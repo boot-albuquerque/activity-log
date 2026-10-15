@@ -198925,3 +198925,4 @@
 | 2026-10-15 17:37 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - os botoes dos dialogos e drawers ficam num rodape fixo e so  |
 | 2026-10-15 17:47 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | refactor: SWPPCOR-3193 - dialogs, drawers e campos dos formularios passam a usar |
 | 2026-10-15 17:51 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3199 - a Visao Geral desenha a linha de quatro cards da AvD e das  |
+| 2026-10-15 18:14 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3199 - os cards da Visao Geral abrem a aba do assunto e o de entre |
