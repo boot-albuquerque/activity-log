@@ -198920,3 +198920,4 @@
 | 2026-10-15 13:41 | 17986-nb | Git | `SWPPCOR-3190_deliveries` | `feature/SWPPCOR-3190_perfil-entregas` | feat: SWPPCOR-3190 - CRUD das entregas da pessoa na ficha, escrito so pelo dono  |
 | 2026-10-15 13:44 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3193 - formacao cadastrada pela propria pessoa junto da formacao d |
 | 2026-10-15 14:04 | 17986-nb | Git | `SWPPCOR-3192_education` | `feature/SWPPCOR-3192_perfil-formacao-manual` | feat: SWPPCOR-3192 - CRUD da formacao cadastrada a mao (cursos, certificacoes e  |
+| 2026-10-15 14:05 | 17986-nb | Git | `SWPPCOR-3192_education` | `feature/SWPPCOR-3192_perfil-formacao-manual` | fix: SWPPCOR-3192 - renumera as linhas de PII das areas, entregas e formacao e c |
