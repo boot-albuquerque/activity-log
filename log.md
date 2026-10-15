@@ -198911,3 +198911,4 @@
 | 2026-10-14 22:48 | 17986-nb | Git | `SWPPCOR-3184_review-0910` | `feature/SWPPCOR-3184_review-0910-formatacao-sem-desempenho` | chore: SWPPCOR-3184 - o pre-commit formata os arquivos staged com o Prettier em  |
 | 2026-10-14 22:48 | 17986-nb | Git | `SWPPCOR-3184_review-0910` | `feature/SWPPCOR-3184_review-0910-formatacao-sem-desempenho` | feat: SWPPCOR-3184 - a ficha deixa de ter a aba Desempenho e os cartoes de nota  |
 | 2026-10-14 22:50 | 17986-nb | Git | `SWPPCOR-3183_review-0910` | `feature/SWPPCOR-3183_review-0910-formatacao-dominio-visualizacao` | chore: SWPPCOR-3183 - o pre-commit formata os arquivos staged com o Spotless em  |
+| 2026-10-14 23:01 | 17986-nb | Git | `SWPPCOR-3183_review-0910` | `feature/SWPPCOR-3183_review-0910-formatacao-dominio-visualizacao` | feat: SWPPCOR-3183 - a ficha so abre dentro do escopo de quem consulta e a perfo |
