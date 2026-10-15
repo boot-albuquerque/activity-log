@@ -198923,3 +198923,4 @@
 | 2026-10-15 14:05 | 17986-nb | Git | `SWPPCOR-3192_education` | `feature/SWPPCOR-3192_perfil-formacao-manual` | fix: SWPPCOR-3192 - renumera as linhas de PII das areas, entregas e formacao e c |
 | 2026-10-15 16:02 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - a dica das habilidades do drawer de entrega diz quando o PDI |
 | 2026-10-15 17:37 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - os botoes dos dialogos e drawers ficam num rodape fixo e so  |
+| 2026-10-15 17:47 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | refactor: SWPPCOR-3193 - dialogs, drawers e campos dos formularios passam a usar |
