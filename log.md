@@ -198918,3 +198918,4 @@
 | 2026-10-15 10:57 | 17986-nb | Git | `SWPPCOR-3187_interests` | `feature/SWPPCOR-3187_perfil-areas-de-interesse` | fix: SWPPCOR-3187 - separa visualmente as acoes Editar e Remover do chip da area |
 | 2026-10-15 13:36 | 17986-nb | Git | `SWPPCOR-3191_deliveries` | `feature/SWPPCOR-3191_perfil-entregas` | feat: SWPPCOR-3191 - principais entregas e reconhecimentos cadastrados pela prop |
 | 2026-10-15 13:41 | 17986-nb | Git | `SWPPCOR-3190_deliveries` | `feature/SWPPCOR-3190_perfil-entregas` | feat: SWPPCOR-3190 - CRUD das entregas da pessoa na ficha, escrito so pelo dono  |
+| 2026-10-15 13:44 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3193 - formacao cadastrada pela propria pessoa junto da formacao d |
