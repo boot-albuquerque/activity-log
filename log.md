@@ -198909,3 +198909,4 @@
 | 2026-10-09 13:01 | 17986-nb | Git | `SWPPCOR-2852_arvore-pares` | `feature/SWPPCOR-2852_arvore-pares` | feat: SWPPCOR-2852 - a arvore mostra os pares: Gestor > Pares/Colaborador > Lide |
 | 2026-10-09 13:08 | 17986-nb | Git | `SWPPCOR-2852_arvore-pares` | `feature/SWPPCOR-2852_arvore-pares` | fix: SWPPCOR-2852 - espaco embaixo da arvore: o ultimo cartao nao encosta mais n |
 | 2026-10-14 22:48 | 17986-nb | Git | `SWPPCOR-3184_review-0910` | `feature/SWPPCOR-3184_review-0910-formatacao-sem-desempenho` | chore: SWPPCOR-3184 - o pre-commit formata os arquivos staged com o Prettier em  |
+| 2026-10-14 22:48 | 17986-nb | Git | `SWPPCOR-3184_review-0910` | `feature/SWPPCOR-3184_review-0910-formatacao-sem-desempenho` | feat: SWPPCOR-3184 - a ficha deixa de ter a aba Desempenho e os cartoes de nota  |
