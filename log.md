@@ -198917,3 +198917,4 @@
 | 2026-10-15 10:48 | 17986-nb | Git | `SWPPCOR-3187_interests` | `feature/SWPPCOR-3187_perfil-areas-de-interesse` | feat: SWPPCOR-3187 - bloco de areas de interesse futuro editavel pela propria pe |
 | 2026-10-15 10:57 | 17986-nb | Git | `SWPPCOR-3187_interests` | `feature/SWPPCOR-3187_perfil-areas-de-interesse` | fix: SWPPCOR-3187 - separa visualmente as acoes Editar e Remover do chip da area |
 | 2026-10-15 13:36 | 17986-nb | Git | `SWPPCOR-3191_deliveries` | `feature/SWPPCOR-3191_perfil-entregas` | feat: SWPPCOR-3191 - principais entregas e reconhecimentos cadastrados pela prop |
+| 2026-10-15 13:41 | 17986-nb | Git | `SWPPCOR-3190_deliveries` | `feature/SWPPCOR-3190_perfil-entregas` | feat: SWPPCOR-3190 - CRUD das entregas da pessoa na ficha, escrito so pelo dono  |
