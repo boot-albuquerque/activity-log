@@ -198921,3 +198921,4 @@
 | 2026-10-15 13:44 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3193 - formacao cadastrada pela propria pessoa junto da formacao d |
 | 2026-10-15 14:04 | 17986-nb | Git | `SWPPCOR-3192_education` | `feature/SWPPCOR-3192_perfil-formacao-manual` | feat: SWPPCOR-3192 - CRUD da formacao cadastrada a mao (cursos, certificacoes e  |
 | 2026-10-15 14:05 | 17986-nb | Git | `SWPPCOR-3192_education` | `feature/SWPPCOR-3192_perfil-formacao-manual` | fix: SWPPCOR-3192 - renumera as linhas de PII das areas, entregas e formacao e c |
+| 2026-10-15 16:02 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - a dica das habilidades do drawer de entrega diz quando o PDI |
