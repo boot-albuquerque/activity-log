@@ -198928,3 +198928,4 @@
 | 2026-10-15 18:14 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3199 - os cards da Visao Geral abrem a aba do assunto e o de entre |
 | 2026-10-16 09:07 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3200 - cards de habilidade da aba Habilidades como no Figma |
 | 2026-10-16 09:17 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3193 - aba Formacao com o layout do Figma: cartoes, selo do Pomodo |
+| 2026-10-16 09:20 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - remove DoneBadge e Soft, sem uso depois do selo do Pomodoro, |
