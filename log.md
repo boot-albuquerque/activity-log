@@ -198937,3 +198937,4 @@
 | 2026-10-19 21:20 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | fix: SWPPCOR-3206 - sub da credencial TM lido com parser JSON, so na raiz e como |
 | 2026-10-19 22:29 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | fix: SWPPCOR-3206 - employee envia X-Requester-Token ao ifood-tm-pdi |
 | 2026-10-19 23:22 | 17986-nb | Git | `SWPPCOR-3207_cve` | `fix/SWPPCOR-3207_bump-cve-tomcat-netty-postgres` | fix: bump the vulnerable Tomcat, Netty and PostgreSQL versions |
+| 2026-10-19 23:22 | 17986-nb | Git | `SWPPCOR-3207_cve` | `fix/SWPPCOR-3207_bump-cve-tomcat-netty-postgres` | fix: SWPPCOR-3207 - sobe Tomcat, Netty e PostgreSQL vulneraveis (CVE) |
