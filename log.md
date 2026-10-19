@@ -198931,3 +198931,4 @@
 | 2026-10-16 09:20 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | fix: SWPPCOR-3193 - remove DoneBadge e Soft, sem uso depois do selo do Pomodoro, |
 | 2026-10-16 09:25 | 17986-nb | Git | `SWPPCOR-3193_education` | `feature/SWPPCOR-3193_perfil-formacao-manual` | feat: SWPPCOR-3201 - aba Carreira com o layout do Figma e meses no formato mar 2 |
 | 2026-10-19 20:47 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | feat: SWPPCOR-3206 - busca e arvore do Perfil lidas do organograma do ifood-tm-b |
+| 2026-10-19 20:47 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | feat: SWPPCOR-3206 - arvore, busca e ficha do Perfil identificadas por e-mail |
