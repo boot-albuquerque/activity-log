@@ -198934,3 +198934,4 @@
 | 2026-10-19 20:47 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | feat: SWPPCOR-3206 - arvore, busca e ficha do Perfil identificadas por e-mail |
 | 2026-10-19 21:07 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | fix: SWPPCOR-3206 - credencial do TM so vale para quem a emitiu |
 | 2026-10-19 21:08 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | chore: SWPPCOR-3206 - sandbox le as pessoas do Perfil do tm-backend |
+| 2026-10-19 21:20 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | fix: SWPPCOR-3206 - sub da credencial TM lido com parser JSON, so na raiz e como |
