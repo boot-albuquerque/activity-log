@@ -198941,3 +198941,4 @@
 | 2026-10-19 23:48 | 17986-nb | Git | `SWPPCOR-3206_hierarquia-tm` | `feature/SWPPCOR-3206_hierarquia-via-tm` | feat: SWPPCOR-3206 - ficha mostra data de admissao e foto do TM |
 | 2026-10-20 00:07 | 17986-nb | Git | `luis-val` | `luis-val` | local: combina mr89 e mr90 |
 | 2026-10-20 00:20 | 17986-nb | Git | `luis-val` | `luis-val` | local: mr25 |
+| 2026-10-20 00:54 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | fix: SWPPCOR-3116 - item de menu do Talent Profile na migration Flyway ativa |
