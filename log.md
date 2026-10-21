@@ -198944,3 +198944,4 @@
 | 2026-10-20 00:54 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | fix: SWPPCOR-3116 - item de menu do Talent Profile na migration Flyway ativa |
 | 2026-10-21 18:22 | 17986-nb | Git | `SWPPCOR-3116_guard-talent-profile-admin` | `feature/SWPPCOR-3116_guard-talent-profile-admin` | feat: SWPPCOR-3116 - rota /talent-profile respeita o menu liberado para o perfil |
 | 2026-10-21 18:22 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | feat: SWPPCOR-3116 - restringe o menu Talent Profile ao perfil ROLE_ADMIN |
+| 2026-10-21 18:27 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | Revert "feat: SWPPCOR-3116 - restringe o menu Talent Profile ao perfil ROLE_ADMI |
