@@ -198942,3 +198942,4 @@
 | 2026-10-20 00:07 | 17986-nb | Git | `luis-val` | `luis-val` | local: combina mr89 e mr90 |
 | 2026-10-20 00:20 | 17986-nb | Git | `luis-val` | `luis-val` | local: mr25 |
 | 2026-10-20 00:54 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | fix: SWPPCOR-3116 - item de menu do Talent Profile na migration Flyway ativa |
+| 2026-10-21 18:22 | 17986-nb | Git | `SWPPCOR-3116_guard-talent-profile-admin` | `feature/SWPPCOR-3116_guard-talent-profile-admin` | feat: SWPPCOR-3116 - rota /talent-profile respeita o menu liberado para o perfil |
