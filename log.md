@@ -198947,3 +198947,4 @@
 | 2026-10-21 18:27 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | Revert "feat: SWPPCOR-3116 - restringe o menu Talent Profile ao perfil ROLE_ADMI |
 | 2026-10-21 18:27 | 17986-nb | Git | `SWPPCOR-3116_menu-talent-profile` | `feature/SWPPCOR-3116_menu-talent-profile` | revert: SWPPCOR-3116 - remove a V83 (migrations nao fazem DML; ajuste de role_me |
 | 2026-10-21 19:39 | 17986-nb | Git | `SWPPCOR-3116_guard-talent-profile-admin` | `feature/SWPPCOR-3116_guard-talent-profile-admin` | fix: SWPPCOR-3116 - URL do iframe do Talent Profile nos ambientes nao produtivos |
+| 2026-10-22 10:39 | 17986-nb | Git | `employee-3208-prd` | `feat/SWPPCOR-3208_promove-sbx-para-main` | feat: SWPPCOR-3208 - producao le o diretorio de pessoas do ifood-tm-backend |
