@@ -198951,3 +198951,4 @@
 | 2026-10-22 10:40 | 17986-nb | Git | `SWPPCOR-3208_portal-prd` | `feat/SWPPCOR-3208_portal-talent-profile-prd` | feat: SWPPCOR-3116 - rota /talent-profile respeita o menu liberado para o perfil |
 | 2026-10-22 10:40 | 17986-nb | Git | `SWPPCOR-3208_portal-prd` | `feat/SWPPCOR-3208_portal-talent-profile-prd` | feat: SWPPCOR-3208 - URL do iframe do Talent Profile em producao |
 | 2026-10-26 13:05 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - endpoints de link assinado do relatorio de FoodLover para o |
+| 2026-10-26 13:06 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - tela admin de relatorio de FoodLover para o juridico |
