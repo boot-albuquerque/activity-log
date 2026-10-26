@@ -198953,3 +198953,4 @@
 | 2026-10-26 13:05 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - endpoints de link assinado do relatorio de FoodLover para o |
 | 2026-10-26 13:06 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - tela admin de relatorio de FoodLover para o juridico |
 | 2026-10-26 13:36 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - autocomplete de ciclo em largura total |
+| 2026-10-26 16:25 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - titulo "Relatório de FoodLover" e layout no padrão do med |
