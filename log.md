@@ -199115,3 +199115,4 @@
 | 2026-11-25 09:32 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3422 - cobre reabrir formação acadêmica limpando a data final |
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - toda operacao declara sua permissao (recurso e verbos) |
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - papeis concedem permissoes e fecham a EXC-0005 |
+| 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - cadastro dos servicos consumidores e das suas concessoes em |
