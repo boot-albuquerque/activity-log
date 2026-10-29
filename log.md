@@ -198956,3 +198956,4 @@
 | 2026-10-26 16:25 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - titulo "Relatório de FoodLover" e layout no padrão do med |
 | 2026-10-26 16:56 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - formulário do relatório com um campo por linha no padrão |
 | 2026-10-26 17:13 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - e-mail do FoodLover com autocomplete de usuários |
+| 2026-10-29 12:12 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - propagar falha do report-service ao gerar relatorio |
