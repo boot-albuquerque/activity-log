@@ -198958,3 +198958,4 @@
 | 2026-10-26 17:13 | 17986-nb | Git | `ifood-tm-frontend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | feat: SWPPCOR-3245 - e-mail do FoodLover com autocomplete de usuários |
 | 2026-10-29 12:12 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - propagar falha do report-service ao gerar relatorio |
 | 2026-10-29 15:37 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - expor causa raiz quando o input do relatorio falha |
+| 2026-10-29 15:50 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - devolver 502 com causa quando a geracao falha |
