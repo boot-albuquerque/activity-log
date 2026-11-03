@@ -198961,3 +198961,4 @@
 | 2026-10-29 15:50 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - devolver 502 com causa quando a geracao falha |
 | 2026-10-29 16:00 | 17986-nb | Git | `ifood-tm-backend` | `feature/SWPPCOR-3245_admin-relatorio-foodlover-url-assinada` | fix: SWPPCOR-3245 - perfil sem pergunta de feedback derrubava a geracao do relat |
 | 2026-11-03 11:08 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3320_callback-orchestrator-xss` | fix: SWPPCOR-3320 - callback do ai-orchestrator nao passa mais pelo filtro XSS |
+| 2026-11-03 11:36 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3320_callback-orchestrator-xss` | fix: SWPPCOR-3320 - resposta do orchestrator fora de JSON nao derruba mais o cal |
