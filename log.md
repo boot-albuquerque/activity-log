@@ -198966,3 +198966,4 @@
 | 2026-11-03 12:43 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3323_voltar-ttl-access-token` | fix: SWPPCOR-3323 - voltar o access token de producao para 8h |
 | 2026-11-03 12:47 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - rascunho local da avaliacao e renovacao do token antes da ch |
 | 2026-11-03 12:49 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - rascunho local isolado por usuario e apagado ao limpar a ses |
+| 2026-11-03 13:11 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - aviso de rascunho recuperado usa defaultValue do i18next |
