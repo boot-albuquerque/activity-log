@@ -198967,3 +198967,4 @@
 | 2026-11-03 12:47 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - rascunho local da avaliacao e renovacao do token antes da ch |
 | 2026-11-03 12:49 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - rascunho local isolado por usuario e apagado ao limpar a ses |
 | 2026-11-03 13:11 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3324_rascunho-local-e-renovacao` | fix: SWPPCOR-3324 - aviso de rascunho recuperado usa defaultValue do i18next |
+| 2026-11-03 13:36 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3325_refresh-token-fora-da-url` | fix: SWPPCOR-3325 - iframe nao le mais o refresh token da URL e limpa a query st |
