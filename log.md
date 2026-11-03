@@ -198963,3 +198963,4 @@
 | 2026-11-03 11:08 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3320_callback-orchestrator-xss` | fix: SWPPCOR-3320 - callback do ai-orchestrator nao passa mais pelo filtro XSS |
 | 2026-11-03 11:36 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3320_callback-orchestrator-xss` | fix: SWPPCOR-3320 - resposta do orchestrator fora de JSON nao derruba mais o cal |
 | 2026-11-03 11:36 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3320_callback-orchestrator-xss` | test: SWPPCOR-3320 - callback do orchestrator com HTML no finalAnswer passa pelo |
+| 2026-11-03 12:43 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3323_voltar-ttl-access-token` | fix: SWPPCOR-3323 - voltar o access token de producao para 8h |
