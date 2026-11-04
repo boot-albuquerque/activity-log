@@ -198970,3 +198970,4 @@
 | 2026-11-03 13:36 | 17986-nb | Git | `legacy-evaluation` | `fix/SWPPCOR-3325_refresh-token-fora-da-url` | fix: SWPPCOR-3325 - iframe nao le mais o refresh token da URL e limpa a query st |
 | 2026-11-03 19:04 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3329_historico-insight-e-duplicidade` | fix: SWPPCOR-3329 - historico do insight leva o conteudo anterior e geracao nao  |
 | 2026-11-04 11:34 | 17986-nb | Git | `people-ai-orchestrator` | `fix/SWPPCOR-3330_agente-passthrough-sem-wrapper` | fix: SWPPCOR-3330 - agente em modo passthrough envia so o input ao provider |
+| 2026-11-04 11:46 | 17986-nb | Git | `people-ai-orchestrator` | `fix/SWPPCOR-3330_agente-passthrough-sem-wrapper` | test: SWPPCOR-3330 - cobre passthrough no update/controller/entidade e extrai co |
