@@ -198985,3 +198985,4 @@
 | 2026-11-05 14:43 | 17986-nb | Git | `edge-prod-cookie-evaluation` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-evaluation-prod` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 do mf-t |
 | 2026-11-05 15:05 | 17986-nb | Git | `edge-prod-cookie-profile` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-profile-prod` | fix: SWPPCOR-3326 - pin da property mf-tm-profile (producao) em 2 para ativar a  |
 | 2026-11-05 15:05 | 17986-nb | Git | `edge-prod-cookie-evaluation` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-evaluation-prod` | fix: SWPPCOR-3326 - pin da property mf-tm-evaluation (producao) em 3 para ativar |
+| 2026-11-05 17:23 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - ToqanParseUtils ignora bloco <think> antes do JSON |
