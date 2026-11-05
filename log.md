@@ -198988,3 +198988,4 @@
 | 2026-11-05 17:23 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - ToqanParseUtils ignora bloco <think> antes do JSON |
 | 2026-11-05 17:26 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - limita custo do fallback de extracao de JSON do Toqan |
 | 2026-11-05 17:28 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - strip de <think> case-insensitive sem depender de toLowerCas |
+| 2026-11-05 18:34 | 17986-nb | Git | `tm-eval-probe` | `fix/SWPPCOR-3374_liveness-probe-sandbox` | fix: SWPPCOR-3374 - aumentar failureThreshold do liveness em sandbox |
