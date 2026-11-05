@@ -198971,3 +198971,4 @@
 | 2026-11-03 19:04 | 17986-nb | Git | `ifood-tm-backend` | `hotfix/SWPPCOR-3329_historico-insight-e-duplicidade` | fix: SWPPCOR-3329 - historico do insight leva o conteudo anterior e geracao nao  |
 | 2026-11-04 11:34 | 17986-nb | Git | `people-ai-orchestrator` | `fix/SWPPCOR-3330_agente-passthrough-sem-wrapper` | fix: SWPPCOR-3330 - agente em modo passthrough envia so o input ao provider |
 | 2026-11-04 11:46 | 17986-nb | Git | `people-ai-orchestrator` | `fix/SWPPCOR-3330_agente-passthrough-sem-wrapper` | test: SWPPCOR-3330 - cobre passthrough no update/controller/entidade e extrai co |
+| 2026-11-05 10:25 | 17986-nb | Git | `edge-network-live` | `feature/SWPPCOR-3326_strip-cookie-s3-tm-sandbox` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 do tm s |
