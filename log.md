@@ -198976,3 +198976,4 @@
 | 2026-11-05 11:20 | 17986-nb | Git | `tm-frontend-3talent` | `fix/SWPPCOR-3355_url-iframe-talent-profile-sandbox` | fix: SWPPCOR-3355 - preenche url_iframe_talent_profile na sandbox e dev |
 | 2026-11-05 11:27 | 17986-nb | Git | `legacy-eval-feedback` | `fix/SWPPCOR-3356_salvar-antes-de-finalizar` | fix: SWPPCOR-3356 - salvar respostas antes de finalizar e bloquear form quando a |
 | 2026-11-05 11:27 | 17986-nb | Git | `legacy-eval-feedback` | `fix/SWPPCOR-3356_salvar-antes-de-finalizar` | fix: SWPPCOR-3356 - mock de estilos do jest versionado (*.js e ignorado no repo) |
+| 2026-11-05 11:27 | 17986-nb | Git | `edge-mf-cookie` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-sandbox` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 dos mf- |
