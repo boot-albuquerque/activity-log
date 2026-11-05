@@ -198991,3 +198991,4 @@
 | 2026-11-05 18:34 | 17986-nb | Git | `tm-eval-probe` | `fix/SWPPCOR-3374_liveness-probe-sandbox` | fix: SWPPCOR-3374 - aumentar failureThreshold do liveness em sandbox |
 | 2026-11-05 19:31 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3375_proxy-insights-requester-token` | fix: SWPPCOR-3375 - proxy de insights envia x-requester-token ao tm-evaluation |
 | 2026-11-05 19:34 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3375_proxy-insights-requester-token` | fix: SWPPCOR-3375 - checar acesso a avaliacao antes de repassar ao tm-evaluation |
+| 2026-11-05 19:36 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - remover wildcard people-tm-backend-* da regra de mesh |
