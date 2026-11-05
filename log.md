@@ -198981,3 +198981,4 @@
 | 2026-11-05 11:31 | 17986-nb | Git | `edge-mf-cookie-eval` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-evaluation-sandbox` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 do mf-t |
 | 2026-11-05 12:17 | 17986-nb | Git | `edge-mf-cookie` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-sandbox` | fix: SWPPCOR-3326 - pin da property mf-tm-profile em 2, conforme alinhado com o  |
 | 2026-11-05 12:44 | 17986-nb | Git | `edge-mf-cookie` | `feature/SWPPCOR-3326_pin-3-mf-tm-profile-sandbox` | fix: SWPPCOR-3326 - ativa a versao 3 (com a regra do Cookie) na property mf-tm-p |
+| 2026-11-05 14:43 | 17986-nb | Git | `edge-prod-cookie-profile` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-profile-prod` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 do mf-t |
