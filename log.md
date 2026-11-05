@@ -198989,3 +198989,4 @@
 | 2026-11-05 17:26 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - limita custo do fallback de extracao de JSON do Toqan |
 | 2026-11-05 17:28 | 17986-nb | Git | `tm-eval-parser` | `fix/SWPPCOR-3373_parser-toqan-ignora-think` | fix: SWPPCOR-3373 - strip de <think> case-insensitive sem depender de toLowerCas |
 | 2026-11-05 18:34 | 17986-nb | Git | `tm-eval-probe` | `fix/SWPPCOR-3374_liveness-probe-sandbox` | fix: SWPPCOR-3374 - aumentar failureThreshold do liveness em sandbox |
+| 2026-11-05 19:31 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3375_proxy-insights-requester-token` | fix: SWPPCOR-3375 - proxy de insights envia x-requester-token ao tm-evaluation |
