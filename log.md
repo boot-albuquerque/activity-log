@@ -198978,3 +198978,4 @@
 | 2026-11-05 11:27 | 17986-nb | Git | `legacy-eval-feedback` | `fix/SWPPCOR-3356_salvar-antes-de-finalizar` | fix: SWPPCOR-3356 - mock de estilos do jest versionado (*.js e ignorado no repo) |
 | 2026-11-05 11:27 | 17986-nb | Git | `edge-mf-cookie` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-sandbox` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 dos mf- |
 | 2026-11-05 11:31 | 17986-nb | Git | `edge-mf-cookie` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-sandbox` | fix: SWPPCOR-3326 - limita o MR ao mf-tm-profile (validacao: uma property por MR |
+| 2026-11-05 11:31 | 17986-nb | Git | `edge-mf-cookie-eval` | `feature/SWPPCOR-3326_strip-cookie-s3-mf-evaluation-sandbox` | fix: SWPPCOR-3326 - remover o Cookie da requisicao de saida ao origin S3 do mf-t |
