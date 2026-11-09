@@ -198997,3 +198997,4 @@
 | 2026-11-06 10:11 | 17986-nb | Git | `tm-eval-sectionlog` | `fix/SWPPCOR-3379_log-secao-insight-sem-bullets` | fix: SWPPCOR-3379 - logar secao de insight sem bullets para diagnostico |
 | 2026-11-09 05:50 | 17986-nb | Git | `tm-eval-master` | `feat/SWPPCOR-3382_log-status-insight` | feat: SWPPCOR-3382 - registrar em log o status devolvido por generationStatus |
 | 2026-11-09 06:13 | 17986-nb | Git | `tm-eval-master` | `feat/SWPPCOR-3383_toggle-trava-feedback-igual` | feat: SWPPCOR-3383 - toggle para desligar a trava de feedback igual na geracao d |
+| 2026-11-09 06:55 | 17986-nb | Git | `legacy-eval-debug` | `feat/SWPPCOR-3384_debug-loading-insight` | chore: SWPPCOR-3384 - logs de debug temporarios no painel de insight |
