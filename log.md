@@ -198995,3 +198995,4 @@
 | 2026-11-05 20:14 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3375_proxy-insights-requester-token` | fix: SWPPCOR-3375 - proxy de result le o corpo como texto e faz o parse do JSON |
 | 2026-11-05 23:22 | 17986-nb | Git | `legacy-eval-discard` | `fix/SWPPCOR-3376_cancelar-alteracoes-limpa-rascunho` | fix: SWPPCOR-3376 - Cancelar Alteracoes limpa o rascunho local do formulario |
 | 2026-11-06 10:11 | 17986-nb | Git | `tm-eval-sectionlog` | `fix/SWPPCOR-3379_log-secao-insight-sem-bullets` | fix: SWPPCOR-3379 - logar secao de insight sem bullets para diagnostico |
+| 2026-11-09 05:50 | 17986-nb | Git | `tm-eval-master` | `feat/SWPPCOR-3382_log-status-insight` | feat: SWPPCOR-3382 - registrar em log o status devolvido por generationStatus |
