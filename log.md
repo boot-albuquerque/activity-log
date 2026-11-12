@@ -199001,3 +199001,4 @@
 | 2026-11-09 09:38 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3385_status-proxy-cabecalhos` | fix: SWPPCOR-3385 - status do proxy de insight repassa so o Content-Type |
 | 2026-11-12 10:41 | 17986-nb | Git | `employee-3387` | `fix/SWPPCOR-3387_arvore-igual-pdi` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
 | 2026-11-12 10:41 | 17986-nb | Git | `profile-3387` | `fix/SWPPCOR-3387_arvore-igual-pdi` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
+| 2026-11-12 10:42 | 17986-nb | Git | `employee-3387` | `detached` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
