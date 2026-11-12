@@ -198999,3 +198999,4 @@
 | 2026-11-09 06:13 | 17986-nb | Git | `tm-eval-master` | `feat/SWPPCOR-3383_toggle-trava-feedback-igual` | feat: SWPPCOR-3383 - toggle para desligar a trava de feedback igual na geracao d |
 | 2026-11-09 06:55 | 17986-nb | Git | `legacy-eval-debug` | `feat/SWPPCOR-3384_debug-loading-insight` | chore: SWPPCOR-3384 - logs de debug temporarios no painel de insight |
 | 2026-11-09 09:38 | 17986-nb | Git | `tm-backend-proxy` | `hotfix/SWPPCOR-3385_status-proxy-cabecalhos` | fix: SWPPCOR-3385 - status do proxy de insight repassa so o Content-Type |
+| 2026-11-12 10:41 | 17986-nb | Git | `employee-3387` | `fix/SWPPCOR-3387_arvore-igual-pdi` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
