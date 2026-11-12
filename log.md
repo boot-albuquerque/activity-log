@@ -199117,3 +199117,4 @@
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - papeis concedem permissoes e fecham a EXC-0005 |
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - cadastro dos servicos consumidores e das suas concessoes em |
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3233 - apps se identificam por X-API-KEY, no padrao do TM |
+| 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
