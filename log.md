@@ -199017,3 +199017,4 @@
 | 2026-11-13 08:18 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'feat/SWPPCOR-3423_dropdowns-autocomplete' into integration/SWPPCOR |
 | 2026-11-13 09:28 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | fix: SWPPCOR-3423 - autocomplete filtra pelo texto digitado mesmo igual a uma op |
 | 2026-11-13 15:26 | 17986-nb | Git | `profile-3428` | `feat/SWPPCOR-3428_estrutura-disciplina` | feat: SWPPCOR-3428 - subdisciplina aceita lista e aparece separada por virgula |
+| 2026-11-13 15:34 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | test: SWPPCOR-3423 - cobre o campo de formulario sem valor inicial |
