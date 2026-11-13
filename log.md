@@ -199122,3 +199122,4 @@
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3419 - permite a pessoa preencher o proprio LinkedIn |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | docs: SWPPCOR-3419 - decisao do LinkedIn passa a E36 (E35 e da arvore, SWPPCOR-3 |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3420 - autoavaliação de habilidade aceita a escala de 4 notas do |
+| 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3399 - texto livre e interesse em liderança junto das áreas de i |
