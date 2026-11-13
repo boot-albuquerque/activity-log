@@ -199008,3 +199008,4 @@
 | 2026-11-12 11:26 | 17986-nb | Git | `employee-3387` | `detached` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
 | 2026-11-13 02:06 | 17986-nb | Git | `profile-3419` | `fix/SWPPCOR-3419_linkedin` | fix: SWPPCOR-3419 - esconde o botao do LinkedIn quando nao ha endereco valido |
 | 2026-11-13 02:07 | 17986-nb | Git | `profile-3428` | `feat/SWPPCOR-3428_estrutura-disciplina` | feat: SWPPCOR-3428 - card Estrutura mostra Disciplina e Subdisciplina |
+| 2026-11-13 02:07 | 17986-nb | Git | `employee-3422` | `fix/SWPPCOR-3422_formacao-limpar-data-final` | fix: SWPPCOR-3422 - cobre reabrir formação acadêmica limpando a data final |
