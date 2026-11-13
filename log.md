@@ -199019,3 +199019,4 @@
 | 2026-11-13 15:26 | 17986-nb | Git | `profile-3428` | `feat/SWPPCOR-3428_estrutura-disciplina` | feat: SWPPCOR-3428 - subdisciplina aceita lista e aparece separada por virgula |
 | 2026-11-13 15:34 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | test: SWPPCOR-3423 - cobre o campo de formulario sem valor inicial |
 | 2026-11-13 16:12 | 17986-nb | Git | `profile-3419` | `fix/SWPPCOR-3419_linkedin` | feat: SWPPCOR-3419 - preencher o proprio LinkedIn pelo icone do cabecalho |
+| 2026-11-13 16:36 | 17986-nb | Git | `employee-3419` | `fix/SWPPCOR-3419_linkedin` | feat: SWPPCOR-3419 - permite a pessoa preencher o proprio LinkedIn |
