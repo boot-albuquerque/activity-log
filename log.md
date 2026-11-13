@@ -199120,3 +199120,4 @@
 | 2026-11-25 09:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3422 - cobre reabrir formação acadêmica limpando a data final |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3419 - permite a pessoa preencher o proprio LinkedIn |
+| 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | docs: SWPPCOR-3419 - decisao do LinkedIn passa a E36 (E35 e da arvore, SWPPCOR-3 |
