@@ -199026,3 +199026,4 @@
 | 2026-11-13 16:38 | 17986-nb | Git | `employee-3419` | `fix/SWPPCOR-3419_linkedin` | docs: SWPPCOR-3419 - decisao do LinkedIn passa a E36 (E35 e da arvore, SWPPCOR-3 |
 | 2026-11-13 16:38 | 17986-nb | Git | `integ-employee` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'fix/SWPPCOR-3419_linkedin' into integration/SWPPCOR-3386_ajustes |
 | 2026-11-13 19:21 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | fix: SWPPCOR-3423 - habilidade da entrega oferece so as habilidades proprias da  |
+| 2026-11-13 19:24 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | fix: SWPPCOR-3423 - lista do autocomplete acompanha o campo desde a primeira abe |
