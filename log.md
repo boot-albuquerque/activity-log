@@ -199014,3 +199014,4 @@
 | 2026-11-13 02:10 | 17986-nb | Git | `profile-3422` | `fix/SWPPCOR-3422_formacao-limpar-data-final` | fix: SWPPCOR-3422 - envia completion_date null ao limpar a data final da formaç |
 | 2026-11-13 02:11 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'fix/SWPPCOR-3424_visao-geral-reflete-abas' into integration/SWPPCO |
 | 2026-11-13 08:17 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | feat: SWPPCOR-3423 - dropdowns usam o campo de busca do prework (autocomplete) |
+| 2026-11-13 08:18 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'feat/SWPPCOR-3423_dropdowns-autocomplete' into integration/SWPPCOR |
