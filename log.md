@@ -199011,3 +199011,4 @@
 | 2026-11-13 02:07 | 17986-nb | Git | `employee-3422` | `fix/SWPPCOR-3422_formacao-limpar-data-final` | fix: SWPPCOR-3422 - cobre reabrir formação acadêmica limpando a data final |
 | 2026-11-13 02:09 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | feat: SWPPCOR-3423 - dropdowns do Talent Profile com busca (autocomplete) |
 | 2026-11-13 02:09 | 17986-nb | Git | `profile-3424` | `fix/SWPPCOR-3424_visao-geral-reflete-abas` | fix: SWPPCOR-3424 - visao geral reflete habilidades e interesses das abas |
+| 2026-11-13 02:10 | 17986-nb | Git | `profile-3422` | `fix/SWPPCOR-3422_formacao-limpar-data-final` | fix: SWPPCOR-3422 - envia completion_date null ao limpar a data final da formaç |
