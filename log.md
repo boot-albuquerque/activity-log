@@ -199022,3 +199022,4 @@
 | 2026-11-13 16:36 | 17986-nb | Git | `employee-3419` | `fix/SWPPCOR-3419_linkedin` | feat: SWPPCOR-3419 - permite a pessoa preencher o proprio LinkedIn |
 | 2026-11-13 16:37 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'feat/SWPPCOR-3428_estrutura-disciplina' into integration/SWPPCOR-3 |
 | 2026-11-13 16:37 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'fix/SWPPCOR-3419_linkedin' into integration/SWPPCOR-3386_ajustes |
+| 2026-11-13 16:37 | 17986-nb | Git | `integ-employee` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'fix/SWPPCOR-3419_linkedin' into integration/SWPPCOR-3386_ajustes |
