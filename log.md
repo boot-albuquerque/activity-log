@@ -199043,3 +199043,4 @@
 | 2026-11-17 01:32 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | Merge MR !102 (people-wl-employee) into work/talent-profile-local |
 | 2026-11-17 01:41 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | test: SWPPCOR-3233 - ADMIN passa a ter origin_sync:CREATE e profile:UPDATE no te |
 | 2026-11-17 02:41 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3387 - gestor placeholder nao e desenhado na arvore nem quebra a fi |
+| 2026-11-17 02:41 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - usuario comum sobe sem ter descido quando o gestor e clicav |
