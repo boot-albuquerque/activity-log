@@ -199136,3 +199136,4 @@
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3386 - faixa de datas em education-entries (A5) |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - idioma unico por identidade: codigo, nome sem acento e nome  |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3386 - PUT de idioma troca so o nivel (A11) |
+| 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - corpos das escritas da ficha estritos: membro desconhecido,  |
