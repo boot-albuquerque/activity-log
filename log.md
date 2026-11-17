@@ -199050,3 +199050,4 @@
 | 2026-11-17 03:34 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - BP sobe sem ter descido quando o gestor e clicavel |
 | 2026-11-17 03:41 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - estado da arvore por usuario e aviso na lista quando a busc |
 | 2026-11-17 03:46 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3387 - o erro de busca some quando o usuario volta a digitar |
+| 2026-11-17 04:01 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3419 - corrigir o LinkedIn salvo, nao cortar endereco longo e texto |
