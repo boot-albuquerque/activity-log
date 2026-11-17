@@ -199083,3 +199083,4 @@
 | 2026-11-17 11:58 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | feat: SWPPCOR-3386 - PUT de idioma troca so o nivel (A11) |
 | 2026-11-17 12:03 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - corpos das escritas da ficha estritos: membro desconhecido,  |
 | 2026-11-17 12:06 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - interest-details vazio apaga a linha e o primeiro salvamento |
+| 2026-11-17 12:11 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - duplicatas ignoram acento em interesses, entregas e formacao |
