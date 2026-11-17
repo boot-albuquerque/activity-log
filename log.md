@@ -199046,3 +199046,4 @@
 | 2026-11-17 02:41 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - usuario comum sobe sem ter descido quando o gestor e clicav |
 | 2026-11-17 03:19 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3387 - foco em branco ou invalido da arvore responde 400 |
 | 2026-11-17 03:19 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3387 - gestor placeholder null ausente e contagem real de liderados |
+| 2026-11-17 03:19 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | docs: SWPPCOR-3387 - E42 gestor placeholder, contagem real e foco invalido |
