@@ -199034,3 +199034,4 @@
 | 2026-11-16 23:42 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'feat/SWPPCOR-3418_exportar-perfil-pdf' into integration/SWPPCOR-33 |
 | 2026-11-17 00:56 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | Merge MR !37 (people-tm-profile) into work/talent-profile-local |
 | 2026-11-17 00:58 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | Merge MR !38 (people-tm-profile) into work/talent-profile-local |
+| 2026-11-17 01:02 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | Merge MR !40 (people-tm-profile) into work/talent-profile-local |
