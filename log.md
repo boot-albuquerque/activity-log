@@ -199071,3 +199071,4 @@
 | 2026-11-17 11:23 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - instituicao e curso digitados valem como Outro, edicao casa  |
 | 2026-11-17 11:25 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - linha Nenhum resultado nos seletores com busca (habilidade, |
 | 2026-11-17 11:26 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - contador de caracteres da observacao ja parte do texto preen |
+| 2026-11-17 11:27 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - area de interesse repetida avisa que ja esta na lista |
