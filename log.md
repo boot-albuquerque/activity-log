@@ -199032,3 +199032,4 @@
 | 2026-11-13 19:30 | 17986-nb | Git | `profile-3423` | `feat/SWPPCOR-3423_dropdowns-autocomplete` | fix: SWPPCOR-3423 - nota da habilidade vira escolha fixa de 1, 2 e 3 |
 | 2026-11-14 19:15 | 17986-nb | Git | `profile-3418` | `feat/SWPPCOR-3418_exportar-perfil-pdf` | feat: SWPPCOR-3418 - Exportar gera o PDF do perfil no navegador |
 | 2026-11-16 23:42 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | Merge branch 'feat/SWPPCOR-3418_exportar-perfil-pdf' into integration/SWPPCOR-33 |
+| 2026-11-17 00:56 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | Merge MR !37 (people-tm-profile) into work/talent-profile-local |
