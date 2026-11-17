@@ -199069,3 +199069,4 @@
 | 2026-11-17 11:18 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | feat: SWPPCOR-3386 - 422 de regra de negocio traz errors com field e rule (A10) |
 | 2026-11-17 11:20 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - datas da formacao validas (1950 a 2100, sem futuro), mascara |
 | 2026-11-17 11:23 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - instituicao e curso digitados valem como Outro, edicao casa  |
+| 2026-11-17 11:25 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - linha Nenhum resultado nos seletores com busca (habilidade, |
