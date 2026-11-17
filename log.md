@@ -199052,3 +199052,4 @@
 | 2026-11-17 03:46 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3387 - o erro de busca some quando o usuario volta a digitar |
 | 2026-11-17 04:01 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3419 - corrigir o LinkedIn salvo, nao cortar endereco longo e texto |
 | 2026-11-17 04:11 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3418 - PDF do perfil em JPEG comprimido (de 16 MB para centenas de  |
+| 2026-11-17 04:25 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3418 - Exportar funciona na aba Habilidades (cores oklch) e deixa o |
