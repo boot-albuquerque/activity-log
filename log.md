@@ -199058,3 +199058,4 @@
 | 2026-11-17 10:47 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - data numerica no JSON responde 400 e nao dia da epoca |
 | 2026-11-17 10:50 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - texto digitado nao some ao falhar, sem dupla escapagem no i1 |
 | 2026-11-17 10:57 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - editar a entrega nao ressuscita habilidade apagada (E43) |
+| 2026-11-17 11:11 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - uma gravacao por vez nos drawers e dialogos (tres cliques em |
