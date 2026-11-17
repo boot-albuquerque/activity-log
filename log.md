@@ -199075,3 +199075,4 @@
 | 2026-11-17 11:28 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - excluir habilidade avisa quando entregas citam o nome |
 | 2026-11-17 11:30 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - aba selecionada na URL (?tab=), restaurada ao recarregar e  |
 | 2026-11-17 11:30 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | docs: SWPPCOR-3386 - changelog dos ajustes de tela das abas |
+| 2026-11-17 11:33 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - Salvo sem setState dentro do efeito |
