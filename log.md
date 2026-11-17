@@ -199129,3 +199129,4 @@
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3387 - gestor placeholder null ausente e contagem real de liderados |
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - NUL em texto livre responde 422 e nao 409 |
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - data numerica no JSON responde 400 e nao dia da epoca |
+| 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - editar a entrega nao ressuscita habilidade apagada (E43) |
