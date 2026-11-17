@@ -199064,3 +199064,4 @@
 | 2026-11-17 11:14 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - nomes de pessoas com conectores em minuscula (Ferrari de Sou |
 | 2026-11-17 11:15 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - Exportar oculta o menu das habilidades e o interruptor de li |
 | 2026-11-17 11:16 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - botao Limpar resposta devolve o interesse em lideranca a Na |
+| 2026-11-17 11:16 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - mostrar Salvo por 3 segundos depois de salvar o texto livre  |
