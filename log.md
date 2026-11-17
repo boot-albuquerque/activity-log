@@ -199134,3 +199134,4 @@
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - escrita na ficha responde 404 fora do alcance, autoriza ante |
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - replay de Idempotency-Key so vale com o recurso existente e  |
 | 2026-11-25 09:36 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3386 - faixa de datas em education-entries (A5) |
+| 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - idioma unico por identidade: codigo, nome sem acento e nome  |
