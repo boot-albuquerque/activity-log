@@ -199085,3 +199085,4 @@
 | 2026-11-17 12:06 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - interest-details vazio apaga a linha e o primeiro salvamento |
 | 2026-11-17 12:11 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - duplicatas ignoram acento em interesses, entregas e formacao |
 | 2026-11-17 12:15 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | feat: SWPPCOR-3386 - Location nos POST 201 de habilidades, idiomas, formacao, in |
+| 2026-11-17 12:17 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | docs: SWPPCOR-3386 - escala real 0..3 da habilidade em E33 e nos javadocs, e tes |
