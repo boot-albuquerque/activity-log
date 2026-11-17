@@ -199049,3 +199049,4 @@
 | 2026-11-17 03:19 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | docs: SWPPCOR-3387 - E42 gestor placeholder, contagem real e foco invalido |
 | 2026-11-17 03:34 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - BP sobe sem ter descido quando o gestor e clicavel |
 | 2026-11-17 03:41 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3387 - estado da arvore por usuario e aviso na lista quando a busc |
+| 2026-11-17 03:46 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3387 - o erro de busca some quando o usuario volta a digitar |
