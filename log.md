@@ -199139,3 +199139,4 @@
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - corpos das escritas da ficha estritos: membro desconhecido,  |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - interest-details vazio apaga a linha e o primeiro salvamento |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - duplicatas ignoram acento em interesses, entregas e formacao |
+| 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3386 - Location nos POST 201 de habilidades, idiomas, formacao, in |
