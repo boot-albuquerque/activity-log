@@ -199062,3 +199062,4 @@
 | 2026-11-17 11:13 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - editar o nivel e remover idioma na aba Habilidades |
 | 2026-11-17 11:13 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | style: SWPPCOR-3386 - formatar language-drawer |
 | 2026-11-17 11:14 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - nomes de pessoas com conectores em minuscula (Ferrari de Sou |
+| 2026-11-17 11:15 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - Exportar oculta o menu das habilidades e o interruptor de li |
