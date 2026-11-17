@@ -199066,3 +199066,4 @@
 | 2026-11-17 11:16 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - botao Limpar resposta devolve o interesse em lideranca a Na |
 | 2026-11-17 11:16 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - mostrar Salvo por 3 segundos depois de salvar o texto livre  |
 | 2026-11-17 11:17 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3386 - selo Vencida na certificacao com validade passada |
+| 2026-11-17 11:18 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | feat: SWPPCOR-3386 - 422 de regra de negocio traz errors com field e rule (A10) |
