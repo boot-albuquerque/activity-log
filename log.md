@@ -199056,3 +199056,4 @@
 | 2026-11-17 10:41 | 17986-nb | Git | `work-gateway` | `work/gateway-401` | fix: SWPPCOR-3386 - token de plataforma invalido responde 401 problem+json em ve |
 | 2026-11-17 10:43 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - NUL em texto livre responde 422 e nao 409 |
 | 2026-11-17 10:47 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - data numerica no JSON responde 400 e nao dia da epoca |
+| 2026-11-17 10:50 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - texto digitado nao some ao falhar, sem dupla escapagem no i1 |
