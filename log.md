@@ -199089,3 +199089,4 @@
 | 2026-11-17 12:27 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - javadoc duplicado do handler e ultima versao de migracao no  |
 | 2026-11-17 12:38 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - escopo do ator na idempotencia com HMAC e nao com SHA-256 si |
 | 2026-11-17 14:26 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | feat: SWPPCOR-3418 - Exportar gera PDF de texto real, completo e no estilo dos r |
+| 2026-11-18 12:54 | 17986-nb | Git | `aws-infrastructure-live` | `fix/SWPPCOR-3386_sandbox-s3-deploy-by-pipeline` | fix(SWPPCOR-3386): sandbox s3 tc-people-tm-profile bump 26.11.21 e deploy_by_pip |
