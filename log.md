@@ -199093,3 +199093,4 @@
 | 2026-11-18 15:45 | 17986-nb | Git | `aws-infrastructure-live` | `fix/SWPPCOR-3386_production-s3-deploy-by-pipeline` | fix(SWPPCOR-3386): production s3 tc-people-tm-profile bump 26.11.21 e deploy_by_ |
 | 2026-11-19 10:18 | 17986-nb | Git | `aws-infrastructure-live` | `fix/SWPPCOR-3386_sandbox-evaluation-s3-rollback-26-11-21` | fix(SWPPCOR-3386): sandbox s3 tc-people-tm-evaluation volta para 26.11.21 |
 | 2026-11-22 18:19 | 17986-nb | Git | `aws-infrastructure-live` | `fix/SWPPCOR-3386_sandbox-evaluation-s3-reverte-25-10-5` | fix(SWPPCOR-3386): sandbox s3 tc-people-tm-evaluation volta ao estado de antes d |
+| 2026-11-22 18:40 | 17986-nb | Git | `aws-infrastructure-live` | `feat/SWPPCOR-3386_sandbox-evaluation-s3-akamai-cam` | feat(SWPPCOR-3386): sandbox s3 tc-people-tm-evaluation libera o usuario CAM do A |
