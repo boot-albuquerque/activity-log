@@ -199096,3 +199096,4 @@
 | 2026-11-22 18:40 | 17986-nb | Git | `aws-infrastructure-live` | `feat/SWPPCOR-3386_sandbox-evaluation-s3-akamai-cam` | feat(SWPPCOR-3386): sandbox s3 tc-people-tm-evaluation libera o usuario CAM do A |
 | 2026-11-22 20:45 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (importação do Analytics e 3396) |
 | 2026-11-22 21:05 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (importação do Analytics, 3396 e 3397) |
+| 2026-11-22 22:07 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - cards sem sombra nem elevacao no hover (Visao Geral e arvore |
