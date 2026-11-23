@@ -199098,3 +199098,4 @@
 | 2026-11-22 21:05 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (importação do Analytics, 3396 e 3397) |
 | 2026-11-22 22:07 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - cards sem sombra nem elevacao no hover (Visao Geral e arvore |
 | 2026-11-22 23:21 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - erro de idioma duplicado some ao mudar idioma ou nivel |
+| 2026-11-22 23:27 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - instituicao digitada antes da lista carregar vira Outro ao s |
