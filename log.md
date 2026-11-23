@@ -199103,3 +199103,4 @@
 | 2026-11-22 23:29 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | test: SWPPCOR-3386 - seletor da importacao mostra o rotulo; o codigo so existe n |
 | 2026-11-22 23:32 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - actor_ref da auditoria identifica o usuário sem AUDIT_ACTOR |
 | 2026-11-22 23:33 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - idiomas e habilidades em ordem alfabetica na tela, sem mexer |
+| 2026-11-22 23:33 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | docs: SWPPCOR-3386 - changelog das correcoes de QA |
