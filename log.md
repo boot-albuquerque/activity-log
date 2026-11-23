@@ -199099,3 +199099,4 @@
 | 2026-11-22 22:07 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - cards sem sombra nem elevacao no hover (Visao Geral e arvore |
 | 2026-11-22 23:21 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - erro de idioma duplicado some ao mudar idioma ou nivel |
 | 2026-11-22 23:27 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - instituicao digitada antes da lista carregar vira Outro ao s |
+| 2026-11-22 23:28 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - textos de habilidades e idiomas falam da pessoa quando admin |
