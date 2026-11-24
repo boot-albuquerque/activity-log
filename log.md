@@ -199144,3 +199144,4 @@
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - javadoc duplicado do handler e ultima versao de migracao no  |
 | 2026-11-25 09:38 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - escopo do ator na idempotencia com HMAC e nao com SHA-256 si |
 | 2026-11-25 09:38 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - actor_ref da auditoria identifica o usuário sem AUDIT_ACTOR |
+| 2026-11-25 09:38 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - perfil devolve disciplina e subdisciplina do Analytics (3428 |
