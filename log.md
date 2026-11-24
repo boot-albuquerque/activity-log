@@ -199109,3 +199109,4 @@
 | 2026-11-24 14:46 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | fix: SWPPCOR-3386 - perfil devolve disciplina e subdisciplina do Analytics (3428 |
 | 2026-11-24 14:46 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - nome sempre do e-mail (3391), sem Ver perfil fora do alcance |
 | 2026-11-24 15:23 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - tipos do requestPortalRefresh no portal-bridge (typecheck do |
+| 2026-11-24 16:34 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (perfil publico e privado, 3393) |
