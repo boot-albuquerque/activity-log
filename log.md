@@ -199105,3 +199105,4 @@
 | 2026-11-22 23:33 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - idiomas e habilidades em ordem alfabetica na tela, sem mexer |
 | 2026-11-22 23:33 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | docs: SWPPCOR-3386 - changelog das correcoes de QA |
 | 2026-11-24 10:10 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | fix: SWPPCOR-3386 - espacamentos da ficha seguem o prototipo |
+| 2026-11-24 10:44 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | chore: SWPPCOR-3386 - merge da sbx na branch, card Habilidades da Visao Geral so |
