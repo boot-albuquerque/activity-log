@@ -199112,3 +199112,4 @@
 | 2026-11-24 16:34 | 17986-nb | Git | `work-profile` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (perfil publico e privado, 3393) |
 | 2026-11-24 16:49 | 17986-nb | Git | `work-employee` | `work/talent-profile-local` | merge: SWPPCOR-3386 - integra a sbx (perfil publico e privado, 3393) |
 | 2026-11-25 09:32 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3387 - arvore do Talent Profile igual a do PDI, sem pares |
+| 2026-11-25 09:32 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3422 - cobre reabrir formação acadêmica limpando a data final |
