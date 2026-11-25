@@ -199142,3 +199142,4 @@
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3386 - Location nos POST 201 de habilidades, idiomas, formacao, in |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | docs: SWPPCOR-3386 - escala real 0..3 da habilidade em E33 e nos javadocs, e tes |
 | 2026-11-25 09:37 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - javadoc duplicado do handler e ultima versao de migracao no  |
+| 2026-11-25 09:38 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - escopo do ator na idempotencia com HMAC e nao com SHA-256 si |
