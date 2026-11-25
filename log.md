@@ -199124,3 +199124,4 @@
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3420 - autoavaliação de habilidade aceita a escala de 4 notas do |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3399 - texto livre e interesse em liderança junto das áreas de i |
 | 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | feat: SWPPCOR-3430 - habilidades de uma entrega alimentam as habilidades da pess |
+| 2026-11-25 09:35 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | test: SWPPCOR-3233 - ADMIN passa a ter origin_sync:CREATE e profile:UPDATE no te |
