@@ -199148,3 +199148,4 @@
 | 2026-11-25 09:38 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | fix: SWPPCOR-3386 - integra com a sbx: migrations V0.0.27/28, decisoes E37-E56 e |
 | 2026-11-25 10:11 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | merge: SWPPCOR-3386 - integra a sbx (disciplina e subdisciplina do Analytics, 34 |
 | 2026-11-26 12:50 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | feat: SWPPCOR-3386 - quatro estrelas, proficiência em dropdown, tag da nota da  |
+| 2026-11-26 14:01 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | test: SWPPCOR-3386 - interruptor de visibilidade do perfil coberto na pagina (ga |
