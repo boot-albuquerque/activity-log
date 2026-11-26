@@ -199149,3 +199149,4 @@
 | 2026-11-25 10:11 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_talent-profile-ajustes-sbx` | merge: SWPPCOR-3386 - integra a sbx (disciplina e subdisciplina do Analytics, 34 |
 | 2026-11-26 12:50 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | feat: SWPPCOR-3386 - quatro estrelas, proficiência em dropdown, tag da nota da  |
 | 2026-11-26 14:01 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | test: SWPPCOR-3386 - interruptor de visibilidade do perfil coberto na pagina (ga |
+| 2026-11-26 15:23 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | fix: SWPPCOR-3386 - fundo cinza do selo de perfil e da tag de nota usa o token q |
