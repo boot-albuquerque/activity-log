@@ -199153,3 +199153,4 @@
 | 2026-11-27 09:55 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | merge: SWPPCOR-3386 - sbx na branch de ajustes (selo, abas e changelog) |
 | 2026-11-27 11:50 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-lucas` | merge: SWPPCOR-3386 - sbx (descrição do curso e teste do interruptor) |
 | 2026-11-27 14:44 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_sem-interesses-visao-geral` | feat: SWPPCOR-3386 - tira Áreas de Interesse Futuro do card Carreira da Visão  |
+| 2026-11-27 15:00 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | feat: SWPPCOR-3386 - no máximo 3 áreas de interesse por pessoa |
