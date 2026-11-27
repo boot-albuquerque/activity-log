@@ -199158,3 +199158,4 @@
 | 2026-11-27 16:21 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | merge: SWPPCOR-3386 - sbx (mês e ano da Visão Geral vêm do SWPPCOR-3686) |
 | 2026-11-27 16:50 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | fix: SWPPCOR-3386 - recorte circular da foto no PDF e botão Adicionar sem quebr |
 | 2026-11-27 20:29 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | merge: SWPPCOR-3386 - sbx na branch de ajustes da reunião |
+| 2026-11-27 20:34 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | merge: SWPPCOR-3386 - sbx na branch de ajustes da reunião |
