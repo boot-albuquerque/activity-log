@@ -199155,3 +199155,4 @@
 | 2026-11-27 14:44 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_sem-interesses-visao-geral` | feat: SWPPCOR-3386 - tira Áreas de Interesse Futuro do card Carreira da Visão  |
 | 2026-11-27 15:00 | 17986-nb | Git | `work-employee` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | feat: SWPPCOR-3386 - no máximo 3 áreas de interesse por pessoa |
 | 2026-11-27 15:09 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | feat: SWPPCOR-3386 - ajustes da reunião de 24/11 (áreas, idiomas, timeline, fo |
+| 2026-11-27 16:21 | 17986-nb | Git | `work-profile` | `feat/SWPPCOR-3386_ajustes-reuniao-2411` | merge: SWPPCOR-3386 - sbx (mês e ano da Visão Geral vêm do SWPPCOR-3686) |
