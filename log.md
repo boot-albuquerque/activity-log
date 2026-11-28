@@ -199162,3 +199162,4 @@
 | 2026-11-27 22:37 | 17986-nb | Git | `work-profile` | `feature/SWPPCOR-3684_mudar_para_acessar_perfil` | merge: SWPPCOR-3684 - sbx na branch do link Acessar perfil |
 | 2026-11-27 22:41 | 17986-nb | Git | `work-profile` | `feature/SWPPCOR-3684_mudar_para_acessar_perfil` | test: SWPPCOR-3684 - rótulo Acessar perfil no teste da árvore vinda da sbx |
 | 2026-11-27 23:02 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | merge: integração local do !63 (sbx vence nos arquivos duplicados do !64) |
+| 2026-11-27 23:03 | 17986-nb | Git | `integ-profile` | `integration/SWPPCOR-3386_ajustes` | merge: integração local do !66 |
